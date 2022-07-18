@@ -1,0 +1,24 @@
+name: Generate README
+on:
+  push:
+    branches:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10.5'
+    - name: Generate the README file
+      run: |
+        echo using $(python3 --version)
+        chmod a+x .github/generate.py
+        python3 .github/generate.py
+    - name: Commit and push changes
+      uses: actions-js/push@v1.3
+      with:
+        author_name: 'OnionBot'
+        message: 'Generate README\n(${date})'
+        github_token: ${{ secrets.GITHUB_TOKEN }}

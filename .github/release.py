@@ -1,0 +1,81 @@
+#!/usr/bin/python3
+
+import os
+import sys
+import zipfile
+
+from defs import (
+    THEME_DIR,
+    RELEASE_DIR,
+    FEATURED_ORDERING,
+    REMIXED_ORDERING,
+    CUSTOM_ORDERING)
+
+from utils import get_subdirs, get_ordering, set_ordering, validate_theme
+from generate import main as generate_readme
+
+
+def main():
+    yes_to_all = len(sys.argv) >= 2 and sys.argv[1] == "-y"
+    no_to_all = len(sys.argv) >= 2 and sys.argv[1] == "-n"
+
+    if not os.path.exists(THEME_DIR):
+        print("No themes to build")
+        return
+
+    themes = get_subdirs(THEME_DIR)
+
+    if not os.path.exists(RELEASE_DIR):
+        os.makedirs(RELEASE_DIR)
+
+    featured = get_ordering(FEATURED_ORDERING)
+    remixed = get_ordering(REMIXED_ORDERING)
+    custom = get_ordering(CUSTOM_ORDERING)
+    all_existing = featured + remixed + custom
+
+    was_built = [build_release(theme, custom, all_existing) for theme in themes]
+
+    set_ordering(CUSTOM_ORDERING, custom)
+
+    if any(was_built):
+        if no_to_all:
+            return
+        if yes_to_all or input("Generate README? [Y/n] ").lower() in ["y", ""]:
+            generate_readme()
+    else:
+        print("Nothing to do.")
+
+
+def build_release(name: str, custom: list[str], all_existing: list[str]):
+    src_path = os.path.join(THEME_DIR, name)
+    zip_path = os.path.join(RELEASE_DIR, f"{name}.zip")
+
+    if os.path.exists(zip_path):
+        return False
+
+    print(f"Building release: '{name}'")
+
+    is_valid, has_subdirs = validate_theme(src_path)
+
+    if not is_valid:
+        print(f"Skipped: '{name}'")
+        return False
+
+    if name not in all_existing:
+        custom.append(name)
+
+    rel_index = len(src_path if has_subdirs else os.path.dirname(src_path)) + 1
+
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for root, _, files in os.walk(src_path):
+            for file in files:
+                file_path = os.path.join(root, file)
+                if file[0] == "." or file == "Thumbs.db":
+                    continue
+                zf.write(file_path, file_path[rel_index:])
+
+    return True
+
+
+if __name__ == "__main__":
+    main()

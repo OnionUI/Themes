@@ -1,0 +1,45 @@
+{
+    "name":"Onion Mini",
+    "author":"Jeltron",
+	"hideIconTitle":true,
+    "title":{
+        "font":"pixelmix.otf",
+        "size":36,
+        "color":"#FFFFFF"
+    },
+    "path":{
+        "font":"pixelmix.otf",
+        "size":24,
+        "color":"#FFFFFF"
+    },
+    "hint":{
+        "font":"pixelmix.otf",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "currentpage":{
+        "font":"AtariSystem.otf",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "total":{
+        "font":"AtariSystem.otf",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "grid":{
+        "font":"pixelmix.otf",
+        "fontascii":"AtariSystem.otf",
+        "grid1x4":25,
+        "grid3x4":18,
+        "color":"#686868",
+        "selectedcolor":"#FFFFFF"
+    },
+    "list":{
+        "font":"pixelmix.otf",
+        "fontascii":"AtariSystem.otf",
+        "size":25,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFFFFF"
+    }
+}

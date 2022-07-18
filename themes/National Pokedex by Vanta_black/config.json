@@ -1,0 +1,44 @@
+{
+    "name":"National Pokedex",
+    "author":"Vanta_black",
+    "title":{
+        "font":"pokemon.ttf",
+        "size":35,
+        "color":"#fffefc"
+    },
+    "path":{
+        "font":"Helvetica.ttf",
+        "size":40,
+        "color":"##fffefc"
+    },
+    "hint":{
+        "font":"Helvetica.ttf",
+        "size":5,
+        "color":"#6b6b6b"
+    },
+    "currentpage":{
+        "font":"Helvetica.ttf",
+        "size":0.5,
+        "color":"#8c8c8c"
+    },
+    "total":{
+        "font":"Helvetica.ttf",
+        "size":0.5,
+        "color":"#8c8c8c"
+    },
+    "grid":{
+        "font":"AtariSystem.otf",
+        "fontascii":"AtariSystem.otf",
+        "grid1x4":22.5,
+        "grid3x4":30,
+        "color":"#fff2dc",
+        "selectedcolor":"#fff2dc"        
+    },
+    "list":{
+        "font":"Helvetica.ttf",
+        "fontascii":"Helvetica.ttf",
+        "size":20,
+        "color":"#fffefc",
+        "selectedcolor":"#fffefc"       
+    }    
+}   

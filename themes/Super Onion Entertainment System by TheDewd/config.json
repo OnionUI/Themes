@@ -1,0 +1,45 @@
+{
+    "name":"Super Onion Entertainment System",
+    "author":"TheDewd",
+	"hideIconTitle":true,
+    "title":{
+        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size":34,
+        "color":"#FFFFFF"
+    },
+    "path":{
+        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size":24,
+        "color":"#FFFFFF"
+    },
+    "hint":{
+        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "currentpage":{
+        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "total":{
+        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size":40,
+        "color":"#FFFFFF"
+    },
+    "grid":{
+        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "grid1x4":25,
+        "grid3x4":18,
+        "color":"#686868",
+        "selectedcolor":"#FFFFFF"
+    },
+    "list":{
+        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size":25,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFFFFF"
+    }
+}
