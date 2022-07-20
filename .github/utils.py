@@ -1,7 +1,5 @@
 import os
 
-REQUIRED_FILES = ["config.json", "preview.png"]
-
 
 def get_subdirs(dir_path: str):
     subdirs = [
@@ -37,24 +35,6 @@ def set_ordering(file_path: str, ordering: list[str]):
     with open(file_path, "w+", encoding="utf-8") as file:
         for line in ordering:
             file.write(line + "\n")
-
-
-def validate_theme(src_path: str) -> tuple[bool, bool]:
-    is_valid = True
-    has_subdirs = False
-
-    if not dir_has_files(src_path, REQUIRED_FILES):
-        is_valid=False
-
-    # Check subdirs
-    if not is_valid:
-        is_valid = all(
-            dir_has_files(os.path.join(src_path, subdir), REQUIRED_FILES)
-            for subdir in get_subdirs(src_path))
-        if is_valid:
-            has_subdirs = True
-
-    return (is_valid, has_subdirs)
 
 
 def dir_has_files(dir_path: str, files: list[str]):

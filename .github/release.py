@@ -11,13 +11,14 @@ from defs import (
     REMIXED_ORDERING,
     CUSTOM_ORDERING)
 
-from utils import get_subdirs, get_ordering, set_ordering, validate_theme
+from utils import get_subdirs, get_ordering, set_ordering
+from validation import validate_theme
 from generate import main as generate_readme
 
 
 def main():
-    yes_to_all = len(sys.argv) >= 2 and sys.argv[1] == "-y"
-    no_to_all = len(sys.argv) >= 2 and sys.argv[1] == "-n"
+    yes_to_all = "-y" in sys.argv
+    no_to_all = "-n" in sys.argv
 
     if not os.path.exists(THEME_DIR):
         print("No themes to build")
@@ -46,31 +47,32 @@ def main():
         print("Nothing to do.")
 
 
-def build_release(name: str, custom: list[str], all_existing: list[str]):
-    src_path = os.path.join(THEME_DIR, name)
-    zip_path = os.path.join(RELEASE_DIR, f"{name}.zip")
+def build_release(theme: str, custom: list[str], all_existing: list[str]):
+    src_path = os.path.join(THEME_DIR, theme)
+    zip_path = os.path.join(RELEASE_DIR, f"{theme}.zip")
 
     if os.path.exists(zip_path):
         return False
 
-    print(f"Building release: '{name}'")
+    print(f"Building release: '{theme}'")
 
-    is_valid, has_subdirs = validate_theme(src_path)
+    is_valid, has_subdirs = validate_theme(src_path, theme)
 
     if not is_valid:
-        print(f"Skipped: '{name}'")
+        print(f"Skipped: '{theme}'")
         return False
 
-    if name not in all_existing:
-        custom.append(name)
+    if theme not in all_existing:
+        custom.append(theme)
 
     rel_index = len(src_path if has_subdirs else os.path.dirname(src_path)) + 1
 
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, _, files in os.walk(src_path):
             for file in files:
+                _, ext = os.path.splitext(file)
                 file_path = os.path.join(root, file)
-                if file[0] == "." or file == "Thumbs.db":
+                if file.startswith("._") or file == "Thumbs.db" or ext.lower() == ".html":
                     continue
                 zf.write(file_path, file_path[rel_index:])
 

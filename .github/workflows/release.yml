@@ -14,7 +14,6 @@ jobs:
     - name: Build release files
       run: |
         echo using $(python3 --version)
-        chmod a+x .github/release.py
         python3 .github/release.py -n
     - name: Commit and push changes
       uses: actions-js/push@v1.3

@@ -14,7 +14,6 @@ jobs:
     - name: Generate the README file
       run: |
         echo using $(python3 --version)
-        chmod a+x .github/generate.py
         python3 .github/generate.py
     - name: Commit and push changes
       uses: actions-js/push@v1.3

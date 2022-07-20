@@ -14,7 +14,8 @@ from defs import (
     REMIXED_ORDERING,
     CUSTOM_ORDERING)
 
-from utils import get_files, get_ordering, get_subdirs, validate_theme
+from utils import get_files, get_ordering, get_subdirs
+from validation import validate_theme
 
 README_PATH = from_src("../README.md")
 README_TEMPLATE = from_src("template/README.template.md")
@@ -81,7 +82,7 @@ def generate_table_grid(themes) -> str:
 
 def generate_item(theme: str) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
-    is_valid, has_subdirs = validate_theme(dir_path)
+    is_valid, has_subdirs = validate_theme(dir_path, theme)
 
     if not is_valid:
         print(f"  invalid theme: {theme}")
