@@ -428,6 +428,13 @@ This section showcases theme remixes made by the community and approved by the o
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip?raw=true">
+<img title="Recolor by andresandiah" width="480px" src="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true" /><br/>
+<b>GBOnion Dark</b></a><br/>
+<sup><i>Kitsuvi + andresandiah</i></sup>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc.zip?raw=true">
 <img title="Recolor by Moontorc" width="480px" src="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true" /><br/>
 <b>Red Onion</b></a><br/>
@@ -440,6 +447,7 @@ This section showcases theme remixes made by the community and approved by the o
 <b>Onionboy HD Gray</b></a><br/>
 <sup><i>Jeltron + TechDevangelist</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K.zip?raw=true">
@@ -447,7 +455,6 @@ This section showcases theme remixes made by the community and approved by the o
 <b>Onion Boy Pocket</b></a><br/>
 <sup><i>PixelShift + H9L</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20Dark%20by%20PixelShift.zip?raw=true">
