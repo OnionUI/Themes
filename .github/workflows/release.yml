@@ -20,5 +20,5 @@ jobs:
       uses: actions-js/push@v1.3
       with:
         author_name: 'OnionBot'
-        message: 'Create release\n(${date})'
+        message: 'Create release'
         github_token: ${{ secrets.GITHUB_TOKEN }}

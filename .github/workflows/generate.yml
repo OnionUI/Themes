@@ -20,5 +20,5 @@ jobs:
       uses: actions-js/push@v1.3
       with:
         author_name: 'OnionBot'
-        message: 'Generate README\n(${date})'
+        message: 'Generate README'
         github_token: ${{ secrets.GITHUB_TOKEN }}
