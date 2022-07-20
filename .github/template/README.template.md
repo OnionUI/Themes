@@ -6,7 +6,7 @@
 &nbsp;•&nbsp; [Featured&nbsp;Themes](#featured-themes)
 &nbsp;•&nbsp; [Custom&nbsp;Themes](#custom-themes)
 &nbsp;•&nbsp; [Remixed&nbsp;Themes](#remixed-themes)
-&nbsp;•&nbsp; [Contributing](#contributing)
+&nbsp;•&nbsp; [Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
@@ -31,6 +31,8 @@ This section showcases the themes included with Onion.
 
 ## Custom Themes
 
+Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
+
 <p>$CUSTOM_THEMES</p>
 
 <p>&nbsp;</p>
@@ -44,7 +46,3 @@ This section showcases theme remixes made by the community and approved by the o
 <p>$REMIXED_THEMES</p>
 
 <p>&nbsp;</p>
-
-## Contributing
-
-Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here!](CONTRIBUTING.md)
