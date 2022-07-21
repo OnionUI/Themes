@@ -1,0 +1,52 @@
+{
+    "name": "3DS mini",
+    "author": "MarsTaco",
+    "description": "3DS inspired theme for Miyoo Mini",
+    "hideIconTitle": true,
+    "batteryPercentage": {
+        "visible": false,
+        "red": 255,
+        "green": 255,
+        "blue": 255
+    },
+    "title": {
+        "font": "Inter-Medium.ttf",
+        "size": 30,
+        "color": "#FFFFFF"
+    },
+    "path": {
+        "font": "Inter-Medium.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Inter-Medium.ttf",
+        "size": 0,
+        "color": "#101010"
+    },
+    "currentpage": {
+        "font": "Inter-Medium.ttf",
+        "size": 35,
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "font": "Inter-Medium.ttf",
+        "size": 35,
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "NuberNext-DemiBold.ttf",
+        "fontascii": "NuberNext-DemiBold.ttf",
+        "grid1x4": 18,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#686868"
+    },
+    "list": {
+        "font": "NuberNext-DemiBold.ttf",
+        "fontascii": "NuberNext-DemiBold.ttf",
+        "size": 23,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    }
+}
