@@ -1,0 +1,45 @@
+{
+    "name":"GBC Pokedex",
+    "author": "Nxt.stop.please",
+	"hideIconTitle":true,
+    "title":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "size":26,
+        "color":"#FFFFFF"
+    },
+    "path":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "size":24,
+        "color":"#FFFFFF"
+    },
+    "hint":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "size":34,
+        "color":"#FFFFFF"
+    },
+    "currentpage":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "size":34,
+        "color":"#FFFFFF"
+    },
+    "total":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "size":34,
+        "color":"#FFFFFF"
+    },
+    "grid":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "fontascii":"GnuUnifontFull-Pm9P.ttf",
+        "grid1x4":25,
+        "grid3x4":18,
+        "color":"#8f8f8f",
+        "selectedcolor":"#F7E733"
+    },
+    "list":{
+        "font":"GnuUnifontFull-Pm9P.ttf",
+        "fontascii":"GnuUnifontFull-Pm9P.ttf",
+        "size":24,
+        "color":"#FFFFFF",
+        "selectedcolor":"#FFFFFF"
+    }
+}

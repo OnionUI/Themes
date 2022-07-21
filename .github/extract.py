@@ -67,8 +67,7 @@ def extract_release(zip_path: str):
     if os.path.exists(TEMP_DIR):
         shutil.rmtree(TEMP_DIR)
 
-    if os.path.exists(src_path):
-        os.remove(zip_path)
+    os.remove(zip_path)
 
     return True
 
