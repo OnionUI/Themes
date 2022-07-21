@@ -5,6 +5,7 @@ from_src = lambda path: os.path.join(SRC_DIR, path)
 
 THEME_DIR = from_src("../themes")
 RELEASE_DIR = from_src("../release")
+TEMP_DIR = from_src("temp")
 
 FEATURED_ORDERING = from_src("data/featured.txt")
 CUSTOM_ORDERING = from_src("data/custom.txt")

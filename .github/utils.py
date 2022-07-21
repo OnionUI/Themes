@@ -4,7 +4,7 @@ import os
 def get_subdirs(dir_path: str):
     subdirs = [
         name for name in os.listdir(dir_path)
-        if os.path.isdir(os.path.join(dir_path, name))]
+        if os.path.isdir(os.path.join(dir_path, name)) and name != "__MACOSX"]
     subdirs.sort()
     return subdirs
 

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import os
 import sys
 
@@ -12,7 +14,7 @@ def main():
 
     themes = get_subdirs(THEME_DIR)
 
-    is_valid = [validate_theme(os.path.join(THEME_DIR, theme), theme, True)[0] for theme in themes]
+    is_valid = [validate_theme(os.path.join(THEME_DIR, theme), True)[0] for theme in themes]
 
     if not all(is_valid):
         sys.exit(1)
@@ -20,13 +22,14 @@ def main():
     print("All themes are valid.")
 
 
-def validate_theme(src_path: str, theme: str, verbose: bool = False, level: int = 0):
+def validate_theme(src_path: str, verbose: bool = False, level: int = 0):
+    theme, _ = os.path.splitext(os.path.basename(src_path))
     has_config = dir_has_files(src_path, ["config.json"])
 
     # Check subdirs
     if not has_config:
         if level == 0:
-            return (all(validate_theme(os.path.join(src_path, subdir), subdir, True, level + 1)[0]
+            return (all(validate_theme(os.path.join(src_path, subdir), True, level + 1)[0]
                         for subdir in get_subdirs(src_path)), True)
         return (False, False)
 
@@ -34,6 +37,9 @@ def validate_theme(src_path: str, theme: str, verbose: bool = False, level: int 
         print(f"Theme '{theme}' is missing config.json")
 
     has_preview = dir_has_files(src_path, ["preview.png"])
+
+    if verbose and not has_preview:
+        print(f"Theme '{theme}' is missing preview.png")
 
     is_valid = has_config and has_preview
 

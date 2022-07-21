@@ -82,7 +82,7 @@ def generate_table_grid(themes) -> str:
 
 def generate_item(theme: str) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
-    is_valid, has_subdirs = validate_theme(dir_path, theme)
+    is_valid, has_subdirs = validate_theme(dir_path)
 
     if not is_valid:
         print(f"  invalid theme: {theme}")

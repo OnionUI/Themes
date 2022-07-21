@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+from distutils.command.clean import clean
 import os
 import sys
 import zipfile
@@ -14,6 +15,7 @@ from defs import (
 from utils import get_subdirs, get_ordering, set_ordering
 from validation import validate_theme
 from generate import main as generate_readme
+from clean import clean_all
 
 
 def main():
@@ -33,6 +35,8 @@ def main():
     remixed = get_ordering(REMIXED_ORDERING)
     custom = get_ordering(CUSTOM_ORDERING)
     all_existing = featured + remixed + custom
+
+    clean_all()
 
     was_built = [build_release(theme, custom, all_existing) for theme in themes]
 
@@ -56,7 +60,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
 
     print(f"Building release: '{theme}'")
 
-    is_valid, has_subdirs = validate_theme(src_path, theme)
+    is_valid, has_subdirs = validate_theme(src_path)
 
     if not is_valid:
         print(f"Skipped: '{theme}'")
@@ -70,10 +74,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, _, files in os.walk(src_path):
             for file in files:
-                _, ext = os.path.splitext(file)
                 file_path = os.path.join(root, file)
-                if file.startswith("._") or file == "Thumbs.db" or ext.lower() == ".html":
-                    continue
                 zf.write(file_path, file_path[rel_index:])
 
     return True

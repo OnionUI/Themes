@@ -1,0 +1,51 @@
+{
+    "name": "Zenburn",
+    "author": "duckbeets",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": false,
+        "red": 255,
+        "green": 255,
+        "blue": 255
+    },
+    "title": {
+        "font": "HelvetiPixel.ttf",
+        "size": 32,
+        "color": "#dedbce"
+    },
+    "path": {
+        "font": "HelvetiPixel.ttf",
+        "size": 28,
+        "color": "#dedbce"
+    },
+    "hint": {
+        "font": "HelvetiPixel.ttf",
+        "size": 28,
+        "color": "#dedbce"
+    },
+    "currentpage": {
+        "font": "HelvetiPixel.ttf",
+        "size": 32,
+        "color": "#dedbce"
+    },
+    "total": {
+        "font": "HelvetiPixel.ttf",
+        "size": 32,
+        "color": "#dedbce"
+    },
+    "grid": {
+        "font": "HelvetiPixel.ttf",
+        "fontascii": "HelvetiPixel.ttf",
+        "grid1x4": 28,
+        "grid3x4": 28,
+        "color": "#dedbce",
+        "selectedcolor": "#f7dbad"
+    },
+    "list": {
+        "font": "HelvetiPixel.ttf",
+        "fontascii": "HelvetiPixel.ttf",
+        "size": 28,
+        "color": "#dedbce",
+        "selectedcolor": "#f7dbad"
+    }
+}
