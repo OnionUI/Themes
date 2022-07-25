@@ -139,7 +139,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Analogue%20by%20Aemiii91.zip?raw=true">
-<img title="Analogue by Aemiii91" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<img title="Minimalist theme inspired by Analogue OS" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup>
 </td>
