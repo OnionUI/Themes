@@ -1,0 +1,51 @@
+{
+    "name": "Blueprint",
+    "author": "Aemiii91",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": true,
+        "red": 255,
+        "green": 255,
+        "blue": 255
+    },
+    "title": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "path": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "fontascii": "OpenSansCondensed-Bold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "fontascii": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    }
+}

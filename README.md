@@ -138,6 +138,28 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/Analogue%20by%20Aemiii91.zip?raw=true">
+<img title="Analogue by Aemiii91" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<b>Analogue</b></a><br/>
+<sup><i>Aemiii91</i></sup>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/TrimUI%20by%20Aemiii91.zip?raw=true">
+<img title="TrimUI theme port" width="480px" src="themes/TrimUI%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<b>TrimUI</b></a><br/>
+<sup><i>Aemiii91</i></sup>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/Blueprint%20by%20Aemiii91.zip?raw=true">
+<img title="Blueprint by Aemiii91" width="480px" src="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<b>Blueprint</b></a><br/>
+<sup><i>Aemiii91</i></sup>
+</td>
+</tr><tr>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
 <img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>3DS mini</b></a><br/>

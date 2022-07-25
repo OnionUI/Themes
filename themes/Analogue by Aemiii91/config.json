@@ -1,0 +1,41 @@
+{
+    "name": "Analogue",
+    "author": "Aemiii91",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": true,
+        "red": 255,
+        "green": 255,
+        "blue": 255
+    },
+    "title": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#333333"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "vcr-osd-mono.ttf",
+        "fontascii": "vcr-osd-mono.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#333333",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "fontascii": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
