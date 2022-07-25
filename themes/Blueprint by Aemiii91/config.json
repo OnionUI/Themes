@@ -1,6 +1,7 @@
 {
     "name": "Blueprint",
     "author": "Aemiii91",
+    "description": "Theme layout with 10x10 grid",
     "hideIconTitle": false,
     "batteryPercentage": {
         "visible": true,

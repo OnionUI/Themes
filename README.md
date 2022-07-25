@@ -153,7 +153,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Blueprint%20by%20Aemiii91.zip?raw=true">
-<img title="Blueprint by Aemiii91" width="480px" src="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<img title="Theme layout with 10x10 grid" width="480px" src="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Blueprint</b></a><br/>
 <sup><i>Aemiii91</i></sup>
 </td>
