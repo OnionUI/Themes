@@ -13,8 +13,10 @@ jobs:
         python-version: '3.10.5'
     - name: Extract any new zip files
       run: python3 .github/extract.py
-    - name: Release any new themes and update README
-      run: python3 .github/release.py -y
+    - name: Release any new themes
+      run: python3 .github/release.py -n
+    - name: Update README
+      run: python3 .github/generate.py
     - name: Commit and push changes
       uses: actions-js/push@v1.3
       with:
