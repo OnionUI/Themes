@@ -1,44 +1,27 @@
 {
-    "name":"Codec",
-    "author":"ScarGutz",
-    "title":{
-        "font":"Pixelation.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "Codec",
+    "author": "ScarGutz",
+    "title": {
+        "font": "Pixelation.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"Pixelation.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"Pixelation.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"       
-    },
-    "list":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"       
-    }    
-}   
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}

@@ -11,11 +11,6 @@
         "size": 36,
         "color": "#FFFFFF"
     },
-    "hint": {
-        "font": "Exo-Bold.otf",
-        "size": 24,
-        "color": "#FFFFFF"
-    },
     "currentpage": {
         "color": "#FFFFFF"
     },
@@ -24,7 +19,6 @@
     },
     "grid": {
         "font": "Exo-Bold.otf",
-        "fontascii": "Exo-Bold.otf",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#A28948",
@@ -32,9 +26,7 @@
     },
     "list": {
         "font": "Exo-Bold.otf",
-        "fontascii": "Exo-Bold.otf",
         "size": 25,
-        "color": "#FFFFFF",
-        "selectedcolor": "#FFFFFF"
+        "color": "#FFFFFF"
     }
 }

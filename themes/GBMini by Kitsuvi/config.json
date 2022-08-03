@@ -1,51 +1,32 @@
 {
-    "name":"GBMini",
-    "author":"Kitsuvi",
-    "hideIconTitle":true,
-	"batteryPercentage":{
-		"visible":false,
-        "red":255,
-        "green":255,
-        "blue":255
+    "name": "GBMini",
+    "author": "Kitsuvi",
+    "hideIconTitle": true,
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#FFFFFF"
     },
-    "title":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":36,
-        "color":"#333333"
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 36,
+        "color": "#333333"
     },
-    "path":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":24,
-        "color":"#333333"
+    "currentpage": {
+        "color": "#333333"
     },
-    "hint":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#333333"
+    "total": {
+        "color": "#333333"
     },
-    "currentpage":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#333333"
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#707070",
+        "selectedcolor": "#707070"
     },
-    "total":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#333333"
-    },
-    "grid":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#707070",
-        "selectedcolor":"#707070"
-    },
-    "list":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":25,
-        "color":"#707070",
-        "selectedcolor":"#707070"
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 25,
+        "color": "#707070"
     }
 }

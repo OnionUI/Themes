@@ -1,45 +1,28 @@
 {
-    "name":"Hyrule Dark",
-    "author":"ruidacosta",
-    "hideIconTitle":false,
-    "title":{
-        "font":"HYLIA.TTF",
-        "size":32,
-        "color":"#FFFFFF"
+    "name": "Hyrule Dark",
+    "author": "ruidacosta",
+    "hideIconTitle": false,
+    "title": {
+        "font": "HYLIA.TTF",
+        "size": 32,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"HYLIA.TTF",
-        "size":18,
-        "color":"#AAAAAA"
+    "currentpage": {
+        "color": "#000000"
     },
-    "hint":{
-        "font":"HYLIA.TTF",
-        "size":24,
-        "color":"#AAAAAA"
+    "total": {
+        "color": "#AAAAAA"
     },
-    "currentpage":{
-        "font":"HYLIA.TTF",
-        "size":32,
-        "color":"#000000"
+    "grid": {
+        "font": "HYLIA.TTF",
+        "grid1x4": 24,
+        "grid3x4": 22,
+        "color": "#999999",
+        "selectedcolor": "#000000"
     },
-    "total":{
-        "font":"HYLIA.TTF",
-        "size":32,
-        "color":"#AAAAAA"
-    },
-    "grid":{
-        "font":"HYLIA.TTF",
-        "fontascii":"HYLIA.TTF",
-        "grid1x4":24,
-        "grid3x4":22,
-        "color":"#999999",
-        "selectedcolor":"#000000"
-    },
-    "list":{
-        "font":"HYLIA.TTF",
-        "fontascii":"HYLIA.TTF",
-        "size":24,
-        "color":"#FFFFFF",
-        "selectedcolor":"#000000"
+    "list": {
+        "font": "HYLIA.TTF",
+        "size": 24,
+        "color": "#FFFFFF"
     }
 }

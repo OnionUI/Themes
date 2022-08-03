@@ -1,52 +1,33 @@
 {
-    "name":"Red Onion",
-    "author":"PixelShift + Jeltron + Moontorc",
-    "description":"Recolor by Moontorc",
-	"hideIconTitle":true,
-	"batteryPercentage":{
-		"visible":true,
-        "red":45,
-        "green":29,
-        "blue":42
+    "name": "Red Onion",
+    "author": "PixelShift + Jeltron + Moontorc",
+    "description": "Recolor by Moontorc",
+    "hideIconTitle": true,
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#2D1D2A"
     },
-    "title":{
-        "font":"pixelmix.otf",
-        "size":36,
-        "color":"#FFFFFF"
+    "title": {
+        "font": "pixelmix.otf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"pixelmix.otf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"pixelmix.otf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"AtariSystem.otf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "pixelmix.otf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"AtariSystem.otf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"pixelmix.otf",
-        "fontascii":"AtariSystem.otf",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#686868",
-        "selectedcolor":"#FFFFFF"
-    },
-    "list":{
-        "font":"pixelmix.otf",
-        "fontascii":"AtariSystem.otf",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"
+    "list": {
+        "font": "pixelmix.otf",
+        "size": 25,
+        "color": "#FFFFFF"
     }
 }

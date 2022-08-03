@@ -1,1 +1,32 @@
-{"name":"MasterHacker", "author": "Squ1d0ne","hideIconTitle":false,"batteryPercentage":{"visible":false,"red":255,"green":255,"blue":255},"title":{"font":"dogicabold.ttf","size":29,"color":"#FFFFFF"},"path":{"font":"dogica.ttf","size":24,"color":"#FFFFFF"},"hint":{"font":"dogica.ttf","size":16,"color":"#FFFFFF"},"currentpage":{"font":"dogica.ttf","size":40,"color":"#FFFFFF"},"total":{"font":"dogica.ttf","size":40,"color":"#FFFFFF"},"grid":{"font":"dogica.ttf","fontascii":"dogica.ttf","grid1x4":15,"grid3x4":18,"color":"#686868","selectedcolor":"#FFFFFF"},"list":{"font":"dogica.ttf","fontascii":"dogica.ttf","size":19,"color":"#FFFFFF","selectedcolor":"#000"}}
+{
+    "name": "MasterHacker",
+    "author": "Squ1d0ne",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#FFFFFF"
+    },
+    "title": {
+        "font": "dogicabold.ttf",
+        "size": 29,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "dogica.ttf",
+        "grid1x4": 15,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "dogica.ttf",
+        "size": 19,
+        "color": "#FFFFFF"
+    }
+}

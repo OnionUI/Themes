@@ -1,43 +1,26 @@
 {
-    "name":"Miyoo blues",
-    "title":{
-        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
-        "size":36,
-        "color":"#FF8F8F"
+    "name": "Miyoo blues",
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 36,
+        "color": "#FF8F8F"
     },
-    "path":{
-        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
-        "size":24,
-        "color":"#FF8F8F"
+    "currentpage": {
+        "color": "#FF8F8F"
     },
-    "hint":{
-        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
-        "size":40,
-        "color":"#FF8F8F"
+    "total": {
+        "color": "#FF8F8F"
     },
-    "currentpage":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#FF8F8F"
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#8F8FFF",
+        "selectedcolor": "#686868"
     },
-    "total":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":40,
-        "color":"#FF8F8F"
-    },
-    "grid":{
-        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#8F8FFF",
-        "selectedcolor":"#686868"       
-    },
-    "list":{
-        "font":"/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":25,
-        "color":"#8F8FFF",
-        "selectedcolor":"#FFFFFF"       
-    }    
-}   
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 25,
+        "color": "#8F8FFF"
+    }
+}

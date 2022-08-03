@@ -1,44 +1,27 @@
 {
-    "name":"MakoVII",
-    "author":"Gloomy_Background755",
-    "title":{
-        "font":"Reactor7.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "MakoVII",
+    "author": "Gloomy_Background755",
+    "title": {
+        "font": "Reactor7.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"Reactor7.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"Reactor7.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"Reactor7.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "Reactor7.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"Reactor7.ttf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"Reactor7.ttf",
-        "fontascii":"Reactor7.ttf",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"       
-    },
-    "list":{
-        "font":"Reactor7.ttf",
-        "fontascii":"Reactor7.ttf",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"       
-    }    
-}   
+    "list": {
+        "font": "Reactor7.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}

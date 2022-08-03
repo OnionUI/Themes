@@ -1,45 +1,28 @@
 {
-    "name":"Wavedash",
-    "author":"historymaker118",
-    "hideIconTitle":false,
-    "title":{
-        "font":"DFGothic-EB.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "Wavedash",
+    "author": "historymaker118",
+    "hideIconTitle": false,
+    "title": {
+        "font": "DFGothic-EB.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"DFGothic-EB.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"DFGothic-EB.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"DFGothic-EB.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"DFGothic-EB.ttf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#686868",
-        "selectedcolor":"#FFFFFF"
-    },
-    "list":{
-        "font":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "fontascii":"/mnt/SDCARD/miyoo/app/HENB.TTF",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 25,
+        "color": "#FFFFFF"
     }
 }

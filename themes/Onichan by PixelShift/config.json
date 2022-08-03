@@ -1,45 +1,28 @@
 {
-    "name":"Onichan",
-    "author":"PixelShift",
-	"hideIconTitle":true,
-    "title":{
-        "font":"LanaPixel.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "Onichan",
+    "author": "PixelShift",
+    "hideIconTitle": true,
+    "title": {
+        "font": "LanaPixel.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"LanaPixel.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"LanaPixel.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"LanaPixel.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "LanaPixel.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"LanaPixel.ttf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"LanaPixel.ttf",
-        "fontascii":"LanaPixel.ttf",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#686868",
-        "selectedcolor":"#FFFFFF"
-    },
-    "list":{
-        "font":"LanaPixel.ttf",
-        "fontascii":"LanaPixel.ttf",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"
+    "list": {
+        "font": "LanaPixel.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
     }
 }

@@ -1,45 +1,28 @@
 {
-    "name":"Miyoo Quest",
-    "author":"y_oshid_a",
-	"hideIconTitle":true,
-    "title":{
-        "font":"PixelMplus10.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "Miyoo Quest",
+    "author": "y_oshid_a",
+    "hideIconTitle": true,
+    "title": {
+        "font": "PixelMplus10.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"PixelMplus10.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"PixelMplus10.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"PixelMplus10.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "PixelMplus10.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"PixelMplus10.ttf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"PixelMplus10.ttf",
-        "fontascii":"PixelMplus10.ttf",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#686868",
-        "selectedcolor":"#FFFFFF"
-    },
-    "list":{
-        "font":"PixelMplus10.ttf",
-        "fontascii":"PixelMplus10.ttf",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"
+    "list": {
+        "font": "PixelMplus10.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
     }
 }

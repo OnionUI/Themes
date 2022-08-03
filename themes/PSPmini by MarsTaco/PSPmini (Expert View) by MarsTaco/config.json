@@ -1,45 +1,28 @@
 {
-    "name":"PSPmini (Expert View)",
-    "author":"MarsTaco",
-	"hideIconTitle":true,
-    "title":{
-        "font":"Inter-Medium.ttf",
-        "size":36,
-        "color":"#FFFFFF"
+    "name": "PSPmini (Expert View)",
+    "author": "MarsTaco",
+    "hideIconTitle": true,
+    "title": {
+        "font": "Inter-Medium.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
     },
-    "path":{
-        "font":"Inter-Medium.ttf",
-        "size":24,
-        "color":"#FFFFFF"
+    "currentpage": {
+        "color": "#FFFFFF"
     },
-    "hint":{
-        "font":"Inter-Medium.ttf",
-        "size":0,
-        "color":"#060606"
+    "total": {
+        "color": "#FFFFFF"
     },
-    "currentpage":{
-        "font":"Inter-Medium.ttf",
-        "size":40,
-        "color":"#FFFFFF"
+    "grid": {
+        "font": "NuberNext-DemiBold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#404040",
+        "selectedcolor": "#FFFFFF"
     },
-    "total":{
-        "font":"Inter-Medium.ttf",
-        "size":40,
-        "color":"#FFFFFF"
-    },
-    "grid":{
-        "font":"NuberNext-DemiBold.ttf",
-        "fontascii":"Sunflower-Light.ttf",
-        "grid1x4":25,
-        "grid3x4":18,
-        "color":"#404040",
-        "selectedcolor":"#FFFFFF"
-    },
-    "list":{
-        "font":"NuberNext-DemiBold.ttf",
-        "fontascii":"Sunflower-Light.ttf",
-        "size":25,
-        "color":"#FFFFFF",
-        "selectedcolor":"#FFFFFF"
+    "list": {
+        "font": "NuberNext-DemiBold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
     }
 }
