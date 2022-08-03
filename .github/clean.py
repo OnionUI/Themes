@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import os
+import sys
 import shutil
 import json
 from numbers import Number
@@ -8,20 +9,27 @@ from numbers import Number
 from defs import THEME_DIR, from_src
 from schema import config_schema
 
+UNWANTED_FOLDERS = ["__MACOSX", "skin_640_480"]
 UNWANTED_FILES = ["Thumbs.db", ".DS_Store"]
 
 
 def clean_all():
-    clean_unwanted_files()
-    clean_unused_images()
-    clean_configs()
+    theme_dir = THEME_DIR
+    allow_system = False
+    if len(sys.argv) > 1:
+        theme_dir = sys.argv[1]
+    if len(sys.argv) > 2 and sys.argv[2] == "--system":
+        allow_system = True
+    clean_unwanted_files(theme_dir)
+    clean_unused_images(theme_dir, allow_system)
+    clean_configs(theme_dir)
 
 
-def clean_unwanted_files():
+def clean_unwanted_files(theme_dir):
     dir_count = 0
     file_count = 0
-    for root, _, files in os.walk(THEME_DIR):
-        if os.path.basename(root) == "__MACOSX":
+    for root, _, files in os.walk(theme_dir):
+        if os.path.basename(root) in UNWANTED_FOLDERS:
             dir_count += 1
             shutil.rmtree(root)
             continue
@@ -37,7 +45,7 @@ def clean_unwanted_files():
         print(f"WARN - Removed {file_count} unwanted files and {dir_count} folders")
 
 
-def clean_unused_images(allow_system: bool = False):
+def clean_unused_images(theme_dir, allow_system: bool = False):
     with open(from_src("whitelist.txt"), "r", encoding="utf-8") as fp:
         lines = fp.readlines()
 
@@ -54,7 +62,7 @@ def clean_unused_images(allow_system: bool = False):
     extra_count = 0
     trash_count = 0
 
-    for root, _, files in os.walk(THEME_DIR):
+    for root, _, files in os.walk(theme_dir):
         if os.path.basename(root) != "skin":
             continue
 
@@ -117,13 +125,13 @@ def clean_config(config: dict[str, any], schema = None) -> dict[str, any]:
     return (cleaned, dirty)
 
 
-def clean_configs():
+def clean_configs(theme_dir):
     rgb_to_hex = (lambda r, g, b:
         f"#{hex(r)[2:]}{hex(g)[2:]}{hex(b)[2:]}".upper())
 
     dirty_count = 0
 
-    for root, _, _ in os.walk(THEME_DIR):
+    for root, _, _ in os.walk(theme_dir):
         if os.path.basename(root) != "skin":
             continue
 
