@@ -72,6 +72,8 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
 
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, _, files in os.walk(src_path):
+            if os.path.basename(root) == ".trash":
+                continue
             for file in files:
                 file_path = os.path.join(root, file)
                 zf.write(file_path, file_path[rel_index:])

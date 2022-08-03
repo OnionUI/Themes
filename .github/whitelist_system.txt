@@ -1,0 +1,12 @@
+left_focus
+left
+right_focus
+right
+up_focus
+up
+down_focus
+down
+circle_focus
+circle
+rect_focus
+rect

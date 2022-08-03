@@ -37,9 +37,14 @@ def clean_unwanted_files():
         print(f"WARN - Removed {file_count} unwanted files and {dir_count} folders")
 
 
-def clean_unused_images():
+def clean_unused_images(allow_system: bool = False):
     with open(from_src("whitelist.txt"), "r", encoding="utf-8") as fp:
         lines = fp.readlines()
+
+    if allow_system:
+        with open(from_src("whitelist_system.txt"), "r", encoding="utf-8") as fp:
+            lines += fp.readlines()
+
     whitelist = [line.strip() for line in lines]
 
     with open(from_src("whitelist_extra.txt"), "r", encoding="utf-8") as fp:
@@ -83,7 +88,7 @@ def clean_unused_images():
         print(f"WARN - Removed {trash_count} unused images, and moved {extra_count} to extra folder")
 
 
-def clean_config(config : dict[str, any], schema = None) -> dict[str, any]:
+def clean_config(config: dict[str, any], schema = None) -> dict[str, any]:
     cleaned = {}
     dirty = False
 
