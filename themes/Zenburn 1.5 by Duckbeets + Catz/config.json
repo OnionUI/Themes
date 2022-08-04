@@ -1,0 +1,32 @@
+{
+    "name": "Zenburn 1.5",
+    "author": "Duckbeets + Catz",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#FFFFFF"
+    },
+    "title": {
+        "font": "HelvetiPixel.ttf",
+        "size": 32,
+        "color": "#7d7d7d"
+    },
+    "currentpage": {
+        "color": "#7d7d7d"
+    },
+    "total": {
+        "color": "#7d7d7d"
+    },
+    "grid": {
+        "font": "HelvetiPixel.ttf",
+        "grid1x4": 28,
+        "grid3x4": 28,
+        "color": "#7d7d7d",
+        "selectedcolor": "#e1e1e1"
+    },
+    "list": {
+        "font": "HelvetiPixel.ttf",
+        "size": 28,
+        "color": "#7d7d7d"
+    }
+}
