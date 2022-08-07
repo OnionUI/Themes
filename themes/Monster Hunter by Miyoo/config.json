@@ -6,6 +6,11 @@
         "size": 36,
         "color": "#FF8F8F"
     },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 40,
+        "color": "#FF8F8F"
+    },
     "currentpage": {
         "color": "#FF8F8F"
     },

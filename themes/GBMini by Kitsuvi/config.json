@@ -11,6 +11,11 @@
         "size": 36,
         "color": "#333333"
     },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 40,
+        "color": "#333333"
+    },
     "currentpage": {
         "color": "#333333"
     },

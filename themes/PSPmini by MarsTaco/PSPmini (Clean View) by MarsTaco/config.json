@@ -7,6 +7,11 @@
         "size": 36,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "Inter-Medium.ttf",
+        "size": 0,
+        "color": "#060606"
+    },
     "currentpage": {
         "color": "#FFFFFF"
     },

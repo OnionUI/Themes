@@ -7,6 +7,11 @@
         "size": 32,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "HYLIA.TTF",
+        "size": 24,
+        "color": "#AAAAAA"
+    },
     "currentpage": {
         "color": "#000000"
     },

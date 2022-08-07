@@ -12,6 +12,11 @@
         "size": 24,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
     "currentpage": {
         "color": "#333333"
     },

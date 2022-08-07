@@ -7,6 +7,11 @@
         "size": 26,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "GnuUnifontFull-Pm9P.ttf",
+        "size": 34,
+        "color": "#FFFFFF"
+    },
     "currentpage": {
         "color": "#FFFFFF"
     },

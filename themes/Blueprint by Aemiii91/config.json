@@ -12,6 +12,11 @@
         "size": 36,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
     "currentpage": {
         "color": "#FFFFFF"
     },

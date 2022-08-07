@@ -17,6 +17,11 @@ config_schema = {
         "size": int,
         "color": str
     },
+    "hint": {
+        "font": str,
+        "size": int,
+        "color": str
+    },
     "currentpage": {
         "color": str
     },

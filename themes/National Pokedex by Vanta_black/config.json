@@ -6,6 +6,11 @@
         "size": 35,
         "color": "#fffefc"
     },
+    "hint": {
+        "font": "Helvetica.ttf",
+        "size": 5,
+        "color": "#6b6b6b"
+    },
     "currentpage": {
         "color": "#8c8c8c"
     },

@@ -509,10 +509,10 @@ This section showcases theme remixes made by the community and approved by the o
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Zenburn%201.5%20by%20Duckbeets%20%2B%20Catz.zip?raw=true">
-<img title="Zenburn 1.5 by Duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20Duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
+<a href="release/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz.zip?raw=true">
+<img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
 <b>Zenburn 1.5</b></a><br/>
-<sup><i>Duckbeets + Catz</i></sup>
+<sup><i>duckbeets + Catz</i></sup>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>

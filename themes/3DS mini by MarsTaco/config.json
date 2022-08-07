@@ -12,6 +12,11 @@
         "size": 30,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "Inter-Medium.ttf",
+        "size": 0,
+        "color": "#101010"
+    },
     "currentpage": {
         "color": "#FFFFFF"
     },

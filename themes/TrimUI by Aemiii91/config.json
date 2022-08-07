@@ -11,6 +11,11 @@
         "size": 36,
         "color": "#FFFFFF"
     },
+    "hint": {
+        "font": "Exo-Bold.otf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
     "currentpage": {
         "color": "#FFFFFF"
     },

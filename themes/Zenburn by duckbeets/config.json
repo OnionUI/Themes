@@ -11,6 +11,11 @@
         "size": 32,
         "color": "#dedbce"
     },
+    "hint": {
+        "font": "HelvetiPixel.ttf",
+        "size": 28,
+        "color": "#dedbce"
+    },
     "currentpage": {
         "color": "#dedbce"
     },
