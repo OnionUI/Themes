@@ -10,8 +10,7 @@ We welcome you to share your creation with the community, here's a checklist for
 4. In the config file, the name and author are separated. 
 5. The zip file should be named `[NAME] by [AUTHOR].zip` and either contain a single folder with the same name or the config at the root.
 
-Check a theme from this page if you have a doubt:
-https://github.com/OnionUI/Themes/blob/main/README.md
+Download and check out one of the themes in the [Theme Repository](https://github.com/OnionUI/Themes/blob/main/README.md) if you're in doubt.
 
 Submit your theme by sending it to [Sichroteph](https://www.reddit.com/user/sichroteph) via Reddit.
 
