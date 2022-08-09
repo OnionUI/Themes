@@ -1,6 +1,6 @@
 # Contributing
 
-We welcome you to share your creation with the community, but first some rules for contributing:
+We welcome you to share your creation with the community, but first some checkpoints for contributing:
 
 ## Rules
 
