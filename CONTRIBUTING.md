@@ -2,7 +2,7 @@
 
 We welcome you to share your creation with the community, but first some checkpoints for contributing:
 
-## Rules
+## Checkpoints
 
 1. Themes will be removed if we receive a takedown request from copyright holders.
 2. Background music must be 48kHz mp3 format or it will be played too fast.  
