@@ -1,0 +1,38 @@
+{
+    "name": "BMO",
+    "author": "OjninJo",
+    "description": "Who wants to play videogames!?",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#14646"
+    },
+    "title": {
+        "font": "Pixel.ttf",
+        "size": 36,
+        "color": "#184048"
+    },
+    "hint": {
+        "font": "Pixel.ttf",
+        "size": 23,
+        "color": "#274c5b"
+    },
+    "currentpage": {
+        "color": "#274c5b"
+    },
+    "total": {
+        "color": "#274c5b"
+    },
+    "grid": {
+        "font": "Helvetica-Neue-2.ttf",
+        "grid1x4": 29,
+        "grid3x4": 18,
+        "color": "#2a5b64",
+        "selectedcolor": "#59dde8"
+    },
+    "list": {
+        "font": "BPreplayBold.otf",
+        "size": 25,
+        "color": "#274c5b"
+    }
+}
