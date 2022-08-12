@@ -1,0 +1,33 @@
+{
+    "name": "GRY64",
+    "author": "iamatrap",
+    "hideIconTitle": true,
+    "title": {
+        "font": "C64_Pro-STYLE.ttf",
+        "size": 1,
+        "color": "#7C71DA"
+    },
+    "hint": {
+        "font": "C64_Pro-STYLE.ttf",
+        "size": 24,
+        "color": "#7C71DA"
+    },
+    "currentpage": {
+        "color": "#7C71DA"
+    },
+    "total": {
+        "color": "#7C71DA"
+    },
+    "grid": {
+        "font": "C64_Pro-STYLE.ttf",
+        "grid1x4": 14,
+        "grid3x4": 12,
+        "color": "#7C71DA",
+        "selectedcolor": "#7C71DA"
+    },
+    "list": {
+        "font": "C64_Pro-STYLE.ttf",
+        "size": 12,
+        "color": "#7C71DA"
+    }
+}
