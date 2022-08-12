@@ -1,0 +1,37 @@
+{
+    "name": "Shadaloo (SFA3)",
+    "author": "XCVNCE",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#000"
+    },
+    "title": {
+        "font": "shadaloo.ttf",
+        "size": 30,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "shadaloo.ttf",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#171717"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "shadaloo.ttf",
+        "grid1x4": 20,
+        "grid3x4": 18,
+        "color": "#aaaaaa",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "shadaloo.ttf",
+        "size": 22,
+        "color": "#FFFFFF"
+    }
+}
