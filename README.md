@@ -76,9 +76,9 @@ This section showcases the themes included with Onion.
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Silky%20%5BOnion%20Default%5D%20by%20DiMo.zip?raw=true">
-<img title="Silky [Onion Default] by DiMo" width="480px" src="themes/Silky%20%5BOnion%20Default%5D%20by%20DiMo/preview.png?raw=true" /><br/>
-<b>Silky [Onion Default]</b></a><br/>
+<a href="release/Silky%20by%20DiMo.zip?raw=true">
+<img title="[Onion default theme]" width="480px" src="themes/Silky%20by%20DiMo/preview.png?raw=true" /><br/>
+<b>Silky</b></a><br/>
 <sup><i>DiMo</i></sup>
 </td>
 <td align="center" valign="top">
