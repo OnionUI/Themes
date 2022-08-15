@@ -14,4 +14,4 @@ jobs:
     - name: Validating themes
       run: |
         echo using $(python3 --version)
-        python3 .github/validate.py
+        python3 .github/validation.py

@@ -12,17 +12,14 @@ from schema import config_schema
 UNWANTED_FOLDERS = ["__MACOSX", "skin_640_480"]
 UNWANTED_FILES = ["Thumbs.db", ".DS_Store"]
 
+args_theme_dir = THEME_DIR
+args_allow_system = False
+
 
 def clean_all():
-    theme_dir = THEME_DIR
-    allow_system = False
-    if len(sys.argv) > 1:
-        theme_dir = sys.argv[1]
-    if len(sys.argv) > 2 and sys.argv[2] == "--system":
-        allow_system = True
-    clean_unwanted_files(theme_dir)
-    clean_unused_images(theme_dir, allow_system)
-    clean_configs(theme_dir)
+    clean_unwanted_files(args_theme_dir)
+    clean_unused_images(args_theme_dir, args_allow_system)
+    clean_configs(args_theme_dir)
 
 
 def clean_unwanted_files(theme_dir):
@@ -175,4 +172,8 @@ def clean_configs(theme_dir):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        args_theme_dir = sys.argv[1]
+    if len(sys.argv) > 2 and sys.argv[2] == "--system":
+        args_allow_system = True
     clean_all()
