@@ -43,3 +43,5 @@ noGame
 removeDialog
 Screen_Off_Save
 Screen_Off
+toggle-on
+toggle-off
