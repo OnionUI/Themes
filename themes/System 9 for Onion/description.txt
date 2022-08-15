@@ -1,0 +1,9 @@
+System 9 for Onion by Inje Kim
+
+Sound effect
+https://freesound.org/people/Christopherderp/sounds/342200/
+
+Fonts
+Galmuri 7, Galmuri 9
+https://github.com/quiple/galmuri
+Edited under OFL-1.1 license
