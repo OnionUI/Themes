@@ -2,10 +2,6 @@
     "name": "Blueprint",
     "author": "Aemiii91",
     "description": "Theme layout with 10x10 grid",
-    "hideLabels": {
-        "icons": false,
-        "hints": false
-    },
     "batteryPercentage": {
         "visible": true,
         "font": "OpenSansCondensed-Bold.ttf",
