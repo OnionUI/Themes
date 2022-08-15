@@ -1,51 +1,36 @@
 {
-  "name": "System 9",
-  "auther": "injekim",
-  "hideIconTitle": true,
-  "batteryPercentage": {
-    "visible": false,
-    "red": 255,
-    "green": 255,
-    "blue": 255
-  },
-  "title": {
-    "font": "Galmuri9_edit.ttf",
-    "size": 30,
-    "color": "#000000"
-  },
-  "path": {
-    "font": "Galmuri7_edit.ttf",
-    "size": 24,
-    "color": "#000000"
-  },
-  "hint": {
-    "font": "Galmuri7_edit.ttf",
-    "size": 0,
-    "color": "#CECECE"
-  },
-  "currentpage": {
-    "font": "Galmuri7_edit.ttf",
-    "size": 24,
-    "color": "#000000"
-  },
-  "total": {
-    "font": "Galmuri7_edit.ttf",
-    "size": 24,
-    "color": "#000000"
-  },
-  "grid": {
-    "font": "Galmuri7_edit.ttf",
-    "fontascii": "Galmuri7_edit.ttf",
-    "grid1x4": 24,
-    "grid3x4": 24,
-    "color": "#000000",
-    "selectedcolor": "#000000"
-  },
-  "list": {
-    "font": "Galmuri7_edit.ttf",
-    "fontascii": "Galmuri7_edit.ttf",
-    "size": 24,
-    "color": "#000000",
-    "selectedcolor": "#FFFFFF"
-  }
+    "name": "System 9",
+    "author": "injekim",
+    "hideIconTitle": true,
+    "batteryPercentage": {
+        "visible": false
+    },
+    "title": {
+        "font": "Galmuri9_edit.ttf",
+        "size": 30,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 0,
+        "color": "#CECECE"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "Galmuri7_edit.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#000000",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 24,
+        "color": "#000000"
+    }
 }
