@@ -25,8 +25,6 @@ chargingState20
 chargingState21
 chargingState22
 chargingState23
-footerHelp
-lowBat
 lum0
 lum1
 lum2
@@ -38,10 +36,10 @@ lum7
 lum8
 lum9
 lum10
-menuBar
-noGame
-removeDialog
 Screen_Off_Save
 Screen_Off
 toggle-on
 toggle-off
+gs-legend
+gs-top-bar
+gs-bottom-bar

@@ -12,6 +12,10 @@ config_schema = {
         "size": int,
         "color": str
     },
+    "frame": {
+        "border-left": int,
+        "border-right": int
+    },
     "title": {
         "font": str,
         "size": int,

@@ -5,6 +5,10 @@
     "batteryPercentage": {
         "visible": false
     },
+    "frame": {
+        "border-left": 9,
+        "border-right": 9
+    },
     "title": {
         "font": "Galmuri9_edit.ttf",
         "size": 30,
