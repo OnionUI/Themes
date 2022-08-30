@@ -21,14 +21,6 @@
 
 <p>&nbsp;</p>
 
-## Featured Themes
-
-This section showcases the themes included with Onion.
-
-<p>$FEATURED_THEMES</p>
-
-<p>&nbsp;</p>
-
 ## Custom Themes
 
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
@@ -44,5 +36,13 @@ This section showcases theme remixes made by the community and approved by the o
 > *If a remixed theme isn't approved by the original author, we will take it down.*
 
 <p>$REMIXED_THEMES</p>
+
+<p>&nbsp;</p>
+
+## Featured Themes
+
+This section showcases the themes included with Onion.
+
+<p>$FEATURED_THEMES</p>
 
 <p>&nbsp;</p>
