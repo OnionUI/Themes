@@ -1,33 +1,38 @@
 {
     "name": "Onionboy HD",
     "author": "Jeltron",
-    "hideIconTitle": true,
+    "description": "Higher res variant of OnionBoy",
+    "batteryPercentage": {
+        "onleft": true,
+        "size": 18,
+        "color": "#86C06C"
+    },
     "title": {
         "font": "pixelmix.otf",
-        "size": 36,
+        "size": 20,
         "color": "#FFFFFF"
     },
     "hint": {
         "font": "pixelmix.otf",
-        "size": 40,
-        "color": "#FFFFFF"
+        "size": 20,
+        "color": "#071821"
     },
     "currentpage": {
-        "color": "#FFFFFF"
+        "color": "#306850"
     },
     "total": {
-        "color": "#FFFFFF"
+        "color": "#306850"
     },
     "grid": {
         "font": "pixelmix.otf",
-        "grid1x4": 25,
-        "grid3x4": 18,
-        "color": "#686868",
+        "grid1x4": 20,
+        "grid3x4": 16,
+        "color": "#86C06C",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
         "font": "pixelmix.otf",
-        "size": 25,
+        "size": 20,
         "color": "#FFFFFF"
     }
 }

@@ -7,7 +7,6 @@ Switch by PixelShift
 Poketch by Lucario
 Onyan by PixelShift
 Onion Mini by Jeltron
-Onionboy HD by Jeltron
 Onion Boy by PixelShift + Jeltron
 Onichan by PixelShift
 Oransje by evolve
@@ -50,3 +49,4 @@ Shadaloo (SFA3) by XCVNCE
 gry64 by iamatrap
 System 9 by injekim
 End of Ages by apg313
+Onionboy HD by Jeltron
