@@ -1,7 +1,6 @@
 {
     "name": "Fuzzy Pickles!",
     "author": "Updog",
-    "hideIconTitle": true,
     "title": {
         "font": "AppleKidRegular.ttf",
         "size": 36,
@@ -29,5 +28,9 @@
         "font": "AppleKidRegular.ttf",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

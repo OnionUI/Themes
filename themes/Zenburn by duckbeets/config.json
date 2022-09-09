@@ -1,7 +1,6 @@
 {
     "name": "Zenburn",
     "author": "duckbeets",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"

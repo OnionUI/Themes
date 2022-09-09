@@ -1,7 +1,6 @@
 {
     "name": "MasterHacker",
     "author": "Squ1d0ne",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"

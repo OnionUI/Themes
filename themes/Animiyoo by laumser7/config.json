@@ -1,7 +1,6 @@
 {
     "name": "Animiyoo",
     "author": "laumser7",
-    "hideIconTitle": true,
     "batteryPercentage": {
         "visible": true,
         "color": "#FFFFFF"
@@ -33,5 +32,9 @@
         "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

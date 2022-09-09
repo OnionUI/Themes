@@ -1,7 +1,6 @@
 {
     "name": "Onion Boy",
     "author": "PixelShift + Jeltron",
-    "hideIconTitle": true,
     "title": {
         "font": "pixelmix.otf",
         "size": 36,
@@ -29,5 +28,9 @@
         "font": "pixelmix.otf",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

@@ -2,7 +2,6 @@
     "name": "Onion Boy Dark",
     "author": "PixelShift",
     "description": "Contrast edit by PixelShift",
-    "hideIconTitle": true,
     "title": {
         "font": "pixelmix.otf",
         "size": 36,
@@ -30,5 +29,9 @@
         "font": "pixelmix.otf",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

@@ -2,7 +2,6 @@
     "name": "Red Onion",
     "author": "PixelShift + Jeltron + Moontorc",
     "description": "Recolor by Moontorc",
-    "hideIconTitle": true,
     "batteryPercentage": {
         "visible": true,
         "color": "#2D1D2A"
@@ -34,5 +33,9 @@
         "font": "pixelmix.otf",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

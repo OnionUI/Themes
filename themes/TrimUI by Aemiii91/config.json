@@ -2,7 +2,6 @@
     "name": "TrimUI",
     "author": "Aemiii91",
     "description": "TrimUI theme port",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false
     },

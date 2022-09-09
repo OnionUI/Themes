@@ -1,7 +1,6 @@
 {
     "name": "GBMini",
     "author": "Kitsuvi",
-    "hideIconTitle": true,
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"
@@ -33,5 +32,9 @@
         "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
         "size": 25,
         "color": "#707070"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

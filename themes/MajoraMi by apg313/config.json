@@ -1,7 +1,6 @@
 {
     "name": "MajoraMi",
     "author": "apg313",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": true,
         "color": "#FFFFFF"

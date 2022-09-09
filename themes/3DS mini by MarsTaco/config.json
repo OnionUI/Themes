@@ -2,7 +2,6 @@
     "name": "3DS mini",
     "author": "MarsTaco",
     "description": "3DS inspired theme for Miyoo Mini",
-    "hideIconTitle": true,
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"
@@ -34,5 +33,9 @@
         "font": "NuberNext-DemiBold.ttf",
         "size": 23,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

@@ -2,6 +2,9 @@
     "name": "Onionboy HD",
     "author": "Jeltron",
     "description": "Higher res variant of OnionBoy",
+    "hideLabels": {
+        "icons": true
+    },
     "batteryPercentage": {
         "onleft": true,
         "size": 18,

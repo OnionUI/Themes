@@ -1,7 +1,6 @@
 {
     "name": "Super Onion Entertainment System",
     "author": "TheDewd",
-    "hideIconTitle": true,
     "title": {
         "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 34,
@@ -29,5 +28,9 @@
         "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

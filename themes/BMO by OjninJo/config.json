@@ -2,7 +2,6 @@
     "name": "BMO",
     "author": "OjninJo",
     "description": "Who wants to play videogames!?",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": true,
         "color": "#14646"

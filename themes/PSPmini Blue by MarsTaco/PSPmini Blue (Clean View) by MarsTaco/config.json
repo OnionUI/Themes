@@ -1,7 +1,6 @@
 {
     "name": "PSPmini Blue (Clean View)",
     "author": "MarsTaco",
-    "hideIconTitle": true,
     "title": {
         "font": "Inter-Medium.ttf",
         "size": 36,
@@ -29,5 +28,9 @@
         "font": "NuberNext-DemiBold.ttf",
         "size": 25,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

@@ -1,7 +1,6 @@
 {
     "name": "GRY64",
     "author": "iamatrap",
-    "hideIconTitle": true,
     "title": {
         "font": "C64_Pro-STYLE.ttf",
         "size": 1,
@@ -29,5 +28,9 @@
         "font": "C64_Pro-STYLE.ttf",
         "size": 12,
         "color": "#7C71DA"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

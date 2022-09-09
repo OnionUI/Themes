@@ -1,7 +1,6 @@
 {
     "name": "System 9",
     "author": "injekim",
-    "hideIconTitle": true,
     "batteryPercentage": {
         "visible": false
     },
@@ -36,5 +35,9 @@
         "font": "Galmuri7_edit.ttf",
         "size": 24,
         "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

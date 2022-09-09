@@ -1,7 +1,6 @@
 {
     "name": "GBC Pokedex",
     "author": "Nxt.stop.please",
-    "hideIconTitle": true,
     "title": {
         "font": "GnuUnifontFull-Pm9P.ttf",
         "size": 26,
@@ -29,5 +28,9 @@
         "font": "GnuUnifontFull-Pm9P.ttf",
         "size": 24,
         "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
     }
 }

@@ -110,6 +110,9 @@ def clean_config(config: dict[str, any], schema = None) -> dict[str, any]:
     if schema is None:
         schema = config_schema
 
+    if "hideLabels" not in config and "hideIconTitle" in config and config["hideIconTitle"]:
+        config["hideLabels"] = { "icons": True, "hints": True }
+
     for key, value in config.items():
         if key not in schema:
             dirty = True

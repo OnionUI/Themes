@@ -1,7 +1,6 @@
 {
     "name": "Zenburn 1.5",
     "author": "duckbeets + Catz",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
         "color": "#FFFFFF"

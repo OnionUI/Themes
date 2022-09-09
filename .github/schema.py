@@ -2,7 +2,10 @@ config_schema = {
     "name": str,
     "author": str,
     "description": str,
-    "hideIconTitle": bool,
+    "hideLabels": {
+        "icons": bool,
+        "hints": bool
+    },
     "batteryPercentage": {
         "visible": bool,
         "onleft": bool,

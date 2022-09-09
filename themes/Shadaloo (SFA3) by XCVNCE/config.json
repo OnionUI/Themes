@@ -1,7 +1,6 @@
 {
     "name": "Shadaloo (SFA3)",
     "author": "XCVNCE",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
         "color": "#000"
