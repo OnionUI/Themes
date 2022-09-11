@@ -1,0 +1,42 @@
+{
+    "name": "BRCKD",
+    "author": "Deepslackerjazz",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "frame": {
+        "border-left": 9,
+        "border-right": 9
+    },
+    "title": {
+        "font": "Galmuri9_edit.ttf",
+        "size": 30,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 0,
+        "color": "#CECECE"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "Galmuri7_edit.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
