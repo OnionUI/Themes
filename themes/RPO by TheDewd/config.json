@@ -1,0 +1,40 @@
+{
+    "name": "Role Playing Onion",
+    "author": "TheDewd",
+    "description": "Pixel Art Fantasy Theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": false
+    },
+    "title": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#D3DBE9"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "vcr-osd-mono.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#D3DBE9",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
