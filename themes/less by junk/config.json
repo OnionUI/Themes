@@ -1,0 +1,44 @@
+{
+    "name": "less",
+    "author": "junk",
+    "description": "Another minimalist theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "CascadiaMono.ttf",
+        "size": 18,
+        "color": "#FFFFFF",
+        "onleft": true
+    },
+    "title": {
+        "font": "CascadiaMono.ttf",
+        "size": 36,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "CascadiaMono.ttf",
+        "size": 0,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "CascadiaMono.ttf",
+        "grid1x4": 20,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "CascadiaMonoPL.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    }
+}
