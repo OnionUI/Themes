@@ -1,0 +1,39 @@
+{
+    "name": "MiNook",
+    "author": "Deepslackerjazz",
+    "description": "Nook phone type theme with a crafty vibe",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Nunito-Regular.ttf",
+        "size": 25,
+        "color": "#bfbbb7"
+    },
+    "title": {
+        "font": "Nunito-Regular.ttf",
+        "size": 36,
+        "color": "#7e7770"
+    },
+    "hint": {
+        "font": "Nunito-Regular.ttf",
+        "size": 30,
+        "color": "#3f3327"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Nunito-Regular.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Nunito-Regular.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
