@@ -3,31 +3,31 @@
     "author": "PixelShift + Jeltron",
     "title": {
         "font": "pixelmix.otf",
-        "size": 36,
-        "color": "#FFFFFF"
+        "size": 24,
+        "color": "#bcffb4"
     },
     "hint": {
-        "font": "pixelmix.otf",
-        "size": 40,
-        "color": "#FFFFFF"
+        "font": "ChronoType.otf",
+        "size": 1,
+        "color": "#bcffb4"
     },
     "currentpage": {
-        "color": "#FFFFFF"
+        "color": "#1e694c"
     },
     "total": {
-        "color": "#FFFFFF"
+        "color": "#1e694c"
     },
     "grid": {
-        "font": "pixelmix.otf",
-        "grid1x4": 25,
+        "font": "ChronoType.otf",
+        "grid1x4": 36,
         "grid3x4": 18,
-        "color": "#686868",
-        "selectedcolor": "#FFFFFF"
+        "color": "#66c866",
+        "selectedcolor": "#bcffb4"
     },
     "list": {
         "font": "pixelmix.otf",
-        "size": 25,
-        "color": "#FFFFFF"
+        "size": 24,
+        "color": "#bcffb4"
     },
     "hideLabels": {
         "icons": true,
