@@ -76,6 +76,13 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip?raw=true">
+<img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
+<b>Onion Boy</b></a><br/>
+<sup><i>PixelShift + Jeltron</i></sup>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/MiNook%20Mini%20by%20Deepslackerjazz.zip?raw=true">
 <img title="Nook phone type theme with a crafty vibe" width="480px" src="themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>MiNook</b></a><br/>
@@ -88,6 +95,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>less</b></a><br/>
 <sup><i>junk</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/RPO%20by%20TheDewd.zip?raw=true">
@@ -95,7 +103,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Role Playing Onion</b></a><br/>
 <sup><i>TheDewd</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/BRCKD%20by%20Deepslackerjazz.zip?raw=true">
@@ -110,6 +117,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Onionboy HD</b></a><br/>
 <sup><i>Jeltron</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/End%20of%20Ages%20by%20apg313.zip?raw=true">
@@ -117,7 +125,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>End of Ages</b></a><br/>
 <sup><i>apg313</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/System%209%20by%20injekim.zip?raw=true">
@@ -132,6 +139,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>GRY64</b></a><br/>
 <sup><i>iamatrap</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Shadaloo%20%28SFA3%29%20by%20XCVNCE.zip?raw=true">
@@ -139,7 +147,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Shadaloo (SFA3)</b></a><br/>
 <sup><i>XCVNCE</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/BMO%20by%20OjninJo.zip?raw=true">
@@ -154,6 +161,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>MasterHacker</b></a><br/>
 <sup><i>Squ1d0ne</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Analogue%20by%20Aemiii91.zip?raw=true">
@@ -161,7 +169,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/TrimUI%20by%20Aemiii91.zip?raw=true">
@@ -176,6 +183,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Blueprint</b></a><br/>
 <sup><i>Aemiii91</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
@@ -183,7 +191,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>3DS mini</b></a><br/>
 <sup><i>MarsTaco</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/MajoraMi%20by%20apg313.zip?raw=true">
@@ -198,6 +205,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>GBC Pokedex</b></a><br/>
 <sup><i>Nxt.stop.please</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Zenburn%20by%20duckbeets.zip?raw=true">
@@ -205,7 +213,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Zenburn</b></a><br/>
 <sup><i>duckbeets</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/ChronoMi%20by%20apg313.zip?raw=true">
@@ -220,6 +227,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>GBMini</b></a><br/>
 <sup><i>Kitsuvi</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/GBOnion%20by%20Kitsuvi.zip?raw=true">
@@ -227,7 +235,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>GBOnion</b></a><br/>
 <sup><i>Kitsuvi</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Hyrule%20Dark%20by%20ruidacosta.zip?raw=true">
@@ -242,6 +249,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>EVA</b></a><br/>
 <sup><i>laumser7 + trere</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Animiyoo%20by%20laumser7.zip?raw=true">
@@ -249,7 +257,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Animiyoo</b></a><br/>
 <sup><i>laumser7</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip?raw=true">
@@ -264,6 +271,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>PSPmini Blue</b></a><br/>
 <sup><i>MarsTaco</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/PSPmini%20by%20MarsTaco.zip?raw=true">
@@ -271,7 +279,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>PSPmini</b></a><br/>
 <sup><i>MarsTaco</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Hippo%20Stock.zip?raw=true">
@@ -286,6 +293,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>MakoVII</b></a><br/>
 <sup><i>Gloomy_Background755</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Plastic%20Leaf%20%28NA%29%20by%20leafflat.zip?raw=true">
@@ -293,7 +301,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Plastic Leaf (NA)</b></a><br/>
 <sup><i>leafflat</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Plastic%20Leaf%20%28EU%29%20by%20leafflat.zip?raw=true">
@@ -308,6 +315,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>National Pokedex</b></a><br/>
 <sup><i>Vanta_black</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/GameMaster.zip?raw=true">
@@ -315,7 +323,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>GameMaster</b></a><br/>
 <sup><i>&nbsp;</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Miyoo%20blues.zip?raw=true">
@@ -330,6 +337,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Monster%20Hunter%20by%20Miyoo.zip?raw=true">
@@ -337,7 +345,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Monster Hunter</b></a><br/>
 <sup><i>Miyoo</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Aubergine%20by%20blueasis.zip?raw=true">
@@ -352,6 +359,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Codec</b></a><br/>
 <sup><i>ScarGutz</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Black%20Cotton%20Candy%20by%20PixelShift.zip?raw=true">
@@ -359,7 +367,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Black Cotton Candy</b></a><br/>
 <sup><i>PixelShift</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Business%20by%20Jim%20Gray.zip?raw=true">
@@ -374,6 +381,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Fuzzy Pickles!</b></a><br/>
 <sup><i>Updog</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Galaxy%20by%20PixelShift.zip?raw=true">
@@ -381,7 +389,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Galaxy</b></a><br/>
 <sup><i>PixelShift</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Miyoo%20Quest%20by%20y_oshid_a.zip?raw=true">
@@ -396,6 +403,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Lilla</b></a><br/>
 <sup><i>evolve</i></sup>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Oransje%20by%20evolve.zip?raw=true">
@@ -403,20 +411,12 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Oransje</b></a><br/>
 <sup><i>evolve</i></sup>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onichan%20by%20PixelShift.zip?raw=true">
 <img title="Onichan by PixelShift" width="480px" src="themes/Onichan%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onichan</b></a><br/>
 <sup><i>PixelShift</i></sup>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip?raw=true">
-<img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
-<b>Onion Boy</b></a><br/>
-<sup><i>PixelShift + Jeltron</i></sup>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>

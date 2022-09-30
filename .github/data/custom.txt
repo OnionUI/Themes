@@ -7,7 +7,6 @@ Switch by PixelShift
 Poketch by Lucario
 Onyan by PixelShift
 Onion Mini by Jeltron
-Onion Boy by PixelShift + Jeltron
 Onichan by PixelShift
 Oransje by evolve
 Lilla by evolve
@@ -54,3 +53,4 @@ BRCKD by Deepslackerjazz
 RPO by TheDewd
 less by junk
 MiNook Mini by Deepslackerjazz
+Onion Boy by PixelShift + Jeltron
