@@ -1,0 +1,36 @@
+{
+    "name": "Tema",
+    "author": "Alex Connor",
+    "title": {
+        "font": "novem___.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "novem___.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "novem___.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "novem___.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
