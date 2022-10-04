@@ -2,6 +2,8 @@
 
 import os
 import json
+import subprocess
+from datetime import datetime
 from urllib.parse import quote as _quote
 
 from string import Template
@@ -113,10 +115,16 @@ def generate_item(theme: str) -> str:
 
     release_url = f"release/{urlencode(theme)}.zip?raw=true"
 
+    git_result = subprocess.run(
+        ["git", "log", "-1", "--pretty=%cI", "--", dir_path],
+        stdout=subprocess.PIPE)
+    updated = datetime.fromisoformat(git_result.stdout.decode('utf-8').strip())
+
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
+        "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
     }
