@@ -117,6 +117,7 @@ def generate_item(theme: str) -> str:
 
     preview_url = f"{urlencode(theme_dir)}/preview.png?raw=true"
     release_url = f"release/{theme}.zip?raw=true"
+    history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
     git_result = subprocess.run(
         ["git", "log", "-1", "--pretty=%cI", dir_path],
@@ -134,6 +135,7 @@ def generate_item(theme: str) -> str:
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
+        "HISTORY_URL": history_url
     }
 
     with open(ITEM_TEMPLATE, "r", encoding="utf-8") as file:
