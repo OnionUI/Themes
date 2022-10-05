@@ -116,8 +116,8 @@ def generate_item(theme: str) -> str:
     release_url = f"release/{urlencode(theme)}.zip?raw=true"
 
     git_result = subprocess.run(
-        ["git", "log", "-1", "--pretty=%cI", "--", dir_path],
-        stdout=subprocess.PIPE)
+        ["git", "log", "-1", "--pretty=%cI", dir_path],
+        stdout=subprocess.PIPE, check=True)
     updated = datetime.fromisoformat(git_result.stdout.decode('utf-8').strip())
 
     item = {
