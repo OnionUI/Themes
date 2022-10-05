@@ -230,7 +230,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>3DS mini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-09-09</a></sup> &nbsp; <a href="themes/3DS%20mini%20by%20MarsTaco/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-09-09</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -255,7 +255,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Zenburn by duckbeets" width="480px" src="themes/Zenburn%20by%20duckbeets/preview.png?raw=true" /><br/>
 <b>Zenburn</b></a><br/>
 <sup><i>duckbeets</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn by duckbeets">2022-09-09</a></sup> &nbsp; <a href="themes/Zenburn%20by%20duckbeets/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn by duckbeets">2022-09-09</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -338,7 +338,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
 <b>Hippo Stock</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-09-09</a></sup> &nbsp; <a href="themes/Hippo%20Stock/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-09-09</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -380,7 +380,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GameMaster" width="480px" src="themes/GameMaster/preview.png?raw=true" /><br/>
 <b>GameMaster</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/GameMaster">2022-08-07</a></sup> &nbsp; <a href="themes/GameMaster/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/GameMaster">2022-08-07</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -388,7 +388,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-08-07</a></sup> &nbsp; <a href="themes/Miyoo%20blues/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-08-07</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -396,7 +396,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-08-07</a></sup> &nbsp; <a href="themes/Miyoo%20jazz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-08-07</a></sup></sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -584,7 +584,7 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
 <b>Zenburn 1.5</b></a><br/>
 <sup><i>duckbeets + Catz</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-09-09</a></sup> &nbsp; <a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-09-09</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -644,7 +644,7 @@ This section showcases the themes included with Onion.
 <img title="[Onion default theme]" width="480px" src="themes/Silky%20by%20DiMo/preview.png?raw=true" /><br/>
 <b>Silky</b></a><br/>
 <sup><i>DiMo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2022-09-09</a></sup> &nbsp; <a href="themes/Silky%20by%20DiMo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2022-09-09</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -702,7 +702,7 @@ This section showcases the themes included with Onion.
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-08-07</a></sup> &nbsp; <a href="themes/Miyoo%20blues/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-08-07</a></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -710,7 +710,7 @@ This section showcases the themes included with Onion.
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-08-07</a></sup> &nbsp; <a href="themes/Miyoo%20jazz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-08-07</a></sup></sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -727,7 +727,7 @@ This section showcases the themes included with Onion.
 <img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
 <b>Hippo Stock</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-09-09</a></sup> &nbsp; <a href="themes/Hippo%20Stock/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-09-09</a></sup></sub>
 </td>
 
 </tr></table>
