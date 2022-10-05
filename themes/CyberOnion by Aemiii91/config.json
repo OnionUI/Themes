@@ -1,0 +1,38 @@
+{
+    "name": "CyberOnion",
+    "author": "Aemiii91",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "size": 18,
+        "offsetX": -50
+    },
+    "title": {
+        "font": "unispace.ttf",
+        "size": 24,
+        "color": "#f80355"
+    },
+    "hint": {
+        "font": "unispace.ttf",
+        "size": 18,
+        "color": "#f80355"
+    },
+    "currentpage": {
+        "color": "#f80355"
+    },
+    "total": {
+        "color": "#f80355"
+    },
+    "grid": {
+        "font": "unispace.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#00ffd7",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
