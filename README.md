@@ -80,7 +80,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="CyberOnion by Aemiii91" width="480px" src="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-05</a></sup> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAemiii91+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -88,7 +90,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Tema by Alex Connor" width="480px" src="themes/Tema%20by%20Alex%20Connor/preview.png?raw=true" /><br/>
 <b>Tema</b></a><br/>
 <sup><i>Alex Connor</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-02" href="https://github.com/OnionUI/Themes/commits/main/themes/Tema by Alex Connor">2022-10-02</a></sup> &nbsp; <a href="themes/Tema%20by%20Alex%20Connor/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-02" href="https://github.com/OnionUI/Themes/commits/main/themes/Tema by Alex Connor">2022-10-02</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAlex%20Connor+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Tema%20by%20Alex%20Connor/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Tema%20by%20Alex%20Connor/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -96,7 +100,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Onion Boy DX by PixelShift" width="480px" src="themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onion Boy DX</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy DX by PixelShift">2022-10-03</a></sup> &nbsp; <a href="themes/Onion%20Boy%20DX%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy DX by PixelShift">2022-10-03</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Boy%20DX%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -105,7 +111,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Boy</b></a><br/>
 <sup><i>PixelShift + Jeltron</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy by PixelShift + Jeltron">2022-10-03</a></sup> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy by PixelShift + Jeltron">2022-10-03</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift%20%2B%20Jeltron+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -113,7 +121,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Nook phone type theme with a crafty vibe" width="480px" src="themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>MiNook</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-19" href="https://github.com/OnionUI/Themes/commits/main/themes/MiNook Mini by Deepslackerjazz">2022-09-19</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-19" href="https://github.com/OnionUI/Themes/commits/main/themes/MiNook Mini by Deepslackerjazz">2022-09-19</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ADeepslackerjazz+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -121,7 +131,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Another minimalist theme" width="480px" src="themes/less%20by%20junk/preview.png?raw=true" /><br/>
 <b>less</b></a><br/>
 <sup><i>junk</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-17" href="https://github.com/OnionUI/Themes/commits/main/themes/less by junk">2022-09-17</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-17" href="https://github.com/OnionUI/Themes/commits/main/themes/less by junk">2022-09-17</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ajunk+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/less%20by%20junk/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -130,7 +142,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Role Playing Onion</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/RPO by TheDewd">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/RPO by TheDewd">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ATheDewd+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/RPO%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -138,7 +152,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="BRCKD by Deepslackerjazz" width="480px" src="themes/BRCKD%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>BRCKD</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-11" href="https://github.com/OnionUI/Themes/commits/main/themes/BRCKD by Deepslackerjazz">2022-09-11</a></sup> &nbsp; <a href="themes/BRCKD%20by%20Deepslackerjazz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-11" href="https://github.com/OnionUI/Themes/commits/main/themes/BRCKD by Deepslackerjazz">2022-09-11</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ADeepslackerjazz+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/BRCKD%20by%20Deepslackerjazz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/BRCKD%20by%20Deepslackerjazz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -146,7 +162,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Higher res variant of OnionBoy" width="480px" src="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onionboy HD</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AJeltron+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -155,7 +173,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="End of Ages by apg313" width="480px" src="themes/End%20of%20Ages%20by%20apg313/preview.png?raw=true" /><br/>
 <b>End of Ages</b></a><br/>
 <sup><i>apg313</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-16" href="https://github.com/OnionUI/Themes/commits/main/themes/End of Ages by apg313">2022-08-16</a></sup> &nbsp; <a href="themes/End%20of%20Ages%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-16" href="https://github.com/OnionUI/Themes/commits/main/themes/End of Ages by apg313">2022-08-16</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aapg313+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/End%20of%20Ages%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/End%20of%20Ages%20by%20apg313/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -163,7 +183,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
 <b>System 9</b></a><br/>
 <sup><i>injekim</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ainjekim+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/System%209%20by%20injekim/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -171,7 +193,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GRY64 by iamatrap" width="480px" src="themes/gry64%20by%20iamatrap/preview.png?raw=true" /><br/>
 <b>GRY64</b></a><br/>
 <sup><i>iamatrap</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/gry64 by iamatrap">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/gry64 by iamatrap">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aiamatrap+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/gry64%20by%20iamatrap/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -180,7 +204,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Shadaloo (SFA3) by XCVNCE" width="480px" src="themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png?raw=true" /><br/>
 <b>Shadaloo (SFA3)</b></a><br/>
 <sup><i>XCVNCE</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Shadaloo (SFA3) by XCVNCE">2022-09-09</a></sup> &nbsp; <a href="themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Shadaloo (SFA3) by XCVNCE">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AXCVNCE+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -188,7 +214,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Who wants to play videogames!?" width="480px" src="themes/BMO%20by%20OjninJo/preview.png?raw=true" /><br/>
 <b>BMO</b></a><br/>
 <sup><i>OjninJo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/BMO by OjninJo">2022-09-09</a></sup> &nbsp; <a href="themes/BMO%20by%20OjninJo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/BMO by OjninJo">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AOjninJo+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/BMO%20by%20OjninJo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/BMO%20by%20OjninJo/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -196,7 +224,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="MasterHacker by Squ1d0ne" width="480px" src="themes/MasterHacker%20by%20Squ1d0ne/preview.png?raw=true" /><br/>
 <b>MasterHacker</b></a><br/>
 <sup><i>Squ1d0ne</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/MasterHacker by Squ1d0ne">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/MasterHacker by Squ1d0ne">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ASqu1d0ne+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/MasterHacker%20by%20Squ1d0ne/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -205,7 +235,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Minimalist theme inspired by Analogue OS" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAemiii91+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -213,7 +245,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="TrimUI theme port" width="480px" src="themes/TrimUI%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>TrimUI</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/TrimUI by Aemiii91">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/TrimUI by Aemiii91">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAemiii91+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/TrimUI%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -221,7 +255,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Theme layout with 10x10 grid" width="480px" src="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Blueprint</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Blueprint by Aemiii91">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Blueprint by Aemiii91">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAemiii91+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -230,7 +266,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>3DS mini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMarsTaco+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -238,7 +276,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="MajoraMi by apg313" width="480px" src="themes/MajoraMi%20by%20apg313/preview.png?raw=true" /><br/>
 <b>MajoraMi</b></a><br/>
 <sup><i>apg313</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/MajoraMi by apg313">2022-09-09</a></sup> &nbsp; <a href="themes/MajoraMi%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/MajoraMi by apg313">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aapg313+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/MajoraMi%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/MajoraMi%20by%20apg313/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -246,7 +286,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GBC Pokedex by Nxt.stop.please" width="480px" src="themes/GBC%20Pokedex%20by%20Nxt.stop.please/preview.png?raw=true" /><br/>
 <b>GBC Pokedex</b></a><br/>
 <sup><i>Nxt.stop.please</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBC Pokedex by Nxt.stop.please">2022-09-09</a></sup> &nbsp; <a href="themes/GBC%20Pokedex%20by%20Nxt.stop.please/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBC Pokedex by Nxt.stop.please">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ANxt.stop.please+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/GBC%20Pokedex%20by%20Nxt.stop.please/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/GBC%20Pokedex%20by%20Nxt.stop.please/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -255,7 +297,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Zenburn by duckbeets" width="480px" src="themes/Zenburn%20by%20duckbeets/preview.png?raw=true" /><br/>
 <b>Zenburn</b></a><br/>
 <sup><i>duckbeets</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn by duckbeets">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn by duckbeets">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aduckbeets+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Zenburn%20by%20duckbeets/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -263,7 +307,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="ChronoMi by apg313" width="480px" src="themes/ChronoMi%20by%20apg313/preview.png?raw=true" /><br/>
 <b>ChronoMi</b></a><br/>
 <sup><i>apg313</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/ChronoMi by apg313">2022-09-09</a></sup> &nbsp; <a href="themes/ChronoMi%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/ChronoMi by apg313">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aapg313+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/ChronoMi%20by%20apg313/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/ChronoMi%20by%20apg313/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -271,7 +317,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBMini</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AKitsuvi+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -280,7 +328,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GBOnion by Kitsuvi" width="480px" src="themes/GBOnion%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBOnion</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion by Kitsuvi">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion by Kitsuvi">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AKitsuvi+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/GBOnion%20by%20Kitsuvi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -288,7 +338,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Hyrule Dark by ruidacosta" width="480px" src="themes/Hyrule%20Dark%20by%20ruidacosta/preview.png?raw=true" /><br/>
 <b>Hyrule Dark</b></a><br/>
 <sup><i>ruidacosta</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hyrule Dark by ruidacosta">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Hyrule Dark by ruidacosta">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aruidacosta+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Hyrule%20Dark%20by%20ruidacosta/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -296,7 +348,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="EVA by laumser7 + trere" width="480px" src="themes/EVA%20by%20laumser7%20%2B%20trere/preview.png?raw=true" /><br/>
 <b>EVA</b></a><br/>
 <sup><i>laumser7 + trere</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/EVA by laumser7 + trere">2022-08-07</a></sup> &nbsp; <a href="themes/EVA%20by%20laumser7%20%2B%20trere/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/EVA by laumser7 + trere">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Alaumser7%20%2B%20trere+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/EVA%20by%20laumser7%20%2B%20trere/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/EVA%20by%20laumser7%20%2B%20trere/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -305,7 +359,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Animiyoo by laumser7" width="480px" src="themes/Animiyoo%20by%20laumser7/preview.png?raw=true" /><br/>
 <b>Animiyoo</b></a><br/>
 <sup><i>laumser7</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Animiyoo by laumser7">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Animiyoo by laumser7">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Alaumser7+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Animiyoo%20by%20laumser7/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -313,7 +369,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Super Onion Entertainment System by TheDewd" width="480px" src="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Super Onion Entertainment System</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2022-09-09</a></sup> &nbsp; <a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ATheDewd+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -321,7 +379,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="PSPmini Blue by MarsTaco" width="480px" src="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>PSPmini Blue</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/PSPmini Blue by MarsTaco">2022-09-09</a></sup> &nbsp; <a href="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/PSPmini Blue by MarsTaco">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMarsTaco+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -330,7 +390,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="PSPmini by MarsTaco" width="480px" src="themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>PSPmini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/PSPmini by MarsTaco">2022-09-09</a></sup> &nbsp; <a href="themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/PSPmini by MarsTaco">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMarsTaco+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -338,7 +400,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
 <b>Hippo Stock</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup> &nbsp; <a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -346,7 +410,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="MakoVII by Gloomy_Background755" width="480px" src="themes/MakoVII%20by%20Gloomy_Background755/preview.png?raw=true" /><br/>
 <b>MakoVII</b></a><br/>
 <sup><i>Gloomy_Background755</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/MakoVII by Gloomy_Background755">2022-08-07</a></sup> &nbsp; <a href="themes/MakoVII%20by%20Gloomy_Background755/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/MakoVII by Gloomy_Background755">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AGloomy_Background755+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/MakoVII%20by%20Gloomy_Background755/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/MakoVII%20by%20Gloomy_Background755/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -355,7 +421,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Plastic Leaf (NA) by leafflat" width="480px" src="themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/preview.png?raw=true" /><br/>
 <b>Plastic Leaf (NA)</b></a><br/>
 <sup><i>leafflat</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Plastic Leaf (NA) by leafflat">2022-08-07</a></sup> &nbsp; <a href="themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Plastic Leaf (NA) by leafflat">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aleafflat+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -363,7 +431,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Plastic Leaf (EU) by leafflat" width="480px" src="themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/preview.png?raw=true" /><br/>
 <b>Plastic Leaf (EU)</b></a><br/>
 <sup><i>leafflat</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Plastic Leaf (EU) by leafflat">2022-08-07</a></sup> &nbsp; <a href="themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Plastic Leaf (EU) by leafflat">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aleafflat+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -371,7 +441,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="National Pokedex by Vanta_black" width="480px" src="themes/National%20Pokedex%20by%20Vanta_black/preview.png?raw=true" /><br/>
 <b>National Pokedex</b></a><br/>
 <sup><i>Vanta_black</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/National Pokedex by Vanta_black">2022-08-07</a></sup> &nbsp; <a href="themes/National%20Pokedex%20by%20Vanta_black/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/National Pokedex by Vanta_black">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AVanta_black+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/National%20Pokedex%20by%20Vanta_black/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/National%20Pokedex%20by%20Vanta_black/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -380,7 +452,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="GameMaster" width="480px" src="themes/GameMaster/preview.png?raw=true" /><br/>
 <b>GameMaster</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/GameMaster">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/GameMaster">2022-10-05</a></sup> &nbsp; <a href="themes/GameMaster/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -388,7 +462,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-10-05</a></sup> &nbsp; <a href="themes/Miyoo%20blues/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -396,7 +472,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-10-05</a></sup> &nbsp; <a href="themes/Miyoo%20jazz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -405,7 +483,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Monster Hunter by Miyoo" width="480px" src="themes/Monster%20Hunter%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>Monster Hunter</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Monster Hunter by Miyoo">2022-08-07</a></sup> &nbsp; <a href="themes/Monster%20Hunter%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Monster Hunter by Miyoo">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMiyoo+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Monster%20Hunter%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Monster%20Hunter%20by%20Miyoo/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -413,7 +493,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Aubergine by blueasis" width="480px" src="themes/Aubergine%20by%20blueasis/preview.png?raw=true" /><br/>
 <b>Aubergine</b></a><br/>
 <sup><i>blueasis</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Aubergine by blueasis">2022-09-09</a></sup> &nbsp; <a href="themes/Aubergine%20by%20blueasis/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Aubergine by blueasis">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ablueasis+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Aubergine%20by%20blueasis/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Aubergine%20by%20blueasis/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -421,7 +503,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Codec by ScarGutz" width="480px" src="themes/Codec%20by%20ScarGutz/preview.png?raw=true" /><br/>
 <b>Codec</b></a><br/>
 <sup><i>ScarGutz</i></sup><br>
-<sub><sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Codec by ScarGutz">2022-08-07</a></sup> &nbsp; <a href="themes/Codec%20by%20ScarGutz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-08-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Codec by ScarGutz">2022-08-07</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AScarGutz+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Codec%20by%20ScarGutz/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Codec%20by%20ScarGutz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -430,7 +514,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Black Cotton Candy by PixelShift" width="480px" src="themes/Black%20Cotton%20Candy%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Black Cotton Candy</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Black Cotton Candy by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Black%20Cotton%20Candy%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Black Cotton Candy by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Black%20Cotton%20Candy%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Black%20Cotton%20Candy%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -438,7 +524,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Business by Jim Gray" width="480px" src="themes/Business%20by%20Jim%20Gray/preview.png?raw=true" /><br/>
 <b>Business</b></a><br/>
 <sup><i>Jim Gray</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Business by Jim Gray">2022-09-09</a></sup> &nbsp; <a href="themes/Business%20by%20Jim%20Gray/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Business by Jim Gray">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AJim%20Gray+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Business%20by%20Jim%20Gray/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Business%20by%20Jim%20Gray/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -446,7 +534,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Fuzzy Pickles! by Updog" width="480px" src="themes/Fuzzy%20Pickles%21%20by%20Updog/preview.png?raw=true" /><br/>
 <b>Fuzzy Pickles!</b></a><br/>
 <sup><i>Updog</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Fuzzy Pickles! by Updog">2022-09-09</a></sup> &nbsp; <a href="themes/Fuzzy%20Pickles%21%20by%20Updog/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Fuzzy Pickles! by Updog">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AUpdog+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Fuzzy%20Pickles%21%20by%20Updog/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Fuzzy%20Pickles%21%20by%20Updog/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -455,7 +545,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Galaxy by PixelShift" width="480px" src="themes/Galaxy%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Galaxy</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Galaxy by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Galaxy%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Galaxy by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Galaxy%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Galaxy%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -463,7 +555,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Miyoo Quest by y_oshid_a" width="480px" src="themes/Miyoo%20Quest%20by%20y_oshid_a/preview.png?raw=true" /><br/>
 <b>Miyoo Quest</b></a><br/>
 <sup><i>y_oshid_a</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo Quest by y_oshid_a">2022-09-09</a></sup> &nbsp; <a href="themes/Miyoo%20Quest%20by%20y_oshid_a/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo Quest by y_oshid_a">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ay_oshid_a+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Miyoo%20Quest%20by%20y_oshid_a/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Miyoo%20Quest%20by%20y_oshid_a/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -471,7 +565,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Lilla by evolve" width="480px" src="themes/Lilla%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Lilla</b></a><br/>
 <sup><i>evolve</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Lilla by evolve">2022-09-09</a></sup> &nbsp; <a href="themes/Lilla%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Lilla by evolve">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aevolve+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Lilla%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Lilla%20by%20evolve/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -480,7 +576,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Oransje by evolve" width="480px" src="themes/Oransje%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Oransje</b></a><br/>
 <sup><i>evolve</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Oransje by evolve">2022-09-09</a></sup> &nbsp; <a href="themes/Oransje%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Oransje by evolve">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aevolve+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Oransje%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Oransje%20by%20evolve/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -488,7 +586,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Onichan by PixelShift" width="480px" src="themes/Onichan%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onichan</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onichan by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Onichan%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onichan by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onichan%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onichan%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -496,7 +596,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Onion Mini by Jeltron" width="480px" src="themes/Onion%20Mini%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Mini</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Mini by Jeltron">2022-09-09</a></sup> &nbsp; <a href="themes/Onion%20Mini%20by%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Mini by Jeltron">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AJeltron+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Mini%20by%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Mini%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -505,7 +607,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Onyan by PixelShift" width="480px" src="themes/Onyan%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onyan</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onyan by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Onyan%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onyan by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onyan%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onyan%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -513,7 +617,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Pokétch by Lucario" width="480px" src="themes/Poketch%20by%20Lucario/preview.png?raw=true" /><br/>
 <b>Pokétch</b></a><br/>
 <sup><i>Lucario</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Poketch by Lucario">2022-09-09</a></sup> &nbsp; <a href="themes/Poketch%20by%20Lucario/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Poketch by Lucario">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ALucario+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Poketch%20by%20Lucario/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Poketch%20by%20Lucario/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -521,7 +627,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="2022 Stock by Miyoo" width="480px" src="themes/2022%20Stock%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>2022 Stock</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/2022 Stock by Miyoo">2022-09-09</a></sup> &nbsp; <a href="themes/2022%20Stock%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/2022 Stock by Miyoo">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMiyoo+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/2022%20Stock%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/2022%20Stock%20by%20Miyoo/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -530,7 +638,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="2021 Stock by Miyoo" width="480px" src="themes/2021%20Stock%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>2021 Stock</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/2021 Stock by Miyoo">2022-09-09</a></sup> &nbsp; <a href="themes/2021%20Stock%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/2021 Stock by Miyoo">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AMiyoo+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/2021%20Stock%20by%20Miyoo/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/2021%20Stock%20by%20Miyoo/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -538,7 +648,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Switch by PixelShift" width="480px" src="themes/Switch%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Switch</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Switch by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Switch%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Switch by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Switch%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Switch%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -546,7 +658,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Synthwave by Ritual" width="480px" src="themes/Synthwave%20by%20Ritual/preview.png?raw=true" /><br/>
 <b>Synthwave</b></a><br/>
 <sup><i>Ritual</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Synthwave by Ritual">2022-09-09</a></sup> &nbsp; <a href="themes/Synthwave%20by%20Ritual/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Synthwave by Ritual">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ARitual+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Synthwave%20by%20Ritual/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Synthwave%20by%20Ritual/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -555,7 +669,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Wavedash by historymaker118" width="480px" src="themes/Wavedash%20by%20historymaker118/preview.png?raw=true" /><br/>
 <b>Wavedash</b></a><br/>
 <sup><i>historymaker118</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Wavedash by historymaker118">2022-09-09</a></sup> &nbsp; <a href="themes/Wavedash%20by%20historymaker118/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Wavedash by historymaker118">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ahistorymaker118+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Wavedash%20by%20historymaker118/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Wavedash%20by%20historymaker118/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -563,7 +679,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="BirdShot by historymaker118" width="480px" src="themes/BirdShot%20by%20historymaker118/preview.png?raw=true" /><br/>
 <b>BirdShot</b></a><br/>
 <sup><i>historymaker118</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/BirdShot by historymaker118">2022-09-09</a></sup> &nbsp; <a href="themes/BirdShot%20by%20historymaker118/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/BirdShot by historymaker118">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ahistorymaker118+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/BirdShot%20by%20historymaker118/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/BirdShot%20by%20historymaker118/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 
 </tr></table>
@@ -584,7 +702,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
 <b>Zenburn 1.5</b></a><br/>
 <sup><i>duckbeets + Catz</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aduckbeets%20%2B%20Catz+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -592,7 +712,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Recolor by andresandiah" width="480px" src="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true" /><br/>
 <b>GBOnion Dark</b></a><br/>
 <sup><i>Kitsuvi + andresandiah</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Dark by Kitsuvi + andresandiah">2022-09-09</a></sup> &nbsp; <a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Dark by Kitsuvi + andresandiah">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AKitsuvi%20%2B%20andresandiah+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -600,7 +722,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Recolor by Moontorc" width="480px" src="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true" /><br/>
 <b>Red Onion</b></a><br/>
 <sup><i>PixelShift + Jeltron + Moontorc</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Red Onion by PixelShift + Jeltron + Moontorc">2022-09-09</a></sup> &nbsp; <a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Red Onion by PixelShift + Jeltron + Moontorc">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift%20%2B%20Jeltron%20%2B%20Moontorc+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -609,7 +733,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Recolor by TechDevangelist" width="480px" src="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/preview.png?raw=true" /><br/>
 <b>Onionboy HD Gray</b></a><br/>
 <sup><i>Jeltron + TechDevangelist</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD Gray by Jeltron + TechDevangelist">2022-09-09</a></sup> &nbsp; <a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD Gray by Jeltron + TechDevangelist">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AJeltron%20%2B%20TechDevangelist+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -617,7 +743,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Recolor by H9L" width="480px" src="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/preview.png?raw=true" /><br/>
 <b>Onion Boy Pocket</b></a><br/>
 <sup><i>PixelShift + H9L</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Pocket by PixelShift + H9K">2022-09-09</a></sup> &nbsp; <a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Pocket by PixelShift + H9K">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift%20%2B%20H9L+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -625,7 +753,9 @@ This section showcases theme remixes made by the community and approved by the o
 <img title="Contrast edit by PixelShift" width="480px" src="themes/Onion%20Boy%20Dark%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onion Boy Dark</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Dark by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Onion%20Boy%20Dark%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Dark by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Boy%20Dark%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Boy%20Dark%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 
 </tr></table>
@@ -644,7 +774,9 @@ This section showcases the themes included with Onion.
 <img title="[Onion default theme]" width="480px" src="themes/Silky%20by%20DiMo/preview.png?raw=true" /><br/>
 <b>Silky</b></a><br/>
 <sup><i>DiMo</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3ADiMo+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Silky%20by%20DiMo/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -652,7 +784,9 @@ This section showcases the themes included with Onion.
 <img title="Minimalist theme inspired by Analogue OS" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AAemiii91+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -660,7 +794,9 @@ This section showcases the themes included with Onion.
 <img title="Higher res variant of OnionBoy" width="480px" src="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onionboy HD</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-09-09</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AJeltron+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -669,7 +805,9 @@ This section showcases the themes included with Onion.
 <img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
 <b>System 9</b></a><br/>
 <sup><i>injekim</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Ainjekim+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/System%209%20by%20injekim/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -677,7 +815,9 @@ This section showcases the themes included with Onion.
 <img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBMini</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3AKitsuvi+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -685,7 +825,9 @@ This section showcases the themes included with Onion.
 <img title="Switch by PixelShift" width="480px" src="themes/Switch%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Switch</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Switch by PixelShift">2022-09-09</a></sup> &nbsp; <a href="themes/Switch%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Switch by PixelShift">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Switch%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Switch%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -694,7 +836,9 @@ This section showcases the themes included with Onion.
 <img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Boy</b></a><br/>
 <sup><i>PixelShift + Jeltron</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy by PixelShift + Jeltron">2022-10-03</a></sup> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy by PixelShift + Jeltron">2022-10-03</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3APixelShift%20%2B%20Jeltron+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -702,7 +846,9 @@ This section showcases the themes included with Onion.
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo blues">2022-10-05</a></sup> &nbsp; <a href="themes/Miyoo%20blues/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -710,7 +856,9 @@ This section showcases the themes included with Onion.
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo jazz">2022-10-05</a></sup> &nbsp; <a href="themes/Miyoo%20jazz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 </tr><tr>
 <td align="center" valign="top">
@@ -719,7 +867,9 @@ This section showcases the themes included with Onion.
 <img title="Lilla by evolve" width="480px" src="themes/Lilla%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Lilla</b></a><br/>
 <sup><i>evolve</i></sup><br>
-<sub><sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Lilla by evolve">2022-09-09</a></sup> &nbsp; <a href="themes/Lilla%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Lilla by evolve">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3Aevolve+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="View themes by this author"></a> &nbsp; <a href="themes/Lilla%20by%20evolve/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a> &nbsp; <a href="themes/Lilla%20by%20evolve/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -727,7 +877,9 @@ This section showcases the themes included with Onion.
 <img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
 <b>Hippo Stock</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
-<sub><sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup></sub>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup> &nbsp; <a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
 </td>
 
 </tr></table>

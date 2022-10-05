@@ -27,6 +27,9 @@ ITEM_TEMPLATE = from_src("template/item.template.html")
 BGM_ICON_URL = "https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png"
 BGM_ICON = f"<img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Has custom background music (Click to download MP3)\">"
 
+AUTHOR_ICON_URL = "https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png"
+AUTHOR_ICON = f"<img src=\"{AUTHOR_ICON_URL}\" width=\"16\" title=\"View themes by this author\">"
+
 COLUMNS = 3
 
 urlencode = lambda s: _quote(s, safe="/?&=_-")
@@ -132,6 +135,7 @@ def generate_item(theme: str) -> str:
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
+        "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A{urlencode(author)}+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
