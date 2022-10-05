@@ -24,6 +24,8 @@ README_TEMPLATE = from_src("template/README.template.md")
 GRID_TEMPLATE = from_src("template/grid.template.html")
 ITEM_TEMPLATE = from_src("template/item.template.html")
 
+BGM_ICON_URL = "https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png"
+
 COLUMNS = 3
 
 urlencode = lambda s: _quote(s, safe="/?&=_-")
@@ -108,22 +110,26 @@ def generate_item(theme: str) -> str:
     if not title:
         title = f"{name} by {author}" if author else name
 
-    preview_url = f"themes/{urlencode(theme)}/"
+    theme_dir = f"themes/{theme}"
     if has_subdirs:
-        preview_url += urlencode(get_subdirs(dir_path)[0]) + "/"
-    preview_url += "preview.png?raw=true"
+        theme_dir += "/" + get_subdirs(dir_path)[0]
 
-    release_url = f"release/{urlencode(theme)}.zip?raw=true"
+    preview_url = f"{urlencode(theme_dir)}/preview.png?raw=true"
+    release_url = f"release/{theme}.zip?raw=true"
 
     git_result = subprocess.run(
         ["git", "log", "-1", "--pretty=%cI", dir_path],
         stdout=subprocess.PIPE, check=True)
     updated = datetime.fromisoformat(git_result.stdout.decode('utf-8').strip())
 
+    bgm_path = from_src(f"../{theme_dir}/sound/bgm.mp3")
+    has_bgm = os.path.isfile(bgm_path)
+
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
+        "HAS_BGM": f" &nbsp; <img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Custom background music\">" if has_bgm else "",
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
