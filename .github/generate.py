@@ -130,7 +130,7 @@ def generate_item(theme: str) -> str:
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
-        "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3\">{BGM_ICON}</a>" if has_bgm else "",
+        "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
