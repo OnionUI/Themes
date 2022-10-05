@@ -135,7 +135,7 @@ def generate_item(theme: str) -> str:
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
-        "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A\\\"{urlencode(author)}\\\"+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
+        "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
