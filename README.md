@@ -130,7 +130,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Role Playing Onion</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
-<sub><sup><i title="Last updated: 2022-09-17">2022-09-17</i></sup> &nbsp; <a href="themes/RPO%20by%20TheDewd/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Has custom background music (Click to download MP3)"></a></sub>
+<sub><sup><i title="Last updated: 2022-09-17">2022-09-17</i></sup></sub>
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
