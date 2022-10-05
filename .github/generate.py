@@ -25,6 +25,7 @@ GRID_TEMPLATE = from_src("template/grid.template.html")
 ITEM_TEMPLATE = from_src("template/item.template.html")
 
 BGM_ICON_URL = "https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png"
+BGM_ICON = f"<img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Custom background music\">"
 
 COLUMNS = 3
 
@@ -129,7 +130,7 @@ def generate_item(theme: str) -> str:
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
-        "HAS_BGM": f" &nbsp; <img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Custom background music\">" if has_bgm else "",
+        "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3\">{BGM_ICON}</a>" if has_bgm else "",
         "UPDATED": updated.strftime("%Y-%m-%d"),
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
