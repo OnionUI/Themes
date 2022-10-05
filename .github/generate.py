@@ -25,7 +25,7 @@ GRID_TEMPLATE = from_src("template/grid.template.html")
 ITEM_TEMPLATE = from_src("template/item.template.html")
 
 BGM_ICON_URL = "https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png"
-BGM_ICON = f"<img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Custom background music\">"
+BGM_ICON = f"<img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Has custom background music (Click to download MP3)\">"
 
 COLUMNS = 3
 
