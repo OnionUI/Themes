@@ -81,6 +81,7 @@ def clean_unused_images(theme_dir, allow_system: bool = False):
                 shutil.move(restore_path, trash_dir)
                 os.rename(file_path, restore_path)
                 print(f"restored: 'power-full-icon' ({theme})")
+                continue
 
             if name not in whitelist:
                 if name in whitelist_extra:

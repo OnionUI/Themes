@@ -1,0 +1,46 @@
+{
+    "name": "DNTSHP",
+    "author": "Deepslackerjazz",
+    "description": "Old school donut shop in pixel form",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "DonutShop-Regular.otf",
+        "size": 25,
+        "color": "#e0a85e",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "title": {
+        "font": "DonutShop-Regular.otf",
+        "size": 40,
+        "color": "#39161e"
+    },
+    "hint": {
+        "font": "DonutShop-Regular.otf",
+        "size": 28,
+        "color": "#e0a85e"
+    },
+    "currentpage": {
+        "color": "#e0a85e"
+    },
+    "total": {
+        "color": "#39161e"
+    },
+    "grid": {
+        "font": "DonutShop-Regular.otf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#39161e",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "DonutShop-Regular.otf",
+        "size": 20,
+        "color": "#39161e"
+    }
+}

@@ -125,7 +125,8 @@ def generate_item(theme: str) -> str:
     git_result = subprocess.run(
         ["git", "log", "-1", "--pretty=%cI", dir_path],
         stdout=subprocess.PIPE, check=True)
-    updated = datetime.fromisoformat(git_result.stdout.decode('utf-8').strip())
+    datestr = git_result.stdout.decode('utf-8').strip()
+    last_updated = datetime.fromisoformat(datestr).strftime("%Y-%m-%d") if datestr else ""
 
     bgm_path = from_src(f"../{theme_dir}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
@@ -136,7 +137,7 @@ def generate_item(theme: str) -> str:
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
-        "UPDATED": updated.strftime("%Y-%m-%d"),
+        "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
         "HISTORY_URL": history_url
