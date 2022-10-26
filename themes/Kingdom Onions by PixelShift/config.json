@@ -1,0 +1,42 @@
+{
+    "name": "Kingdom Onions",
+    "author": "PixelShift",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "size": 32,
+        "offsetX": -10
+    },
+    "title": {
+        "font": "DFPW5_EUR.ttf",
+        "size": 28,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "KH2_ALL_MENU_I.otf",
+        "size": 28,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "DFPW5_EUR.ttf",
+        "grid1x4": 23,
+        "grid3x4": 23,
+        "color": "#888888",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "DFPW5_EUR.ttf",
+        "size": 28,
+        "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}

@@ -76,12 +76,12 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Kingdom Onions by Pixelshift.zip?raw=true">
-<img title="Kingdom Onions by PixelShift" width="480px" src="themes/Kingdom%20Onions%20by%20Pixelshift/preview.png?raw=true" /><br/>
+<a href="release/Kingdom Onions by PixelShift.zip?raw=true">
+<img title="Kingdom Onions by PixelShift" width="480px" src="themes/Kingdom%20Onions%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Kingdom Onions</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-10-26" href="https://github.com/OnionUI/Themes/commits/main/themes/Kingdom Onions by Pixelshift">2022-10-26</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Kingdom%20Onions%20by%20Pixelshift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Kingdom%20Onions%20by%20Pixelshift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Kingdom Onions by PixelShift"></a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Kingdom%20Onions%20by%20PixelShift/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Kingdom%20Onions%20by%20PixelShift/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
