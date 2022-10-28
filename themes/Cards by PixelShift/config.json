@@ -1,0 +1,42 @@
+{
+    "name": "Cards",
+    "author": "PixelShift",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#ffffff",
+        "size": 32,
+        "offsetX": -10
+    },
+    "title": {
+        "font": "BabyDoll.ttf",
+        "size": 34,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "BabyDoll.ttf",
+        "size": 34,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "Handwriting.ttf",
+        "grid1x4": 23,
+        "grid3x4": 23,
+        "color": "#A60000",
+        "selectedcolor": "#FEECEA"
+    },
+    "list": {
+        "font": "Handwriting.ttf",
+        "size": 32,
+        "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    }
+}
