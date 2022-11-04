@@ -1,0 +1,43 @@
+{
+    "name": "NanoSwitch Dark",
+    "author": "Amdy",
+    "description": "Minimalist theme",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#d1d1d1",
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "onleft": true
+    },
+    "title": {
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "color": "#d1d1d1"
+    },
+    "hint": {
+        "font": "Poppins-Regular.ttf",
+        "size": 1,
+        "color": "#424242"
+    },
+    "currentpage": {
+        "color": "#d1d1d1"
+    },
+    "total": {
+        "color": "#d1d1d1"
+    },
+    "grid": {
+        "font": "Poppins-Regular.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#d1d1d1"
+    },
+    "list": {
+        "font": "Poppins-Regular.ttf",
+        "size": 20,
+        "color": "#d1d1d1"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}

@@ -118,7 +118,10 @@ def generate_item(theme: str) -> str:
     if has_subdirs:
         theme_dir += "/" + get_subdirs(dir_path)[0]
 
-    preview_url = f"{urlencode(theme_dir)}/preview.png?raw=true"
+    if os.path.exists(f"themes/{theme}/preview.png"):
+        preview_url = f"themes/{urlencode(theme)}/preview.png?raw=true"
+    else:
+        preview_url = f"{urlencode(theme_dir)}/preview.png?raw=true"
     release_url = f"release/{theme}.zip?raw=true"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
