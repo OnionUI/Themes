@@ -81,7 +81,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>NanoSwitch</b></a><br/>
 <sup><i>Amdy</i></sup><br>
 <sub>
-<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch by Amdy"></a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/NanoSwitch%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-11-04" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch by Amdy">2022-11-04</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/NanoSwitch%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -108,11 +108,11 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/CyberOnion by Aemiii91.zip?raw=true">
-<img title="CyberOnion by Aemiii91" width="480px" src="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<img title="CyberOnion by Aemiii91" width="480px" src="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-10-11" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-11</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-10-11" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-11</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -748,11 +748,11 @@ This section showcases the themes included with Onion.
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/CyberOnion by Aemiii91.zip?raw=true">
-<img title="CyberOnion by Aemiii91" width="480px" src="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/preview.png?raw=true" /><br/>
+<img title="CyberOnion by Aemiii91" width="480px" src="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-10-11" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-11</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-10-11" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion by Aemiii91">2022-10-11</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/CyberOnion%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
