@@ -21,14 +21,14 @@
     },
     "hint": {
         "font": "vcr-osd-mono.ttf",
-        "size": 22,
+        "size": 1,
         "color": "#FFFFFF"
     },
     "currentpage": {
-        "color": "#757575"
+        "color": "#C5C3D1"
     },
     "total": {
-        "color": "#444444"
+        "color": "#C5C3D1"
     },
     "grid": {
         "font": "vcr-osd-mono.ttf",
