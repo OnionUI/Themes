@@ -75,7 +75,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
             if os.path.basename(root) == ".trash":
                 continue
             for file in files:
-                if root == src_path and file == "preview.png":
+                if has_subdirs and root == src_path and file == "preview.png":
                     continue
                 file_path = os.path.join(root, file)
                 zf.write(file_path, file_path[rel_index:])
