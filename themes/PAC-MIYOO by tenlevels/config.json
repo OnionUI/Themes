@@ -31,8 +31,8 @@
         "color": "#dcdcdc"
     },
     "list": {
-        "font": "RetroGaming.ttf",
-        "size": 20,
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.tt",
+        "size": 24,
         "color": "#dcdcdc"
     },
     "hideLabels": {
