@@ -1,0 +1,44 @@
+{
+    "name": "Contra Miyoo",
+    "author": "tenlevels",
+    "description": "Contra NES inspired theme",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#c4c4c4",
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 16,
+        "onleft": true
+    },
+    "title": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 16,
+        "color": "#c4c4c4"
+    },
+    "hint": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 1,
+        "color": "#0a0a0a"
+    },
+    "currentpage": {
+        "color": "#0a0a0a"
+    },
+    "total": {
+        "color": "#0a0a0a"
+    },
+    "grid": {
+        "font": "RetroGaming-CAPS.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#c4c4c4",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#c4c4c4"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
