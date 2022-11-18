@@ -4,17 +4,17 @@
     "batteryPercentage": {
         "visible": true,
         "color": "#dcdcdc",
-        "font": "RetroGaming.ttf",
+        "font": "RetroGaming-CAPS.ttf",
         "size": 20,
         "onleft": true
     },
     "title": {
-        "font": "RetroGaming.ttf",
+        "font": "RetroGaming-CAPS.ttf",
         "size": 20,
         "color": "#dcdcdc"
     },
     "hint": {
-        "font": "RetroGaming.ttf",
+        "font": "RetroGaming-CAPS.ttf",
         "size": 1,
         "color": "#0a0a0a"
     },
@@ -25,7 +25,7 @@
         "color": "#0a0a0a"
     },
     "grid": {
-        "font": "RetroGaming.ttf",
+        "font": "RetroGaming-CAPS.ttf",
         "grid1x4": 20,
         "grid3x4": 20,
         "color": "#dcdcdc"
