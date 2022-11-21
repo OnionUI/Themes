@@ -1,0 +1,44 @@
+{
+    "name": "Super Mariyoo",
+    "author": "tenlevels",
+    "description": "Super Mario NES inspired theme",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#c4c4c4",
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 16,
+        "onleft": true
+    },
+    "title": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 15,
+        "color": "#fcbcb4"
+    },
+    "hint": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 1,
+        "color": "#c4c4c4"
+    },
+    "currentpage": {
+        "color": "#0a0a0a"
+    },
+    "total": {
+        "color": "#0a0a0a"
+    },
+    "grid": {
+        "font": "RetroGaming-CAPS.ttf",
+        "grid1x4": 17,
+        "grid3x4": 17,
+        "color": "#c4c4c4",
+        "selectedcolor": "#dc2c04"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
