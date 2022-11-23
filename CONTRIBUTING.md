@@ -18,4 +18,4 @@ Submit your theme by sending it to [Aemiii91](https://www.reddit.com/user/Aemiii
 
 ## Tips and Tools
 
-You can find some resources on creating custom themes in [the Onion wiki](https://github.com/OnionUI/Onion/wiki/4.-Custom-Themes).
+You can find some resources on creating custom themes in [the Onion wiki](https://github.com/OnionUI/Onion/wiki/Theme-Design).
