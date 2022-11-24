@@ -1,0 +1,44 @@
+{
+    "name": "Miyoo Slug",
+    "author": "tenlevels",
+    "description": "Metal Slug inspired theme",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#FAF9F6",
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 16,
+        "onleft": true
+    },
+    "title": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 16,
+        "color": "#ecdcac"
+    },
+    "hint": {
+        "font": "RetroGaming-CAPS.ttf",
+        "size": 1,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "RetroGaming-CAPS.ttf",
+        "grid1x4": 17,
+        "grid3x4": 17,
+        "color": "#6c5c4c",
+        "selectedcolor": "#ecdcac"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#ecdcac"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
