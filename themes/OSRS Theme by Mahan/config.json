@@ -1,0 +1,36 @@
+{
+    "name": "OSRS Theme",
+    "author": "Mahan",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#000"
+    },
+    "title": {
+        "font": "pixelmix.otf",
+        "size": 24,
+        "color": "#ffff00"
+    },
+    "hint": {
+        "font": "ChronoType.otf",
+        "size": 40,
+        "color": "#ffff00"
+    },
+    "currentpage": {
+        "color": "#ffff00"
+    },
+    "total": {
+        "color": "#ffff00"
+    },
+    "grid": {
+        "font": "ChronoType.otf",
+        "grid1x4": 36,
+        "grid3x4": 18,
+        "color": "#ffff00",
+        "selectedcolor": "#ffff10"
+    },
+    "list": {
+        "font": "pixelmix.otf",
+        "size": 24,
+        "color": "#ffff00"
+    }
+}
