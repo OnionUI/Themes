@@ -1,0 +1,38 @@
+{
+    "name": "Cyberpunk",
+    "author": "dreams897",
+    "description": "[Cyberpunk 2077 inspired theme]",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#fff700",
+        "onleft": true
+    },
+    "title": {
+        "font": "Hacked-KerX.ttf",
+        "size": 30,
+        "color": "#fff700"
+    },
+    "hint": {
+        "font": "Hacked-KerX.ttf",
+        "size": 40,
+        "color": "#02dce9"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Hacked-KerX.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#00dce9",
+        "selectedcolor": "#f76550"
+    },
+    "list": {
+        "font": "Hacked-KerX.ttf",
+        "size": 28,
+        "color": "#f76550"
+    }
+}
