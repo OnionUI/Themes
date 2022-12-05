@@ -1,0 +1,44 @@
+{
+    "name": "Miyoo Truxton",
+    "author": "tenlevels",
+    "description": "Truxton inspired theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "font": "Primus Bold.otf",
+        "size": 18,
+        "onleft": true
+    },
+    "title": {
+        "font": "Primus Bold.otf",
+        "size": 22,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Primus Bold.otf",
+        "size": 16,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#7f7f7f"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Primus Bold.otf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#7f7f7f",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Primus Regular.otf",
+        "size": 22,
+        "color": "#FFFFFF"
+    }
+}
