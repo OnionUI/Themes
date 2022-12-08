@@ -1,0 +1,44 @@
+{
+    "name": "TRON",
+    "author": "tenlevels",
+    "description": "Tron Legacy inspired theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#04E4EC",
+        "font": "PrimusBoldCaps.ttf",
+        "size": 18,
+        "onleft": true
+    },
+    "title": {
+        "font": "PrimusBoldCaps.ttf",
+        "size": 22,
+        "color": "#04E4EC"
+    },
+    "hint": {
+        "font": "Primus Regular.otf",
+        "size": 16,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#04E4EC"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "PrimusRegularCaps.ttf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#646464",
+        "selectedcolor": "#04E4EC"
+    },
+    "list": {
+        "font": "Primus Regular.otf",
+        "size": 22,
+        "color": "#FFFFFF"
+    }
+}
