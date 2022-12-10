@@ -1,0 +1,46 @@
+{
+    "name": "TTYD",
+    "author": "Kryobear",
+    "description": "Theme layout with 10x10 grid",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "heygorgeous.ttf",
+        "size": 25,
+        "color": "#ffffff",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "heygorgeous.ttf",
+        "size": 21,
+        "color": "rgba(255,255,255,0.05)"
+    },
+    "hint": {
+        "font": "heygorgeous.ttf",
+        "size": 8,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "rgba(255,255,255,0.1)"
+    },
+    "total": {
+        "color": "rgba(255,255,255,0.08)"
+    },
+    "grid": {
+        "font": "heygorgeous.ttf",
+        "grid1x4": 17,
+        "grid3x4": 20,
+        "color": "#b01d1d",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "heygorgeous.ttf",
+        "size": 12,
+        "color": "#000000"
+    }
+}
