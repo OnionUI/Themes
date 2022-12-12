@@ -1,0 +1,44 @@
+{
+    "name": "NEO GEO",
+    "author": "tenlevels",
+    "description": "NEO GEO MVS inspired theme",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+        "font": "PrimusBoldCaps.ttf",
+        "size": 14,
+        "onleft": true
+    },
+    "title": {
+        "font": "PrimusBoldCaps.ttf",
+        "size": 22,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Primus Regular.otf",
+        "size": 16,
+        "color": "#cc0404"
+    },
+    "currentpage": {
+        "color": "#cc0404"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "PrimusBoldCaps.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#cc0404",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Primus Regular.otf",
+        "size": 22,
+        "color": "#FFFFFF"
+    }
+}
