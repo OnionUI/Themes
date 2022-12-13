@@ -1,0 +1,40 @@
+{
+    "name": "Miyoo Valley",
+    "author": "dragon-fruity",
+    "description": "Theme inspired by Stardew Valley",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "unifont-15.0.01.otf",
+        "size": 26,
+        "color": "#ffffff",
+        "offsetX": -44
+    },
+    "title": {
+        "font": "Stardew-Valley-Pixel.otf",
+        "size": 40,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "unifont-15.0.01.otf",
+        "size": 26,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "Stardew-Valley-Pixel.otf",
+        "grid1x4": 34,
+        "grid3x4": 26,
+        "color": "#686868",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "unifont-15.0.01.otf",
+        "size": 28,
+        "color": "#000000"
+    }
+}
