@@ -12,13 +12,13 @@
         "onleft": false
     },
     "hideLabels": {
-        "icons": false,
+        "icons": true,
         "hints": false
     },
     "title": {
         "font": "heygorgeous.ttf",
         "size": 21,
-        "color": "rgba(255,255,255,0.05)"
+        "color": "#ffffff"
     },
     "hint": {
         "font": "heygorgeous.ttf",
@@ -26,10 +26,10 @@
         "color": "#ffffff"
     },
     "currentpage": {
-        "color": "rgba(255,255,255,0.1)"
+        "color": "#ffffff"
     },
     "total": {
-        "color": "rgba(255,255,255,0.08)"
+        "color": "#ffffff"
     },
     "grid": {
         "font": "heygorgeous.ttf",
