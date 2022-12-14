@@ -1,0 +1,46 @@
+{
+    "name": "Zigzag-iyoo-n Rainbow",
+    "author": "Cuprite",
+    "description": "Theme featuring Zigzagoon and Hoenn's Route 117",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "pkmnem.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "pkmnem.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "pkmnem.ttf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "pkmnem.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "pkmnem.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
