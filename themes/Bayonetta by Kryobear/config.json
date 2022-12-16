@@ -1,0 +1,46 @@
+{
+    "name": "Bayonetta",
+    "author": "kryobear",
+    "description": "Theme based off Bayonetta 1!",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Bayonetta font con kerning.otf",
+        "size": 26,
+        "color": "#ffffff",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "Bayonetta font con kerning.otf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Bayonetta font con kerning.otf",
+        "size": 37,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Bayonetta font con kerning.otf",
+        "grid1x4": 34,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "Bayonetta font con kerning.otf",
+        "size": 24,
+        "color": "#ffffff"
+    }
+}
