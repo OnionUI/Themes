@@ -79,9 +79,9 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <a href="release/Bayonetta by Kryobear.zip?raw=true">
 <img title="Theme based off Bayonetta 1!" width="480px" src="themes/Bayonetta%20by%20Kryobear/preview.png?raw=true" /><br/>
 <b>Bayonetta</b></a><br/>
-<sup><i>kryobear</i></sup><br>
+<sup><i>Kryobear</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Bayonetta by Kryobear">2022-12-16</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22kryobear%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Bayonetta%20by%20Kryobear/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Bayonetta%20by%20Kryobear/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Bayonetta by Kryobear">2022-12-16</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Kryobear%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Bayonetta%20by%20Kryobear/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Bayonetta%20by%20Kryobear/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
