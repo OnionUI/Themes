@@ -1,0 +1,46 @@
+{
+    "name": "PICO-NIGHT SKY",
+    "author": "tenlevels",
+    "description": "PICO-8 user manual inspired theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "PICO-8 mono upper.ttf",
+        "size": 18,
+        "color": "#fff1e8",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 20,
+        "color": "#fff1e8"
+    },
+    "hint": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 18,
+        "color": "#fff1e8"
+    },
+    "currentpage": {
+        "color": "#fff1e8"
+    },
+    "total": {
+        "color": "#83769c"
+    },
+    "grid": {
+        "font": "PICO-8 mono upper.ttf",
+        "grid1x4": 18,
+        "grid3x4": 18,
+        "color": "#83769c",
+        "selectedcolor": "#fff1e8"
+    },
+    "list": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 18,
+        "color": "#fff1e8"
+    }
+}

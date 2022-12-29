@@ -1,0 +1,46 @@
+{
+    "name": "PICO-DEV",
+    "author": "tenlevels",
+    "description": "PICO-8 dev inspired theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "PICO-8 mono upper.ttf",
+        "size": 28,
+        "color": "#7E2553",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 20,
+        "color": "#FFCCAA"
+    },
+    "hint": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 28,
+        "color": "#FFCCAA"
+    },
+    "currentpage": {
+        "color": "#FFCCAA"
+    },
+    "total": {
+        "color": "#7E2553"
+    },
+    "grid": {
+        "font": "PICO-8 mono upper.ttf",
+        "grid1x4": 18,
+        "grid3x4": 18,
+        "color": "#83769C",
+        "selectedcolor": "#fff1e8"
+    },
+    "list": {
+        "font": "PICO-8 mono upper.ttf",
+        "size": 18,
+        "color": "#fff1e8"
+    }
+}
