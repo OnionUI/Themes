@@ -1,0 +1,46 @@
+{
+    "name": "minimO",
+    "author": "AccomplishedSir",
+    "description": "minimalist theme with neomorphic elements",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "circular-std-medium.ttf",
+        "size": 22,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "title": {
+        "font": "circular-std-medium.ttf",
+        "size": 30,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "circular-std-medium.ttf",
+        "size": 0,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "circular-std-medium.ttf",
+        "grid1x4": 30,
+        "grid3x4": 18,
+        "color": "#cecece",
+        "selectedcolor": "#cecece"
+    },
+    "list": {
+        "font": "circular-std-medium.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
