@@ -1,0 +1,46 @@
+{
+    "name": "PPLP",
+    "author": "Deepslackerjazz",
+    "description": "Piplup theme with TGC vibes",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "ice_pixel-7.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "title": {
+        "font": "Daydream.ttf",
+        "size": 24,
+        "color": "#dafbff"
+    },
+    "hint": {
+        "font": "ice_pixel-7.ttf",
+        "size": 36,
+        "color": "#b2d1d4"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#5dd2db"
+    },
+    "grid": {
+        "font": "Daydream.ttf",
+        "grid1x4": 12,
+        "grid3x4": 12,
+        "color": "#FFFFFF",
+        "selectedcolor": "#f2d88b"
+    },
+    "list": {
+        "font": "Daydream.ttf",
+        "size": 24,
+        "color": "#f2d88b"
+    }
+}
