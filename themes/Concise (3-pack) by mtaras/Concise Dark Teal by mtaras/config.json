@@ -1,0 +1,46 @@
+{
+    "name": "Concise Dark Teal",
+    "author": "mtaras",
+    "description": "Minimal dark grey theme with teal accents",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#A0A0AA",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#A0A0AA"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#A0A0AA"
+    },
+    "grid": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#A0A0AA",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}

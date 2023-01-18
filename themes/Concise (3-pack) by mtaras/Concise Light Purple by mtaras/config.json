@@ -1,0 +1,46 @@
+{
+    "name": "Concise Light Purple",
+    "author": "mtaras",
+    "description": "Minimal light grey theme with purple accents",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#80808A",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#80808A"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#80808A"
+    },
+    "grid": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#80808A",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#000000"
+    }
+}

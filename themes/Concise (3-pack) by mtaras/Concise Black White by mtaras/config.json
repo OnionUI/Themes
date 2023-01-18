@@ -1,0 +1,46 @@
+{
+    "name": "Concise Black White",
+    "author": "mtaras",
+    "description": "Minimal black monochrome theme",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#90909B",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#90909B"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#90909B"
+    },
+    "grid": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#90909B",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
