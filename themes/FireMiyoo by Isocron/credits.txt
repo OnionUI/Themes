@@ -1,0 +1,11 @@
+FireMiyoo theme created by Isocron
+
+Various UI components from Blueprint and Analogue by Aemiii91
+
+Firewatch parallax layers ripped from https://theplusaddons.com/widgets/row-background/fire-watch-multi-layer-parallax-magic-scroll-elementor-demo/
+
+Font from https://nationalparktypeface.com/ (open-source)
+
+Menu background from the printable Firewatch world map from https://www.camposanto.com/external/blog/160226_jake/Firewatch-World-Map-Textured.jpg
+
+Charging background from a Steam profile background https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/383870/48adb82b09695dc7e65d945138931a39c0cdb950.jpg
