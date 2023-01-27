@@ -94,14 +94,16 @@ def generate_table_grid(themes) -> str:
 
 def generate_iconpack_url(theme: str, theme_subdirs: list[str]) -> str:
     icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
+    base_path = f"themes/{theme}"
 
-    html = "<head><base href=\"https://raw.githubusercontent.com/OnionUI/Themes/main/\"></head><body style=\"background-color:#333333;font-family:sans-serif;color:white\">"
+    html = f"<head><base href=\"https://raw.githubusercontent.com/OnionUI/Themes/main/{urlencode(base_path)}/\"></head><body style=\"background-color:#333333;font-family:sans-serif;color:white\">"
 
     for icons_dir in icons_dirs:
         html += f"<h1>{os.path.basename(os.path.dirname(icons_dir))}</h1>"
 
         for root, _, files in os.walk(icons_dir):
             html += f"<h2>{os.path.basename(root)}</h2>"
+            sub_root = root[len(base_path)+1:]
 
             files.sort()
 
@@ -109,7 +111,7 @@ def generate_iconpack_url(theme: str, theme_subdirs: list[str]) -> str:
                 filename, file_ext = os.path.splitext(file)
                 if not file_ext == ".png":
                     continue
-                html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\" title=\"{filename}\">"
+                html += f"<img src=\"{urlencode(os.path.join(sub_root, file))}?raw=true\" title=\"{filename}\">"
 
     return f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)}::data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
 
