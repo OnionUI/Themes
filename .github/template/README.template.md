@@ -33,7 +33,12 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 This section showcases the themes included with Onion.
 
+<details>
+<summary>Browse themes</summary>
+
 <p>$FEATURED_THEMES</p>
+
+</details>
 
 <p>&nbsp;</p>
 
@@ -43,6 +48,11 @@ This section showcases theme remixes made by the community and approved by the o
 
 > *If a remixed theme isn't approved by the original author, we will take it down.*
 
+<details>
+<summary>Browse themes</summary>
+
 <p>$REMIXED_THEMES</p>
+
+</details>
 
 <p>&nbsp;</p>
