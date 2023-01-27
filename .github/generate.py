@@ -92,7 +92,7 @@ def generate_table_grid(themes) -> str:
     return template.substitute({"GRID_ITEMS": buffer}) + "\n"
 
 
-def generate_iconpack_url(theme_subdirs: list[str]) -> str:
+def generate_iconpack_url(theme: str, theme_subdirs: list[str]) -> str:
     icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
 
     html = "<head><base href=\"https://raw.githubusercontent.com/OnionUI/Themes/main/\"></head><body style=\"background-color:#333333;font-family:sans-serif;color:white\">"
@@ -109,7 +109,7 @@ def generate_iconpack_url(theme_subdirs: list[str]) -> str:
                     continue
                 html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\">"
 
-    return f"https://onionui.github.io/iconpack_preview.html#data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
+    return f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)}::data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
 
 
 def generate_item(theme: str) -> str:
@@ -163,7 +163,7 @@ def generate_item(theme: str) -> str:
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
-        "HAS_ICONPACK": f" &nbsp; <a href=\"{generate_iconpack_url(theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_iconpack else "",
+        "HAS_ICONPACK": f" &nbsp; <a href=\"{generate_iconpack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_iconpack else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
