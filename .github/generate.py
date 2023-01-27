@@ -3,6 +3,7 @@
 import os
 import json
 import subprocess
+import base64
 from datetime import datetime
 from urllib.parse import quote as _quote
 
@@ -108,7 +109,7 @@ def generate_iconpack_url(theme_subdirs: list[str]) -> str:
                     continue
                 html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\">"
 
-    return f"data:text/html;charset=UTF-8,{urlencode(html)}"
+    return f"data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
 
 
 def generate_item(theme: str) -> str:
