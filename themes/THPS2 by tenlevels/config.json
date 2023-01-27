@@ -1,0 +1,39 @@
+{
+    "name": "THPS2",
+    "author": "tenlevels",
+    "description": "Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#db8b00",
+        "font": "thpscaps.ttf",
+        "size": 22
+    },
+    "title": {
+        "font": "thpscaps.ttf",
+        "size": 24,
+        "color": "#db8b00"
+    },
+    "hint": {
+        "font": "thpscaps.ttf",
+        "size": 22,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#db8b00"
+    },
+    "grid": {
+        "font": "thpscaps.ttf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#db8b00",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "thpscaps.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    }
+}
