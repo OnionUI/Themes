@@ -95,7 +95,7 @@ def generate_table_grid(themes) -> str:
 def generate_iconpack_url(theme_subdirs: list[str]) -> str:
     icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
 
-    html = "<head><base href=\"https://raw.githubusercontent.com/OnionUI/Themes/main/\"</head><body style=\"background-color:#333333;font-family:sans-serif;color:white\">"
+    html = "<head><base href=\"https://raw.githubusercontent.com/OnionUI/Themes/main/\"></head><body style=\"background-color:#333333;font-family:sans-serif;color:white\">"
 
     for icons_dir in icons_dirs:
         html += f"<h1>{os.path.basename(os.path.dirname(icons_dir))}</h1>"
