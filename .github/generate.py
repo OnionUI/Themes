@@ -103,11 +103,13 @@ def generate_iconpack_url(theme: str, theme_subdirs: list[str]) -> str:
         for root, _, files in os.walk(icons_dir):
             html += f"<h2>{os.path.basename(root)}</h2>"
 
+            files.sort()
+
             for file in files:
-                _, file_ext = os.path.splitext(file)
+                filename, file_ext = os.path.splitext(file)
                 if not file_ext == ".png":
                     continue
-                html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\">"
+                html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\" title=\"{filename}\">"
 
     return f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)}::data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
 
