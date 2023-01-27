@@ -30,6 +30,9 @@ BGM_ICON = f"<img src=\"{BGM_ICON_URL}\" width=\"16\" title=\"Custom background 
 AUTHOR_ICON_URL = "https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png"
 AUTHOR_ICON = f"<img src=\"{AUTHOR_ICON_URL}\" width=\"16\" title=\"Search themes by this author (Requires GitHub account)\">"
 
+HAS_ICONPACK_ICON_URL = "https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png"
+HAS_ICONPACK_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\"This theme contains an icon pack\">"
+
 COLUMNS = 3
 
 urlencode = lambda s: _quote(s, safe="/?&=_-")
@@ -134,11 +137,14 @@ def generate_item(theme: str) -> str:
     bgm_path = from_src(f"../{theme_dir}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
 
+    has_iconpack = os.path.isdir(from_src(f"../{theme_dir}/icons"))
+
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
+        "HAS_ICONPACK": f" &nbsp; {HAS_ICONPACK_ICON}" if has_iconpack else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
