@@ -56,3 +56,9 @@ This section showcases theme remixes made by the community and approved by the o
 </details>
 
 <p>&nbsp;</p>
+
+## Icon Packs
+
+<p>$ICON_PACKS</p>
+
+<p>&nbsp;</p>

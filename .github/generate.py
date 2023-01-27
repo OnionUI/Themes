@@ -63,6 +63,7 @@ def main():
         "FEATURED_THEMES": generate_table_grid(featured),
         "CUSTOM_THEMES": generate_table_grid(custom),
         "REMIXED_THEMES": generate_table_grid(remixed),
+        "ICON_PACKS": "[WORK IN PROGRESS]"
     }
 
     with open(README_TEMPLATE, "r", encoding="utf-8") as infile:
