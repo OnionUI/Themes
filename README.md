@@ -1163,6 +1163,16 @@ This section showcases theme remixes made by the community and approved by the o
 <p><table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/GBOnion Gruvbox by Kitsuvi + Dreambrace.zip?raw=true">
+<img title="GBOnion Gruvbox by Kitsuvi + Dreambrace" width="480px" src="themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png?raw=true" /><br/>
+<b>GBOnion Gruvbox</b></a><br/>
+<sup><i>Kitsuvi + Dreambrace</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Gruvbox by Kitsuvi + Dreambrace"></a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%20%2B%20Dreambrace%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Zenburn 1.5 by duckbeets + Catz.zip?raw=true">
 <img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
 <b>Zenburn 1.5</b></a><br/>
@@ -1181,6 +1191,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Dark by Kitsuvi + andresandiah">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%20%2B%20andresandiah%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Red Onion by PixelShift + Jeltron + Moontorc.zip?raw=true">
@@ -1191,7 +1202,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Red Onion by PixelShift + Jeltron + Moontorc">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%20%2B%20Jeltron%20%2B%20Moontorc%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onionboy HD Gray by Jeltron + TechDevangelist.zip?raw=true">
@@ -1212,6 +1222,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Pocket by PixelShift + H9K">2022-09-09</a></sup> &nbsp; <a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%20%2B%20H9L%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a> &nbsp; <a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp; <a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion Boy Dark by PixelShift.zip?raw=true">

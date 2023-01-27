@@ -1,0 +1,40 @@
+{
+    "name": "GBOnion Gruvbox",
+    "author": "Kitsuvi + Dreambrace",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#EBDBB2"
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 36,
+        "color": "#EBDBB2"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 40,
+        "color": "#EBDBB2"
+    },
+    "currentpage": {
+        "color": "#EBDBB2"
+    },
+    "total": {
+        "color": "#EBDBB2"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#686868",
+        "selectedcolor": "#EBDBB2"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/HENB.TTF",
+        "size": 25,
+        "color": "#BDAE93"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}

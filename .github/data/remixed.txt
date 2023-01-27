@@ -4,3 +4,4 @@ Onionboy HD Gray by Jeltron + TechDevangelist
 Red Onion by PixelShift + Jeltron + Moontorc
 GBOnion Dark by Kitsuvi + andresandiah
 Zenburn 1.5 by duckbeets + Catz
+GBOnion Gruvbox by Kitsuvi + Dreambrace
