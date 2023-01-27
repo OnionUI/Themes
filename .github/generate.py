@@ -117,14 +117,12 @@ def generate_item(theme: str) -> str:
     if not title:
         title = f"{name} by {author}" if author else name
 
-    theme_dir = f"themes/{theme}"
-    if has_subdirs:
-        theme_dir += "/" + get_subdirs(dir_path)[0]
+    theme_subdirs = [f"themes/{theme}/{subdir}" for subdir in get_subdirs(dir_path)] if has_subdirs else [f"themes/{theme}"]
 
     if os.path.exists(f"themes/{theme}/preview.png"):
         preview_url = f"themes/{urlencode(theme)}/preview.png?raw=true"
     else:
-        preview_url = f"{urlencode(theme_dir)}/preview.png?raw=true"
+        preview_url = f"{urlencode(theme_subdirs[0])}/preview.png?raw=true"
     release_url = f"release/{theme}.zip?raw=true"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
@@ -134,16 +132,16 @@ def generate_item(theme: str) -> str:
     datestr = git_result.stdout.decode('utf-8').strip()
     last_updated = datetime.fromisoformat(datestr).strftime("%Y-%m-%d") if datestr else ""
 
-    bgm_path = from_src(f"../{theme_dir}/sound/bgm.mp3")
+    bgm_path = from_src(f"../{theme_subdirs[0]}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
 
-    has_iconpack = os.path.isdir(from_src(f"../{theme_dir}/icons"))
+    has_iconpack = any(os.path.isdir(f"{subdir}/icons") for subdir in theme_subdirs)
 
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
-        "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_dir)}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
+        "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
         "HAS_ICONPACK": f" &nbsp; {HAS_ICONPACK_ICON}" if has_iconpack else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
