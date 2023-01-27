@@ -109,7 +109,7 @@ def generate_iconpack_url(theme_subdirs: list[str]) -> str:
                     continue
                 html += f"<img src=\"{urlencode(os.path.join(root, file))}?raw=true\">"
 
-    return f"data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
+    return f"https://onionui.github.io/iconpack_preview.html#data:text/html;base64,{base64.b64encode(bytes(html, 'utf-8')).rstrip(b'=').decode('utf-8')}"
 
 
 def generate_item(theme: str) -> str:
