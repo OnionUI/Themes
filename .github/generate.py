@@ -191,7 +191,7 @@ ALL_ICONS = ['32X', '5200', '7800', 'amiga', 'arcade', 'atari', 'atarist', 'c64'
 def generate_icon_pack_overview():
     output = ""
 
-    icon_packs = themes_with_icon_packs
+    icon_packs = []
 
     for dir_name in os.listdir("icons"):
         dir_path = os.path.join("icons", dir_name)
@@ -207,7 +207,14 @@ def generate_icon_pack_overview():
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
+    output += "### Standalone Icon Packs\n\n"
+
     for icon_pack in icon_packs:
+        output += generate_icon_pack_entry(**icon_pack)
+
+    output += "### Theme Icon Packs\n\n"
+
+    for icon_pack in themes_with_icon_packs:
         output += generate_icon_pack_entry(**icon_pack)
 
     return output
@@ -216,7 +223,7 @@ def generate_icon_pack_overview():
 def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
     output = ""
 
-    output += f"### {name}\n\n"
+    output += f"#### {name}\n\n"
 
     if len(release_url) != 0:
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
