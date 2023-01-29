@@ -1285,7 +1285,7 @@ Check out these standalone icon packs!
 
 > To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)
 
-<table><td>
+<table align=center><td>
 
 #### CyberOnion BW by Aemiii91
 
@@ -1303,7 +1303,7 @@ Check out these icon packs included in themes!
 
 > To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)
 
-<table><td>
+<table align=center><td>
 
 #### NEON.ion by tenlevels
 
@@ -1315,7 +1315,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### minimO by AccomplishedSir
 
@@ -1327,7 +1327,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### TRON by tenlevels
 
@@ -1339,7 +1339,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### NanoSwitch Dark by Amdy
 
@@ -1351,7 +1351,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### NanoSwitch by Amdy
 
@@ -1363,7 +1363,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### CyberOnion [Atomic] by Aemiii91
 
@@ -1375,7 +1375,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### CyberOnion by Aemiii91
 
@@ -1387,7 +1387,7 @@ Check out these icon packs included in themes!
 
 </td></table>
 
-<table><td>
+<table align=center><td>
 
 #### Analogue by Aemiii91
 

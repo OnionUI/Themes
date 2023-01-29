@@ -221,7 +221,7 @@ def generate_icon_pack_overview():
 def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
     output = ""
 
-    output += f"<table><td>\n\n#### {name}\n\n"
+    output += f"<table align=center><td>\n\n#### {name}\n\n"
 
     if len(release_url) != 0:
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
