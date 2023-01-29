@@ -1285,6 +1285,8 @@ Check out these standalone icon packs!
 
 > To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)
 
+<table><td>
+
 #### CyberOnion BW by Aemiii91
 
 [Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
@@ -1293,11 +1295,15 @@ Check out these standalone icon packs!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
 
+</td></table>
+
 ### Theme Icon Packs
 
 Check out these icon packs included in themes!
 
 > To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)
+
+<table><td>
 
 #### NEON.ion by tenlevels
 
@@ -1307,6 +1313,10 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons)</sup>
 
+</td></table>
+
+<table><td>
+
 #### minimO by AccomplishedSir
 
 [Download minimO by AccomplishedSir (theme)](release/minimO%20by%20AccomplishedSir.zip?raw=true)
@@ -1314,6 +1324,10 @@ Check out these icon packs included in themes!
 <table><td><img src="themes/minimO%20by%20AccomplishedSir/icons/atari.png" width="64px" title="atari"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/fc.png" width="64px" title="fc"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/gb.png" width="64px" title="gb"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/gba.png" width="64px" title="gba"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/gbc.png" width="64px" title="gbc"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/md.png" width="64px" title="md"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/ms.png" width="64px" title="ms"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/neogeo.png" width="64px" title="neogeo"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/ps.png" width="64px" title="ps"></td><td><img src="themes/minimO%20by%20AccomplishedSir/icons/sfc.png" width="64px" title="sfc"></td></table>
 
 <sup>10/54 icons (19% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#minimO%20by%20AccomplishedSir,minimO%20by%20AccomplishedSir:themes/minimO%20by%20AccomplishedSir/icons)</sup>
+
+</td></table>
+
+<table><td>
 
 #### TRON by tenlevels
 
@@ -1323,6 +1337,10 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#TRON%20by%20tenlevels,TRON%20by%20tenlevels:themes/TRON%20by%20tenlevels/icons)</sup>
 
+</td></table>
+
+<table><td>
+
 #### NanoSwitch Dark by Amdy
 
 [Download NanoSwitch (2-pack) by Amdy (theme)](release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true)
@@ -1330,6 +1348,10 @@ Check out these icon packs included in themes!
 <table><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/atari.png" width="64px" title="atari"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/fc.png" width="64px" title="fc"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gb.png" width="64px" title="gb"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gba.png" width="64px" title="gba"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/md.png" width="64px" title="md"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ms.png" width="64px" title="ms"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/neogeo.png" width="64px" title="neogeo"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ps.png" width="64px" title="ps"></td><td><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/sfc.png" width="64px" title="sfc"></td></table>
 
 <sup>44/54 icons (81% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons)</sup>
+
+</td></table>
+
+<table><td>
 
 #### NanoSwitch by Amdy
 
@@ -1339,6 +1361,10 @@ Check out these icon packs included in themes!
 
 <sup>44/54 icons (81% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons)</sup>
 
+</td></table>
+
+<table><td>
+
 #### CyberOnion [Atomic] by Aemiii91
 
 [Download CyberOnion (2-pack) by Aemiii91 (theme)](release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true)
@@ -1346,6 +1372,10 @@ Check out these icon packs included in themes!
 <table><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/md.png" width="64px" title="md"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"></td><td><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc"></td></table>
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons)</sup>
+
+</td></table>
+
+<table><td>
 
 #### CyberOnion by Aemiii91
 
@@ -1355,6 +1385,10 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons)</sup>
 
+</td></table>
+
+<table><td>
+
 #### Analogue by Aemiii91
 
 [Download Analogue by Aemiii91 (theme)](release/Analogue%20by%20Aemiii91.zip?raw=true)
@@ -1362,6 +1396,8 @@ Check out these icon packs included in themes!
 <table><td><img src="themes/Analogue%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/md.png" width="64px" title="md"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"></td><td><img src="themes/Analogue%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc"></td></table>
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons)</sup>
+
+</td></table>
 
 
 
