@@ -39,6 +39,9 @@ COLUMNS = 3
 urlencode = lambda s: _quote(s, safe="/?&=_-")
 
 
+themes_with_icon_packs = []
+
+
 def main():
     if not os.path.exists(RELEASE_DIR):
         print("No themes released")
@@ -51,19 +54,19 @@ def main():
         for file in get_files(RELEASE_DIR, "zip")]
     is_released = lambda theme: theme in released_themes
 
-    featured = list(filter(is_released, get_ordering(FEATURED_ORDERING)))
     custom = list(filter(is_released, get_ordering(CUSTOM_ORDERING)))
+    featured = list(filter(is_released, get_ordering(FEATURED_ORDERING)))
     remixed = list(filter(is_released, get_ordering(REMIXED_ORDERING)))
 
-    featured.reverse()
     custom.reverse()
+    featured.reverse()
     remixed.reverse()
 
     values = {
+        "CUSTOM_THEMES": generate_table_grid(custom, True),
         "FEATURED_THEMES": generate_table_grid(featured),
-        "CUSTOM_THEMES": generate_table_grid(custom),
-        "REMIXED_THEMES": generate_table_grid(remixed),
-        "ICON_PACKS": "[WORK IN PROGRESS]"
+        "REMIXED_THEMES": generate_table_grid(remixed, True),
+        "ICON_PACKS": generate_icon_pack_overview()
     }
 
     with open(README_TEMPLATE, "r", encoding="utf-8") as infile:
@@ -79,13 +82,13 @@ def main():
     print("Done")
 
 
-def generate_table_grid(themes) -> str:
+def generate_table_grid(themes, index_icon_packs: bool = False) -> str:
     buffer = ""
 
     for i, theme in enumerate(themes):
         if i > 0 and i % COLUMNS == 0:
             buffer += "</tr><tr>\n"
-        buffer += generate_item(theme)
+        buffer += generate_item(theme, index_icon_packs)
 
     with open(GRID_TEMPLATE, "r", encoding="utf-8") as file:
         template = Template(file.read())
@@ -93,16 +96,7 @@ def generate_table_grid(themes) -> str:
     return template.substitute({"GRID_ITEMS": buffer}) + "\n"
 
 
-def generate_iconpack_url(theme: str, theme_subdirs: list[str]) -> str:
-    icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
-
-    url = f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)},"
-    url += ",".join(f"{urlencode(os.path.basename(os.path.dirname(icons_dir)))}:{urlencode(icons_dir)}" for icons_dir in icons_dirs)
-
-    return url
-
-
-def generate_item(theme: str) -> str:
+def generate_item(theme: str, index_icon_packs: bool) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
     is_valid, has_subdirs = validate_theme(dir_path)
 
@@ -146,14 +140,16 @@ def generate_item(theme: str) -> str:
     bgm_path = from_src(f"../{theme_subdirs[0]}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
 
-    has_iconpack = any(os.path.isdir(f"{subdir}/icons") for subdir in theme_subdirs)
+    has_icon_pack = any(os.path.isdir(f"{subdir}/icons") for subdir in theme_subdirs)
+
+    icon_pack_url = generate_icon_pack_url(theme, theme_subdirs) if has_icon_pack else ""
 
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
-        "HAS_ICONPACK": f" &nbsp; <a href=\"{generate_iconpack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_iconpack else "",
+        "HAS_ICONPACK": f" &nbsp; <a href=\"{icon_pack_url}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
@@ -161,10 +157,84 @@ def generate_item(theme: str) -> str:
         "HISTORY_URL": history_url
     }
 
+    if has_icon_pack and index_icon_packs:
+        for subdir in theme_subdirs:
+            if os.path.isdir(f"{subdir}/icons"):
+                themes_with_icon_packs.append({
+                    "name": os.path.basename(subdir),
+                    "path": os.path.join(subdir, "icons"),
+                    "is_theme": True,
+                    "theme": theme,
+                    "release_url": release_url,
+                    "preview_url": icon_pack_url
+                })
+
     with open(ITEM_TEMPLATE, "r", encoding="utf-8") as file:
         template = Template(file.read())
 
     return template.substitute(item) + "\n"
+
+
+def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:
+    icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
+
+    url = f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)},"
+    url += ",".join(f"{urlencode(os.path.basename(os.path.dirname(icons_dir)))}:{urlencode(icons_dir)}" for icons_dir in icons_dirs)
+
+    return url
+
+
+PREVIEW_ICONS = ["atari", "fc", "gb", "gba", "gbc", "md", "ms", "neogeo", "ps", "sfc"]
+ALL_ICONS = ['32X', '5200', '7800', 'amiga', 'arcade', 'atari', 'atarist', 'c64', 'col', 'cpc', 'cps1', 'cps2', 'cps3', 'dos', 'fairchild', 'fc', 'fds', 'gb', 'gba', 'gbc', 'gg', 'gw', 'itv', 'lynx', 'md', 'megaduck', 'ms', 'msx', 'neocd', 'neogeo', 'ngp', 'ody', 'pce', 'pcecd', 'pico', 'poke', 'ports', 'ps', 'satella', 'scummvm', 'search', 'segacd', 'segasgone', 'sfc', 'sgb', 'sgfx', 'sufami', 'supervision', 'tic', 'vb', 'vdp', 'vectrex', 'ws', 'zxs']
+
+
+def generate_icon_pack_overview():
+    output = ""
+
+    icon_packs = themes_with_icon_packs
+
+    for dir_name in os.listdir("icons"):
+        dir_path = os.path.join("icons", dir_name)
+        release_url = os.path.join("release", dir_path + ".zip")
+
+        if not os.path.isfile(release_url):
+            release_url = ""
+
+        icon_packs.append({
+            "name": dir_name,
+            "path": dir_path,
+            "release_url": release_url,
+            "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
+        })
+
+    for icon_pack in icon_packs:
+        output += generate_icon_pack_entry(**icon_pack)
+
+    return output
+
+
+def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
+    output = ""
+
+    output += f"### {name}\n\n"
+
+    if len(release_url) != 0:
+        dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
+        output += f"[{dn_text}]({urlencode(release_url)})\n\n"
+
+    icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
+    output += f"<sub>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; [Show full preview]({preview_url})</sub>"
+
+    output += "\n\n<table>"
+
+    for icon in PREVIEW_ICONS:
+        icon_path = f"{path}/{icon}.png"
+        if os.path.isfile(icon_path):
+            output += f"<td><img src=\"{urlencode(icon_path)}\" width=\"64px\"></td>"
+
+    output += "</table>\n\n"
+
+    return output
 
 
 if __name__ == "__main__":

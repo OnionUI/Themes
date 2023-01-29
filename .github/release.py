@@ -37,7 +37,7 @@ def main():
 
     clean_all()
 
-    was_built = [build_release(theme, custom, all_existing) for theme in themes]
+    was_built = [build_release(theme, custom, all_existing) for theme in themes] + [build_icon_pack(icon_pack) for icon_pack in os.listdir("icons")]
 
     set_ordering(CUSTOM_ORDERING, custom)
 
@@ -77,6 +77,24 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
             for file in files:
                 if has_subdirs and root == src_path and file == "preview.png":
                     continue
+                file_path = os.path.join(root, file)
+                zf.write(file_path, file_path[rel_index:])
+
+    return True
+
+
+def build_icon_pack(icon_pack) -> bool:
+    src_path = os.path.join("icons", icon_pack)
+    zip_path = os.path.join("release/icons", f"{icon_pack}.zip")
+
+    if os.path.exists(zip_path):
+        return False
+
+    rel_index = len(os.path.dirname(src_path)) + 1
+
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for root, _, files in os.walk(src_path):
+            for file in files:
                 file_path = os.path.join(root, file)
                 zf.write(file_path, file_path[rel_index:])
 

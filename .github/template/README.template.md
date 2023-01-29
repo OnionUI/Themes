@@ -3,9 +3,10 @@
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
 *The Onion Theme Repository*
-&nbsp;•&nbsp; [Featured&nbsp;Themes](#featured-themes)
 &nbsp;•&nbsp; [Custom&nbsp;Themes](#custom-themes)
+&nbsp;•&nbsp; [Featured&nbsp;Themes](#featured-themes)
 &nbsp;•&nbsp; [Remixed&nbsp;Themes](#remixed-themes)
+&nbsp;•&nbsp; [Icon&nbsp;Packs](#icon-packs)
 &nbsp;•&nbsp; [Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
@@ -25,7 +26,7 @@
 
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
-<p>$CUSTOM_THEMES</p>
+$CUSTOM_THEMES
 
 <p>&nbsp;</p>
 
@@ -36,7 +37,7 @@ This section showcases the themes included with Onion.
 <details>
 <summary>Browse themes</summary>
 
-<p>$FEATURED_THEMES</p>
+$FEATURED_THEMES
 
 </details>
 
@@ -51,7 +52,7 @@ This section showcases theme remixes made by the community and approved by the o
 <details>
 <summary>Browse themes</summary>
 
-<p>$REMIXED_THEMES</p>
+$REMIXED_THEMES
 
 </details>
 
@@ -59,6 +60,6 @@ This section showcases theme remixes made by the community and approved by the o
 
 ## Icon Packs
 
-<p>$ICON_PACKS</p>
+$ICON_PACKS
 
 <p>&nbsp;</p>
