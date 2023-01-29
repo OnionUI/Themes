@@ -142,14 +142,12 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
 
     has_icon_pack = any(os.path.isdir(f"{subdir}/icons") for subdir in theme_subdirs)
 
-    icon_pack_url = generate_icon_pack_url(theme, theme_subdirs) if has_icon_pack else ""
-
     item = {
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
-        "HAS_ICONPACK": f" &nbsp; <a href=\"{icon_pack_url}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
+        "HAS_ICONPACK": f" &nbsp; <a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
@@ -166,7 +164,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
                     "is_theme": True,
                     "theme": theme,
                     "release_url": release_url,
-                    "preview_url": icon_pack_url
+                    "preview_url": generate_icon_pack_url(theme, [subdir])
                 })
 
     with open(ITEM_TEMPLATE, "r", encoding="utf-8") as file:
