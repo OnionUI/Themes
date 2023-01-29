@@ -1297,6 +1297,18 @@ Check out these standalone icon packs!
 
 </td></table>
 
+<table align=center><td>
+
+#### Dot-art by Yoshi-kun
+
+[Download Dot-art by Yoshi-kun (icon pack)](release/icons/Dot-art%20by%20Yoshi-kun.zip?raw=true)
+
+<img src="icons/Dot-art%20by%20Yoshi-kun/atari.png" width="64px" title="atari"><img src="icons/Dot-art%20by%20Yoshi-kun/fc.png" width="64px" title="fc"><img src="icons/Dot-art%20by%20Yoshi-kun/gb.png" width="64px" title="gb"><img src="icons/Dot-art%20by%20Yoshi-kun/gba.png" width="64px" title="gba"><img src="icons/Dot-art%20by%20Yoshi-kun/gbc.png" width="64px" title="gbc"><img src="icons/Dot-art%20by%20Yoshi-kun/md.png" width="64px" title="md"><img src="icons/Dot-art%20by%20Yoshi-kun/ms.png" width="64px" title="ms"><img src="icons/Dot-art%20by%20Yoshi-kun/neogeo.png" width="64px" title="neogeo"><img src="icons/Dot-art%20by%20Yoshi-kun/ps.png" width="64px" title="ps"><img src="icons/Dot-art%20by%20Yoshi-kun/sfc.png" width="64px" title="sfc">
+
+<sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/icons/Dot-art%20by%20Yoshi-kun/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun)</sup>
+
+</td></table>
+
 ### Theme Icon Packs
 
 Check out these icon packs included in themes!

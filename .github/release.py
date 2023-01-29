@@ -14,7 +14,7 @@ from defs import (
 from utils import get_subdirs, get_ordering, set_ordering
 from validation import validate_theme
 from generate import main as generate_readme
-from clean import clean_all
+from clean import clean_all, clean_unwanted_files
 
 
 def main():
@@ -89,6 +89,8 @@ def build_icon_pack(icon_pack) -> bool:
 
     if os.path.exists(zip_path):
         return False
+
+    clean_unwanted_files(src_path)
 
     rel_index = len(os.path.dirname(src_path)) + 1
 
