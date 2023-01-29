@@ -222,12 +222,12 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
         output += f"[{dn_text}]({urlencode(release_url)})\n\n"
 
-    output += "<table bgcolor=\"#252525\">"
+    output += "<table>"
 
     for icon in PREVIEW_ICONS:
         icon_path = f"{path}/{icon}.png"
         if os.path.isfile(icon_path):
-            output += f"<td><img src=\"{urlencode(icon_path)}\" width=\"64px\"></td>"
+            output += f"<td><img src=\"{urlencode(icon_path)}\" width=\"64px\" title=\"{icon}\"></td>"
 
     output += "</table>\n\n"
 
