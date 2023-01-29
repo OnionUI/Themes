@@ -54,7 +54,7 @@ Run the script `.github/generate.py` to remake this page.
 &nbsp;•&nbsp; [Custom&nbsp;Themes](#custom-themes)
 &nbsp;•&nbsp; [Featured&nbsp;Themes](#featured-themes)
 &nbsp;•&nbsp; [Remixed&nbsp;Themes](#remixed-themes)
-&nbsp;•&nbsp; [Icon&nbsp;Packs](#icon-packs)
+&nbsp;•&nbsp; [Console&nbsp;Icon&nbsp;Packs](#console-icon-packs)
 &nbsp;•&nbsp; [Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
@@ -1271,9 +1271,15 @@ This section showcases theme remixes made by the community and approved by the o
 
 <p>&nbsp;</p>
 
-## Icon Packs
+## Console Icon Packs
+
+To install an icon pack you can either replace the icons in `Icons/` on your SD card, or use the temporary workaround tool, [IconThemer](https://github.com/OnionUI/Onion/wiki/Third-Party-Apps#iconthemer). Icon switching will be available in Onion V4.1.
 
 ### Standalone Icon Packs
+
+Check out these standalone icon packs!
+
+> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)
 
 #### CyberOnion BW by Aemiii91
 
@@ -1284,6 +1290,10 @@ This section showcases theme remixes made by the community and approved by the o
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
 
 ### Theme Icon Packs
+
+Check out these icon packs included in themes!
+
+> To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)
 
 #### NEON.ion by tenlevels
 

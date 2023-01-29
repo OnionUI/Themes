@@ -6,7 +6,7 @@
 &nbsp;•&nbsp; [Custom&nbsp;Themes](#custom-themes)
 &nbsp;•&nbsp; [Featured&nbsp;Themes](#featured-themes)
 &nbsp;•&nbsp; [Remixed&nbsp;Themes](#remixed-themes)
-&nbsp;•&nbsp; [Icon&nbsp;Packs](#icon-packs)
+&nbsp;•&nbsp; [Console&nbsp;Icon&nbsp;Packs](#console-icon-packs)
 &nbsp;•&nbsp; [Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
@@ -58,7 +58,9 @@ $REMIXED_THEMES
 
 <p>&nbsp;</p>
 
-## Icon Packs
+## Console Icon Packs
+
+To install an icon pack you can either replace the icons in `Icons/` on your SD card, or use the temporary workaround tool, [IconThemer](https://github.com/OnionUI/Onion/wiki/Third-Party-Apps#iconthemer). Icon switching will be available in Onion V4.1.
 
 $ICON_PACKS
 

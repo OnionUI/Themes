@@ -207,12 +207,12 @@ def generate_icon_pack_overview():
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
-    output += "### Standalone Icon Packs\n\n"
+    output += "### Standalone Icon Packs\n\nCheck out these standalone icon packs!\n\n> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)\n\n"
 
     for icon_pack in icon_packs:
         output += generate_icon_pack_entry(**icon_pack)
 
-    output += "### Theme Icon Packs\n\n"
+    output += "### Theme Icon Packs\n\nCheck out these icon packs included in themes!\n\n> To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)\n\n"
 
     for icon_pack in themes_with_icon_packs:
         output += generate_icon_pack_entry(**icon_pack)
