@@ -4,15 +4,16 @@
     "description": "Minimalist theme inspired by Analogue OS",
     "batteryPercentage": {
         "visible": true,
-        "color": "#FFFFFF"
+        "color": "#FFFFFF",
+        "offsetY": 2
     },
     "title": {
-        "font": "vcr-osd-mono.ttf",
-        "size": 24,
+        "font": "AnalogueOS-Regular.otf",
+        "size": 26,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "vcr-osd-mono.ttf",
+        "font": "AnalogueOS-Regular.otf",
         "size": 18,
         "color": "#FFFFFF"
     },
@@ -23,9 +24,9 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "vcr-osd-mono.ttf",
-        "grid1x4": 24,
-        "grid3x4": 24,
+        "font": "AnalogueOS-Regular.otf",
+        "grid1x4": 26,
+        "grid3x4": 26,
         "color": "#333333",
         "selectedcolor": "#FFFFFF"
     },
