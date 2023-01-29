@@ -12,7 +12,7 @@ We welcome you to share your creation with the community, here's a checklist for
 
 Download and check out one of the themes in the [Theme Repository](https://github.com/OnionUI/Themes/blob/main/README.md) if you're in doubt.
 
-Submit your theme by sending it to [Aemiii91](https://www.reddit.com/user/Aemiii91) via Reddit.
+Submit your theme by sending it to Aemiii91 via [Reddit](https://www.reddit.com/user/Aemiii91) or [Discord](https://discordapp.com/users/474330900151402497).
 
 *Note: Themes will be removed if we receive a takedown request from copyright holders.*
 
