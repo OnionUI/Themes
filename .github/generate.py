@@ -230,7 +230,7 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
     for icon in PREVIEW_ICONS:
         icon_path = f"{path}/{icon}.png"
         if os.path.isfile(icon_path):
-            output += f"<img src=\"{urlencode(icon_path)}\" width=\"48px\" title=\"{icon}\">"
+            output += f"<img src=\"{urlencode(icon_path)}\" width=\"64px\" title=\"{icon}\">"
 
     output += "\n\n"
 
