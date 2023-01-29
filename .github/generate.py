@@ -11,6 +11,7 @@ from string import Template
 
 from defs import (
     from_src,
+    SRC_DIR,
     THEME_DIR,
     RELEASE_DIR,
     FEATURED_ORDERING,
@@ -33,6 +34,12 @@ AUTHOR_ICON = f"<img src=\"{AUTHOR_ICON_URL}\" width=\"16\" title=\"Search theme
 
 HAS_ICONPACK_ICON_URL = "https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png"
 HAS_ICONPACK_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\"This theme contains an icon pack\">"
+
+README_ICON_URL = "https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png"
+README_ICON = f"<img src=\"{README_ICON_URL}\" height=\"16\" title=\"README\">"
+
+README_TEST = ["readme.md", "README.md", "readme.txt", "README.txt"]
+REL_PATH = os.path.abspath(os.path.join(SRC_DIR, ".."))
 
 COLUMNS = 3
 
@@ -141,6 +148,17 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
     has_bgm = os.path.isfile(bgm_path)
 
     has_icon_pack = any(os.path.isdir(f"{subdir}/icons") for subdir in theme_subdirs)
+    
+    readme_path = ""
+
+    for readme_file in README_TEST:
+        for subdir in theme_subdirs:
+            readme_path = os.path.join(subdir, readme_file)
+            if os.path.isfile(readme_path):
+                break
+            readme_path = ""
+        if readme_path != "":
+            break
 
     item = {
         "NAME": name,
@@ -148,6 +166,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
         "TITLE": title,
         "HAS_BGM": f" &nbsp; <a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
         "HAS_ICONPACK": f" &nbsp; <a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
+        "README": f" &nbsp; <a href=\"{urlencode(readme_path)}\">{README_ICON}</a>" if len(readme_path) != 0 else "",
         "AUTHOR_BTN": f" &nbsp; <a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
@@ -234,8 +253,19 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
 
     output += "\n\n"
 
+    readme_path = ""
+
+    for readme_file in README_TEST + [f"../{fn}" for fn in README_TEST]:
+        readme_path = os.path.abspath(from_src(os.path.join("..", path, readme_file)))
+        if os.path.isfile(readme_path):
+            readme_path = readme_path[len(REL_PATH):]
+            break
+        readme_path = ""
+
+    readme = f"[README]({urlencode(readme_path)}) &nbsp;|&nbsp; " if len(readme_path) != 0 else ""
+
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
-    output += f"<sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; [Show full preview]({preview_url})</sup>"
+    output += f"<sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; {readme}[Show full preview]({preview_url})</sup>"
 
     output += "\n\n</td></table>\n\n"
 
