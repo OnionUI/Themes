@@ -227,14 +227,14 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
         output += f"[{dn_text}]({release_url})\n\n"
 
-    output += "<table>"
+    output += "<table><td>"
 
     for icon in PREVIEW_ICONS:
         icon_path = f"{path}/{icon}.png"
         if os.path.isfile(icon_path):
-            output += f"<td><img src=\"{urlencode(icon_path)}\" width=\"32px\" title=\"{icon}\"></td>"
+            output += f"<img src=\"{urlencode(icon_path)}\" width=\"32px\" title=\"{icon}\">"
 
-    output += "</table>\n\n"
+    output += "</td></table>\n\n"
 
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
     output += f"<sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; [Show full preview]({preview_url})</sup>"
