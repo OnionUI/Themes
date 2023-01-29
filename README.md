@@ -1273,7 +1273,11 @@ This section showcases theme remixes made by the community and approved by the o
 
 ## Console Icon Packs
 
-To install an icon pack you can either replace the icons in `Icons/` on your SD card, or use the temporary workaround tool, [IconThemer](https://github.com/OnionUI/Onion/wiki/Third-Party-Apps#iconthemer). Icon switching will be available in Onion V4.1.
+To install an icon pack you can either:
+- replace the icons in `Icons/` on your SD card, or
+- use the [IconThemer](https://github.com/OnionUI/Onion/wiki/Third-Party-Apps#iconthemer) tool to apply theme supplied icon packs.
+
+> Icon switching will be available in Onion V4.1
 
 ### Standalone Icon Packs
 
