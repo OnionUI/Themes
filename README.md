@@ -77,7 +77,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/THPS2 by tenlevels.zip?raw=true">
+<a href="release/THPS2%20by%20tenlevels.zip?raw=true">
 <img title="Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2" width="480px" src="themes/THPS2%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>THPS2</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -87,7 +87,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/NEON.ion by tenlevels.zip?raw=true">
+<a href="release/NEON.ion%20by%20tenlevels.zip?raw=true">
 <img title="NEON OnionOS theme inspired by Essenger" width="480px" src="themes/NEON.ion%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>NEON.ion</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -97,7 +97,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/FireMiyoo by Isocron.zip?raw=true">
+<a href="release/FireMiyoo%20by%20Isocron.zip?raw=true">
 <img title="Firewatch parallax theme" width="480px" src="themes/FireMiyoo%20by%20Isocron/preview.png?raw=true" /><br/>
 <b>FireMiyoo</b></a><br/>
 <sup><i>Isocron</i></sup><br>
@@ -108,7 +108,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Concise (3-pack) by mtaras.zip?raw=true">
+<a href="release/Concise%20%283-pack%29%20by%20mtaras.zip?raw=true">
 <img title="Concise (3-pack) by mtaras" width="480px" src="themes/Concise%20%283-pack%29%20by%20mtaras/preview.png?raw=true" /><br/>
 <b>Concise (3-pack)</b></a><br/>
 <sup><i>mtaras</i></sup><br>
@@ -118,7 +118,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/minimO by AccomplishedSir.zip?raw=true">
+<a href="release/minimO%20by%20AccomplishedSir.zip?raw=true">
 <img title="minimalist theme with neomorphic elements" width="480px" src="themes/minimO%20by%20AccomplishedSir/preview.png?raw=true" /><br/>
 <b>minimO</b></a><br/>
 <sup><i>AccomplishedSir</i></sup><br>
@@ -128,7 +128,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PPLP by Deepslackerjazz.zip?raw=true">
+<a href="release/PPLP%20by%20Deepslackerjazz.zip?raw=true">
 <img title="Piplup theme with TGC vibes" width="480px" src="themes/PPLP%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>PPLP</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -139,7 +139,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Simple Pixels (2-pack) by Cuprite.zip?raw=true">
+<a href="release/Simple%20Pixels%20%282-pack%29%20by%20Cuprite.zip?raw=true">
 <img title="Simple Pixels (2-pack) by Cuprite" width="480px" src="themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png?raw=true" /><br/>
 <b>Simple Pixels (2-pack)</b></a><br/>
 <sup><i>Cuprite</i></sup><br>
@@ -149,7 +149,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PICO-8 (3-pack) by tenlevels.zip?raw=true">
+<a href="release/PICO-8%20%283-pack%29%20by%20tenlevels.zip?raw=true">
 <img title="PICO-8 (3-pack) by tenlevels" width="480px" src="themes/PICO-8%20%283-pack%29%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>PICO-8 (3-pack)</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -159,7 +159,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Bayonetta by Kryobear.zip?raw=true">
+<a href="release/Bayonetta%20by%20Kryobear.zip?raw=true">
 <img title="Theme based off Bayonetta 1!" width="480px" src="themes/Bayonetta%20by%20Kryobear/preview.png?raw=true" /><br/>
 <b>Bayonetta</b></a><br/>
 <sup><i>Kryobear</i></sup><br>
@@ -170,7 +170,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Zigzag-iyoo-n Mini (2-pack) by Cuprite.zip?raw=true">
+<a href="release/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite.zip?raw=true">
 <img title="Zigzag-iyoo-n Mini (2-pack) by Cuprite" width="480px" src="themes/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite/preview.png?raw=true" /><br/>
 <b>Zigzag-iyoo-n Mini (2-pack)</b></a><br/>
 <sup><i>Cuprite</i></sup><br>
@@ -180,7 +180,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo Valley (2-pack) by dragon-fruity.zip?raw=true">
+<a href="release/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity.zip?raw=true">
 <img title="Miyoo Valley (2-pack) by dragon-fruity" width="480px" src="themes/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/preview.png?raw=true" /><br/>
 <b>Miyoo Valley (2-pack)</b></a><br/>
 <sup><i>dragon-fruity</i></sup><br>
@@ -190,7 +190,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Rick and Morty Mini by Zooloo631.zip?raw=true">
+<a href="release/Rick%20and%20Morty%20Mini%20by%20Zooloo631.zip?raw=true">
 <img title="Rick and Morty Mini by Zooloo631" width="480px" src="themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png?raw=true" /><br/>
 <b>Rick and Morty Mini</b></a><br/>
 <sup><i>Zooloo631</i></sup><br>
@@ -201,7 +201,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/NEO GEO by tenlevels.zip?raw=true">
+<a href="release/NEO%20GEO%20by%20tenlevels.zip?raw=true">
 <img title="NEO GEO MVS inspired theme" width="480px" src="themes/NEO%20GEO%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>NEO GEO</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -211,7 +211,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/TTYD by Kryobear.zip?raw=true">
+<a href="release/TTYD%20by%20Kryobear.zip?raw=true">
 <img title="Theme layout with 10x10 grid" width="480px" src="themes/TTYD%20by%20Kryobear/preview.png?raw=true" /><br/>
 <b>TTYD</b></a><br/>
 <sup><i>Kryobear</i></sup><br>
@@ -221,7 +221,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/TRON by tenlevels.zip?raw=true">
+<a href="release/TRON%20by%20tenlevels.zip?raw=true">
 <img title="Tron Legacy inspired theme" width="480px" src="themes/TRON%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>TRON</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -232,7 +232,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Sonic (2-pack) by tenlevels.zip?raw=true">
+<a href="release/Sonic%20%282-pack%29%20by%20tenlevels.zip?raw=true">
 <img title="Sonic (2-pack) by tenlevels" width="480px" src="themes/Sonic%20%282-pack%29%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>Sonic (2-pack)</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -242,7 +242,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo Truxton by tenlevels.zip?raw=true">
+<a href="release/Miyoo%20Truxton%20by%20tenlevels.zip?raw=true">
 <img title="Truxton inspired theme" width="480px" src="themes/Miyoo%20Truxton%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>Miyoo Truxton</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -252,7 +252,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/VII by Moowgly.zip?raw=true">
+<a href="release/VII%20by%20Moowgly.zip?raw=true">
 <img title="VII by Moowgly" width="480px" src="themes/VII%20by%20Moowgly/preview.png?raw=true" /><br/>
 <b>VII</b></a><br/>
 <sup><i>Moowgly</i></sup><br>
@@ -263,7 +263,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PSX Theme by Oclain.zip?raw=true">
+<a href="release/PSX%20Theme%20by%20Oclain.zip?raw=true">
 <img title="PSX Classic Menu Style" width="480px" src="themes/PSX%20Theme%20by%20Oclain/preview.png?raw=true" /><br/>
 <b>PSX Theme</b></a><br/>
 <sup><i>Oclain</i></sup><br>
@@ -273,7 +273,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Cyberpunk by Dreams897.zip?raw=true">
+<a href="release/Cyberpunk%20by%20Dreams897.zip?raw=true">
 <img title="[Cyberpunk 2077 inspired theme]" width="480px" src="themes/Cyberpunk%20by%20Dreams897/preview.png?raw=true" /><br/>
 <b>Cyberpunk</b></a><br/>
 <sup><i>dreams897</i></sup><br>
@@ -283,7 +283,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/OSRS Theme by Mahan.zip?raw=true">
+<a href="release/OSRS%20Theme%20by%20Mahan.zip?raw=true">
 <img title="OSRS Theme by Mahan" width="480px" src="themes/OSRS%20Theme%20by%20Mahan/preview.png?raw=true" /><br/>
 <b>OSRS Theme</b></a><br/>
 <sup><i>Mahan</i></sup><br>
@@ -294,7 +294,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo Slug by tenlevels.zip?raw=true">
+<a href="release/Miyoo%20Slug%20by%20tenlevels.zip?raw=true">
 <img title="Metal Slug inspired theme" width="480px" src="themes/Miyoo%20Slug%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>Miyoo Slug</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -304,7 +304,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Super Mariyoo by tenlevels.zip?raw=true">
+<a href="release/Super%20Mariyoo%20by%20tenlevels.zip?raw=true">
 <img title="Super Mario NES inspired theme" width="480px" src="themes/Super%20Mariyoo%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>Super Mariyoo</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -314,7 +314,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Contra Miyoo by tenlevels.zip?raw=true">
+<a href="release/Contra%20Miyoo%20by%20tenlevels.zip?raw=true">
 <img title="Contra NES inspired theme" width="480px" src="themes/Contra%20Miyoo%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>Contra Miyoo</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -325,7 +325,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PAC-MIYOO by tenlevels.zip?raw=true">
+<a href="release/PAC-MIYOO%20by%20tenlevels.zip?raw=true">
 <img title="PAC-MIYOO by tenlevels" width="480px" src="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>PAC-MIYOO</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -335,7 +335,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Super Onion Entertainment System by TheDewd.zip?raw=true">
+<a href="release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip?raw=true">
 <img title="Super Onion Entertainment System by TheDewd" width="480px" src="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Super Onion Entertainment System</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
@@ -345,7 +345,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/NanoSwitch (2-pack) by Amdy.zip?raw=true">
+<a href="release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true">
 <img title="NanoSwitch (2-pack) by Amdy" width="480px" src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true" /><br/>
 <b>NanoSwitch (2-pack)</b></a><br/>
 <sup><i>Amdy</i></sup><br>
@@ -356,7 +356,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Cards by PixelShift.zip?raw=true">
+<a href="release/Cards%20by%20PixelShift.zip?raw=true">
 <img title="Cards by PixelShift" width="480px" src="themes/Cards%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Cards</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -366,7 +366,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Kingdom Onions by PixelShift.zip?raw=true">
+<a href="release/Kingdom%20Onions%20by%20PixelShift.zip?raw=true">
 <img title="Kingdom Onions by PixelShift" width="480px" src="themes/Kingdom%20Onions%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Kingdom Onions</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -376,7 +376,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/CyberOnion (2-pack) by Aemiii91.zip?raw=true">
+<a href="release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true">
 <img title="CyberOnion (2-pack) by Aemiii91" width="480px" src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion (2-pack)</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -387,7 +387,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/DNTSHP by Deepslackerjazz.zip?raw=true">
+<a href="release/DNTSHP%20by%20Deepslackerjazz.zip?raw=true">
 <img title="Old school donut shop in pixel form" width="480px" src="themes/DNTSHP%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>DNTSHP</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -397,7 +397,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Tema by Alex Connor.zip?raw=true">
+<a href="release/Tema%20by%20Alex%20Connor.zip?raw=true">
 <img title="Tema by Alex Connor" width="480px" src="themes/Tema%20by%20Alex%20Connor/preview.png?raw=true" /><br/>
 <b>Tema</b></a><br/>
 <sup><i>Alex Connor</i></sup><br>
@@ -407,7 +407,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy DX by PixelShift.zip?raw=true">
+<a href="release/Onion%20Boy%20DX%20by%20PixelShift.zip?raw=true">
 <img title="Onion Boy DX by PixelShift" width="480px" src="themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onion Boy DX</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -418,7 +418,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy by PixelShift + Jeltron.zip?raw=true">
+<a href="release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip?raw=true">
 <img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Boy</b></a><br/>
 <sup><i>PixelShift + Jeltron</i></sup><br>
@@ -428,7 +428,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/MiNook Mini by Deepslackerjazz.zip?raw=true">
+<a href="release/MiNook%20Mini%20by%20Deepslackerjazz.zip?raw=true">
 <img title="Nook phone type theme with a crafty vibe" width="480px" src="themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>MiNook</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -438,7 +438,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/less by junk.zip?raw=true">
+<a href="release/less%20by%20junk.zip?raw=true">
 <img title="Another minimalist theme" width="480px" src="themes/less%20by%20junk/preview.png?raw=true" /><br/>
 <b>less</b></a><br/>
 <sup><i>junk</i></sup><br>
@@ -449,7 +449,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/RPO by TheDewd.zip?raw=true">
+<a href="release/RPO%20by%20TheDewd.zip?raw=true">
 <img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Role Playing Onion</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
@@ -459,7 +459,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/BRCKD by Deepslackerjazz.zip?raw=true">
+<a href="release/BRCKD%20by%20Deepslackerjazz.zip?raw=true">
 <img title="BRCKD by Deepslackerjazz" width="480px" src="themes/BRCKD%20by%20Deepslackerjazz/preview.png?raw=true" /><br/>
 <b>BRCKD</b></a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -469,7 +469,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onionboy HD by Jeltron.zip?raw=true">
+<a href="release/Onionboy%20HD%20by%20Jeltron.zip?raw=true">
 <img title="Higher res variant of OnionBoy" width="480px" src="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onionboy HD</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
@@ -480,7 +480,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/End of Ages by apg313.zip?raw=true">
+<a href="release/End%20of%20Ages%20by%20apg313.zip?raw=true">
 <img title="End of Ages by apg313" width="480px" src="themes/End%20of%20Ages%20by%20apg313/preview.png?raw=true" /><br/>
 <b>End of Ages</b></a><br/>
 <sup><i>apg313</i></sup><br>
@@ -490,7 +490,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/System 9 by injekim.zip?raw=true">
+<a href="release/System%209%20by%20injekim.zip?raw=true">
 <img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
 <b>System 9</b></a><br/>
 <sup><i>injekim</i></sup><br>
@@ -500,7 +500,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/gry64 by iamatrap.zip?raw=true">
+<a href="release/gry64%20by%20iamatrap.zip?raw=true">
 <img title="GRY64 by iamatrap" width="480px" src="themes/gry64%20by%20iamatrap/preview.png?raw=true" /><br/>
 <b>GRY64</b></a><br/>
 <sup><i>iamatrap</i></sup><br>
@@ -511,7 +511,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Shadaloo (SFA3) by XCVNCE.zip?raw=true">
+<a href="release/Shadaloo%20%28SFA3%29%20by%20XCVNCE.zip?raw=true">
 <img title="Shadaloo (SFA3) by XCVNCE" width="480px" src="themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png?raw=true" /><br/>
 <b>Shadaloo (SFA3)</b></a><br/>
 <sup><i>XCVNCE</i></sup><br>
@@ -521,7 +521,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/BMO by OjninJo.zip?raw=true">
+<a href="release/BMO%20by%20OjninJo.zip?raw=true">
 <img title="Who wants to play videogames!?" width="480px" src="themes/BMO%20by%20OjninJo/preview.png?raw=true" /><br/>
 <b>BMO</b></a><br/>
 <sup><i>OjninJo</i></sup><br>
@@ -531,7 +531,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/MasterHacker by Squ1d0ne.zip?raw=true">
+<a href="release/MasterHacker%20by%20Squ1d0ne.zip?raw=true">
 <img title="MasterHacker by Squ1d0ne" width="480px" src="themes/MasterHacker%20by%20Squ1d0ne/preview.png?raw=true" /><br/>
 <b>MasterHacker</b></a><br/>
 <sup><i>Squ1d0ne</i></sup><br>
@@ -542,7 +542,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Analogue by Aemiii91.zip?raw=true">
+<a href="release/Analogue%20by%20Aemiii91.zip?raw=true">
 <img title="Minimalist theme inspired by Analogue OS" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -552,7 +552,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/TrimUI by Aemiii91.zip?raw=true">
+<a href="release/TrimUI%20by%20Aemiii91.zip?raw=true">
 <img title="TrimUI theme port" width="480px" src="themes/TrimUI%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>TrimUI</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -562,7 +562,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Blueprint by Aemiii91.zip?raw=true">
+<a href="release/Blueprint%20by%20Aemiii91.zip?raw=true">
 <img title="Theme layout with 10x10 grid" width="480px" src="themes/Blueprint%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Blueprint</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -573,7 +573,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/3DS mini by MarsTaco.zip?raw=true">
+<a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
 <img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>3DS mini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -583,7 +583,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/MajoraMi by apg313.zip?raw=true">
+<a href="release/MajoraMi%20by%20apg313.zip?raw=true">
 <img title="MajoraMi by apg313" width="480px" src="themes/MajoraMi%20by%20apg313/preview.png?raw=true" /><br/>
 <b>MajoraMi</b></a><br/>
 <sup><i>apg313</i></sup><br>
@@ -593,7 +593,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBC Pokedex by Nxt.stop.please.zip?raw=true">
+<a href="release/GBC%20Pokedex%20by%20Nxt.stop.please.zip?raw=true">
 <img title="GBC Pokedex by Nxt.stop.please" width="480px" src="themes/GBC%20Pokedex%20by%20Nxt.stop.please/preview.png?raw=true" /><br/>
 <b>GBC Pokedex</b></a><br/>
 <sup><i>Nxt.stop.please</i></sup><br>
@@ -604,7 +604,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Zenburn by duckbeets.zip?raw=true">
+<a href="release/Zenburn%20by%20duckbeets.zip?raw=true">
 <img title="Zenburn by duckbeets" width="480px" src="themes/Zenburn%20by%20duckbeets/preview.png?raw=true" /><br/>
 <b>Zenburn</b></a><br/>
 <sup><i>duckbeets</i></sup><br>
@@ -614,7 +614,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/ChronoMi by apg313.zip?raw=true">
+<a href="release/ChronoMi%20by%20apg313.zip?raw=true">
 <img title="ChronoMi by apg313" width="480px" src="themes/ChronoMi%20by%20apg313/preview.png?raw=true" /><br/>
 <b>ChronoMi</b></a><br/>
 <sup><i>apg313</i></sup><br>
@@ -624,7 +624,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBMini by Kitsuvi.zip?raw=true">
+<a href="release/GBMini%20by%20Kitsuvi.zip?raw=true">
 <img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBMini</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
@@ -635,7 +635,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBOnion by Kitsuvi.zip?raw=true">
+<a href="release/GBOnion%20by%20Kitsuvi.zip?raw=true">
 <img title="GBOnion by Kitsuvi" width="480px" src="themes/GBOnion%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBOnion</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
@@ -645,7 +645,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Hyrule Dark by ruidacosta.zip?raw=true">
+<a href="release/Hyrule%20Dark%20by%20ruidacosta.zip?raw=true">
 <img title="Hyrule Dark by ruidacosta" width="480px" src="themes/Hyrule%20Dark%20by%20ruidacosta/preview.png?raw=true" /><br/>
 <b>Hyrule Dark</b></a><br/>
 <sup><i>ruidacosta</i></sup><br>
@@ -655,7 +655,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/EVA by laumser7 + trere.zip?raw=true">
+<a href="release/EVA%20by%20laumser7%20%2B%20trere.zip?raw=true">
 <img title="EVA by laumser7 + trere" width="480px" src="themes/EVA%20by%20laumser7%20%2B%20trere/preview.png?raw=true" /><br/>
 <b>EVA</b></a><br/>
 <sup><i>laumser7 + trere</i></sup><br>
@@ -666,7 +666,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Animiyoo by laumser7.zip?raw=true">
+<a href="release/Animiyoo%20by%20laumser7.zip?raw=true">
 <img title="Animiyoo by laumser7" width="480px" src="themes/Animiyoo%20by%20laumser7/preview.png?raw=true" /><br/>
 <b>Animiyoo</b></a><br/>
 <sup><i>laumser7</i></sup><br>
@@ -676,7 +676,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PSPmini Blue by MarsTaco.zip?raw=true">
+<a href="release/PSPmini%20Blue%20by%20MarsTaco.zip?raw=true">
 <img title="PSPmini Blue by MarsTaco" width="480px" src="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>PSPmini Blue</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -686,7 +686,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PSPmini by MarsTaco.zip?raw=true">
+<a href="release/PSPmini%20by%20MarsTaco.zip?raw=true">
 <img title="PSPmini by MarsTaco" width="480px" src="themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>PSPmini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -697,7 +697,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Hippo Stock.zip?raw=true">
+<a href="release/Hippo%20Stock.zip?raw=true">
 <img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
 <b>Hippo Stock</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -707,7 +707,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/MakoVII by Gloomy_Background755.zip?raw=true">
+<a href="release/MakoVII%20by%20Gloomy_Background755.zip?raw=true">
 <img title="MakoVII by Gloomy_Background755" width="480px" src="themes/MakoVII%20by%20Gloomy_Background755/preview.png?raw=true" /><br/>
 <b>MakoVII</b></a><br/>
 <sup><i>Gloomy_Background755</i></sup><br>
@@ -717,7 +717,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Plastic Leaf (NA) by leafflat.zip?raw=true">
+<a href="release/Plastic%20Leaf%20%28NA%29%20by%20leafflat.zip?raw=true">
 <img title="Plastic Leaf (NA) by leafflat" width="480px" src="themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/preview.png?raw=true" /><br/>
 <b>Plastic Leaf (NA)</b></a><br/>
 <sup><i>leafflat</i></sup><br>
@@ -728,7 +728,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Plastic Leaf (EU) by leafflat.zip?raw=true">
+<a href="release/Plastic%20Leaf%20%28EU%29%20by%20leafflat.zip?raw=true">
 <img title="Plastic Leaf (EU) by leafflat" width="480px" src="themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/preview.png?raw=true" /><br/>
 <b>Plastic Leaf (EU)</b></a><br/>
 <sup><i>leafflat</i></sup><br>
@@ -738,7 +738,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/National Pokedex by Vanta_black.zip?raw=true">
+<a href="release/National%20Pokedex%20by%20Vanta_black.zip?raw=true">
 <img title="National Pokedex by Vanta_black" width="480px" src="themes/National%20Pokedex%20by%20Vanta_black/preview.png?raw=true" /><br/>
 <b>National Pokedex</b></a><br/>
 <sup><i>Vanta_black</i></sup><br>
@@ -759,7 +759,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo blues.zip?raw=true">
+<a href="release/Miyoo%20blues.zip?raw=true">
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -769,7 +769,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo jazz.zip?raw=true">
+<a href="release/Miyoo%20jazz.zip?raw=true">
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -779,7 +779,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Monster Hunter by Miyoo.zip?raw=true">
+<a href="release/Monster%20Hunter%20by%20Miyoo.zip?raw=true">
 <img title="Monster Hunter by Miyoo" width="480px" src="themes/Monster%20Hunter%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>Monster Hunter</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -790,7 +790,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Aubergine by blueasis.zip?raw=true">
+<a href="release/Aubergine%20by%20blueasis.zip?raw=true">
 <img title="Aubergine by blueasis" width="480px" src="themes/Aubergine%20by%20blueasis/preview.png?raw=true" /><br/>
 <b>Aubergine</b></a><br/>
 <sup><i>blueasis</i></sup><br>
@@ -800,7 +800,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Codec by ScarGutz.zip?raw=true">
+<a href="release/Codec%20by%20ScarGutz.zip?raw=true">
 <img title="Codec by ScarGutz" width="480px" src="themes/Codec%20by%20ScarGutz/preview.png?raw=true" /><br/>
 <b>Codec</b></a><br/>
 <sup><i>ScarGutz</i></sup><br>
@@ -810,7 +810,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Black Cotton Candy by PixelShift.zip?raw=true">
+<a href="release/Black%20Cotton%20Candy%20by%20PixelShift.zip?raw=true">
 <img title="Black Cotton Candy by PixelShift" width="480px" src="themes/Black%20Cotton%20Candy%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Black Cotton Candy</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -821,7 +821,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Business by Jim Gray.zip?raw=true">
+<a href="release/Business%20by%20Jim%20Gray.zip?raw=true">
 <img title="Business by Jim Gray" width="480px" src="themes/Business%20by%20Jim%20Gray/preview.png?raw=true" /><br/>
 <b>Business</b></a><br/>
 <sup><i>Jim Gray</i></sup><br>
@@ -831,7 +831,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Fuzzy Pickles! by Updog.zip?raw=true">
+<a href="release/Fuzzy%20Pickles%21%20by%20Updog.zip?raw=true">
 <img title="Fuzzy Pickles! by Updog" width="480px" src="themes/Fuzzy%20Pickles%21%20by%20Updog/preview.png?raw=true" /><br/>
 <b>Fuzzy Pickles!</b></a><br/>
 <sup><i>Updog</i></sup><br>
@@ -841,7 +841,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Galaxy by PixelShift.zip?raw=true">
+<a href="release/Galaxy%20by%20PixelShift.zip?raw=true">
 <img title="Galaxy by PixelShift" width="480px" src="themes/Galaxy%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Galaxy</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -852,7 +852,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo Quest by y_oshid_a.zip?raw=true">
+<a href="release/Miyoo%20Quest%20by%20y_oshid_a.zip?raw=true">
 <img title="Miyoo Quest by y_oshid_a" width="480px" src="themes/Miyoo%20Quest%20by%20y_oshid_a/preview.png?raw=true" /><br/>
 <b>Miyoo Quest</b></a><br/>
 <sup><i>y_oshid_a</i></sup><br>
@@ -862,7 +862,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Lilla by evolve.zip?raw=true">
+<a href="release/Lilla%20by%20evolve.zip?raw=true">
 <img title="Lilla by evolve" width="480px" src="themes/Lilla%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Lilla</b></a><br/>
 <sup><i>evolve</i></sup><br>
@@ -872,7 +872,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Oransje by evolve.zip?raw=true">
+<a href="release/Oransje%20by%20evolve.zip?raw=true">
 <img title="Oransje by evolve" width="480px" src="themes/Oransje%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Oransje</b></a><br/>
 <sup><i>evolve</i></sup><br>
@@ -883,7 +883,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onichan by PixelShift.zip?raw=true">
+<a href="release/Onichan%20by%20PixelShift.zip?raw=true">
 <img title="Onichan by PixelShift" width="480px" src="themes/Onichan%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onichan</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -893,7 +893,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Mini by Jeltron.zip?raw=true">
+<a href="release/Onion%20Mini%20by%20Jeltron.zip?raw=true">
 <img title="Onion Mini by Jeltron" width="480px" src="themes/Onion%20Mini%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Mini</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
@@ -903,7 +903,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onyan by PixelShift.zip?raw=true">
+<a href="release/Onyan%20by%20PixelShift.zip?raw=true">
 <img title="Onyan by PixelShift" width="480px" src="themes/Onyan%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onyan</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -914,7 +914,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Poketch by Lucario.zip?raw=true">
+<a href="release/Poketch%20by%20Lucario.zip?raw=true">
 <img title="Pokétch by Lucario" width="480px" src="themes/Poketch%20by%20Lucario/preview.png?raw=true" /><br/>
 <b>Pokétch</b></a><br/>
 <sup><i>Lucario</i></sup><br>
@@ -924,7 +924,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/2022 Stock by Miyoo.zip?raw=true">
+<a href="release/2022%20Stock%20by%20Miyoo.zip?raw=true">
 <img title="2022 Stock by Miyoo" width="480px" src="themes/2022%20Stock%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>2022 Stock</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -934,7 +934,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/2021 Stock by Miyoo.zip?raw=true">
+<a href="release/2021%20Stock%20by%20Miyoo.zip?raw=true">
 <img title="2021 Stock by Miyoo" width="480px" src="themes/2021%20Stock%20by%20Miyoo/preview.png?raw=true" /><br/>
 <b>2021 Stock</b></a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -945,7 +945,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Switch by PixelShift.zip?raw=true">
+<a href="release/Switch%20by%20PixelShift.zip?raw=true">
 <img title="Switch by PixelShift" width="480px" src="themes/Switch%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Switch</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -955,7 +955,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Synthwave by Ritual.zip?raw=true">
+<a href="release/Synthwave%20by%20Ritual.zip?raw=true">
 <img title="Synthwave by Ritual" width="480px" src="themes/Synthwave%20by%20Ritual/preview.png?raw=true" /><br/>
 <b>Synthwave</b></a><br/>
 <sup><i>Ritual</i></sup><br>
@@ -965,7 +965,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Wavedash by historymaker118.zip?raw=true">
+<a href="release/Wavedash%20by%20historymaker118.zip?raw=true">
 <img title="Wavedash by historymaker118" width="480px" src="themes/Wavedash%20by%20historymaker118/preview.png?raw=true" /><br/>
 <b>Wavedash</b></a><br/>
 <sup><i>historymaker118</i></sup><br>
@@ -976,7 +976,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/BirdShot by historymaker118.zip?raw=true">
+<a href="release/BirdShot%20by%20historymaker118.zip?raw=true">
 <img title="BirdShot by historymaker118" width="480px" src="themes/BirdShot%20by%20historymaker118/preview.png?raw=true" /><br/>
 <b>BirdShot</b></a><br/>
 <sup><i>historymaker118</i></sup><br>
@@ -1000,7 +1000,7 @@ This section showcases the themes included with Onion.
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Silky by DiMo.zip?raw=true">
+<a href="release/Silky%20by%20DiMo.zip?raw=true">
 <img title="[Onion default theme]" width="480px" src="themes/Silky%20by%20DiMo/preview.png?raw=true" /><br/>
 <b>Silky</b></a><br/>
 <sup><i>DiMo</i></sup><br>
@@ -1010,7 +1010,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/CyberOnion (2-pack) by Aemiii91.zip?raw=true">
+<a href="release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true">
 <img title="CyberOnion (2-pack) by Aemiii91" width="480px" src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion (2-pack)</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -1020,7 +1020,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Analogue by Aemiii91.zip?raw=true">
+<a href="release/Analogue%20by%20Aemiii91.zip?raw=true">
 <img title="Minimalist theme inspired by Analogue OS" width="480px" src="themes/Analogue%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -1031,7 +1031,7 @@ This section showcases the themes included with Onion.
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/NanoSwitch (2-pack) by Amdy.zip?raw=true">
+<a href="release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true">
 <img title="NanoSwitch (2-pack) by Amdy" width="480px" src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true" /><br/>
 <b>NanoSwitch (2-pack)</b></a><br/>
 <sup><i>Amdy</i></sup><br>
@@ -1041,7 +1041,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy DX by PixelShift.zip?raw=true">
+<a href="release/Onion%20Boy%20DX%20by%20PixelShift.zip?raw=true">
 <img title="Onion Boy DX by PixelShift" width="480px" src="themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onion Boy DX</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -1051,7 +1051,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy by PixelShift + Jeltron.zip?raw=true">
+<a href="release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip?raw=true">
 <img title="Onion Boy by PixelShift + Jeltron" width="480px" src="themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onion Boy</b></a><br/>
 <sup><i>PixelShift + Jeltron</i></sup><br>
@@ -1062,7 +1062,7 @@ This section showcases the themes included with Onion.
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onionboy HD by Jeltron.zip?raw=true">
+<a href="release/Onionboy%20HD%20by%20Jeltron.zip?raw=true">
 <img title="Higher res variant of OnionBoy" width="480px" src="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true" /><br/>
 <b>Onionboy HD</b></a><br/>
 <sup><i>Jeltron</i></sup><br>
@@ -1072,7 +1072,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/System 9 by injekim.zip?raw=true">
+<a href="release/System%209%20by%20injekim.zip?raw=true">
 <img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
 <b>System 9</b></a><br/>
 <sup><i>injekim</i></sup><br>
@@ -1082,7 +1082,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PAC-MIYOO by tenlevels.zip?raw=true">
+<a href="release/PAC-MIYOO%20by%20tenlevels.zip?raw=true">
 <img title="PAC-MIYOO by tenlevels" width="480px" src="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true" /><br/>
 <b>PAC-MIYOO</b></a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -1093,7 +1093,7 @@ This section showcases the themes included with Onion.
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/RPO by TheDewd.zip?raw=true">
+<a href="release/RPO%20by%20TheDewd.zip?raw=true">
 <img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Role Playing Onion</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
@@ -1103,7 +1103,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Super Onion Entertainment System by TheDewd.zip?raw=true">
+<a href="release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip?raw=true">
 <img title="Super Onion Entertainment System by TheDewd" width="480px" src="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true" /><br/>
 <b>Super Onion Entertainment System</b></a><br/>
 <sup><i>TheDewd</i></sup><br>
@@ -1113,7 +1113,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/3DS mini by MarsTaco.zip?raw=true">
+<a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
 <img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>3DS mini</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -1124,7 +1124,7 @@ This section showcases the themes included with Onion.
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PSPmini Blue by MarsTaco.zip?raw=true">
+<a href="release/PSPmini%20Blue%20by%20MarsTaco.zip?raw=true">
 <img title="PSPmini Blue by MarsTaco" width="480px" src="themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/preview.png?raw=true" /><br/>
 <b>PSPmini Blue</b></a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -1134,7 +1134,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBMini by Kitsuvi.zip?raw=true">
+<a href="release/GBMini%20by%20Kitsuvi.zip?raw=true">
 <img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
 <b>GBMini</b></a><br/>
 <sup><i>Kitsuvi</i></sup><br>
@@ -1144,7 +1144,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo blues.zip?raw=true">
+<a href="release/Miyoo%20blues.zip?raw=true">
 <img title="Miyoo blues" width="480px" src="themes/Miyoo%20blues/preview.png?raw=true" /><br/>
 <b>Miyoo blues</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -1155,7 +1155,7 @@ This section showcases the themes included with Onion.
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Miyoo jazz.zip?raw=true">
+<a href="release/Miyoo%20jazz.zip?raw=true">
 <img title="Miyoo jazz" width="480px" src="themes/Miyoo%20jazz/preview.png?raw=true" /><br/>
 <b>Miyoo jazz</b></a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -1165,7 +1165,7 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Oransje by evolve.zip?raw=true">
+<a href="release/Oransje%20by%20evolve.zip?raw=true">
 <img title="Oransje by evolve" width="480px" src="themes/Oransje%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Oransje</b></a><br/>
 <sup><i>evolve</i></sup><br>
@@ -1193,7 +1193,7 @@ This section showcases theme remixes made by the community and approved by the o
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBOnion Gruvbox by Kitsuvi + Dreambrace.zip?raw=true">
+<a href="release/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace.zip?raw=true">
 <img title="GBOnion Gruvbox by Kitsuvi + Dreambrace" width="480px" src="themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png?raw=true" /><br/>
 <b>GBOnion Gruvbox</b></a><br/>
 <sup><i>Kitsuvi + Dreambrace</i></sup><br>
@@ -1203,7 +1203,7 @@ This section showcases theme remixes made by the community and approved by the o
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Zenburn 1.5 by duckbeets + Catz.zip?raw=true">
+<a href="release/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz.zip?raw=true">
 <img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true" /><br/>
 <b>Zenburn 1.5</b></a><br/>
 <sup><i>duckbeets + Catz</i></sup><br>
@@ -1213,7 +1213,7 @@ This section showcases theme remixes made by the community and approved by the o
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBOnion Dark by Kitsuvi + andresandiah.zip?raw=true">
+<a href="release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip?raw=true">
 <img title="Recolor by andresandiah" width="480px" src="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true" /><br/>
 <b>GBOnion Dark</b></a><br/>
 <sup><i>Kitsuvi + andresandiah</i></sup><br>
@@ -1224,7 +1224,7 @@ This section showcases theme remixes made by the community and approved by the o
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Red Onion by PixelShift + Jeltron + Moontorc.zip?raw=true">
+<a href="release/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc.zip?raw=true">
 <img title="Recolor by Moontorc" width="480px" src="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true" /><br/>
 <b>Red Onion</b></a><br/>
 <sup><i>PixelShift + Jeltron + Moontorc</i></sup><br>
@@ -1234,7 +1234,7 @@ This section showcases theme remixes made by the community and approved by the o
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onionboy HD Gray by Jeltron + TechDevangelist.zip?raw=true">
+<a href="release/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist.zip?raw=true">
 <img title="Recolor by TechDevangelist" width="480px" src="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/preview.png?raw=true" /><br/>
 <b>Onionboy HD Gray</b></a><br/>
 <sup><i>Jeltron + TechDevangelist</i></sup><br>
@@ -1244,7 +1244,7 @@ This section showcases theme remixes made by the community and approved by the o
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy Pocket by PixelShift + H9K.zip?raw=true">
+<a href="release/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K.zip?raw=true">
 <img title="Recolor by H9L" width="480px" src="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/preview.png?raw=true" /><br/>
 <b>Onion Boy Pocket</b></a><br/>
 <sup><i>PixelShift + H9L</i></sup><br>
@@ -1255,7 +1255,7 @@ This section showcases theme remixes made by the community and approved by the o
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion Boy Dark by PixelShift.zip?raw=true">
+<a href="release/Onion%20Boy%20Dark%20by%20PixelShift.zip?raw=true">
 <img title="Contrast edit by PixelShift" width="480px" src="themes/Onion%20Boy%20Dark%20by%20PixelShift/preview.png?raw=true" /><br/>
 <b>Onion Boy Dark</b></a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -1339,7 +1339,7 @@ This section showcases theme remixes made by the community and approved by the o
 
 ### CyberOnion BW by Aemiii91
 
-[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip)
+[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
 
 <table><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"></td><td><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc"></td></table>
 

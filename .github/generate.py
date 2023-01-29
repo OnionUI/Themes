@@ -128,7 +128,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
         preview_url = f"themes/{urlencode(theme)}/preview.png?raw=true"
     else:
         preview_url = f"{urlencode(theme_subdirs[0])}/preview.png?raw=true"
-    release_url = f"release/{theme}.zip?raw=true"
+    release_url = f"release/{urlencode(theme)}.zip?raw=true"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
     git_result = subprocess.run(
@@ -203,7 +203,7 @@ def generate_icon_pack_overview():
         icon_packs.append({
             "name": dir_name,
             "path": dir_path,
-            "release_url": release_url,
+            "release_url": f"{urlencode(release_url)}?raw=true",
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
@@ -220,7 +220,7 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
 
     if len(release_url) != 0:
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
-        output += f"[{dn_text}]({urlencode(release_url)})\n\n"
+        output += f"[{dn_text}]({release_url})\n\n"
 
     output += "<table>"
 
