@@ -995,7 +995,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 This section showcases the themes included with Onion.
 
 <details>
-<summary>Browse themes</summary>
+<summary>Browse featured themes</summary>
 
 <table align="center"><tr>
 <td align="center" valign="top">
@@ -1188,7 +1188,7 @@ This section showcases theme remixes made by the community and approved by the o
 > *If a remixed theme isn't approved by the original author, we will take it down.*
 
 <details>
-<summary>Browse themes</summary>
+<summary>Browse remixed themes</summary>
 
 <table align="center"><tr>
 <td align="center" valign="top">
