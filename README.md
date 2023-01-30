@@ -1287,18 +1287,6 @@ Check out these standalone icon packs!
 
 <table align=center><td>
 
-#### Mini Icons by Jeltron
-
-[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
-
-<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
-
-<sup>33/54 icons (61% complete) &nbsp;|&nbsp; [README](/icons/Mini%20Icons%20by%20Jeltron/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron)</sup>
-
-</td></table>
-
-<table align=center><td>
-
 #### CyberOnion BW by Aemiii91
 
 [Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
@@ -1306,6 +1294,18 @@ Check out these standalone icon packs!
 <img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
+
+</td></table>
+
+<table align=center><td>
+
+#### Mini Icons by Jeltron
+
+[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
+
+<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
+
+<sup>33/54 icons (61% complete) &nbsp;|&nbsp; [README](/icons/Mini%20Icons%20by%20Jeltron/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron)</sup>
 
 </td></table>
 
