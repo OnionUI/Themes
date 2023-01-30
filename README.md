@@ -547,7 +547,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-01-29" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2023-01-29</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-01-30" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2023-01-30</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1025,7 +1025,7 @@ This section showcases the themes included with Onion.
 <b>Analogue</b></a><br/>
 <sup><i>Aemiii91</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-01-29" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2023-01-29</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-01-30" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2023-01-30</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 </tr><tr>
@@ -1287,18 +1287,6 @@ Check out these standalone icon packs!
 
 <table align=center><td>
 
-#### CyberOnion BW by Aemiii91
-
-[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
-
-<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
-
-<sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
-
-</td></table>
-
-<table align=center><td>
-
 #### Mini Icons by Jeltron
 
 [Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
@@ -1306,6 +1294,18 @@ Check out these standalone icon packs!
 <img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
 
 <sup>33/54 icons (61% complete) &nbsp;|&nbsp; [README](/icons/Mini%20Icons%20by%20Jeltron/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron)</sup>
+
+</td></table>
+
+<table align=center><td>
+
+#### CyberOnion BW by Aemiii91
+
+[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
+
+<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
+
+<sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
 
 </td></table>
 
