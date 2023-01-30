@@ -1,0 +1,46 @@
+{
+    "name": "YoRHa",
+    "author": "Deepslackerjazz",
+    "description": "Nier Automata inspired theme",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "FOTRodin Pro M.otf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "title": {
+        "font": "FOTRodin Pro M.otf",
+        "size": 28,
+        "color": "#666354"
+    },
+    "hint": {
+        "font": "FOTRodin Pro M.otf",
+        "size": 18,
+        "color": "#343025"
+    },
+    "currentpage": {
+        "color": "#343025"
+    },
+    "total": {
+        "color": "#343025"
+    },
+    "grid": {
+        "font": "FOTRodin Pro M.otf",
+        "grid1x4": 25,
+        "grid3x4": 12,
+        "color": "#343025",
+        "selectedcolor": "#343025"
+    },
+    "list": {
+        "font": "FOTRodin Pro M.otf",
+        "size": 25,
+        "color": "#343025"
+    }
+}
