@@ -38,6 +38,8 @@ HAS_ICONPACK_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\
 README_ICON_URL = "https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png"
 README_ICON = f"<img src=\"{README_ICON_URL}\" height=\"16\" title=\"README\">"
 
+PREVIEW_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\"Show full preview\">"
+
 README_TEST = ["readme.md", "README.md", "readme.txt", "README.txt"]
 REL_PATH = os.path.abspath(os.path.join(SRC_DIR, ".."))
 
@@ -271,10 +273,10 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
             break
         readme_path = ""
 
-    readme = f"[README]({urlencode(readme_path)}) &nbsp;|&nbsp; " if len(readme_path) != 0 else ""
+    readme = f"<a href=\"{urlencode(readme_path)}\">{README_ICON}</a> &nbsp;&nbsp; " if len(readme_path) != 0 else ""
 
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
-    output += f"<sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; {readme}[Show full preview]({preview_url})</sup>"
+    output += f"<sub><sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete)</sup> &nbsp;&nbsp; {readme}<a href=\"{preview_url}\">{PREVIEW_ICON}</a></sub>"
 
     output += "\n\n</td>\n\n"
 
