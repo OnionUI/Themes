@@ -1295,19 +1295,9 @@ Check out these standalone icon packs!
 
 > To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)
 
-<table align=center><td>
+<table align=center><tr>
 
-#### Mini Icons by Jeltron
-
-[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
-
-<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
-
-<sup>33/54 icons (61% complete) &nbsp;|&nbsp; [README](/icons/Mini%20Icons%20by%20Jeltron/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron)</sup>
-
-</td></table>
-
-<table align=center><td>
+<td>
 
 #### CyberOnion BW by Aemiii91
 
@@ -1317,9 +1307,21 @@ Check out these standalone icon packs!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
+
+#### Mini Icons by Jeltron
+
+[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
+
+<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
+
+<sup>33/54 icons (61% complete) &nbsp;|&nbsp; [README](/icons/Mini%20Icons%20by%20Jeltron/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron)</sup>
+
+</td>
+
+<td>
 
 #### Dot-art by Yoshi-kun
 
@@ -1329,7 +1331,9 @@ Check out these standalone icon packs!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/icons/Dot-art%20by%20Yoshi-kun/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun)</sup>
 
-</td></table>
+</td>
+
+</tr></table>
 
 ### Theme Icon Packs
 
@@ -1337,7 +1341,9 @@ Check out these icon packs included in themes!
 
 > To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)
 
-<table align=center><td>
+<table align=center><tr>
+
+<td>
 
 #### YoRHa by Deepslackerjazz
 
@@ -1347,9 +1353,9 @@ Check out these icon packs included in themes!
 
 <sup>20/54 icons (37% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### NEON.ion by tenlevels
 
@@ -1359,9 +1365,9 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### minimO by AccomplishedSir
 
@@ -1371,9 +1377,10 @@ Check out these icon packs included in themes!
 
 <sup>10/54 icons (19% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#minimO%20by%20AccomplishedSir,minimO%20by%20AccomplishedSir:themes/minimO%20by%20AccomplishedSir/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+</tr><tr>
+<td>
 
 #### TRON by tenlevels
 
@@ -1383,9 +1390,9 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/themes/TRON%20by%20tenlevels/README.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#TRON%20by%20tenlevels,TRON%20by%20tenlevels:themes/TRON%20by%20tenlevels/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### NanoSwitch Dark by Amdy
 
@@ -1395,9 +1402,9 @@ Check out these icon packs included in themes!
 
 <sup>44/54 icons (81% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### NanoSwitch by Amdy
 
@@ -1407,9 +1414,10 @@ Check out these icon packs included in themes!
 
 <sup>44/54 icons (81% complete) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+</tr><tr>
+<td>
 
 #### CyberOnion [Atomic] by Aemiii91
 
@@ -1419,9 +1427,9 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.txt) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### CyberOnion by Aemiii91
 
@@ -1431,9 +1439,9 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/readme.txt) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons)</sup>
 
-</td></table>
+</td>
 
-<table align=center><td>
+<td>
 
 #### Analogue by Aemiii91
 
@@ -1443,7 +1451,9 @@ Check out these icon packs included in themes!
 
 <sup>54/54 icons (100% complete) &nbsp;|&nbsp; [README](/themes/Analogue%20by%20Aemiii91/readme.md) &nbsp;|&nbsp; [Show full preview](https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons)</sup>
 
-</td></table>
+</td>
+
+</tr></table>
 
 
 

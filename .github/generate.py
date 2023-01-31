@@ -225,14 +225,23 @@ def generate_icon_pack_overview():
         })
 
     output += "### Standalone Icon Packs\n\nCheck out these standalone icon packs!\n\n> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)\n\n"
-
-    for icon_pack in icon_packs:
-        output += generate_icon_pack_entry(**icon_pack)
+    output += generate_icon_pack_table(icon_packs)
 
     output += "### Theme Icon Packs\n\nCheck out these icon packs included in themes!\n\n> To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)\n\n"
+    output += generate_icon_pack_table(themes_with_icon_packs)
 
-    for icon_pack in themes_with_icon_packs:
+    return output
+
+
+def generate_icon_pack_table(icon_packs):
+    output = "<table align=center><tr>\n\n"
+    
+    for i, icon_pack in enumerate(icon_packs):
+        if i > 0 and i % COLUMNS == 0:
+            output += "</tr><tr>\n"
         output += generate_icon_pack_entry(**icon_pack)
+
+    output += "</tr></table>\n\n"
 
     return output
 
@@ -240,7 +249,7 @@ def generate_icon_pack_overview():
 def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
     output = ""
 
-    output += f"<table align=center><td>\n\n#### {name}\n\n"
+    output += f"<td>\n\n#### {name}\n\n"
 
     if len(release_url) != 0:
         dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
@@ -267,7 +276,7 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
     output += f"<sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete) &nbsp;|&nbsp; {readme}[Show full preview]({preview_url})</sup>"
 
-    output += "\n\n</td></table>\n\n"
+    output += "\n\n</td>\n\n"
 
     return output
 
