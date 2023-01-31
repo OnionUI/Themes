@@ -203,7 +203,7 @@ def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:
     return url
 
 
-PREVIEW_ICONS = ["atari", "fc", "gb", "gba", "gbc", "md", "ms", "neogeo", "ps", "sfc"]
+PREVIEW_ICONS = ["fc", "gb", "gba", "gbc", "md", "ms", "ps", "sfc"]
 ALL_ICONS = ['32X', '5200', '7800', 'amiga', 'arcade', 'atari', 'atarist', 'c64', 'col', 'cpc', 'cps1', 'cps2', 'cps3', 'dos', 'fairchild', 'fc', 'fds', 'gb', 'gba', 'gbc', 'gg', 'gw', 'itv', 'lynx', 'md', 'megaduck', 'ms', 'msx', 'neocd', 'neogeo', 'ngp', 'ody', 'pce', 'pcecd', 'pico', 'poke', 'ports', 'ps', 'satella', 'scummvm', 'search', 'segacd', 'segasgone', 'sfc', 'sgb', 'sgfx', 'sufami', 'supervision', 'tic', 'vb', 'vdp', 'vectrex', 'ws', 'zxs']
 
 
