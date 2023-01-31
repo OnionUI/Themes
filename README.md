@@ -1300,19 +1300,6 @@ Check out these standalone icon packs!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
-<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
-
-#### CyberOnion BW by Aemiii91
-
-[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
 <img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
 
 #### Mini Icons by Jeltron
@@ -1320,6 +1307,19 @@ Check out these standalone icon packs!
 [Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
 
 <sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+
+<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
+
+#### CyberOnion BW by Aemiii91
+
+[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
