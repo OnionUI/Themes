@@ -1,0 +1,46 @@
+{
+    "name": "TMNT",
+    "author": "RealDan",
+    "description": "TMNT theme inspired by art from Hyperstone Heist.",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "TMNT-The-Hyperstone-Heist-Redux.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "title": {
+        "font": "TMNT-The-Hyperstone-Heist-Redux.ttf",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "TMNT-The-Hyperstone-Heist-Redux.ttf",
+        "size": 17,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "TMNT-The-Hyperstone-Heist-Redux.ttf",
+        "grid1x4": 12,
+        "grid3x4": 12,
+        "color": "rgb(135,135,153)",
+        "selectedcolor": "rgb(255,255,255)"
+    },
+    "list": {
+        "font": "Oxygen-Regular.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
