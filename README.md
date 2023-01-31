@@ -1300,24 +1300,11 @@ Check out these standalone icon packs!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
-#### Mini Icons by Jeltron
-
-[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
-
-<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
-
-<sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
 
 #### CyberOnion BW by Aemiii91
 
 [Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
-
-<img src="icons/CyberOnion%20BW%20by%20Aemiii91/atari.png" width="64px" title="atari"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/neogeo.png" width="64px" title="neogeo"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1326,11 +1313,24 @@ Check out these standalone icon packs!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="icons/Mini%20Icons%20by%20Jeltron/atari.png" width="64px" title="atari"><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/neogeo.png" width="64px" title="neogeo"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
+
+#### Mini Icons by Jeltron
+
+[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
+
+<sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+
+<img src="icons/Dot-art%20by%20Yoshi-kun/atari.png" width="64px" title="atari"><img src="icons/Dot-art%20by%20Yoshi-kun/fc.png" width="64px" title="fc"><img src="icons/Dot-art%20by%20Yoshi-kun/gb.png" width="64px" title="gb"><img src="icons/Dot-art%20by%20Yoshi-kun/gba.png" width="64px" title="gba"><img src="icons/Dot-art%20by%20Yoshi-kun/gbc.png" width="64px" title="gbc"><img src="icons/Dot-art%20by%20Yoshi-kun/md.png" width="64px" title="md"><img src="icons/Dot-art%20by%20Yoshi-kun/ms.png" width="64px" title="ms"><img src="icons/Dot-art%20by%20Yoshi-kun/neogeo.png" width="64px" title="neogeo"><img src="icons/Dot-art%20by%20Yoshi-kun/ps.png" width="64px" title="ps"><img src="icons/Dot-art%20by%20Yoshi-kun/sfc.png" width="64px" title="sfc">
+
 #### Dot-art by Yoshi-kun
 
 [Download Dot-art by Yoshi-kun (icon pack)](release/icons/Dot-art%20by%20Yoshi-kun.zip?raw=true)
-
-<img src="icons/Dot-art%20by%20Yoshi-kun/atari.png" width="64px" title="atari"><img src="icons/Dot-art%20by%20Yoshi-kun/fc.png" width="64px" title="fc"><img src="icons/Dot-art%20by%20Yoshi-kun/gb.png" width="64px" title="gb"><img src="icons/Dot-art%20by%20Yoshi-kun/gba.png" width="64px" title="gba"><img src="icons/Dot-art%20by%20Yoshi-kun/gbc.png" width="64px" title="gbc"><img src="icons/Dot-art%20by%20Yoshi-kun/md.png" width="64px" title="md"><img src="icons/Dot-art%20by%20Yoshi-kun/ms.png" width="64px" title="ms"><img src="icons/Dot-art%20by%20Yoshi-kun/neogeo.png" width="64px" title="neogeo"><img src="icons/Dot-art%20by%20Yoshi-kun/ps.png" width="64px" title="ps"><img src="icons/Dot-art%20by%20Yoshi-kun/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1349,11 +1349,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/YoRHa%20by%20Deepslackerjazz/icons/atari.png" width="64px" title="atari"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/fc.png" width="64px" title="fc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gb.png" width="64px" title="gb"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gba.png" width="64px" title="gba"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gbc.png" width="64px" title="gbc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/md.png" width="64px" title="md"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ms.png" width="64px" title="ms"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ps.png" width="64px" title="ps"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/sfc.png" width="64px" title="sfc">
+
 #### YoRHa by Deepslackerjazz
 
 [Download YoRHa by Deepslackerjazz (theme)](release/YoRHa%20by%20Deepslackerjazz.zip?raw=true)
-
-<img src="themes/YoRHa%20by%20Deepslackerjazz/icons/atari.png" width="64px" title="atari"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/fc.png" width="64px" title="fc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gb.png" width="64px" title="gb"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gba.png" width="64px" title="gba"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gbc.png" width="64px" title="gbc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/md.png" width="64px" title="md"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ms.png" width="64px" title="ms"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ps.png" width="64px" title="ps"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>20/54 icons (37% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1362,11 +1362,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/NEON.ion%20by%20tenlevels/icons/atari.png" width="64px" title="atari"><img src="themes/NEON.ion%20by%20tenlevels/icons/fc.png" width="64px" title="fc"><img src="themes/NEON.ion%20by%20tenlevels/icons/gb.png" width="64px" title="gb"><img src="themes/NEON.ion%20by%20tenlevels/icons/gba.png" width="64px" title="gba"><img src="themes/NEON.ion%20by%20tenlevels/icons/gbc.png" width="64px" title="gbc"><img src="themes/NEON.ion%20by%20tenlevels/icons/md.png" width="64px" title="md"><img src="themes/NEON.ion%20by%20tenlevels/icons/ms.png" width="64px" title="ms"><img src="themes/NEON.ion%20by%20tenlevels/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NEON.ion%20by%20tenlevels/icons/ps.png" width="64px" title="ps"><img src="themes/NEON.ion%20by%20tenlevels/icons/sfc.png" width="64px" title="sfc">
+
 #### NEON.ion by tenlevels
 
 [Download NEON.ion by tenlevels (theme)](release/NEON.ion%20by%20tenlevels.zip?raw=true)
-
-<img src="themes/NEON.ion%20by%20tenlevels/icons/atari.png" width="64px" title="atari"><img src="themes/NEON.ion%20by%20tenlevels/icons/fc.png" width="64px" title="fc"><img src="themes/NEON.ion%20by%20tenlevels/icons/gb.png" width="64px" title="gb"><img src="themes/NEON.ion%20by%20tenlevels/icons/gba.png" width="64px" title="gba"><img src="themes/NEON.ion%20by%20tenlevels/icons/gbc.png" width="64px" title="gbc"><img src="themes/NEON.ion%20by%20tenlevels/icons/md.png" width="64px" title="md"><img src="themes/NEON.ion%20by%20tenlevels/icons/ms.png" width="64px" title="ms"><img src="themes/NEON.ion%20by%20tenlevels/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NEON.ion%20by%20tenlevels/icons/ps.png" width="64px" title="ps"><img src="themes/NEON.ion%20by%20tenlevels/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1375,11 +1375,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/minimO%20by%20AccomplishedSir/icons/atari.png" width="64px" title="atari"><img src="themes/minimO%20by%20AccomplishedSir/icons/fc.png" width="64px" title="fc"><img src="themes/minimO%20by%20AccomplishedSir/icons/gb.png" width="64px" title="gb"><img src="themes/minimO%20by%20AccomplishedSir/icons/gba.png" width="64px" title="gba"><img src="themes/minimO%20by%20AccomplishedSir/icons/gbc.png" width="64px" title="gbc"><img src="themes/minimO%20by%20AccomplishedSir/icons/md.png" width="64px" title="md"><img src="themes/minimO%20by%20AccomplishedSir/icons/ms.png" width="64px" title="ms"><img src="themes/minimO%20by%20AccomplishedSir/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/minimO%20by%20AccomplishedSir/icons/ps.png" width="64px" title="ps"><img src="themes/minimO%20by%20AccomplishedSir/icons/sfc.png" width="64px" title="sfc">
+
 #### minimO by AccomplishedSir
 
 [Download minimO by AccomplishedSir (theme)](release/minimO%20by%20AccomplishedSir.zip?raw=true)
-
-<img src="themes/minimO%20by%20AccomplishedSir/icons/atari.png" width="64px" title="atari"><img src="themes/minimO%20by%20AccomplishedSir/icons/fc.png" width="64px" title="fc"><img src="themes/minimO%20by%20AccomplishedSir/icons/gb.png" width="64px" title="gb"><img src="themes/minimO%20by%20AccomplishedSir/icons/gba.png" width="64px" title="gba"><img src="themes/minimO%20by%20AccomplishedSir/icons/gbc.png" width="64px" title="gbc"><img src="themes/minimO%20by%20AccomplishedSir/icons/md.png" width="64px" title="md"><img src="themes/minimO%20by%20AccomplishedSir/icons/ms.png" width="64px" title="ms"><img src="themes/minimO%20by%20AccomplishedSir/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/minimO%20by%20AccomplishedSir/icons/ps.png" width="64px" title="ps"><img src="themes/minimO%20by%20AccomplishedSir/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>10/54 icons (19% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#minimO%20by%20AccomplishedSir,minimO%20by%20AccomplishedSir:themes/minimO%20by%20AccomplishedSir/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1389,11 +1389,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/TRON%20by%20tenlevels/icons/atari.png" width="64px" title="atari"><img src="themes/TRON%20by%20tenlevels/icons/fc.png" width="64px" title="fc"><img src="themes/TRON%20by%20tenlevels/icons/gb.png" width="64px" title="gb"><img src="themes/TRON%20by%20tenlevels/icons/gba.png" width="64px" title="gba"><img src="themes/TRON%20by%20tenlevels/icons/gbc.png" width="64px" title="gbc"><img src="themes/TRON%20by%20tenlevels/icons/md.png" width="64px" title="md"><img src="themes/TRON%20by%20tenlevels/icons/ms.png" width="64px" title="ms"><img src="themes/TRON%20by%20tenlevels/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/TRON%20by%20tenlevels/icons/ps.png" width="64px" title="ps"><img src="themes/TRON%20by%20tenlevels/icons/sfc.png" width="64px" title="sfc">
+
 #### TRON by tenlevels
 
 [Download TRON by tenlevels (theme)](release/TRON%20by%20tenlevels.zip?raw=true)
-
-<img src="themes/TRON%20by%20tenlevels/icons/atari.png" width="64px" title="atari"><img src="themes/TRON%20by%20tenlevels/icons/fc.png" width="64px" title="fc"><img src="themes/TRON%20by%20tenlevels/icons/gb.png" width="64px" title="gb"><img src="themes/TRON%20by%20tenlevels/icons/gba.png" width="64px" title="gba"><img src="themes/TRON%20by%20tenlevels/icons/gbc.png" width="64px" title="gbc"><img src="themes/TRON%20by%20tenlevels/icons/md.png" width="64px" title="md"><img src="themes/TRON%20by%20tenlevels/icons/ms.png" width="64px" title="ms"><img src="themes/TRON%20by%20tenlevels/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/TRON%20by%20tenlevels/icons/ps.png" width="64px" title="ps"><img src="themes/TRON%20by%20tenlevels/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/TRON%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TRON%20by%20tenlevels,TRON%20by%20tenlevels:themes/TRON%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1402,11 +1402,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/atari.png" width="64px" title="atari"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/sfc.png" width="64px" title="sfc">
+
 #### NanoSwitch Dark by Amdy
 
 [Download NanoSwitch (2-pack) by Amdy (theme)](release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true)
-
-<img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/atari.png" width="64px" title="atari"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>44/54 icons (81% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1415,11 +1415,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/atari.png" width="64px" title="atari"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/sfc.png" width="64px" title="sfc">
+
 #### NanoSwitch by Amdy
 
 [Download NanoSwitch (2-pack) by Amdy (theme)](release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true)
-
-<img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/atari.png" width="64px" title="atari"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>44/54 icons (81% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1429,11 +1429,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
+
 #### CyberOnion [Atomic] by Aemiii91
 
 [Download CyberOnion (2-pack) by Aemiii91 (theme)](release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true)
-
-<img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1442,11 +1442,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
+
 #### CyberOnion by Aemiii91
 
 [Download CyberOnion (2-pack) by Aemiii91 (theme)](release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true)
-
-<img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
@@ -1455,11 +1455,11 @@ Check out these icon packs included in themes!
 <td valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 
+<img src="themes/Analogue%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/Analogue%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/Analogue%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/Analogue%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/Analogue%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/Analogue%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/Analogue%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/Analogue%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/Analogue%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/Analogue%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
+
 #### Analogue by Aemiii91
 
 [Download Analogue by Aemiii91 (theme)](release/Analogue%20by%20Aemiii91.zip?raw=true)
-
-<img src="themes/Analogue%20by%20Aemiii91/icons/atari.png" width="64px" title="atari"><img src="themes/Analogue%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/Analogue%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/Analogue%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/Analogue%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/Analogue%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/Analogue%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/Analogue%20by%20Aemiii91/icons/neogeo.png" width="64px" title="neogeo"><img src="themes/Analogue%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/Analogue%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 

@@ -251,11 +251,7 @@ def generate_icon_pack_table(icon_packs):
 def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
     output = ""
 
-    output += f"<td valign=\"top\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>\n\n#### {name}\n\n"
-
-    if len(release_url) != 0:
-        dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
-        output += f"[{dn_text}]({release_url})\n\n"
+    output += f"<td valign=\"top\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>\n\n"
 
     for icon in PREVIEW_ICONS:
         icon_path = f"{path}/{icon}.png"
@@ -263,6 +259,12 @@ def generate_icon_pack_entry(name, path, release_url, preview_url, is_theme: boo
             output += f"<img src=\"{urlencode(icon_path)}\" width=\"64px\" title=\"{icon}\">"
 
     output += "\n\n"
+
+    output += f"#### {name}\n\n"
+
+    if len(release_url) != 0:
+        dn_text = f"Download {theme} (theme)" if is_theme else f"Download {name} (icon pack)"
+        output += f"[{dn_text}]({release_url})\n\n"
 
     readme_path = ""
 
