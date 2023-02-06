@@ -1320,6 +1320,17 @@ This section showcases theme remixes made by the community and approved by the o
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi.zip?raw=true">
+<img title="Higher res variant of OnionBoy with some color too" width="480px" src="themes/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi/preview.png?raw=true" /><br/>
+<b>Onion Boy HD SP by Jeltron + Smushi</b>
+</a><br/>
+<sup><i>Jeltron + Smushi</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy HD SP by Jeltron + Smushi"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%20%2B%20Smushi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace.zip?raw=true">
 <img title="GBOnion Gruvbox by Kitsuvi + Dreambrace" width="480px" src="themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png?raw=true" /><br/>
 <b>GBOnion Gruvbox</b>
@@ -1340,6 +1351,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22duckbeets%20%2B%20Catz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip?raw=true">
@@ -1351,7 +1363,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Dark by Kitsuvi + andresandiah">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%20%2B%20andresandiah%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc.zip?raw=true">
@@ -1374,6 +1385,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD Gray by Jeltron + TechDevangelist">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%20%2B%20TechDevangelist%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K.zip?raw=true">
@@ -1385,7 +1397,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Boy Pocket by PixelShift + H9K">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%20%2B%20H9L%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20Dark%20by%20PixelShift.zip?raw=true">
@@ -1423,13 +1434,13 @@ Check out these standalone icon packs!
 
 <td valign="top">
 
-#### Mini Icons by Jeltron
+#### Hakchi Pixel Art by faustbear
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/fc.png" width="64px" title="fc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gb.png" width="64px" title="gb"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gba.png" width="64px" title="gba"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gbc.png" width="64px" title="gbc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/md.png" width="64px" title="md"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ms.png" width="64px" title="ms"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ps.png" width="64px" title="ps"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/sfc.png" width="64px" title="sfc">
 
-[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
+[Download Hakchi Pixel Art by faustbear (icon pack)](release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip?raw=true)
 
-<sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>47/54 icons (87% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -1447,13 +1458,13 @@ Check out these standalone icon packs!
 
 <td valign="top">
 
-#### Hakchi Pixel Art by faustbear
+#### Mini Icons by Jeltron
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/fc.png" width="64px" title="fc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gb.png" width="64px" title="gb"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gba.png" width="64px" title="gba"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gbc.png" width="64px" title="gbc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/md.png" width="64px" title="md"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ms.png" width="64px" title="ms"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ps.png" width="64px" title="ps"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/sfc.png" width="64px" title="sfc">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
 
-[Download Hakchi Pixel Art by faustbear (icon pack)](release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip?raw=true)
+[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
 
-<sub><sup>47/54 icons (87% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 

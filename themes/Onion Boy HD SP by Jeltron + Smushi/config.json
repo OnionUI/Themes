@@ -1,0 +1,41 @@
+{
+    "name": "Onion Boy HD SP by Jeltron + Smushi",
+    "author": "Jeltron + Smushi",
+    "description": "Higher res variant of OnionBoy with some color too",
+    "hideLabels": {
+        "icons": true
+    },
+    "batteryPercentage": {
+        "onleft": true,
+        "size": 16,
+        "color": "#86C06C"
+    },
+    "title": {
+        "font": "GamegirlClassic.ttf",
+        "size": 16,
+        "color": "#dde6e0"
+    },
+    "hint": {
+        "font": "GamegirlClassic.ttf",
+        "size": 16,
+        "color": "#5b5280"
+    },
+    "currentpage": {
+        "color": "#5b5280"
+    },
+    "total": {
+        "color": "#5b5280"
+    },
+    "grid": {
+        "font": "GamegirlClassic.ttf",
+        "grid1x4": 16,
+        "grid3x4": 16,
+        "color": "#37bdb2",
+        "selectedcolor": "#dde6e0"
+    },
+    "list": {
+        "font": "GamegirlClassic.ttf",
+        "size": 16,
+        "color": "#dde6e0"
+    }
+}
