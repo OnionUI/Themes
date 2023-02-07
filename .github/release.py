@@ -9,7 +9,8 @@ from defs import (
     RELEASE_DIR,
     FEATURED_ORDERING,
     REMIXED_ORDERING,
-    CUSTOM_ORDERING)
+    CUSTOM_ORDERING,
+    ICONS_ORDERING)
 
 from utils import get_subdirs, get_ordering, set_ordering
 from validation import validate_theme
@@ -35,11 +36,14 @@ def main():
     custom = get_ordering(CUSTOM_ORDERING)
     all_existing = featured + remixed + custom
 
+    all_icons = get_ordering(ICONS_ORDERING)
+
     clean_all()
 
-    was_built = [build_release(theme, custom, all_existing) for theme in themes] + [build_icon_pack(icon_pack) for icon_pack in os.listdir("icons")]
+    was_built = [build_release(theme, custom, all_existing) for theme in themes] + [build_icon_pack(icon_pack, all_icons) for icon_pack in os.listdir("icons")]
 
     set_ordering(CUSTOM_ORDERING, custom)
+    set_ordering(ICONS_ORDERING, all_icons)
 
     if any(was_built):
         if no_to_all:
@@ -83,9 +87,12 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
     return True
 
 
-def build_icon_pack(icon_pack) -> bool:
+def build_icon_pack(icon_pack, all_icons) -> bool:
     src_path = os.path.join("icons", icon_pack)
     zip_path = os.path.join("release/icons", f"{icon_pack}.zip")
+
+    if icon_pack not in all_icons:
+        all_icons.append(icon_pack)
 
     if os.path.exists(zip_path):
         return False

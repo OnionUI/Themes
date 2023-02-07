@@ -1446,18 +1446,6 @@ Check out these standalone icon packs!
 
 <td valign="top">
 
-#### CyberOnion BW by Aemiii91
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
-
-[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
 #### Mini Icons by Jeltron
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
@@ -1468,7 +1456,6 @@ Check out these standalone icon packs!
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Dot-art by Yoshi-kun
@@ -1478,6 +1465,19 @@ Check out these standalone icon packs!
 [Download Dot-art by Yoshi-kun (icon pack)](release/icons/Dot-art%20by%20Yoshi-kun.zip?raw=true)
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+</tr><tr>
+<td valign="top">
+
+#### CyberOnion BW by Aemiii91
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
+
+[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 

@@ -16,7 +16,8 @@ from defs import (
     RELEASE_DIR,
     FEATURED_ORDERING,
     REMIXED_ORDERING,
-    CUSTOM_ORDERING)
+    CUSTOM_ORDERING,
+    ICONS_ORDERING)
 
 from utils import get_files, get_ordering, get_subdirs
 from validation import validate_theme
@@ -217,7 +218,7 @@ def generate_icon_pack_overview():
         release_url = os.path.join("release", dir_path + ".zip")
 
         if not os.path.isfile(release_url):
-            release_url = ""
+            continue
 
         icon_packs.append({
             "name": dir_name,
@@ -226,8 +227,18 @@ def generate_icon_pack_overview():
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
+    ordered_icons = []
+
+    for icon_pack in get_ordering(ICONS_ORDERING):
+        result = next((x for x in icon_packs if x['name'] == icon_pack), None)
+        if result is None:
+            continue
+        ordered_icons.append(result)
+
+    ordered_icons.reverse();
+
     output += "### Standalone Icon Packs\n\nCheck out these standalone icon packs!\n\n> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)\n\n"
-    output += generate_icon_pack_table(icon_packs)
+    output += generate_icon_pack_table(ordered_icons)
 
     output += "### Theme Icon Packs\n\nCheck out these icon packs included in themes!\n\n> To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)\n\n"
     output += generate_icon_pack_table(themes_with_icon_packs)
