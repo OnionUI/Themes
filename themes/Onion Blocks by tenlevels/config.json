@@ -1,0 +1,39 @@
+{
+    "name": "ONION BLOCKS",
+    "author": "tenlevels",
+    "description": "Onion Block theme inspired by Miyoo block logo",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+        "font": "TRS-Million Rg.otf",
+        "size": 26
+    },
+    "title": {
+        "font": "TRS-Million Rg.otf",
+        "size": 28,
+        "color": "#7147c2"
+    },
+    "hint": {
+        "font": "TRS-Million Rg.otf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#7147c2"
+    },
+    "grid": {
+        "font": "TRS-Million Rg.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#7147c2",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
