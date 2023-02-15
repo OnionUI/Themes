@@ -88,13 +88,13 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Onion%20Blocks%20by%20tenlevels.zip?raw=true">
-<img title="Onion Block theme inspired by Miyoo block logo" width="480px" src="themes/Onion%20Blocks%20by%20tenlevels/preview.png?raw=true" /><br/>
-<b>ONION BLOCKS</b>
+<a href="release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip?raw=true">
+<img title="Onion Blocks (2-pack) by tenlevels" width="480px" src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png?raw=true" /><br/>
+<b>Onion Blocks (2-pack)</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-02-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks by tenlevels">2023-02-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20by%20tenlevels/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20by%20tenlevels,Onion%20Blocks%20by%20tenlevels:themes/Onion%20Blocks%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks (2-pack) by tenlevels"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons,Onion%20Blocks%20Sequential:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1516,13 +1516,25 @@ Check out these icon packs included in themes!
 
 <td valign="top">
 
-#### Onion Blocks by tenlevels
+#### Onion Blocks Concurrent
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/fc.png" width="64px" title="fc"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/gb.png" width="64px" title="gb"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/gba.png" width="64px" title="gba"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/gbc.png" width="64px" title="gbc"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/md.png" width="64px" title="md"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/ms.png" width="64px" title="ms"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/ps.png" width="64px" title="ps"><img src="themes/Onion%20Blocks%20by%20tenlevels/icons/sfc.png" width="64px" title="sfc">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/fc.png" width="64px" title="fc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/gb.png" width="64px" title="gb"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/gba.png" width="64px" title="gba"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/gbc.png" width="64px" title="gbc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/md.png" width="64px" title="md"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/ms.png" width="64px" title="ms"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/ps.png" width="64px" title="ps"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/sfc.png" width="64px" title="sfc">
 
-[Download Onion Blocks by tenlevels (theme)](release/Onion%20Blocks%20by%20tenlevels.zip?raw=true)
+[Download Onion Blocks (2-pack) by tenlevels (theme)](release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip?raw=true)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20by%20tenlevels,Onion%20Blocks%20by%20tenlevels:themes/Onion%20Blocks%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
+#### Onion Blocks Sequential
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/fc.png" width="64px" title="fc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gb.png" width="64px" title="gb"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gba.png" width="64px" title="gba"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gbc.png" width="64px" title="gbc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/md.png" width="64px" title="md"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/ms.png" width="64px" title="ms"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/ps.png" width="64px" title="ps"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/sfc.png" width="64px" title="sfc">
+
+[Download Onion Blocks (2-pack) by tenlevels (theme)](release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip?raw=true)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Sequential:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -1538,6 +1550,7 @@ Check out these icon packs included in themes!
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NEON.ion by tenlevels
@@ -1550,7 +1563,6 @@ Check out these icon packs included in themes!
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### minimO by AccomplishedSir
@@ -1575,6 +1587,7 @@ Check out these icon packs included in themes!
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Dark by Amdy
@@ -1587,7 +1600,6 @@ Check out these icon packs included in themes!
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NanoSwitch by Amdy
@@ -1612,6 +1624,7 @@ Check out these icon packs included in themes!
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### CyberOnion by Aemiii91
@@ -1624,7 +1637,6 @@ Check out these icon packs included in themes!
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Analogue by Aemiii91
