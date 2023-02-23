@@ -1,0 +1,42 @@
+{
+    "name": "mini.os",
+    "author": "nationalsoup",
+    "description": "Minimal Dark Theme",
+    "batteryPercentage": {
+        "visible": true,
+        "size": 18,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "Nunito-Bold.ttf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "Nunito-Bold.ttf",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "Nunito-Bold.ttf",
+        "grid1x4": 24,
+        "grid3x4": 20,
+        "color": "#808080",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "Nunito-Bold.ttf",
+        "size": 20,
+        "color": "#fffffff"
+    }
+}
