@@ -1462,7 +1462,7 @@ To install an icon pack you can either:
 
 Check out these standalone icon packs!
 
-> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)
+> To install, extract the pack to `Icons/` on your SD card (icon switching will be available in V4.1)
 
 <table align=center><tr>
 

@@ -237,7 +237,7 @@ def generate_icon_pack_overview():
 
     ordered_icons.reverse();
 
-    output += "### Standalone Icon Packs\n\nCheck out these standalone icon packs!\n\n> To install, extract to `Themes/icons/` on your SD card (icon switching will be available in V4.1)\n\n"
+    output += "### Standalone Icon Packs\n\nCheck out these standalone icon packs!\n\n> To install, extract the pack to `Icons/` on your SD card (icon switching will be available in V4.1)\n\n"
     output += generate_icon_pack_table(ordered_icons)
 
     output += "### Theme Icon Packs\n\nCheck out these icon packs included in themes!\n\n> To install, extract the theme to `Themes/` on your SD card (icon switching will be available in V4.1)\n\n"
