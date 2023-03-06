@@ -1,0 +1,46 @@
+{
+    "name": "Fake DMG Classic",
+    "author": "Oclain",
+    "description": "Theme that mimics the original Gameboy dot matrix screen",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Early GameBoy.ttf",
+        "size": 25,
+        "color": "#344D20",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "Early GameBoy.ttf",
+        "size": 25,
+        "color": "#344D20"
+    },
+    "hint": {
+        "font": "Early GameBoy.ttf",
+        "size": 23,
+        "color": "#344D20"
+    },
+    "currentpage": {
+        "color": "#344D20"
+    },
+    "total": {
+        "color": "#344D20"
+    },
+    "grid": {
+        "font": "Early GameBoy.ttf",
+        "grid1x4": 15,
+        "grid3x4": 13,
+        "color": "#335C2F",
+        "selectedcolor": "#344D20"
+    },
+    "list": {
+        "font": "Early GameBoy.ttf",
+        "size": 15,
+        "color": "#344D20"
+    }
+}
