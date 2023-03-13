@@ -2,9 +2,6 @@
     "name": "TechDweeb",
     "author": "TechDweeb",
     "description": "Retro games are for dweebs",
-    "hideLabels": {
-        "icons": true
-    },
     "batteryPercentage": {
         "onleft": true,
         "size": 18,
@@ -27,7 +24,7 @@
         "color": "#695630"
     },
     "grid": {
-        "font": "pixelmix.otf",
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
         "grid1x4": 20,
         "grid3x4": 16,
         "color": "#BFA36B",
