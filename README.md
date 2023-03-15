@@ -83,7 +83,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>hanessh4</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -151,7 +151,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-02-17" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks (2-pack) by tenlevels">2023-02-17</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons,Onion%20Blocks%20Sequential:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-02-17" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks (2-pack) by tenlevels">2023-02-17</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -479,7 +479,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Amdy</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 </tr><tr>
@@ -1207,7 +1207,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>hanessh4</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1241,7 +1241,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>Amdy</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1580,43 +1580,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### ONION PS Blue by hanessh4
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/fc.png" width="64px" title="fc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/gb.png" width="64px" title="gb"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/gba.png" width="64px" title="gba"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/gbc.png" width="64px" title="gbc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/md.png" width="64px" title="md"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/ms.png" width="64px" title="ms"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/ps.png" width="64px" title="ps"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons/sfc.png" width="64px" title="sfc">
-
-[Download ONION PS (4-pack) by hanessh4 (theme)](release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### ONION PS Dark Blue by hanessh4
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/fc.png" width="64px" title="fc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/gb.png" width="64px" title="gb"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/gba.png" width="64px" title="gba"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/gbc.png" width="64px" title="gbc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/md.png" width="64px" title="md"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/ms.png" width="64px" title="ms"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/ps.png" width="64px" title="ps"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons/sfc.png" width="64px" title="sfc">
-
-[Download ONION PS (4-pack) by hanessh4 (theme)](release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### ONION PS Dark Grey by hanessh4
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/fc.png" width="64px" title="fc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/gb.png" width="64px" title="gb"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/gba.png" width="64px" title="gba"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/gbc.png" width="64px" title="gbc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/md.png" width="64px" title="md"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/ms.png" width="64px" title="ms"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/ps.png" width="64px" title="ps"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons/sfc.png" width="64px" title="sfc">
-
-[Download ONION PS (4-pack) by hanessh4 (theme)](release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
 #### ONION PS Purple Grey by hanessh4
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/fc.png" width="64px" title="fc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/gb.png" width="64px" title="gb"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/gba.png" width="64px" title="gba"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/gbc.png" width="64px" title="gbc"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/md.png" width="64px" title="md"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/ms.png" width="64px" title="ms"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/ps.png" width="64px" title="ps"><img src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/sfc.png" width="64px" title="sfc">
@@ -1678,19 +1641,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### Onion Blocks Sequential
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/fc.png" width="64px" title="fc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gb.png" width="64px" title="gb"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gba.png" width="64px" title="gba"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/gbc.png" width="64px" title="gbc"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/md.png" width="64px" title="md"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/ms.png" width="64px" title="ms"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/ps.png" width="64px" title="ps"><img src="themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons/sfc.png" width="64px" title="sfc">
-
-[Download Onion Blocks (2-pack) by tenlevels (theme)](release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Sequential:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Sequential/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
 #### YoRHa by Deepslackerjazz
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/fc.png" width="64px" title="fc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gb.png" width="64px" title="gb"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gba.png" width="64px" title="gba"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/gbc.png" width="64px" title="gbc"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/md.png" width="64px" title="md"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ms.png" width="64px" title="ms"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/ps.png" width="64px" title="ps"><img src="themes/YoRHa%20by%20Deepslackerjazz/icons/sfc.png" width="64px" title="sfc">
@@ -1701,6 +1651,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NEON.ion by tenlevels
@@ -1725,7 +1676,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### TRON by tenlevels
@@ -1738,18 +1688,7 @@ To install an icon pack you can either:
 
 </td>
 
-<td valign="top">
-
-#### NanoSwitch Dark by Amdy
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons/sfc.png" width="64px" title="sfc">
-
-[Download NanoSwitch (2-pack) by Amdy (theme)](release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true)
-
-<sub><sup>44/54 icons (81% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch by Amdy
@@ -1762,7 +1701,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion [Atomic] by Aemiii91
@@ -1787,6 +1725,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Analogue by Aemiii91

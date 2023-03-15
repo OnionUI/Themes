@@ -17,7 +17,8 @@ from defs import (
     FEATURED_ORDERING,
     REMIXED_ORDERING,
     CUSTOM_ORDERING,
-    ICONS_ORDERING)
+    ICONS_ORDERING,
+    ICONS_BLACKLIST)
 
 from utils import get_files, get_ordering, get_subdirs
 from validation import validate_theme
@@ -49,6 +50,7 @@ COLUMNS = 3
 urlencode = lambda s: _quote(s, safe="/?&=_-")
 
 
+icons_blacklist = get_ordering(ICONS_BLACKLIST)
 themes_with_icon_packs = []
 
 
@@ -179,7 +181,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
 
     if has_icon_pack and index_icon_packs:
         for subdir in theme_subdirs:
-            if os.path.isdir(f"{subdir}/icons"):
+            if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist:
                 themes_with_icon_packs.append({
                     "name": os.path.basename(subdir),
                     "path": os.path.join(subdir, "icons"),
@@ -196,7 +198,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
 
 
 def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:
-    icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons")]
+    icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist]
 
     url = f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)},"
     url += ",".join(f"{urlencode(os.path.basename(os.path.dirname(icons_dir)))}:{urlencode(icons_dir)}" for icons_dir in icons_dirs)
