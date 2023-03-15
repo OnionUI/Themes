@@ -865,7 +865,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>&nbsp;</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup> &nbsp;&nbsp;<a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2023-03-15</a></sup> &nbsp;&nbsp;<a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1388,7 +1388,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>&nbsp;</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup> &nbsp;&nbsp;<a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2023-03-15</a></sup> &nbsp;&nbsp;<a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 
