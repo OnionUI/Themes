@@ -83,7 +83,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>hanessh4</i></sup><br>
 <sub>
-<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1201,6 +1201,51 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip?raw=true">
+<img title="ONION PS (4-pack) by hanessh4" width="480px" src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true" /><br/>
+<b>ONION PS (4-pack)</b>
+</a><br/>
+<sup><i>hanessh4</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2023-03-15" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2023-03-15</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/TechDweeb%20by%20TechDweeb.zip?raw=true">
+<img title="Retro games are for dweebs" width="480px" src="themes/TechDweeb%20by%20TechDweeb/preview.png?raw=true" /><br/>
+<b>TechDweeb</b>
+</a><br/>
+<sup><i>TechDweeb</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2023-03-13" href="https://github.com/OnionUI/Themes/commits/main/themes/TechDweeb by TechDweeb">2023-03-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TechDweeb%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/TechDweeb%20by%20TechDweeb/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+</tr><tr>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/M%20by%20tenlevels.zip?raw=true">
+<img title="Black/White/Grey minimal theme inspired by Miyoo logo" width="480px" src="themes/M%20by%20tenlevels/preview.png?raw=true" /><br/>
+<b>M</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2023-03-07" href="https://github.com/OnionUI/Themes/commits/main/themes/M by tenlevels">2023-03-07</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true">
+<img title="NanoSwitch (2-pack) by Amdy" width="480px" src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true" /><br/>
+<b>NanoSwitch (2-pack)</b>
+</a><br/>
+<sup><i>Amdy</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip?raw=true">
 <img title="CyberOnion (2-pack) by Aemiii91" width="480px" src="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png?raw=true" /><br/>
 <b>CyberOnion (2-pack)</b>
@@ -1208,6 +1253,18 @@ This section showcases the themes included with Onion.
 <sup><i>Aemiii91</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-03-07" href="https://github.com/OnionUI/Themes/commits/main/themes/CyberOnion (2-pack) by Aemiii91">2023-03-07</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20%282-pack%29%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+</tr><tr>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/System%209%20by%20injekim.zip?raw=true">
+<img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
+<b>System 9</b>
+</a><br/>
+<sup><i>injekim</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22injekim%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/System%209%20by%20injekim/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1221,16 +1278,61 @@ This section showcases the themes included with Onion.
 <sup><a title="Last updated: 2023-03-07" href="https://github.com/OnionUI/Themes/commits/main/themes/Analogue by Aemiii91">2023-03-07</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/PAC-MIYOO%20by%20tenlevels.zip?raw=true">
+<img title="PAC-MIYOO by tenlevels" width="480px" src="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true" /><br/>
+<b>PAC-MIYOO</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-12-08" href="https://github.com/OnionUI/Themes/commits/main/themes/PAC-MIYOO by tenlevels">2022-12-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
 </tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip?raw=true">
-<img title="NanoSwitch (2-pack) by Amdy" width="480px" src="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true" /><br/>
-<b>NanoSwitch (2-pack)</b>
+<a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
+<img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
+<b>3DS mini</b>
 </a><br/>
-<sup><i>Amdy</i></sup><br>
+<sup><i>MarsTaco</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20Dark%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20Dark%20by%20Amdy/icons,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MarsTaco%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/GBMini%20by%20Kitsuvi.zip?raw=true">
+<img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
+<b>GBMini</b>
+</a><br/>
+<sup><i>Kitsuvi</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/RPO%20by%20TheDewd.zip?raw=true">
+<img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
+<b>Role Playing Onion</b>
+</a><br/>
+<sup><i>TheDewd</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/RPO by TheDewd">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/RPO%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
+</td>
+</tr><tr>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip?raw=true">
+<img title="Super Onion Entertainment System by TheDewd" width="480px" src="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true" /><br/>
+<b>Super Onion Entertainment System</b>
+</a><br/>
+<sup><i>TheDewd</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-11-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2022-11-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1269,74 +1371,6 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/System%209%20by%20injekim.zip?raw=true">
-<img title="System 9 by injekim" width="480px" src="themes/System%209%20by%20injekim/preview.png?raw=true" /><br/>
-<b>System 9</b>
-</a><br/>
-<sup><i>injekim</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22injekim%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/System%209%20by%20injekim/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/PAC-MIYOO%20by%20tenlevels.zip?raw=true">
-<img title="PAC-MIYOO by tenlevels" width="480px" src="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true" /><br/>
-<b>PAC-MIYOO</b>
-</a><br/>
-<sup><i>tenlevels</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-12-08" href="https://github.com/OnionUI/Themes/commits/main/themes/PAC-MIYOO by tenlevels">2022-12-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-</tr><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/RPO%20by%20TheDewd.zip?raw=true">
-<img title="Pixel Art Fantasy Theme" width="480px" src="themes/RPO%20by%20TheDewd/preview.png?raw=true" /><br/>
-<b>Role Playing Onion</b>
-</a><br/>
-<sup><i>TheDewd</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/RPO by TheDewd">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/RPO%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip?raw=true">
-<img title="Super Onion Entertainment System by TheDewd" width="480px" src="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true" /><br/>
-<b>Super Onion Entertainment System</b>
-</a><br/>
-<sup><i>TheDewd</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-11-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2022-11-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/3DS%20mini%20by%20MarsTaco.zip?raw=true">
-<img title="3DS inspired theme for Miyoo Mini" width="480px" src="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true" /><br/>
-<b>3DS mini</b>
-</a><br/>
-<sup><i>MarsTaco</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/3DS mini by MarsTaco">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MarsTaco%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/3DS%20mini%20by%20MarsTaco/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-</tr><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/GBMini%20by%20Kitsuvi.zip?raw=true">
-<img title="GBMini by Kitsuvi" width="480px" src="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true" /><br/>
-<b>GBMini</b>
-</a><br/>
-<sup><i>Kitsuvi</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/GBMini by Kitsuvi">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/GBMini%20by%20Kitsuvi/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/GBMini%20by%20Kitsuvi/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Oransje%20by%20evolve.zip?raw=true">
 <img title="Oransje by evolve" width="480px" src="themes/Oransje%20by%20evolve/preview.png?raw=true" /><br/>
 <b>Oransje</b>
@@ -1348,36 +1382,13 @@ This section showcases the themes included with Onion.
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/M%20by%20tenlevels.zip?raw=true">
-<img title="Black/White/Grey minimal theme inspired by Miyoo logo" width="480px" src="themes/M%20by%20tenlevels/preview.png?raw=true" /><br/>
-<b>M</b>
+<a href="release/Hippo%20Stock.zip?raw=true">
+<img title="Hippo Stock" width="480px" src="themes/Hippo%20Stock/preview.png?raw=true" /><br/>
+<b>Hippo Stock</b>
 </a><br/>
-<sup><i>tenlevels</i></sup><br>
+<sup><i>&nbsp;</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-03-07" href="https://github.com/OnionUI/Themes/commits/main/themes/M by tenlevels">2023-03-07</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-</tr><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip?raw=true">
-<img title="ONION PS (4-pack) by hanessh4" width="480px" src="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true" /><br/>
-<b>ONION PS (4-pack)</b>
-</a><br/>
-<sup><i>hanessh4</i></sup><br>
-<sub>
-<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Blue%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Blue%20by%20hanessh4/icons,ONION%20PS%20Dark%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Dark%20Grey%20by%20hanessh4/icons,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="release/TechDweeb%20by%20TechDweeb.zip?raw=true">
-<img title="Retro games are for dweebs" width="480px" src="themes/TechDweeb%20by%20TechDweeb/preview.png?raw=true" /><br/>
-<b>TechDweeb</b>
-</a><br/>
-<sup><i>TechDweeb</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2023-03-13" href="https://github.com/OnionUI/Themes/commits/main/themes/TechDweeb by TechDweeb">2023-03-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TechDweeb%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/TechDweeb%20by%20TechDweeb/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Hippo Stock">2022-10-05</a></sup> &nbsp;&nbsp;<a href="themes/Hippo%20Stock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 
