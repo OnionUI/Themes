@@ -1523,6 +1523,30 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### Silhouette Black by Dreambrace
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Silhouette%20Black%20by%20Dreambrace/fc.png" width="64px" title="fc"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gb.png" width="64px" title="gb"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gba.png" width="64px" title="gba"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gbc.png" width="64px" title="gbc"><img src="icons/Silhouette%20Black%20by%20Dreambrace/md.png" width="64px" title="md"><img src="icons/Silhouette%20Black%20by%20Dreambrace/ms.png" width="64px" title="ms"><img src="icons/Silhouette%20Black%20by%20Dreambrace/ps.png" width="64px" title="ps"><img src="icons/Silhouette%20Black%20by%20Dreambrace/sfc.png" width="64px" title="sfc">
+
+[Download Silhouette Black by Dreambrace (icon pack)](release/icons/Silhouette%20Black%20by%20Dreambrace.zip?raw=true)
+
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
+#### Silhouette White by Dreambrace
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Silhouette%20White%20by%20Dreambrace/fc.png" width="64px" title="fc"><img src="icons/Silhouette%20White%20by%20Dreambrace/gb.png" width="64px" title="gb"><img src="icons/Silhouette%20White%20by%20Dreambrace/gba.png" width="64px" title="gba"><img src="icons/Silhouette%20White%20by%20Dreambrace/gbc.png" width="64px" title="gbc"><img src="icons/Silhouette%20White%20by%20Dreambrace/md.png" width="64px" title="md"><img src="icons/Silhouette%20White%20by%20Dreambrace/ms.png" width="64px" title="ms"><img src="icons/Silhouette%20White%20by%20Dreambrace/ps.png" width="64px" title="ps"><img src="icons/Silhouette%20White%20by%20Dreambrace/sfc.png" width="64px" title="sfc">
+
+[Download Silhouette White by Dreambrace (icon pack)](release/icons/Silhouette%20White%20by%20Dreambrace.zip?raw=true)
+
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### Hakchi Pixel Art by faustbear
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/fc.png" width="64px" title="fc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gb.png" width="64px" title="gb"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gba.png" width="64px" title="gba"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/gbc.png" width="64px" title="gbc"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/md.png" width="64px" title="md"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ms.png" width="64px" title="ms"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/ps.png" width="64px" title="ps"><img src="icons/Hakchi%20Pixel%20Art%20by%20faustbear/sfc.png" width="64px" title="sfc">
@@ -1533,6 +1557,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Mini Icons by Jeltron
@@ -1557,7 +1582,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion BW by Aemiii91
