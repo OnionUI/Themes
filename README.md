@@ -1529,7 +1529,7 @@ To install an icon pack you can either:
 
 [Download Silhouette Black by Dreambrace (icon pack)](release/icons/Silhouette%20Black%20by%20Dreambrace.zip?raw=true)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -1541,7 +1541,7 @@ To install an icon pack you can either:
 
 [Download Silhouette White by Dreambrace (icon pack)](release/icons/Silhouette%20White%20by%20Dreambrace.zip?raw=true)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
