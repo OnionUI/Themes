@@ -1,6 +1,7 @@
 {
     "name": "Super Onion Entertainment System",
     "author": "TheDewd",
+	"description": "SNES Classic inspired theme for Onion",
     "hideLabels": {
         "icons": true,
         "hints": true
