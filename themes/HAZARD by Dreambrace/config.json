@@ -1,0 +1,45 @@
+{
+    "name": "HAZARD",
+    "author": "Dreambrace",
+    "description": "Theme in the style of hazard signs",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "HN-bold-allcaps.ttf",
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 4,
+        "onleft": true
+    },
+    "title": {
+        "font": "HN-bold-allcaps.ttf",
+        "size": 36,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "HN-bold-allcaps.ttf",
+        "size": 35,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "HN-bold-allcaps.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#000000",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "Helvetica-Neue-2.ttf",
+        "size": 30,
+        "color": "#000000"
+    }
+}
