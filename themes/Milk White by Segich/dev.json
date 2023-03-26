@@ -1,0 +1,25 @@
+{
+  "font": "HEN.TTF",
+  "textColor": "BBBBBB",
+  "textColorAspect": "4B4B4B",
+  "textColorSelection": "FFFFFF",
+
+  "bgColor": "E8E8DE",
+  "accentColor": "FF7600",
+
+  "cardBgColor": "6B665C",
+  "cardLineBlack": "191815",
+  "cardLineLight": "565148",
+
+  "iconFirstColor": "FFFFFF",
+  "iconSecondColor": "BBBBBB",
+  "iconThirdColor": "4B4B4B",
+  "iconFourthColor": "FF7600",
+
+  "stroke": "2",
+  "shadowBig": "8",
+  "shadowSmall": "6",
+  "shadowAngle": "135",
+  "shadowOpacity": "20",
+  "shadowColor": "000000"
+}
