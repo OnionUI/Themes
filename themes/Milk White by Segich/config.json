@@ -1,0 +1,54 @@
+{
+  "name": "Milk White",
+  "author": "Segich",
+  "description": "Miyoo Mini Milk White Theme",
+  "batteryPercentage": {
+    "visible": true,
+    "font": "HEN.TTF",
+    "size": 22,
+    "color": "#BBBBBB",
+    "offsetX": 8,
+    "offsetY": 2,
+    "onleft": true
+  },
+  "title": {
+    "font": "HEN.TTF",
+    "size": 28,
+    "color": "#BBBBBB"
+  },
+  "hint": {
+    "font": "HEN.TTF",
+    "size": 16,
+    "color": "#E8E8DE"
+  },
+  "currentpage": {
+    "font": "HEN.TTF",
+    "color": "#4B4B4B"
+  },
+  "total": {
+    "font": "HEN.TTF",
+    "color": "#4B4B4B"
+  },
+  "grid": {
+    "font": "HEN.TTF",
+    "grid1x4": 26,
+    "grid3x4": 24,
+    "color": "#4B4B4B",
+    "selectedcolor": "#FFFFFF"
+  },
+  "path": {
+    "font": "HEN.TTF",
+    "size": 24,
+    "color": "#BBBBBB"
+  },
+  "list": {
+    "font": "HEN.TTF",
+    "size": 24,
+    "color": "#BBBBBB",
+    "selectedcolor": "#FFFFFF"
+  },
+  "hideLabels": {
+    "icons": false,
+    "hints": true
+  }
+}
