@@ -1,0 +1,32 @@
+{
+    "name": "CastlevaniaSOTN",
+    "author": "RoeTaKa",
+    "title": {
+        "font": "Knight Vision.otf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Knight Vision.otf",
+        "size": 40,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Knight Vision.otf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#6d6ddf",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Knight Vision.otf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
