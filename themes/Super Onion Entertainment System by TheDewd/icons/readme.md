@@ -1,0 +1,1 @@
+Icons from [Dot-art by Yoshi-kun](http://yspixel.jpn.org/icon/game/), [Pixel Art Icon Pack by faustbear](https://www.reddit.com/r/miniSNESmods/comments/995ylx/additional_pixel_art_icon_pack_22/), and various other community icon packs.
