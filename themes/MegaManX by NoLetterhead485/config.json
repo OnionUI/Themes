@@ -1,0 +1,39 @@
+{
+    "name": "MegaManX",
+    "author": "NoLetterhead485",
+    "description": "MegaManX Based Miyoo Theme",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#848484",
+        "font": "MMX.ttf",
+        "size": 24
+    },
+    "title": {
+        "font": "MMX.ttf",
+        "size": 24,
+        "color": "#848484"
+    },
+    "hint": {
+        "font": "MMX.ttf",
+        "size": 18,
+        "color": "#dddddd"
+    },
+    "currentpage": {
+        "color": "#dddddd"
+    },
+    "total": {
+        "color": "#848484"
+    },
+    "grid": {
+        "font": "MMX.ttf",
+        "grid1x4": 14,
+        "grid3x4": 14,
+        "color": "#646464",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "MMX.ttf",
+        "size": 18,
+        "color": "#dddddd"
+    }
+}
