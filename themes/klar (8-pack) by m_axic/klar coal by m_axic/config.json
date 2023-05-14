@@ -1,40 +1,46 @@
 {
-  "name": "klar • coal",
-  "author": "m_axic",
-  "description": "A clear theme.",
-  "hideIconTitle": false,
-  "hideLabels": { "icons": false, "hints": false },
-  "batteryPercentage": {
-    "visible": true,
-    "font": "Inter-Bold-Battery.ttf",
-    "size": 14,
-    "color": "#FFFFFF",
-    "offsetX": 13,
-    "offsetY": 0,
-    "onleft": true
-  },
-  "title": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#FFFFFF"
-  },
-  "hint": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#FFFFFF"
-  },
-  "currentpage": { "color": "#FFFFFF" },
-  "total": { "color": "#FFFFFF" },
-  "grid": {
-    "font": "Inter-SemiBold.otf",
-    "grid1x4": 25,
-    "grid3x4": 20,
-    "color": "#404040",
-    "selectedcolor": "#FFFFFF"
-  },
-  "list": {
-    "font": "Inter-SemiBold.otf",
-    "size": 25,
-    "color": "#FFFFFF"
-  }
+    "name": "klar \u2022 coal",
+    "author": "m_axic",
+    "description": "A clear theme.",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Inter-Bold-Battery.ttf",
+        "size": 14,
+        "color": "#FFFFFF",
+        "offsetX": 13,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Inter-SemiBold.otf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#404040",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Inter-SemiBold.otf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
 }

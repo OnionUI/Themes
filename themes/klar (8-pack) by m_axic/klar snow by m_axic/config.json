@@ -1,40 +1,46 @@
 {
-  "name": "klar • snow",
-  "author": "m_axic",
-  "description": "A clear theme.",
-  "hideIconTitle": false,
-  "hideLabels": { "icons": false, "hints": false },
-  "batteryPercentage": {
-    "visible": true,
-    "font": "Inter-Bold-Battery.ttf",
-    "size": 14,
-    "color": "#595959",
-    "offsetX": 13,
-    "offsetY": 0,
-    "onleft": true
-  },
-  "title": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#595959"
-  },
-  "hint": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#595959"
-  },
-  "currentpage": { "color": "#595959" },
-  "total": { "color": "#595959" },
-  "grid": {
-    "font": "Inter-SemiBold.otf",
-    "grid1x4": 25,
-    "grid3x4": 20,
-    "color": "#D9D9D9",
-    "selectedcolor": "#595959"
-  },
-  "list": {
-    "font": "Inter-SemiBold.otf",
-    "size": 25,
-    "color": "#595959"
-  }
+    "name": "klar \u2022 snow",
+    "author": "m_axic",
+    "description": "A clear theme.",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Inter-Bold-Battery.ttf",
+        "size": 14,
+        "color": "#595959",
+        "offsetX": 13,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#595959"
+    },
+    "hint": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#595959"
+    },
+    "currentpage": {
+        "color": "#595959"
+    },
+    "total": {
+        "color": "#595959"
+    },
+    "grid": {
+        "font": "Inter-SemiBold.otf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#D9D9D9",
+        "selectedcolor": "#595959"
+    },
+    "list": {
+        "font": "Inter-SemiBold.otf",
+        "size": 25,
+        "color": "#595959"
+    }
 }

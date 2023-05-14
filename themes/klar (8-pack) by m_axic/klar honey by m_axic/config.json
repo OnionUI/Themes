@@ -1,40 +1,46 @@
 {
-  "name": "klar • honey",
-  "author": "m_axic",
-  "description": "A clear theme.",
-  "hideIconTitle": false,
-  "hideLabels": { "icons": false, "hints": false },
-  "batteryPercentage": {
-    "visible": true,
-    "font": "Inter-Bold-Battery.ttf",
-    "size": 14,
-    "color": "#805500",
-    "offsetX": 13,
-    "offsetY": 0,
-    "onleft": true
-  },
-  "title": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#805500"
-  },
-  "hint": {
-    "font": "Inter-Bold.otf",
-    "size": 20,
-    "color": "#805500"
-  },
-  "currentpage": { "color": "#805500" },
-  "total": { "color": "#805500" },
-  "grid": {
-    "font": "Inter-SemiBold.otf",
-    "grid1x4": 25,
-    "grid3x4": 20,
-    "color": "#FFDD99",
-    "selectedcolor": "#805500"
-  },
-  "list": {
-    "font": "Inter-SemiBold.otf",
-    "size": 25,
-    "color": "#805500"
-  }
+    "name": "klar \u2022 honey",
+    "author": "m_axic",
+    "description": "A clear theme.",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Inter-Bold-Battery.ttf",
+        "size": 14,
+        "color": "#805500",
+        "offsetX": 13,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#805500"
+    },
+    "hint": {
+        "font": "Inter-Bold.otf",
+        "size": 20,
+        "color": "#805500"
+    },
+    "currentpage": {
+        "color": "#805500"
+    },
+    "total": {
+        "color": "#805500"
+    },
+    "grid": {
+        "font": "Inter-SemiBold.otf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#FFDD99",
+        "selectedcolor": "#805500"
+    },
+    "list": {
+        "font": "Inter-SemiBold.otf",
+        "size": 25,
+        "color": "#805500"
+    }
 }
