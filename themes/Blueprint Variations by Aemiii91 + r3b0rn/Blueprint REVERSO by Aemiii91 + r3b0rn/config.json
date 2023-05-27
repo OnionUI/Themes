@@ -1,0 +1,46 @@
+{
+    "name": "Blueprint REVERSO",
+    "author": "Aemiii91 + r3b0rn",
+    "description": "Theme layout with 10x10 grid",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 36,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#000000",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#000000"
+    }
+}
