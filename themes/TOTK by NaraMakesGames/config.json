@@ -1,0 +1,42 @@
+{
+    "name": "TOTK",
+    "author": "NaraMakesGames",
+    "description": "Minimal Tears of the Kingdom",
+    "hideLabels": {
+        "icons": false,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#faf7dd",
+        "onleft": true
+    },
+    "title": {
+        "font": "GothaMedIta.ttf",
+        "size": 21,
+        "color": "#faf7dd"
+    },
+    "hint": {
+        "font": "GothaMedIta.ttf",
+        "size": 14,
+        "color": "#faf7dd"
+    },
+    "currentpage": {
+        "color": "#faf7dd"
+    },
+    "total": {
+        "color": "#faf7dd"
+    },
+    "grid": {
+        "font": "GothaMedIta.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#545454",
+        "selectedcolor": "#faf7dd"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 21,
+        "color": "#faf7dd"
+    }
+}
