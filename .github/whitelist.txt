@@ -77,3 +77,11 @@ preview-bg
 bg-keysetting
 bg-keysetting-f
 ic-MENU
+icon-setting-wifi
+icon-hotspot-wifi
+icon-wifi-connected
+icon-wifi-locked
+icon-wifi-signal-01
+icon-wifi-signal-02
+icon-wifi-signal-03
+icon-wifi-signal-04

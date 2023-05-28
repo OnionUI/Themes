@@ -1,0 +1,46 @@
+{
+    "name": "OOSFC",
+    "author": "ytdcpndsgn",
+    "description": "With respect for SFC",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Handel Gothic D Bold.otf",
+        "size": 24,
+        "color": "#606060",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "Handel Gothic D Bold.otf",
+        "size": 32,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Handel Gothic D Bold.otf",
+        "size": 32,
+        "color": "#606060"
+    },
+    "currentpage": {
+        "color": "#606060"
+    },
+    "total": {
+        "color": "#606060"
+    },
+    "grid": {
+        "font": "Handel Gothic D Bold.otf",
+        "grid1x4": 0,
+        "grid3x4": 18,
+        "color": "#CCCCCC",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Handel Gothic D Bold.otf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
