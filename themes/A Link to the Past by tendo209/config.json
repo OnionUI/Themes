@@ -1,0 +1,37 @@
+{
+    "name": "A Link to the Past",
+    "author": "tendo209",
+    "description": "A theme based on A Link to the Past for SNES",
+    "title": {
+        "font": "pixelmix.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "pixelmix.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "pixelmix.ttf",
+        "grid1x4": 10,
+        "grid3x4": 8,
+        "color": "#FFCC00",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "pixelmix.ttf",
+        "size": 12,
+        "color": "#FFFFFF"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
