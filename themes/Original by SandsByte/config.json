@@ -1,0 +1,32 @@
+{
+"name": "Original",
+    "author": "SandsByte",
+    "title": {
+        "font": "Exo-2-Bold-Italic_Universal.ttf",
+        "size": 36,
+        "color": "#D0CFC2"
+    },
+    "hint": {
+        "font": "Exo-2-Bold-Italic_Universal.ttf",
+        "size": 40,
+        "color": "#D0CFC2"
+    },
+    "currentpage": {
+        "color": "#D0CFC2"
+    },
+    "total": {
+        "color": "#D0CFC2"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#D0CFC2",
+        "selectedcolor": "#D0CFC2"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.TTF",
+        "size": 25,
+        "color": "#D0CFC2"
+    }
+}
