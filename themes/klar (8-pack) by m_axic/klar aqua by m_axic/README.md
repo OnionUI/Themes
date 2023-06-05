@@ -19,19 +19,19 @@
 ### Dark Variants
 
 <div>
-  <img src="klar aqua by m_axic/preview.png" width="256" alt="klar • aqua">
-  <img src="klar berry by m_axic/preview.png" width="256" alt="klar • berry">
-  <img src="klar coal by m_axic/preview.png" width="256" alt="klar • coal">
-  <img src="klar crimson by m_axic/preview.png" width="256" alt="klar • crimson">
-  <img src="klar lime by m_axic/preview.png" width="256" alt="klar • lime">
-  <img src="klar sand by m_axic/preview.png" width="256" alt="klar • sand">
+  <img src="preview.png" width="256" alt="klar • aqua">
+  <img src="../klar berry by m_axic/preview.png" width="256" alt="klar • berry">
+  <img src="../klar coal by m_axic/preview.png" width="256" alt="klar • coal">
+  <img src="../klar crimson by m_axic/preview.png" width="256" alt="klar • crimson">
+  <img src="../klar lime by m_axic/preview.png" width="256" alt="klar • lime">
+  <img src="../klar sand by m_axic/preview.png" width="256" alt="klar • sand">
 </div>
 
 ### Light Variants
 
 <div>
-  <img src="klar honey by m_axic/preview.png" width="256" alt="klar • honey">
-  <img src="klar snow by m_axic/preview.png" width="256" alt="klar • snow">
+  <img src="../klar honey by m_axic/preview.png" width="256" alt="klar • honey">
+  <img src="../klar snow by m_axic/preview.png" width="256" alt="klar • snow">
 </div>
 
 ---
