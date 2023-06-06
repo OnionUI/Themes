@@ -1,0 +1,46 @@
+{
+    "name": "sharp",
+    "author": "m_axic",
+    "description": "A sharp theme.",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "IBMPlexMono-Bold-Battery.ttf",
+        "size": 14,
+        "color": "#FFFFFF",
+        "offsetX": 13,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "IBMPlexSans-Bold.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "IBMPlexSans-Bold.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "IBMPlexSans-SemiBold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#999999",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "IBMPlexSans-SemiBold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
