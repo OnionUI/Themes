@@ -1,0 +1,41 @@
+{
+    "name": "Lylat System",
+    "author": "UnBurn",
+    "description": "A Star Fox inspired theme",
+    "hideLabels": {
+        "hints": true
+    },
+    "batteryPercentage": {
+        "onleft": true,
+        "size": 18,
+        "color": "#20c8f8"
+    },
+    "title": {
+        "font": "StarwingPlus.otf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "StarwingPlus.otf",
+        "size": 20,
+        "color": "#20c8f8"
+    },
+    "currentpage": {
+        "color": "#20c8f8"
+    },
+    "total": {
+        "color": "#20c8f8"
+    },
+    "grid": {
+        "font": "StarwingPlus.otf",
+        "color": "#FFFFFF",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "selectedcolor": "#20c8f8"
+    },
+    "list": {
+        "font": "StarwingPlus.otf",
+        "size": 20,
+        "color": "#FFFFFF"
+    }
+}
