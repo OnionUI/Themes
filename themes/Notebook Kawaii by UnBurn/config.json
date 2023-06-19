@@ -23,7 +23,7 @@
     },
     "grid": {
         "font": "PermanentMarker-Regular.ttf",
-        "grid1x4":30,
+        "grid1x4": 30,
         "grid3x4": 50,
         "color": "#000000",
         "selectedcolor": "#AAAAAA"

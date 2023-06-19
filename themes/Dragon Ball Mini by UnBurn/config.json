@@ -23,8 +23,8 @@
     },
     "grid": {
         "font": "glasstown.ttf",
-        "grid1x4":30,
-        "grid3x4":20,
+        "grid1x4": 30,
+        "grid3x4": 20,
         "color": "#FFFFFF",
         "selectedcolor": "#FFF000"
     },
