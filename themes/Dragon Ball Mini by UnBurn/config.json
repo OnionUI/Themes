@@ -1,0 +1,40 @@
+{
+    "name": "Dragon Ball Mini",
+    "author": "Unburn",
+    "description": "Dragon Ball Z inspired theme",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "title": {
+        "font": "glasstown.ttf",
+        "size": 30,
+        "color": "#FFF000"
+    },
+    "hint": {
+        "font": "glasstown.ttf",
+        "size": 25,
+        "color": "#FFF000"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "glasstown.ttf",
+        "grid1x4":30,
+        "grid3x4":20,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFF000"
+    },
+    "list": {
+        "font": "glasstown.ttf",
+        "size": 40,
+        "color": "#FFF000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
