@@ -81,6 +81,8 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
             for file in files:
                 if has_subdirs and root == src_path and file == "preview.png":
                     continue
+                if file == "md5hash":
+                    continue
                 file_path = os.path.join(root, file)
                 zf.write(file_path, file_path[rel_index:])
 
