@@ -1,0 +1,40 @@
+{
+    "name": "Notebook Kawaii",
+    "author": "Unburn",
+    "description": "Kawaii theme in a notebook",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "title": {
+        "font": "PermanentMarker-Regular.ttf",
+        "size": 22,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "PermanentMarker-Regular.ttf",
+        "size": 20,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "PermanentMarker-Regular.ttf",
+        "grid1x4":30,
+        "grid3x4": 50,
+        "color": "#000000",
+        "selectedcolor": "#AAAAAA"
+    },
+    "list": {
+        "font": "PermanentMarker-Regular.ttf",
+        "size": 30,
+        "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    }
+}
