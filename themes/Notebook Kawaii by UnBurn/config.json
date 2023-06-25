@@ -1,6 +1,6 @@
 {
     "name": "Notebook Kawaii",
-    "author": "Unburn",
+    "author": "UnBurn",
     "description": "Kawaii theme in a notebook",
     "batteryPercentage": {
         "visible": false
@@ -34,7 +34,7 @@
         "color": "#000000"
     },
     "hideLabels": {
-        "icons": true,
+        "icons": false,
         "hints": false
     }
 }
