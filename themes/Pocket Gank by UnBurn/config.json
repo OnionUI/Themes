@@ -3,8 +3,8 @@
     "author": "UnBurn",
     "description": "League of Legends theme",
     "hideLabels": {
-        "icons": true,
-        "hints": true
+        "icons": false,
+        "hints": false
     },
     "batteryPercentage": {
         "visible": false,
