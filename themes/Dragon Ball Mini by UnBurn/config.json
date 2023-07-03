@@ -34,7 +34,7 @@
         "color": "#FFF000"
     },
     "hideLabels": {
-        "icons": true,
-        "hints": true
+        "icons": false,
+        "hints": false
     }
 }
