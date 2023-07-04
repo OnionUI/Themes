@@ -1,0 +1,43 @@
+{
+    "name": "999-in-1",
+    "batteryPercentage": {
+        "visible": true,
+        "onleft": true,
+        "color": "#000000"
+
+    },
+    "author": "UnBurn",
+    "description": "If Brick Game was still cool",
+    "title": {
+        "font": "sf-atarian-italic-plus.otf",
+        "size": 40,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "sf-atarian-italic-plus.otf",
+        "size": 30,
+        "color": "#606a52"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "sf-atarian-italic-plus.otf",
+        "grid1x4": 30,
+        "grid3x4": 50,
+        "color": "#606a52",
+        "selectedcolor": "#606a52"
+    },
+    "list": {
+        "font": "sf-atarian-italic-plus.otf",
+        "size": 25,
+        "color": "#606a52"
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    }
+}
