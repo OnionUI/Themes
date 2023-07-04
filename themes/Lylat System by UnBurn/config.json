@@ -3,7 +3,8 @@
     "author": "UnBurn",
     "description": "A Star Fox inspired theme",
     "hideLabels": {
-        "hints": true
+        "hints": false,
+        "icons": false
     },
     "batteryPercentage": {
         "onleft": true,
