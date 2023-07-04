@@ -1,0 +1,41 @@
+{
+    "name": "Zelda Oracle",
+    "author": "Slak211",
+    "description": "A theme based on Oracle of Ages and Seasons",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#191919"
+    },
+    "title": {
+        "font": "pixelmix.ttf",
+        "size": 0,
+        "color": "rgba(255,255,255,0)"
+    },
+    "hint": {
+        "font": "pixelmix.ttf",
+        "size": 0,
+        "color": "rgba(25,25,25,0)"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "pixelmix.ttf",
+        "grid1x4": 18,
+        "grid3x4": 8,
+        "color": "#000000",
+        "selectedcolor": "#ff0000"
+    },
+    "list": {
+        "font": "pixelmix.ttf",
+        "size": 22,
+        "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
