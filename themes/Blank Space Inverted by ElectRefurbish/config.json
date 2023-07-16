@@ -1,0 +1,43 @@
+{
+    "name": "Blank Space Inverted",
+    "author": "ElectRefurbish",
+    "description": "Casual Theme...",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "onleft": true
+    },
+    "title": {
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "Poppins-Regular.ttf",
+        "size": 1,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "Poppins-Regular.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#000000"
+    },
+    "list": {
+        "font": "Poppins-Regular.ttf",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
