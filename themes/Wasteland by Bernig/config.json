@@ -1,0 +1,46 @@
+{
+    "name": "Wasteland",
+    "author": "Bernig",
+    "description": "A Fallout inspired theme",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Fixedsys62.ttf",
+        "size": 32,
+        "color": "#0ce86c",
+        "offsetX": 7,
+        "offsetY": 2,
+        "onleft": false
+    },
+    "title": {
+        "font": "Fixedsys62.ttf",
+        "size": 32,
+        "color": "#0ce86c"
+    },
+    "hint": {
+        "font": "Fixedsys62.ttf",
+        "size": 24,
+        "color": "#0ce86c"
+    },
+    "currentpage": {
+        "color": "#0ce86c"
+    },
+    "total": {
+        "color": "#0ce86c"
+    },
+    "grid": {
+        "font": "Fixedsys62.ttf",
+        "grid1x4": 24,
+        "grid3x4": 20,
+        "color": "#0ce86c",
+        "selectedcolor": "#0ce86c"
+    },
+    "list": {
+        "font": "Fixedsys62.ttf",
+        "size": 24,
+        "color": "#0ce86c"
+    }
+}
