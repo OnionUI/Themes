@@ -5,7 +5,9 @@
     "batteryPercentage": {
         "visible": true,
         "color": "#FFFFFF",
-        "onleft": true
+        "size": 18,
+        "offsetX": -4,
+        "onleft": false
     },
     "title": {
         "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
