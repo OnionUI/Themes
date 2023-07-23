@@ -5,7 +5,8 @@
         "visible": true,
         "color": "#ffffff",
         "size": 18,
-        "offsetX": -50
+        "offsetX": -50,
+        "offsetY": 4
     },
     "title": {
         "font": "unispace.ttf",
