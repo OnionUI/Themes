@@ -6,8 +6,8 @@
         "visible": true,
         "color": "#FFFFFF",
         "size": 18,
-        "offsetX": -4,
-        "onleft": false
+        "offsetX": 26,
+        "fixed": true
     },
     "title": {
         "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
