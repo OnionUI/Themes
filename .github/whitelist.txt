@@ -10,9 +10,10 @@ bg-button-f
 icon-game
 icon-folder
 icon-TF
-bg-pop-menu-2
 bg-pop-menu-1
+bg-pop-menu-2
 bg-pop-menu-3
+bg-pop-menu-4
 thumb-default
 ic-recent-n
 ic-recent-f

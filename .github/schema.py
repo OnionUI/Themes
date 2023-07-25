@@ -2,49 +2,29 @@ config_schema = {
     "name": str,
     "author": str,
     "description": str,
-    "hideLabels": {
-        "icons": bool,
-        "hints": bool
-    },
+    "hideLabels": {"icons": bool, "hints": bool},
     "batteryPercentage": {
         "visible": bool,
-        "onleft": bool,
+        "onleft": bool,  # deprecated
+        "fixed": bool,
+        "textAlign": str,
         "offsetX": int,
         "offsetY": int,
         "font": str,
         "size": int,
-        "color": str
+        "color": str,
     },
-    "frame": {
-        "border-left": int,
-        "border-right": int
-    },
-    "title": {
-        "font": str,
-        "size": int,
-        "color": str
-    },
-    "hint": {
-        "font": str,
-        "size": int,
-        "color": str
-    },
-    "currentpage": {
-        "color": str
-    },
-    "total": {
-        "color": str
-    },
+    "frame": {"border-left": int, "border-right": int},
+    "title": {"font": str, "size": int, "color": str},
+    "hint": {"font": str, "size": int, "color": str},
+    "currentpage": {"color": str},
+    "total": {"color": str},
     "grid": {
         "font": str,
         "grid1x4": int,
         "grid3x4": int,
         "color": str,
-        "selectedcolor": str
+        "selectedcolor": str,
     },
-    "list": {
-        "font": str,
-        "size": int,
-        "color": str
-    }
+    "list": {"font": str, "size": int, "color": str},
 }

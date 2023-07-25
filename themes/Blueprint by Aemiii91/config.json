@@ -9,11 +9,12 @@
     "batteryPercentage": {
         "visible": true,
         "font": "OpenSansCondensed-Bold.ttf",
-        "size": 25,
+        "size": 11,
         "color": "#FFFFFF",
+        "textAlign": "center",
+        "fixed": true,
         "offsetX": 0,
-        "offsetY": 0,
-        "onleft": false
+        "offsetY": 0
     },
     "title": {
         "font": "OpenSansCondensed-Bold.ttf",

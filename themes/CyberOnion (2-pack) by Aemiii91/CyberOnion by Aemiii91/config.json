@@ -5,8 +5,10 @@
         "visible": true,
         "color": "#ffffff",
         "size": 18,
-        "offsetX": -50,
-        "offsetY": 4
+        "textAlign": "right",
+        "offsetX": -6,
+        "offsetY": 4,
+        "fixed": true
     },
     "title": {
         "font": "unispace.ttf",
