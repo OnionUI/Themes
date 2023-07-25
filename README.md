@@ -1649,6 +1649,17 @@ This section showcases theme remixes made by the community and approved by the o
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="release/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock.zip?raw=true">
+<img title="Minimalist theme" width="480px" src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/preview.png?raw=true" /><br/>
+<b>NanoSwitch Modern Dark</b>
+</a><br/>
+<sup><i>Amdy + Cheetashock</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch Modern by Amdy + Cheetashock"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%20%2B%20Cheetashock%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Milk%20Black%20by%20Segich%20%2B%20Nemi.zip?raw=true">
 <img title="Miyoo Mini Milk Black Theme" width="480px" src="themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/preview.png?raw=true" /><br/>
 <b>Milk Black</b>
@@ -1669,6 +1680,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2023-05-27" href="https://github.com/OnionUI/Themes/commits/main/themes/Blueprint Variations by Aemiii91 + r3b0rn">2023-05-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%20%2B%20r3b0rn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Blueprint%20Variations%20by%20Aemiii91%20%2B%20r3b0rn/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far.zip?raw=true">
@@ -1680,7 +1692,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2023-05-27" href="https://github.com/OnionUI/Themes/commits/main/themes/Blueprint Ghosts by Aemiii91 + ax2far">2023-05-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Aemiii91%20%2B%20ax2far%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far/Blueprint%20Ghosts%20Basic%20by%20Aemiii91%20%2B%20ax2far/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi.zip?raw=true">
@@ -1703,6 +1714,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2023-01-27" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion Gruvbox by Kitsuvi + Dreambrace">2023-01-27</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%20%2B%20Dreambrace%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz.zip?raw=true">
@@ -1714,7 +1726,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-10-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Zenburn 1.5 by duckbeets + Catz">2022-10-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22duckbeets%20%2B%20Catz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip?raw=true">
@@ -1737,6 +1748,7 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Red Onion by PixelShift + Jeltron + Moontorc">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22PixelShift%20%2B%20Jeltron%20%2B%20Moontorc%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
+</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist.zip?raw=true">
@@ -1748,7 +1760,6 @@ This section showcases theme remixes made by the community and approved by the o
 <sup><a title="Last updated: 2022-09-09" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD Gray by Jeltron + TechDevangelist">2022-09-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%20%2B%20TechDevangelist%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20Gray%20by%20Jeltron%20%2B%20TechDevangelist/sound/bgm.mp3?raw=true"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
-</tr><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="release/Onion%20Boy%20Pocket%20by%20PixelShift%20%2B%20H9K.zip?raw=true">
@@ -1795,6 +1806,18 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### NSO by Cheetashock
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/NSO%20by%20Cheetashock/fc.png" width="64px" title="fc"><img src="icons/NSO%20by%20Cheetashock/gb.png" width="64px" title="gb"><img src="icons/NSO%20by%20Cheetashock/gba.png" width="64px" title="gba"><img src="icons/NSO%20by%20Cheetashock/gbc.png" width="64px" title="gbc"><img src="icons/NSO%20by%20Cheetashock/md.png" width="64px" title="md"><img src="icons/NSO%20by%20Cheetashock/ms.png" width="64px" title="ms"><img src="icons/NSO%20by%20Cheetashock/ps.png" width="64px" title="ps"><img src="icons/NSO%20by%20Cheetashock/sfc.png" width="64px" title="sfc">
+
+[Download NSO by Cheetashock (icon pack)](release/icons/NSO%20by%20Cheetashock.zip?raw=true)
+
+<sub><sup>19/54 icons (35% complete)</sup> &nbsp;&nbsp; <a href="/icons/NSO%20by%20Cheetashock/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NSO%20by%20Cheetashock"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### Silhouette Black by Dreambrace
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Silhouette%20Black%20by%20Dreambrace/fc.png" width="64px" title="fc"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gb.png" width="64px" title="gb"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gba.png" width="64px" title="gba"><img src="icons/Silhouette%20Black%20by%20Dreambrace/gbc.png" width="64px" title="gbc"><img src="icons/Silhouette%20Black%20by%20Dreambrace/md.png" width="64px" title="md"><img src="icons/Silhouette%20Black%20by%20Dreambrace/ms.png" width="64px" title="ms"><img src="icons/Silhouette%20Black%20by%20Dreambrace/ps.png" width="64px" title="ps"><img src="icons/Silhouette%20Black%20by%20Dreambrace/sfc.png" width="64px" title="sfc">
@@ -1817,6 +1840,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Hakchi Pixel Art by faustbear
@@ -1829,7 +1853,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Mini Icons by Jeltron
@@ -1854,6 +1877,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### CyberOnion BW by Aemiii91
@@ -2120,6 +2144,19 @@ To install an icon pack you can either:
 
 </td>
 
+<td valign="top">
+
+#### NanoSwitch Modern by Amdy + Cheetashock
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/fc.png" width="64px" title="fc"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/gb.png" width="64px" title="gb"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/gba.png" width="64px" title="gba"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/gbc.png" width="64px" title="gbc"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/md.png" width="64px" title="md"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/ms.png" width="64px" title="ms"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/ps.png" width="64px" title="ps"><img src="themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons/sfc.png" width="64px" title="sfc">
+
+[Download NanoSwitch Modern by Amdy + Cheetashock (theme)](release/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock.zip?raw=true)
+
+<sub><sup>51/54 icons (94% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+</tr><tr>
 <td valign="top">
 
 #### Milk Black by Segich + Nemi
