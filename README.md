@@ -853,7 +853,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 </tr><tr>
@@ -1604,7 +1604,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -2134,6 +2134,18 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### Onionboy HD by Jeltron
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/fc.png" width="64px" title="fc"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/gb.png" width="64px" title="gb"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/gba.png" width="64px" title="gba"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/gbc.png" width="64px" title="gbc"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/md.png" width="64px" title="md"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/ms.png" width="64px" title="ms"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/ps.png" width="64px" title="ps"><img src="themes/Onionboy%20HD%20by%20Jeltron/icons/sfc.png" width="64px" title="sfc">
+
+[Download Onionboy HD by Jeltron (theme)](release/Onionboy%20HD%20by%20Jeltron.zip?raw=true)
+
+<sub><sup>46/54 icons (85% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### Analogue by Aemiii91
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Analogue%20by%20Aemiii91/icons/fc.png" width="64px" title="fc"><img src="themes/Analogue%20by%20Aemiii91/icons/gb.png" width="64px" title="gb"><img src="themes/Analogue%20by%20Aemiii91/icons/gba.png" width="64px" title="gba"><img src="themes/Analogue%20by%20Aemiii91/icons/gbc.png" width="64px" title="gbc"><img src="themes/Analogue%20by%20Aemiii91/icons/md.png" width="64px" title="md"><img src="themes/Analogue%20by%20Aemiii91/icons/ms.png" width="64px" title="ms"><img src="themes/Analogue%20by%20Aemiii91/icons/ps.png" width="64px" title="ps"><img src="themes/Analogue%20by%20Aemiii91/icons/sfc.png" width="64px" title="sfc">
@@ -2144,6 +2156,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Blueprint by Aemiii91
@@ -2156,7 +2169,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Modern by Amdy + Cheetashock
