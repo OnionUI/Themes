@@ -853,7 +853,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-07-25" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2023-07-25</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 </tr><tr>
@@ -1604,7 +1604,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2022-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2022-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-07-25" href="https://github.com/OnionUI/Themes/commits/main/themes/Onionboy HD by Jeltron">2023-07-25</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jeltron%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Onionboy%20HD%20by%20Jeltron/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1806,6 +1806,18 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### Pixel by Jeltron
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Pixel%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Pixel%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Pixel%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Pixel%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Pixel%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Pixel%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Pixel%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Pixel%20by%20Jeltron/sfc.png" width="64px" title="sfc">
+
+[Download Pixel by Jeltron (icon pack)](release/icons/Pixel%20by%20Jeltron.zip?raw=true)
+
+<sub><sup>46/54 icons (85% complete)</sup> &nbsp;&nbsp; <a href="/icons/Pixel%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pixel%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### NSO by Cheetashock
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/NSO%20by%20Cheetashock/fc.png" width="64px" title="fc"><img src="icons/NSO%20by%20Cheetashock/gb.png" width="64px" title="gb"><img src="icons/NSO%20by%20Cheetashock/gba.png" width="64px" title="gba"><img src="icons/NSO%20by%20Cheetashock/gbc.png" width="64px" title="gbc"><img src="icons/NSO%20by%20Cheetashock/md.png" width="64px" title="md"><img src="icons/NSO%20by%20Cheetashock/ms.png" width="64px" title="ms"><img src="icons/NSO%20by%20Cheetashock/ps.png" width="64px" title="ps"><img src="icons/NSO%20by%20Cheetashock/sfc.png" width="64px" title="sfc">
@@ -1828,6 +1840,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Silhouette White by Dreambrace
@@ -1840,7 +1853,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Hakchi Pixel Art by faustbear
@@ -1850,18 +1862,6 @@ To install an icon pack you can either:
 [Download Hakchi Pixel Art by faustbear (icon pack)](release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip?raw=true)
 
 <sub><sup>49/54 icons (91% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### Mini Icons by Jeltron
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/Mini%20Icons%20by%20Jeltron/fc.png" width="64px" title="fc"><img src="icons/Mini%20Icons%20by%20Jeltron/gb.png" width="64px" title="gb"><img src="icons/Mini%20Icons%20by%20Jeltron/gba.png" width="64px" title="gba"><img src="icons/Mini%20Icons%20by%20Jeltron/gbc.png" width="64px" title="gbc"><img src="icons/Mini%20Icons%20by%20Jeltron/md.png" width="64px" title="md"><img src="icons/Mini%20Icons%20by%20Jeltron/ms.png" width="64px" title="ms"><img src="icons/Mini%20Icons%20by%20Jeltron/ps.png" width="64px" title="ps"><img src="icons/Mini%20Icons%20by%20Jeltron/sfc.png" width="64px" title="sfc">
-
-[Download Mini Icons by Jeltron (icon pack)](release/icons/Mini%20Icons%20by%20Jeltron.zip?raw=true)
-
-<sub><sup>33/54 icons (61% complete)</sup> &nbsp;&nbsp; <a href="/icons/Mini%20Icons%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mini%20Icons%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
