@@ -1,5 +1,5 @@
 {
-    "name": "ONION PS Blue",
+    "name": "ONION PS Blue 4.2",
     "author": "hanessh4",
     "description": "PS Inspired Onion Theme",
     "hideLabels": {
@@ -9,10 +9,10 @@
     "batteryPercentage": {
         "visible": true,
         "font": "Poppins-Medium.ttf",
-        "size": 20,
+        "size": 16,
         "color": "#FFFFFF",
         "offsetX": 0,
-        "offsetY": 0,
+        "offsetY": 2,
         "onleft": false
     },
     "title": {

@@ -1,29 +1,36 @@
 
 --------------------------------------------
- ONION PS Theme v4.1 Instructions & Credits
+ ONION PS Theme v4.2 Instructions & Credits
 --------------------------------------------
 
 General:
 --------
 
-Each theme color variant works independently. You can use one of them, or all.
-
-If you want to unhide the console text names, replace "AdobeBlank.ttf" by "Poppins-Regular.ttf" in config.json
+- Each theme color variant works independently. You can use one of them, or all.
+- If you want to unhide the console text names, replace "AdobeBlank.ttf" by "Poppins-Regular.ttf" in config.json
+- Theme includes image for easylogotweak: skin/extra/image1.jpg
+- Icons for apps advancemenu and logotweak included
 
 
 PS MOD:
 -------
 
-The theme can be modified to match physical face buttons on your Miyoo mini if PS button mod is used. ABXY buttons is used as default.
+- The theme can be modified, that onscreen buttons match physical face buttons on your Miyoo mini if PS button mod is used
+- ABXY buttons is used as default
 
-1. Open "PS MOD" folder inside `skin/mods`
+Installation of mod:
+1. Open "PS MOD" folder inside /skin/_Theme MODS
 2. Copy all files and folders
 3. Go back to skin folder
-4. Paste and replace all files 
-Warning for MAC OSX users: Do not paste and replace folder "extra" - this would remove all other files in that folder. Instead, first copy and replace files from skin folder, than copy and replace files from extra folder)
+4. Paste and replace all files (and folders)
 
-Console Icons Credits:
-----------------------
+Warning for MAC OSX users:
+- Do not paste and replace folder "extra" - this would remove all other files in that folder. 
+- Instead, first copy and replace files from skin folder, than copy and replace files from extra folder)
+
+
+Credits for Console Icons Source Images:
+----------------------------------------
 ps 		Original box art https://www.deviantart.com/earthwormjimfan/art/Crash-Bandicoot-The-Huge-Adventure-Widescreen-633485790
 arcade 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 atari 		Original box art https://www.indieretronews.com/2017/04/space-invaders-highly-recommended-pc.html
@@ -43,7 +50,7 @@ zxs 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 32x 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 7800 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 amiga 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
-atari st		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
+atari st	Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 c64 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 col 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 cpc 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
@@ -57,18 +64,18 @@ gg 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 gw 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 itv 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 jaguar 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
-megaduck		Original box art https://boxsdb.launchbox-app.com/boxs/images/52710
+megaduck	Original box art https://boxsdb.launchbox-app.com/boxs/images/52710
 ms 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 MSX 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 neocd 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 ne geo 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
-odyssey 		Original box art https://www.mobyboxs.com/box/odyssey-2/football__/cover-art/boxCoverId,105708/
+odyssey 	Original box art https://www.mobyboxs.com/box/odyssey-2/football__/cover-art/boxCoverId,105708/
 pce 		Original box art https://nintendo.fandom.com/wiki/Ninja_Spirit/gallery
 pcecd 		Original box art https://emumovies.com/files/file/4727-nec-pc-engine-cd-2d-box-pack-complete/
 pico 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 poke 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
-satella 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
-scummvm 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
+satella 	Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
+scummvm 	Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 segasgone 	Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 sgb 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 sgfx 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
@@ -76,7 +83,7 @@ sufami 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijish
 supervision 	Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 vb 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
 vdp 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
-vectrex 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
+vectrex 	Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 ws 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 x68000 		Daijishou Project - Alekfull-nx https://github.com/magneticchen/Daijishou
 5200 		Daijishou Project - Arrow https://github.com/magneticchen/Daijishou
