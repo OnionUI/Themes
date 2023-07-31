@@ -6,7 +6,10 @@
         "color": "#dcdcdc",
         "font": "RetroGaming-CAPS.ttf",
         "size": 20,
-        "onleft": true
+        "fixed": true,
+        "textAlign": "right",
+        "offsetX": 2,
+        "offsetY": 2
     },
     "title": {
         "font": "RetroGaming-CAPS.ttf",
