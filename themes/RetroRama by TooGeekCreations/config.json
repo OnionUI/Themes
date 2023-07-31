@@ -1,0 +1,46 @@
+{
+    "name": "RetroRama",
+    "author": "TooGeekCreations",
+    "description": "Phill's Doodles Comics",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Comic Book.ttf",
+        "size": 25,
+        "color": "6E6E6E",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "Comic Book.ttf",
+        "size": 30,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "Comic Book.ttf",
+        "size": 36,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#1F1C17",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "Comic Book.ttf",
+        "size": 25,
+        "color": "#525252"
+    }
+}
