@@ -1,47 +1,46 @@
 {
-  "name": "Nokiyoo",
-  "hideIconTitle": false,
-  "batteryPercentage": {
-    "visible": false,
-    "font": "Nokia Sans S60 Regular.ttf",
-    "size": 25,
-    "color": "#FFFFFF",
-    "offsetX": 0,
-    "offsetY": 0,
-    "onleft": true
-  },
-  "author": "UnBurn",
-  "description": "Games on your phone",
-  "hideLabels": {
-    "icons": true,
-    "hints": true
-  },
-  "title": {
-    "font": "Nokia Sans S60 Regular.ttf",
-    "size": 26,
-    "color": "#FFFFFF"
-  },
-  "hint": {
-    "font": "Nokia Sans S60 Regular.ttf",
-    "size": 0,
-    "color": "#FFFFFF"
-  },
-  "currentpage": {
-    "color": "#FFFFFF"
-  },
-  "total": {
-    "color": "#FFFFFF"
-  },
-  "grid": {
-    "font": "Nokia Sans S60 Regular.ttf",
-    "grid1x4": 22,
-    "grid3x4": 17,
-    "color": "#FFFFFF",
-    "selectedcolor": "#FFFFFF"
-  },
-  "list": {
-    "font": "Nokia Sans S60 Regular.ttf",
-    "size": 25,
-    "color": "#FFFFFF"
-  }
+    "name": "Nokiyoo",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Nokia Sans S60 Regular.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "author": "UnBurn",
+    "description": "Games on your phone",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "title": {
+        "font": "Nokia Sans S60 Regular.ttf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Nokia Sans S60 Regular.ttf",
+        "size": 0,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Nokia Sans S60 Regular.ttf",
+        "grid1x4": 22,
+        "grid3x4": 17,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Nokia Sans S60 Regular.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
 }
