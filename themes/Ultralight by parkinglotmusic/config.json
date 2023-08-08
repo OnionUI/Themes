@@ -1,0 +1,41 @@
+{
+    "name": "Ultralight",
+    "author": "parkinglotmusic",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "terminal-grotesque.ttf",
+        "size": 20,
+        "color": "#ffffff",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "terminal-grotesque.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "terminal-grotesque.ttf",
+        "size": 24,
+        "color": "#404040"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "terminal-grotesque.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#404040",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "terminal-grotesque.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
