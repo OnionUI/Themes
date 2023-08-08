@@ -196,7 +196,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-07-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Notebook Kawaii by UnBurn">2023-07-03</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Notebook%20Kawaii%20by%20UnBurn/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2023-08-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Notebook Kawaii by UnBurn">2023-08-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="themes/Notebook%20Kawaii%20by%20UnBurn/preview.png?raw=true"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Notebook%20Kawaii%20by%20UnBurn,Notebook%20Kawaii%20by%20UnBurn:themes/Notebook%20Kawaii%20by%20UnBurn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -1971,6 +1971,18 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### Notebook Kawaii by UnBurn
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/fc.png" width="64px" title="fc"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/gb.png" width="64px" title="gb"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/gba.png" width="64px" title="gba"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/gbc.png" width="64px" title="gbc"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/md.png" width="64px" title="md"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/ms.png" width="64px" title="ms"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/ps.png" width="64px" title="ps"><img src="themes/Notebook%20Kawaii%20by%20UnBurn/icons/sfc.png" width="64px" title="sfc">
+
+[Download Notebook Kawaii by UnBurn (theme)](release/Notebook%20Kawaii%20by%20UnBurn.zip?raw=true)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Notebook%20Kawaii%20by%20UnBurn,Notebook%20Kawaii%20by%20UnBurn:themes/Notebook%20Kawaii%20by%20UnBurn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### OOSFC by ytdcpndsgn
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/fc.png" width="64px" title="fc"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/gb.png" width="64px" title="gb"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/gba.png" width="64px" title="gba"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/gbc.png" width="64px" title="gbc"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/md.png" width="64px" title="md"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/ms.png" width="64px" title="ms"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/ps.png" width="64px" title="ps"><img src="themes/OOSFC%20by%20ytdcpndsgn/icons/sfc.png" width="64px" title="sfc">
@@ -1981,6 +1993,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Milk White by Segich
@@ -1993,7 +2006,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### ONION PS Purple Grey by hanessh4
@@ -2018,6 +2030,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Fake DMG Classic by Oclain
@@ -2030,7 +2043,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### M by tenlevels
@@ -2055,6 +2067,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### YoRHa by Deepslackerjazz
@@ -2067,7 +2080,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NEON.ion by tenlevels
@@ -2092,6 +2104,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### TRON by tenlevels
@@ -2104,7 +2117,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### PAC-MIYOO by tenlevels
@@ -2129,6 +2141,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch by Amdy
@@ -2141,7 +2154,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion [Atomic] by Aemiii91
@@ -2166,6 +2178,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Onionboy HD by Jeltron
@@ -2178,7 +2191,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Analogue by Aemiii91
@@ -2203,6 +2215,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Modern by Amdy + Cheetashock
@@ -2215,7 +2228,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Milk Black by Segich + Nemi
