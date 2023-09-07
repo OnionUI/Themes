@@ -1,0 +1,47 @@
+{
+    "name": "2CleanMini",
+    "author": "Sheezie",
+    "description": "Too clean, knawmsayin?",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Arboria-Bold.ttf",
+        "size": 18,
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "Arboria-Bold.ttf",
+        "size": 28,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Arboria-Medium.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Arboria-Light.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
