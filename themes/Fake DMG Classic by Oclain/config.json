@@ -9,38 +9,38 @@
     "batteryPercentage": {
         "visible": false,
         "font": "Early GameBoy.ttf",
-        "size": 25,
-        "color": "#344D20",
+        "size": 23,
+        "color": "#1A3529",
         "offsetX": 0,
         "offsetY": 0,
         "onleft": false
     },
     "title": {
         "font": "Early GameBoy.ttf",
-        "size": 25,
-        "color": "#344D20"
+        "size": 23,
+        "color": "#1A3529"
     },
     "hint": {
         "font": "Early GameBoy.ttf",
-        "size": 23,
-        "color": "#344D20"
+        "size": 21,
+        "color": "#1A3529"
     },
     "currentpage": {
-        "color": "#344D20"
+        "color": "#1A3529"
     },
     "total": {
-        "color": "#344D20"
+        "color": "#1A3529"
     },
     "grid": {
         "font": "Early GameBoy.ttf",
-        "grid1x4": 15,
-        "grid3x4": 13,
-        "color": "#335C2F",
-        "selectedcolor": "#344D20"
+        "grid1x4": 13,
+        "grid3x4": 11,
+        "color": "#2A4D31",
+        "selectedcolor": "#1A3529"
     },
     "list": {
         "font": "Early GameBoy.ttf",
-        "size": 15,
-        "color": "#344D20"
+        "size": 13,
+        "color": "#1A3529"
     }
 }
