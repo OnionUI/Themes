@@ -1,0 +1,44 @@
+{
+    "name": "NanoSwitch Modern Dark",
+    "author": "Amdy + Cheetashock",
+    "description": "Minimalist theme",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#d1d1d1",
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "onleft": true
+    },
+    "title": {
+        "font": "Poppins-Medium.ttf",
+        "size": 20,
+        "color": "#d1d1d1"
+    },
+    "hint": {
+        "font": "Poppins-Regular.ttf",
+        "size": 1,
+        "color": "#424242"
+    },
+    "currentpage": {
+        "color": "#424242"
+    },
+    "total": {
+        "color": "#424242"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttc",
+        "grid1x4": 20,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Poppins-Regular.ttf",
+        "size": 20,
+        "color": "#d1d1d1"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
