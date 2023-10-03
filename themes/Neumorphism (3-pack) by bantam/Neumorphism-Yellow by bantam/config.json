@@ -1,0 +1,45 @@
+{
+    "name": "Neumorphism-Yellow",
+    "author": "bantam",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "MPLUS1p-Regular.ttf",
+        "size": 20,
+        "color": "#4b4c56",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": true
+    },
+    "title": {
+        "font": "MPLUS1p-Regular.ttf",
+        "size": 30,
+        "color": "#4b4c56"
+    },
+    "hint": {
+        "font": "MPLUS1p-Regular.ttf",
+        "size": 26,
+        "color": "#4b4c56"
+    },
+    "currentpage": {
+        "color": "#4b4c56"
+    },
+    "total": {
+        "color": "#4b4c56"
+    },
+    "grid": {
+        "font": "MPLUS1p-Regular.ttf",
+        "grid1x4": 0,
+        "grid3x4": 0,
+        "color": "#4b4c56",
+        "selectedcolor": "#4b4c56"
+    },
+    "list": {
+        "font": "MPLUS1p-Regular.ttf",
+        "size": 22,
+        "color": "#4b4c56"
+    }
+}
