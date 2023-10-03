@@ -1,0 +1,42 @@
+{
+    "name": "NBA Onion",
+    "author": "Tom Tower",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "verdana.ttf",
+        "size": 11,
+        "color": "#FFFFFF",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "nba-bulls.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "nba-bulls.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#A3AAB1",
+        "selectedcolor": "#99FFFF"
+    },
+    "list": {
+        "font": "verdana.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
