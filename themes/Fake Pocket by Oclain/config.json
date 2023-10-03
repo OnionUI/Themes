@@ -1,0 +1,46 @@
+{
+    "name": "Fake Pocket",
+    "author": "Oclain",
+    "description": "Theme that mimics the original Gameboy Pocket screen",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Early GameBoy.ttf",
+        "size": 23,
+        "color": "#495C48",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "Early GameBoy.ttf",
+        "size": 23,
+        "color": "#495C48"
+    },
+    "hint": {
+        "font": "Early GameBoy.ttf",
+        "size": 21,
+        "color": "#495C48"
+    },
+    "currentpage": {
+        "color": "#495C48"
+    },
+    "total": {
+        "color": "#495C48"
+    },
+    "grid": {
+        "font": "Early GameBoy.ttf",
+        "grid1x4": 13,
+        "grid3x4": 11,
+        "color": "#7B897E",
+        "selectedcolor": "#495C48"
+    },
+    "list": {
+        "font": "Early GameBoy.ttf",
+        "size": 13,
+        "color": "#495C48"
+    }
+}
