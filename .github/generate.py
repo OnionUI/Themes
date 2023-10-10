@@ -137,10 +137,10 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
     theme_subdirs = [f"themes/{theme}/{subdir}" for subdir in get_subdirs(dir_path)] if has_subdirs else [f"themes/{theme}"]
 
     if os.path.exists(f"themes/{theme}/preview.png"):
-        preview_url = f"themes/{urlencode(theme)}/preview.png?raw=true"
+        preview_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/themes/{urlencode(theme)}/preview.png"
     else:
-        preview_url = f"{urlencode(theme_subdirs[0])}/preview.png?raw=true"
-    release_url = f"release/{urlencode(theme)}.zip?raw=true"
+        preview_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/{urlencode(theme_subdirs[0])}/preview.png"
+    release_url = f"https://github.com/OnionUI/Themes/raw/main/release/{urlencode(theme)}.zip"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
     git_result = subprocess.run(
@@ -169,7 +169,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
         "NAME": name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
-        "HAS_BGM": f"&nbsp;&nbsp;<a href=\"{urlencode(theme_subdirs[0])}/sound/bgm.mp3?raw=true\">{BGM_ICON}</a>" if has_bgm else "",
+        "HAS_BGM": f"&nbsp;&nbsp;<a href=\"https://onionui.github.io/bgm_preview.html?theme={urlencode(theme_subdirs[0][7:])}\">{BGM_ICON}</a>" if has_bgm else "",
         "HAS_ICONPACK": f"&nbsp; <a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
         "README": f"&nbsp;&nbsp;<a href=\"{urlencode(readme_path)}\">{README_ICON}</a>" if len(readme_path) != 0 else "",
         "AUTHOR_BTN": f"&nbsp;&nbsp;<a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
