@@ -30,6 +30,16 @@ $CUSTOM_THEMES
 
 <p>&nbsp;</p>
 
+## Remixed Themes
+
+This section showcases theme remixes made by the community and approved by the original theme author.
+
+> *If a remixed theme isn't approved by the original author, we will take it down.*
+
+$REMIXED_THEMES
+
+<p>&nbsp;</p>
+
 ## Featured Themes
 
 This section showcases the themes included with Onion.
@@ -38,21 +48,6 @@ This section showcases the themes included with Onion.
 <summary>Browse featured themes</summary>
 
 $FEATURED_THEMES
-
-</details>
-
-<p>&nbsp;</p>
-
-## Remixed Themes
-
-This section showcases theme remixes made by the community and approved by the original theme author.
-
-> *If a remixed theme isn't approved by the original author, we will take it down.*
-
-<details>
-<summary>Browse remixed themes</summary>
-
-$REMIXED_THEMES
 
 </details>
 
