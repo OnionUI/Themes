@@ -3,13 +3,13 @@
     "author": "TheDewd + Quack Walks",
     "description": "SNES Classic inspired theme for Onion (Remix)",
     "batteryPercentage": {
-        "visible": false,
+        "visible": true,
         "font": "graphicpixel.ttf",
         "size": 13,
         "color": "#747474",
         "offsetX": 12,
         "offsetY": -11,
-        "onleft": false
+        "fixed": true
     },
     "hideLabels": {
         "icons": true,
