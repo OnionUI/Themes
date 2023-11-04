@@ -7,6 +7,8 @@ Custom made icons by me:
 
 ## Credits
 
+**Custom NDS icon:** Equinox from the RGH discord
+
 **Font:** Analogue OS font by AbFarid  
 https://github.com/AbFarid/analogue-os-font
 
