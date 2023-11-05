@@ -1,0 +1,47 @@
+{
+    "name": "Pad Neon Sky",
+    "author": "toski",
+    "description": "",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 14,
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 12,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 30,
+        "color": "#7FDFFE"
+    },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 24,
+        "color": "#8C8C8C"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#8C8C8C",
+        "selectedcolor": "#7FDFFE"
+    },
+    "list": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}

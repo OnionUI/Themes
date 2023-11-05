@@ -1,0 +1,47 @@
+{
+    "name": "Pad Snow Dark",
+    "author": "toski",
+    "description": "",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 14,
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 12,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 30,
+        "color": "#F0F0F0"
+    },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 24,
+        "color": "#777777"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#777777",
+        "selectedcolor": "#F0F0F0"
+    },
+    "list": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
