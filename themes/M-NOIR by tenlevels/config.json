@@ -1,0 +1,39 @@
+{
+    "name": "M-NOIR",
+    "author": "tenlevels",
+    "description": "NOIR theme for OnionOS inspired by EPICNOIR on ArkOS",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#848484",
+        "font": "BebasNeue.otf",
+        "size": 24
+    },
+    "title": {
+        "font": "BebasNeue.otf",
+        "size": 26,
+        "color": "#848484"
+    },
+    "hint": {
+        "font": "BebasNeue.otf",
+        "size": 24,
+        "color": "#dddddd"
+    },
+    "currentpage": {
+        "color": "#dddddd"
+    },
+    "total": {
+        "color": "#848484"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#646464",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "NanumBarunGothic.ttf",
+        "size": 22,
+        "color": "#dddddd"
+    }
+}
