@@ -94,7 +94,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>toski</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-11-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Pad (4-pack) by toski">2023-11-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22toski%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Pad%20%284-pack%29%20by%20toski/Pad%20Neon%20Sky%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,Pad%20Neon%20Sky%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Neon%20Sky%20by%20toski/icons,Pad%20Retro%20Orchid%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Orchid%20by%20toski/icons,Pad%20Retro%20Peach%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Peach%20by%20toski/icons,Pad%20Snow%20Dark%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Snow%20Dark%20by%20toski/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-11-05" href="https://github.com/OnionUI/Themes/commits/main/themes/Pad (4-pack) by toski">2023-11-05</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22toski%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Pad%20%284-pack%29%20by%20toski/Pad%20Neon%20Sky%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -117,7 +117,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Skimpertushi</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Valorant by Skimpertushi">2023-10-03</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Skimpertushi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Valorant%20by%20Skimpertushi,Valorant%20by%20Skimpertushi:themes/Valorant%20by%20Skimpertushi/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Valorant by Skimpertushi">2023-10-03</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Skimpertushi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Valorant%20by%20Skimpertushi,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -173,7 +173,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>parkinglotmusic</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-08-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Ultralight by parkinglotmusic">2023-08-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22parkinglotmusic%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Ultralight%20by%20parkinglotmusic,Ultralight%20by%20parkinglotmusic:themes/Ultralight%20by%20parkinglotmusic/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-08-08" href="https://github.com/OnionUI/Themes/commits/main/themes/Ultralight by parkinglotmusic">2023-08-08</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22parkinglotmusic%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Ultralight%20by%20parkinglotmusic,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 </tr><tr>
@@ -1955,7 +1955,7 @@ To install an icon pack you can either:
 
 [Download Onion PS Text Icons by hanessh4 (icon pack)](release/icons/Onion%20PS%20Text%20Icons%20by%20hanessh4.zip?raw=true)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -1992,7 +1992,7 @@ To install an icon pack you can either:
 
 [Download Silhouette Black by Dreambrace (icon pack)](release/icons/Silhouette%20Black%20by%20Dreambrace.zip?raw=true)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2004,7 +2004,7 @@ To install an icon pack you can either:
 
 [Download Silhouette White by Dreambrace (icon pack)](release/icons/Silhouette%20White%20by%20Dreambrace.zip?raw=true)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2016,7 +2016,7 @@ To install an icon pack you can either:
 
 [Download Hakchi Pixel Art by faustbear (icon pack)](release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip?raw=true)
 
-<sub><sup>49/54 icons (91% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>48/54 icons (89% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2029,19 +2029,7 @@ To install an icon pack you can either:
 
 [Download Dot-art by Yoshi-kun (icon pack)](release/icons/Dot-art%20by%20Yoshi-kun.zip?raw=true)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### CyberOnion BW by Aemiii91
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="icons/CyberOnion%20BW%20by%20Aemiii91/fc.png" width="64px" title="fc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gb.png" width="64px" title="gb"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gba.png" width="64px" title="gba"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/gbc.png" width="64px" title="gbc"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/md.png" width="64px" title="md"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ms.png" width="64px" title="ms"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/ps.png" width="64px" title="ps"><img src="icons/CyberOnion%20BW%20by%20Aemiii91/sfc.png" width="64px" title="sfc">
-
-[Download CyberOnion BW by Aemiii91 (icon pack)](release/icons/CyberOnion%20BW%20by%20Aemiii91.zip?raw=true)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#CyberOnion%20BW%20by%20Aemiii91"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2067,55 +2055,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### Pad Neon Sky by toski
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
-[Download Pad (4-pack) by toski (theme)](https://github.com/OnionUI/Themes/raw/main/release/Pad%20%284-pack%29%20by%20toski.zip)
-
-<sub><sup>0/54 icons (0% complete)</sup> &nbsp;&nbsp; <a href="/themes/Pad%20%284-pack%29%20by%20toski/Pad%20Neon%20Sky%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,Pad%20Neon%20Sky%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Neon%20Sky%20by%20toski/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### Pad Retro Orchid by toski
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
-[Download Pad (4-pack) by toski (theme)](https://github.com/OnionUI/Themes/raw/main/release/Pad%20%284-pack%29%20by%20toski.zip)
-
-<sub><sup>0/54 icons (0% complete)</sup> &nbsp;&nbsp; <a href="/themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Orchid%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,Pad%20Retro%20Orchid%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Orchid%20by%20toski/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
-#### Pad Retro Peach by toski
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
-[Download Pad (4-pack) by toski (theme)](https://github.com/OnionUI/Themes/raw/main/release/Pad%20%284-pack%29%20by%20toski.zip)
-
-<sub><sup>0/54 icons (0% complete)</sup> &nbsp;&nbsp; <a href="/themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Peach%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,Pad%20Retro%20Peach%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Retro%20Peach%20by%20toski/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
-#### Pad Snow Dark by toski
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
-[Download Pad (4-pack) by toski (theme)](https://github.com/OnionUI/Themes/raw/main/release/Pad%20%284-pack%29%20by%20toski.zip)
-
-<sub><sup>0/54 icons (0% complete)</sup> &nbsp;&nbsp; <a href="/themes/Pad%20%284-pack%29%20by%20toski/Pad%20Snow%20Dark%20by%20toski/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pad%20%284-pack%29%20by%20toski,Pad%20Snow%20Dark%20by%20toski:themes/Pad%20%284-pack%29%20by%20toski/Pad%20Snow%20Dark%20by%20toski/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
 #### Fake Pocket by Oclain
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Fake%20Pocket%20by%20Oclain/icons/fc.png" width="64px" title="fc"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/gb.png" width="64px" title="gb"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/gba.png" width="64px" title="gba"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/gbc.png" width="64px" title="gbc"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/md.png" width="64px" title="md"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/ms.png" width="64px" title="ms"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/ps.png" width="64px" title="ps"><img src="themes/Fake%20Pocket%20by%20Oclain/icons/sfc.png" width="64px" title="sfc">
@@ -2123,19 +2062,6 @@ To install an icon pack you can either:
 [Download Fake Pocket by Oclain (theme)](https://github.com/OnionUI/Themes/raw/main/release/Fake%20Pocket%20by%20Oclain.zip)
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Fake%20Pocket%20by%20Oclain,Fake%20Pocket%20by%20Oclain:themes/Fake%20Pocket%20by%20Oclain/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
-#### Valorant by Skimpertushi
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Valorant%20by%20Skimpertushi/icons/fc.png" width="64px" title="fc"><img src="themes/Valorant%20by%20Skimpertushi/icons/gb.png" width="64px" title="gb"><img src="themes/Valorant%20by%20Skimpertushi/icons/gba.png" width="64px" title="gba"><img src="themes/Valorant%20by%20Skimpertushi/icons/gbc.png" width="64px" title="gbc"><img src="themes/Valorant%20by%20Skimpertushi/icons/md.png" width="64px" title="md"><img src="themes/Valorant%20by%20Skimpertushi/icons/ms.png" width="64px" title="ms"><img src="themes/Valorant%20by%20Skimpertushi/icons/ps.png" width="64px" title="ps"><img src="themes/Valorant%20by%20Skimpertushi/icons/sfc.png" width="64px" title="sfc">
-
-[Download Valorant by Skimpertushi (theme)](https://github.com/OnionUI/Themes/raw/main/release/Valorant%20by%20Skimpertushi.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Valorant%20by%20Skimpertushi,Valorant%20by%20Skimpertushi:themes/Valorant%20by%20Skimpertushi/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2147,10 +2073,11 @@ To install an icon pack you can either:
 
 [Download Neumorphism (3-pack) by bantam (theme)](https://github.com/OnionUI/Themes/raw/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Neumorphism-White by bantam
@@ -2159,11 +2086,10 @@ To install an icon pack you can either:
 
 [Download Neumorphism (3-pack) by bantam (theme)](https://github.com/OnionUI/Themes/raw/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-White%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-White%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Neumorphism-Yellow by bantam
@@ -2172,7 +2098,7 @@ To install an icon pack you can either:
 
 [Download Neumorphism (3-pack) by bantam (theme)](https://github.com/OnionUI/Themes/raw/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Yellow%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Yellow%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2184,10 +2110,11 @@ To install an icon pack you can either:
 
 [Download NBA Onion by Tom Tower (theme)](https://github.com/OnionUI/Themes/raw/main/release/NBA%20Onion%20by%20Tom%20Tower.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NBA%20Onion%20by%20Tom%20Tower,NBA%20Onion%20by%20Tom%20Tower:themes/NBA%20Onion%20by%20Tom%20Tower/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NBA%20Onion%20by%20Tom%20Tower,NBA%20Onion%20by%20Tom%20Tower:themes/NBA%20Onion%20by%20Tom%20Tower/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### 2CleanMini by Sheezie
@@ -2196,20 +2123,7 @@ To install an icon pack you can either:
 
 [Download 2CleanMini by Sheezie (theme)](https://github.com/OnionUI/Themes/raw/main/release/2CleanMini%20by%20Sheezie.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#2CleanMini%20by%20Sheezie,2CleanMini%20by%20Sheezie:themes/2CleanMini%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
-#### Ultralight by parkinglotmusic
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Ultralight%20by%20parkinglotmusic/icons/fc.png" width="64px" title="fc"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/gb.png" width="64px" title="gb"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/gba.png" width="64px" title="gba"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/gbc.png" width="64px" title="gbc"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/md.png" width="64px" title="md"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/ms.png" width="64px" title="ms"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/ps.png" width="64px" title="ps"><img src="themes/Ultralight%20by%20parkinglotmusic/icons/sfc.png" width="64px" title="sfc">
-
-[Download Ultralight by parkinglotmusic (theme)](https://github.com/OnionUI/Themes/raw/main/release/Ultralight%20by%20parkinglotmusic.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Ultralight%20by%20parkinglotmusic,Ultralight%20by%20parkinglotmusic:themes/Ultralight%20by%20parkinglotmusic/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#2CleanMini%20by%20Sheezie,2CleanMini%20by%20Sheezie:themes/2CleanMini%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2221,7 +2135,7 @@ To install an icon pack you can either:
 
 [Download RetroRama by TooGeekCreations (theme)](https://github.com/OnionUI/Themes/raw/main/release/RetroRama%20by%20TooGeekCreations.zip)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/RetroRama%20by%20TooGeekCreations/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#RetroRama%20by%20TooGeekCreations,RetroRama%20by%20TooGeekCreations:themes/RetroRama%20by%20TooGeekCreations/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/RetroRama%20by%20TooGeekCreations/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#RetroRama%20by%20TooGeekCreations,RetroRama%20by%20TooGeekCreations:themes/RetroRama%20by%20TooGeekCreations/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2233,7 +2147,7 @@ To install an icon pack you can either:
 
 [Download Blank Space Inverted by ElectRefurbish (theme)](https://github.com/OnionUI/Themes/raw/main/release/Blank%20Space%20Inverted%20by%20ElectRefurbish.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Blank%20Space%20Inverted%20by%20ElectRefurbish,Blank%20Space%20Inverted%20by%20ElectRefurbish:themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Blank%20Space%20Inverted%20by%20ElectRefurbish,Blank%20Space%20Inverted%20by%20ElectRefurbish:themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2246,7 +2160,7 @@ To install an icon pack you can either:
 
 [Download Wasteland by Bernig (theme)](https://github.com/OnionUI/Themes/raw/main/release/Wasteland%20by%20Bernig.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Wasteland%20by%20Bernig/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Wasteland%20by%20Bernig,Wasteland%20by%20Bernig:themes/Wasteland%20by%20Bernig/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/Wasteland%20by%20Bernig/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Wasteland%20by%20Bernig,Wasteland%20by%20Bernig:themes/Wasteland%20by%20Bernig/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2258,7 +2172,7 @@ To install an icon pack you can either:
 
 [Download Blank Space by ElectRefurbish (theme)](https://github.com/OnionUI/Themes/raw/main/release/Blank%20Space%20by%20ElectRefurbish.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Blank%20Space%20by%20ElectRefurbish,Blank%20Space%20by%20ElectRefurbish:themes/Blank%20Space%20by%20ElectRefurbish/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Blank%20Space%20by%20ElectRefurbish,Blank%20Space%20by%20ElectRefurbish:themes/Blank%20Space%20by%20ElectRefurbish/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2270,7 +2184,7 @@ To install an icon pack you can either:
 
 [Download Notebook Kawaii by UnBurn (theme)](https://github.com/OnionUI/Themes/raw/main/release/Notebook%20Kawaii%20by%20UnBurn.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Notebook%20Kawaii%20by%20UnBurn,Notebook%20Kawaii%20by%20UnBurn:themes/Notebook%20Kawaii%20by%20UnBurn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Notebook%20Kawaii%20by%20UnBurn,Notebook%20Kawaii%20by%20UnBurn:themes/Notebook%20Kawaii%20by%20UnBurn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2283,7 +2197,7 @@ To install an icon pack you can either:
 
 [Download OOSFC by ytdcpndsgn (theme)](https://github.com/OnionUI/Themes/raw/main/release/OOSFC%20by%20ytdcpndsgn.zip)
 
-<sub><sup>48/54 icons (89% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>47/54 icons (87% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2295,7 +2209,7 @@ To install an icon pack you can either:
 
 [Download Milk White by Segich (theme)](https://github.com/OnionUI/Themes/raw/main/release/Milk%20White%20by%20Segich.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2307,7 +2221,7 @@ To install an icon pack you can either:
 
 [Download ONION PS (4-pack) by hanessh4 (theme)](https://github.com/OnionUI/Themes/raw/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2320,7 +2234,7 @@ To install an icon pack you can either:
 
 [Download TechDweeb by TechDweeb (theme)](https://github.com/OnionUI/Themes/raw/main/release/TechDweeb%20by%20TechDweeb.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2344,7 +2258,7 @@ To install an icon pack you can either:
 
 [Download M by tenlevels (theme)](https://github.com/OnionUI/Themes/raw/main/release/M%20by%20tenlevels.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2357,7 +2271,7 @@ To install an icon pack you can either:
 
 [Download Onion Blocks (2-pack) by tenlevels (theme)](https://github.com/OnionUI/Themes/raw/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2381,7 +2295,7 @@ To install an icon pack you can either:
 
 [Download NEON.ion by tenlevels (theme)](https://github.com/OnionUI/Themes/raw/main/release/NEON.ion%20by%20tenlevels.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/NEON.ion%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/NEON.ion%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2418,7 +2332,7 @@ To install an icon pack you can either:
 
 [Download PAC-MIYOO by tenlevels (theme)](https://github.com/OnionUI/Themes/raw/main/release/PAC-MIYOO%20by%20tenlevels.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/PAC-MIYOO%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#PAC-MIYOO%20by%20tenlevels,PAC-MIYOO%20by%20tenlevels:themes/PAC-MIYOO%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/PAC-MIYOO%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#PAC-MIYOO%20by%20tenlevels,PAC-MIYOO%20by%20tenlevels:themes/PAC-MIYOO%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2431,7 +2345,7 @@ To install an icon pack you can either:
 
 [Download Super Onion Entertainment System by TheDewd (theme)](https://github.com/OnionUI/Themes/raw/main/release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2529,7 +2443,7 @@ To install an icon pack you can either:
 
 [Download NanoSwitch Modern Dark by Amdy + Cheetashock (theme)](https://github.com/OnionUI/Themes/raw/main/release/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock.zip)
 
-<sub><sup>51/54 icons (94% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>50/54 icons (93% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2542,7 +2456,7 @@ To install an icon pack you can either:
 
 [Download Milk Black by Segich + Nemi (theme)](https://github.com/OnionUI/Themes/raw/main/release/Milk%20Black%20by%20Segich%20%2B%20Nemi.zip)
 
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Milk%20Black%20by%20Segich%20%2B%20Nemi,Milk%20Black%20by%20Segich%20%2B%20Nemi:themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Milk%20Black%20by%20Segich%20%2B%20Nemi,Milk%20Black%20by%20Segich%20%2B%20Nemi:themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
