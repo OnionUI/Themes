@@ -1,0 +1,47 @@
+{
+    "name": "PIXELPUNK",
+    "author": "anthr_alxndr",
+    "description": "Inspired by CYBERPUNK 2077",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Orbitron-Medium.ttf",
+        "size": 13,
+        "color": "#ffcc3d",
+        "textAlign": "left",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "Orbitron-Medium-Uppercase.ttf",
+        "size": 24,
+        "color": "#ffcc3d"
+    },
+    "hint": {
+        "font": "Orbitron-Medium.ttf",
+        "size": 22,
+        "color": "#fe736c"
+    },
+    "currentpage": {
+        "color": "#fe736c"
+    },
+    "total": {
+        "color": "#fe736c"
+    },
+    "grid": {
+        "font": "Orbitron-Medium-Uppercase.ttf",
+        "grid1x4": 18,
+        "grid3x4": 18,
+        "color": "#fe736c",
+        "selectedcolor": "#70e5ec"
+    },
+    "list": {
+        "font": "Orbitron-Medium.ttf",
+        "size": 24,
+        "color": "#70e5ec"
+    }
+}
