@@ -1,0 +1,42 @@
+{
+    "name": "AmalgaM",
+    "author": "ZaxxonQ",
+    "description": "A simple amalgam of previous themes",
+    "hideLabels": {
+        "icons": true
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#ffffff",
+        "font": "wqy-microhei.ttc",
+        "size": 30
+    },
+    "title": {
+        "font": "wqy-microhei.ttc",
+        "size": 30,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "wqy-microhei.ttc",
+        "size": 20,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "wqy-microhei.ttc",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#999999",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "wqy-microhei.ttc",
+        "size": 20,
+        "color": "#ffffff"
+    }
+}
