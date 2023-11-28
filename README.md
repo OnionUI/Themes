@@ -1580,7 +1580,7 @@ This section showcases theme remixes made by the community and approved by the o
 </a><br/>
 <sup><i>ZaxxonQ</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-11-28" href="https://github.com/OnionUI/Themes/commits/main/themes/AmalgaM by ZaxxonQ">2023-11-28</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ZaxxonQ%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AmalgaM%20by%20ZaxxonQ/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AmalgaM%20by%20ZaxxonQ/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AmalgaM%20by%20ZaxxonQ,AmalgaM%20by%20ZaxxonQ:themes/AmalgaM%20by%20ZaxxonQ/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-11-28" href="https://github.com/OnionUI/Themes/commits/main/themes/AmalgaM by ZaxxonQ">2023-11-28</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ZaxxonQ%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AmalgaM%20by%20ZaxxonQ/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AmalgaM%20by%20ZaxxonQ/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AmalgaM%20by%20ZaxxonQ,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -2471,19 +2471,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### AmalgaM by ZaxxonQ
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/fc.png" width="64px" title="fc"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/gb.png" width="64px" title="gb"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/gba.png" width="64px" title="gba"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/gbc.png" width="64px" title="gbc"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/md.png" width="64px" title="md"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/ms.png" width="64px" title="ms"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/ps.png" width="64px" title="ps"><img src="themes/AmalgaM%20by%20ZaxxonQ/icons/sfc.png" width="64px" title="sfc">
-
-[Download AmalgaM by ZaxxonQ (theme)](https://github.com/OnionUI/Themes/raw/main/release/AmalgaM%20by%20ZaxxonQ.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/AmalgaM%20by%20ZaxxonQ/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AmalgaM%20by%20ZaxxonQ,AmalgaM%20by%20ZaxxonQ:themes/AmalgaM%20by%20ZaxxonQ/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
 #### Super Onion Entertainment System Remix by TheDewd + Quack Walks
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/fc.png" width="64px" title="fc"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/gb.png" width="64px" title="gb"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/gba.png" width="64px" title="gba"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/gbc.png" width="64px" title="gbc"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/md.png" width="64px" title="md"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/ms.png" width="64px" title="ms"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/ps.png" width="64px" title="ps"><img src="themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/icons/sfc.png" width="64px" title="sfc">
@@ -2494,6 +2481,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Modern Dark by Amdy + Cheetashock
