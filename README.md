@@ -1752,7 +1752,7 @@ This section showcases the themes included with Onion.
 </a><br/>
 <sup><i>DiMo</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-07-25" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2023-07-25</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22DiMo%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20by%20DiMo/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+<sup><a title="Last updated: 2023-11-28" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky by DiMo">2023-11-28</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22DiMo%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20by%20DiMo/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 <td align="center" valign="top">
