@@ -1,0 +1,47 @@
+{
+    "name": "Sprite Buddies LucasArts",
+    "author": "ShrimpFandangle",
+    "description": "Sprites from your childhood on your Miyoo Mini",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "ONESIZE_.TTF",
+        "size": 11,
+        "color": "#FFFFFF",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "ONESR___.TTF",
+        "size": 36,
+        "color": "#fcc460"
+    },
+    "hint": {
+        "font": "ONESIZE_.TTF",
+        "size": 36,
+        "color": "#fcc460"
+    },
+    "currentpage": {
+        "color": "#fcc460"
+    },
+    "total": {
+        "color": "#fcc460"
+    },
+    "grid": {
+        "font": "ONESIZE_.TTF",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#fcc460",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "ONESIZE_.TTF",
+        "size": 28,
+        "color": "#fcc460"
+    }
+}

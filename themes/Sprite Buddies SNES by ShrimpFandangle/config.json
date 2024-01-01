@@ -1,0 +1,47 @@
+{
+    "name": "Sprite Buddies SNES",
+    "author": "ShrimpFandangle",
+    "description": "Sprites from your childhood on your Miyoo Mini",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "ManaspaceRegular-ZJwZ.ttf",
+        "size": 11,
+        "color": "#d8d8d8",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "TypefaceMarioWorldPixelOutlineRegular-MVzKp.ttf",
+        "size": 36,
+        "color": "#d8d8d8"
+    },
+    "hint": {
+        "font": "ManaspaceRegular-ZJwZ.ttf",
+        "size": 40,
+        "color": "#d8d8d8"
+    },
+    "currentpage": {
+        "color": "#d8d8d8"
+    },
+    "total": {
+        "color": "#d8d8d8"
+    },
+    "grid": {
+        "font": "ManaspaceRegular-ZJwZ.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#a9a9a9",
+        "selectedcolor": "#d8d8d8"
+    },
+    "list": {
+        "font": "ManaspaceRegular-ZJwZ.ttf",
+        "size": 28,
+        "color": "#d8d8d8"
+    }
+}

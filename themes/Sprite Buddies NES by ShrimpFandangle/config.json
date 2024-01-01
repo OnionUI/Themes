@@ -1,0 +1,47 @@
+{
+    "name": "Sprite Buddies NES",
+    "author": "ShrimpFandangle",
+    "description": "Sprites from your childhood on your Miyoo Mini",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "av05-logotype.ttf",
+        "size": 11,
+        "color": "#000000",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "av05-logotype.ttf",
+        "size": 40,
+        "color": "#c61717"
+    },
+    "hint": {
+        "font": "av05-logotype.ttf",
+        "size": 40,
+        "color": "#c61717"
+    },
+    "currentpage": {
+        "color": "#c61717"
+    },
+    "total": {
+        "color": "#c61717"
+    },
+    "grid": {
+        "font": "av05-logotype.ttf",
+        "grid1x4": 25,
+        "grid3x4": 25,
+        "color": "#c1c0c5",
+        "selectedcolor": "#c61717"
+    },
+    "list": {
+        "font": "av05-logotype.ttf",
+        "size": 28,
+        "color": "#c61717"
+    }
+}

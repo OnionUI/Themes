@@ -1,0 +1,1 @@
+Copy this folder to \App\EasyLogoTweak\logos
