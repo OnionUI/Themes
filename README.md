@@ -77,6 +77,40 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle.zip">
+<img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/preview.png" /><br/>
+<b>Sprite Buddies SNES</b>
+</a><br/>
+<sup><i>ShrimpFandangle</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-01-01" href="https://github.com/OnionUI/Themes/commits/main/themes/Sprite Buddies SNES by ShrimpFandangle">2024-01-01</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ShrimpFandangle%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Sprite%20Buddies%20SNES%20by%20ShrimpFandangle"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20SNES%20by%20ShrimpFandangle,Sprite%20Buddies%20SNES%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20NES%20by%20ShrimpFandangle.zip">
+<img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/preview.png" /><br/>
+<b>Sprite Buddies NES</b>
+</a><br/>
+<sup><i>ShrimpFandangle</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-01-01" href="https://github.com/OnionUI/Themes/commits/main/themes/Sprite Buddies NES by ShrimpFandangle">2024-01-01</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ShrimpFandangle%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Sprite%20Buddies%20NES%20by%20ShrimpFandangle"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20NES%20by%20ShrimpFandangle,Sprite%20Buddies%20NES%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle.zip">
+<img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/preview.png" /><br/>
+<b>Sprite Buddies LucasArts</b>
+</a><br/>
+<sup><i>ShrimpFandangle</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-01-01" href="https://github.com/OnionUI/Themes/commits/main/themes/Sprite Buddies LucasArts by ShrimpFandangle">2024-01-01</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ShrimpFandangle%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle,Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+</tr><tr>
+<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://github.com/OnionUI/Themes/raw/main/release/DS%20XS%20by%20UnBurn.zip">
 <img title="A single screen DS experience" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DS%20XS%20by%20UnBurn/preview.png" /><br/>
 <b>DS XS</b>
@@ -2075,6 +2109,43 @@ To install an icon pack you can either:
 
 <table align=center><tr>
 
+<td valign="top">
+
+#### Sprite Buddies SNES by ShrimpFandangle
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/fc.png" width="64px" title="fc"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/gb.png" width="64px" title="gb"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/gba.png" width="64px" title="gba"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/gbc.png" width="64px" title="gbc"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/md.png" width="64px" title="md"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/ms.png" width="64px" title="ms"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/ps.png" width="64px" title="ps"><img src="themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/sfc.png" width="64px" title="sfc">
+
+[Download Sprite Buddies SNES by ShrimpFandangle (theme)](https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle.zip)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20SNES%20by%20ShrimpFandangle,Sprite%20Buddies%20SNES%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
+#### Sprite Buddies NES by ShrimpFandangle
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/fc.png" width="64px" title="fc"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/gb.png" width="64px" title="gb"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/gba.png" width="64px" title="gba"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/gbc.png" width="64px" title="gbc"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/md.png" width="64px" title="md"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/ms.png" width="64px" title="ms"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/ps.png" width="64px" title="ps"><img src="themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/sfc.png" width="64px" title="sfc">
+
+[Download Sprite Buddies NES by ShrimpFandangle (theme)](https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20NES%20by%20ShrimpFandangle.zip)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20NES%20by%20ShrimpFandangle,Sprite%20Buddies%20NES%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
+#### Sprite Buddies LucasArts by ShrimpFandangle
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/fc.png" width="64px" title="fc"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/gb.png" width="64px" title="gb"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/gba.png" width="64px" title="gba"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/gbc.png" width="64px" title="gbc"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/md.png" width="64px" title="md"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/ms.png" width="64px" title="ms"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/ps.png" width="64px" title="ps"><img src="themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/sfc.png" width="64px" title="sfc">
+
+[Download Sprite Buddies LucasArts by ShrimpFandangle (theme)](https://github.com/OnionUI/Themes/raw/main/release/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle.zip)
+
+<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle,Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle:themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+</tr><tr>
 <td valign="top">
 
 #### PIXELPUNK by anthr_alxndr

@@ -130,3 +130,6 @@ Pad (4-pack) by toski
 M-NOIR by tenlevels
 PIXELPUNK by anthr_alxndr
 DS XS by UnBurn
+Sprite Buddies LucasArts by ShrimpFandangle
+Sprite Buddies NES by ShrimpFandangle
+Sprite Buddies SNES by ShrimpFandangle
