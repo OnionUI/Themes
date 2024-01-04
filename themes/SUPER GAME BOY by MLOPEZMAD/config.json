@@ -1,0 +1,44 @@
+{
+    "name": "SUPER GAME BOY",
+    "author": "MLOPEZMAD",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "size": 13,
+        "color": "#ded4dd",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetY": 21
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
+        "size": 40,
+        "color": "#dB2e51"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/xo-2-Bold-Italic_Universal.ttf",
+        "size": 35,
+        "color": "#ded4dd"
+    },
+    "currentpage": {
+        "color": "#ded4dd"
+    },
+    "total": {
+        "color": "#db2e51"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#ded4dd",
+        "selectedcolor": "#db2e51"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 25,
+        "color": "#ded4dd"
+    }
+}
