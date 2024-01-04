@@ -1,0 +1,42 @@
+{
+    "name": "vintage_aesthe",
+    "author": "uchebo_bro",
+    "description": "inspired retro window and vaporwave",
+    "batteryPercentage": {
+        "visible": false,
+        "onleft": false,
+        "color": "#fdfde4"
+    },
+    "title": {
+        "font": "NDS12.ttf",
+        "size": 20,
+        "color": "#fdfde4"
+    },
+    "hint": {
+        "font": "NDS12.ttf",
+        "size": 0,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#fdfde4"
+    },
+    "grid": {
+        "font": "NDS12.ttf",
+        "grid1x4": 0,
+        "grid3x4": 0,
+        "color": "#fdfde4",
+        "selectedcolor": "#fdfde4"
+    },
+    "list": {
+        "font": "NDS12.ttf",
+        "size": 20,
+        "color": "#fdfde4"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
