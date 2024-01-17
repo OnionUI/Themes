@@ -1,0 +1,44 @@
+{
+    "name": "NES",
+    "author": "MLOPEZMAD",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "size": 13,
+        "color": "#ded4dd",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetY": 21
+    },
+    "title": {
+        "font": "Pretendo.ttf",
+        "size": 35,
+        "color": "#ef0000"
+    },
+    "hint": {
+        "font": "NES-Logo.ttf",
+        "size": 30,
+        "color": "#ded4dd"
+    },
+    "currentpage": {
+        "color": "#ded4dd"
+    },
+    "total": {
+        "color": "#ef0000"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#ded4dd",
+        "selectedcolor": "#db2e51"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 25,
+        "color": "#ded4dd"
+    }
+}
