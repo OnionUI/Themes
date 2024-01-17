@@ -1,0 +1,47 @@
+{
+    "name": "Sonic Origins",
+    "author": "Sheezie",
+    "description": "Sonic the Hedgehog theme based on Sonic Origins",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Mark Pro Bold.otf",
+        "size": 18,
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "Mark Pro Bold.otf",
+        "size": 28,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Mark Pro Bold.otf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Mark Pro.otf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
