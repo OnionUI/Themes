@@ -1,0 +1,46 @@
+{
+  "name": "Wiiyoo",
+  "author": "UnBurn",
+  "description": "Wii would like to play with Miyoo",
+  "batteryPercentage": {
+    "visible": false,
+    "font": "YagiUhfNo2.otf",
+    "size": 25,
+    "color": "#8c8c8c",
+    "offsetX": 0,
+    "offsetY": 0,
+    "onleft": true
+  },
+  "hideLabels": {
+    "icons": true,
+    "hints": true
+  },
+  "title": {
+    "font": "YagiUhfNo2.otf",
+    "size": 26,
+    "color": "#8c8c8c"
+  },
+  "hint": {
+    "font": "YagiUhfNo2.otf",
+    "size": 26,
+    "color": "#8c8c8c"
+  },
+  "currentpage": {
+    "color": "#8c8c8c"
+  },
+  "total": {
+    "color": "#8c8c8c"
+  },
+  "grid": {
+    "font": "YagiUhfNo2.otf",
+    "grid1x4": 0,
+    "grid3x4": 25,
+    "color": "#8c8c8c",
+    "selectedcolor": "#8c8c8c"
+  },
+  "list": {
+    "font": "YagiUhfNo2.otf",
+    "size": 25,
+    "color": "#8c8c8c"
+  }
+}
