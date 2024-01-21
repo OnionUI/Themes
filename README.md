@@ -83,7 +83,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Myth + Solsta</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-01-21" href="https://github.com/OnionUI/Themes/commits/main/themes/Hallownest by Myth + Solsta">2024-01-21</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Myth%20%2B%20Solsta%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hallownest%20by%20Myth%20%2B%20Solsta/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Hallownest%20by%20Myth%20%2B%20Solsta/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hallownest%20by%20Myth%20%2B%20Solsta,Hallownest%20by%20Myth%20%2B%20Solsta:themes/Hallownest%20by%20Myth%20%2B%20Solsta/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-01-21" href="https://github.com/OnionUI/Themes/commits/main/themes/Hallownest by Myth + Solsta">2024-01-21</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Myth%20%2B%20Solsta%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hallownest%20by%20Myth%20%2B%20Solsta/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Hallownest%20by%20Myth%20%2B%20Solsta/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hallownest%20by%20Myth%20%2B%20Solsta,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -2179,18 +2179,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### Hallownest by Myth + Solsta
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-
-[Download Hallownest by Myth + Solsta (theme)](https://github.com/OnionUI/Themes/raw/main/release/Hallownest%20by%20Myth%20%2B%20Solsta.zip)
-
-<sub><sup>0/54 icons (0% complete)</sup> &nbsp;&nbsp; <a href="/themes/Hallownest%20by%20Myth%20%2B%20Solsta/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hallownest%20by%20Myth%20%2B%20Solsta,Hallownest%20by%20Myth%20%2B%20Solsta:themes/Hallownest%20by%20Myth%20%2B%20Solsta/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-<td valign="top">
-
 #### NES by MLOPEZMAD
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/NES%20by%20MLOPEZMAD/icons/fc.png" width="64px" title="fc"><img src="themes/NES%20by%20MLOPEZMAD/icons/gb.png" width="64px" title="gb"><img src="themes/NES%20by%20MLOPEZMAD/icons/gba.png" width="64px" title="gba"><img src="themes/NES%20by%20MLOPEZMAD/icons/gbc.png" width="64px" title="gbc"><img src="themes/NES%20by%20MLOPEZMAD/icons/md.png" width="64px" title="md"><img src="themes/NES%20by%20MLOPEZMAD/icons/ms.png" width="64px" title="ms"><img src="themes/NES%20by%20MLOPEZMAD/icons/ps.png" width="64px" title="ps"><img src="themes/NES%20by%20MLOPEZMAD/icons/sfc.png" width="64px" title="sfc">
@@ -2213,7 +2201,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### vintage_aesthe by uchebo_bro
@@ -2226,6 +2213,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### SUPER GAME BOY by MLOPEZMAD
@@ -2250,7 +2238,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### M-NOIR by tenlevels
@@ -2263,6 +2250,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Fake Pocket by Oclain
@@ -2287,7 +2275,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Neumorphism-White by bantam
@@ -2300,6 +2287,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Neumorphism-Yellow by bantam
@@ -2324,7 +2312,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### 2CleanMini by Sheezie
@@ -2337,6 +2324,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### RetroRama by TooGeekCreations
@@ -2361,7 +2349,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Wasteland by Bernig
@@ -2374,6 +2361,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Blank Space by ElectRefurbish
@@ -2398,7 +2386,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### OOSFC by ytdcpndsgn
@@ -2411,6 +2398,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Milk White by Segich
@@ -2435,7 +2423,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### TechDweeb by TechDweeb
@@ -2448,6 +2435,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Fake DMG Classic by Oclain
@@ -2472,7 +2460,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Onion Blocks Concurrent
@@ -2485,6 +2472,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### YoRHa by Deepslackerjazz
@@ -2509,7 +2497,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### minimO by AccomplishedSir
@@ -2522,6 +2509,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### TRON by tenlevels
@@ -2546,7 +2534,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Super Onion Entertainment System by TheDewd
@@ -2559,6 +2546,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch by Amdy
@@ -2583,7 +2571,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion by Aemiii91
@@ -2596,6 +2583,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Onionboy HD by Jeltron
@@ -2620,7 +2608,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Blueprint by Aemiii91
@@ -2633,6 +2620,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Super Onion Entertainment System Remix by TheDewd + Quack Walks
@@ -2657,7 +2645,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Milk Black by Segich + Nemi
