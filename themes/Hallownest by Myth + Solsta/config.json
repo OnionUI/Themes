@@ -1,0 +1,45 @@
+{
+    "name": "Hallownest",
+    "author": "Myth + Solsta",
+    "description": "Inspired by Hollow Night (Team Cherry)",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "size": 18,
+        "offsetX": 54,
+        "offsetY": 15,
+        "fixed": true
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "title": {
+        "font": "Trajan Pro Regular.ttf",
+        "size": 26,
+        "color": "#58B4CE"
+    },
+    "hint": {
+        "font": "Trajan Pro Regular.ttf",
+        "size": 25,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "Trajan Pro Regular.ttf",
+        "grid1x4": 19,
+        "grid3x4": 18,
+        "color": "#58B4CE",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "Trajan Pro Regular.ttf",
+        "size": 22,
+        "color": "#ffffff"
+    }
+}
