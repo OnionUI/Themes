@@ -1,0 +1,46 @@
+{
+    "name": "Classic TV",
+    "author": "RetroReef",
+    "description": "Classic Television inspired theme for Onion",
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "vcr-osd-mono.ttf",
+        "size": 18,
+        "color": "#757575",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 1,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#C5C3D1"
+    },
+    "grid": {
+        "font": "vcr-osd-mono.ttf",
+        "grid1x4": 22,
+        "grid3x4": 22,
+        "color": "#757575",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
