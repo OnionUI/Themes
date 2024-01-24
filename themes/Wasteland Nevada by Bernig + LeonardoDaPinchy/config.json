@@ -1,0 +1,46 @@
+{
+    "name": "Wasteland Nevada",
+    "author": "Bernig + LeonardoDaPinchy",
+    "description": "A Fallout inspired theme",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Fixedsys62.ttf",
+        "size": 32,
+        "color": "#e89b0c",
+        "offsetX": 7,
+        "offsetY": 2,
+        "onleft": false
+    },
+    "title": {
+        "font": "Fixedsys62.ttf",
+        "size": 32,
+        "color": "#e89b0c"
+    },
+    "hint": {
+        "font": "Fixedsys62.ttf",
+        "size": 24,
+        "color": "##e89b0c"
+    },
+    "currentpage": {
+        "color": "#e89b0c"
+    },
+    "total": {
+        "color": "#e89b0c"
+    },
+    "grid": {
+        "font": "Fixedsys62.ttf",
+        "grid1x4": 24,
+        "grid3x4": 20,
+        "color": "#e89b0c",
+        "selectedcolor": "#e89b0c"
+    },
+    "list": {
+        "font": "Fixedsys62.ttf",
+        "size": 24,
+        "color": "#e89b0c"
+    }
+}
