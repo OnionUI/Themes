@@ -1,0 +1,44 @@
+{
+    "name": "RETRONION",
+    "author": "MLOPEZMAD",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "size": 15,
+        "color": "#ffffff",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetY": 18
+    },
+    "title": {
+        "font": "Miami Beat.ttf",
+        "size": 50,
+        "color": "#f93d00"
+    },
+    "hint": {
+        "font": "Miami Beat.ttf",
+        "size": 39,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#fac320"
+    },
+    "total": {
+        "color": "#f93d00"
+    },
+    "grid": {
+        "font": "cyber-nova-cyber-nova-svg-400.otf",
+        "grid1x4": 22,
+        "grid3x4": 18,
+        "color": "#ffffff",
+        "selectedcolor": "#fac320"
+    },
+    "list": {
+        "font": "cyber-nova-cyber-nova-svg-400.otf",
+        "size": 23,
+        "color": "#ffffff"
+    }
+}
