@@ -1,0 +1,46 @@
+{
+    "name": "StarOnion64",
+    "author": "LeonardoDaPinchy",
+    "description": "A StarFox64 Theme",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "all-aircraft-report.ttf",
+        "size": 32,
+        "color": "#00A6FF",
+        "offsetX": 7,
+        "offsetY": 2,
+        "onleft": false
+    },
+    "title": {
+        "font": "all-aircraft-report.ttf",
+        "size": 32,
+        "color": "#00A6FF"
+    },
+    "hint": {
+        "font": "all-aircraft-report.ttf",
+        "size": 24,
+        "color": "#00A6FF"
+    },
+    "currentpage": {
+        "color": "#00A6FF"
+    },
+    "total": {
+        "color": "#00A6FF"
+    },
+    "grid": {
+        "font": "all-aircraft-report.ttf",
+        "grid1x4": 24,
+        "grid3x4": 20,
+        "color": "#00A6FF",
+        "selectedcolor": "#00A6FF"
+    },
+    "list": {
+        "font": "all-aircraft-report.ttf",
+        "size": 24,
+        "color": "#00A6FF"
+    }
+}
