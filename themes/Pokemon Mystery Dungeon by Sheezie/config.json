@@ -1,0 +1,47 @@
+{
+    "name": "Pokemon Mystery Dungeon",
+    "author": "Sheezie",
+    "description": "Pokemon theme based on Pokemon Mystery Dungeon DX",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "SecondaRound-Bold.ttf",
+        "size": 18,
+        "color": "#ffffff",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 15,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "SecondaRound-Bold.ttf",
+        "size": 16,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "SecondaRound-Regular.ttf",
+        "size": 16,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 16,
+        "grid3x4": 15,
+        "color": "#ffffff",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "SecondaRound-Regular.ttf",
+        "size": 18,
+        "color": "#ffffff"
+    }
+}
