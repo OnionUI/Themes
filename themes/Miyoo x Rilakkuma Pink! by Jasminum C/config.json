@@ -1,0 +1,41 @@
+{
+    "name": "Miyoo X Rilakkuma Pink!",
+    "author": "Jasminum C",
+    "description": "A lovely pink theme for Rilakkuma lovers",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#AAB2B4"
+    },
+    "title": {
+        "font": "Comfortaa-Bold.ttf",
+        "size": 30,
+        "color": "#FFB3CB"
+    },
+    "hint": {
+        "font": "Comfortaa-Light.ttf",
+        "size": 0,
+        "color": "#FFB3CB"
+    },
+    "currentpage": {
+        "color": "#FFB3CB"
+    },
+    "total": {
+        "color": "#FFB3CB"
+    },
+    "grid": {
+        "font": "Comfortaa-Bold.ttf",
+        "grid1x4": 23,
+        "grid3x4": 23,
+        "color": "#FFB3CB",
+        "selectedcolor": "#AAB2B4"
+    },
+    "list": {
+        "font": "Comfortaa-Light.ttf",
+        "size": 23,
+        "color": "#AAB2B4"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
