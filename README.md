@@ -2647,7 +2647,7 @@ To install an icon pack you can either:
 
 [Download NanoSwitch (2-pack) by Amdy (theme)](https://github.com/OnionUI/Themes/raw/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip)
 
-<sub><sup>44/54 icons (81% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>45/54 icons (83% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
