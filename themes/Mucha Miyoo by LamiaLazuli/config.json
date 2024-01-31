@@ -1,0 +1,32 @@
+{
+    "name": "Mucha Miyoo",
+    "author": "LamiaLazuli",
+    "title": {
+        "font": "SymphonyoftheNightfont.ttf",
+        "size": 26,
+        "color": "#251502"
+    },
+    "hint": {
+        "font": "SymphonyoftheNightfont.ttf",
+        "size": 34,
+        "color": "#251502"
+    },
+    "currentpage": {
+        "color": "#251502"
+    },
+    "total": {
+        "color": "#251502"
+    },
+    "grid": {
+        "font": "SymphonyoftheNightfont.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#8f8f8f",
+        "selectedcolor": "#F7E733"
+    },
+    "list": {
+        "font": "SymphonyoftheNightfont.ttf",
+        "size": 24,
+        "color": "#251502"
+    }
+}
