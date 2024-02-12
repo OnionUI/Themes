@@ -1,0 +1,46 @@
+{
+    "name": "CleanOnionGB",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Inter.ttf",
+        "size": 24,
+        "color": "#192e05",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "author": "KulhyCZ",
+    "description": "Clean",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "title": {
+        "font": "Inter.ttf",
+        "size": 28,
+        "color": "#192e05"
+    },
+    "hint": {
+        "font": "Inter.ttf",
+        "size": 24,
+        "color": "#192e05"
+    },
+    "currentpage": {
+        "color": "#192e05"
+    },
+    "total": {
+        "color": "#306230"
+    },
+    "grid": {
+        "font": "Inter-SemiBold.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#192e05",
+        "selectedcolor": "#192e05"
+    },
+    "list": {
+        "font": "Inter.ttf",
+        "size": 24,
+        "color": "#192e05"
+    }
+}
