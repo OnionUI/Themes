@@ -1,0 +1,40 @@
+{
+    "name": "Amethyst Light",
+    "author": "ponnex",
+    "description": "OnionOS minimalist light theme",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "offsetX": -10
+    },
+    "title": {
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#dddddd"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "Inter-Regular.ttf",
+        "grid1x4": 22,
+        "grid3x4": 20,
+        "color": "#7d4d82",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "color": "#dddddd"
+    }
+}
