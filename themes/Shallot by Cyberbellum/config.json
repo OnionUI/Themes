@@ -1,0 +1,38 @@
+{
+    "name": "Shallot",
+    "author": "Cyberbellum",
+    "description": "Minimalist theme, inspired by Aemiii91's Analogue theme.",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "Inter-Regular.ttf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Inter-Regular.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#8d8d92"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Inter-Regular.ttf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#8d8d92",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
