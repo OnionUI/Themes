@@ -1,0 +1,37 @@
+{
+    "name": "Silky Remix SUPER GAME BOY",
+    "author": "MLOPEZMAD",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ded4dd",
+        "onleft": true
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
+        "size": 25,
+        "color": "#ded4dd"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
+        "size": 40,
+        "color": "#ded4dd"
+    },
+    "currentpage": {
+        "color": "#ded4dd"
+    },
+    "total": {
+        "color": "#db2e51"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/Exo-2-Bold-Italic_Universal.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#ded4dd",
+        "selectedcolor": "#db2e51"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 25,
+        "color": "#ded4dd"
+    }
+}
