@@ -1,0 +1,38 @@
+{
+    "name": "Capcom SNK (Handheld Filter)",
+    "author": "Sheezie",
+    "description": "Capcom & SNK theme",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#e7e2ed",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "PF Videotext Pro Regular.ttf",
+        "size": 26,
+        "color": "#e7e2ed"
+    },
+    "hint": {
+        "font": "PF Videotext Pro Regular.ttf",
+        "size": 18,
+        "color": "#e7e2ed"
+    },
+    "currentpage": {
+        "color": "#e7e2ed"
+    },
+    "total": {
+        "color": "#e7e2ed"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#e7e2ed",
+        "selectedcolor": "#f0e000"
+    },
+    "list": {
+        "font": "PF Videotext Pro Regular.ttf",
+        "size": 24,
+        "color": "#e7e2ed"
+    }
+}
