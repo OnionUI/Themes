@@ -2215,7 +2215,7 @@ To install an icon pack you can either:
 
 [Download Onion PS Text Icons by hanessh4 (icon pack)](release/icons/Onion%20PS%20Text%20Icons%20by%20hanessh4.zip?raw=true)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
@@ -2617,7 +2617,7 @@ To install an icon pack you can either:
 
 [Download ONION PS (4-pack) by hanessh4 (theme)](https://github.com/OnionUI/Themes/raw/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
