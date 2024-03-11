@@ -1,0 +1,46 @@
+{
+    "name": "Dark Onion",
+    "author": "Alpatov Danila",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Exo2-Regular.ttf",
+        "size": 24,
+        "color": "white",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "description": "Unlike the Light Onion, that one is dark",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "title": {
+        "font": "Exo2-Regular.ttf",
+        "size": 22,
+        "color": "#DADDEA"
+    },
+    "hint": {
+        "font": "Exo2-Regular.ttf",
+        "size": 18,
+        "color": "#DADDEA"
+    },
+    "currentpage": {
+        "color": "#DADDEA"
+    },
+    "total": {
+        "color": "#DADDEA"
+    },
+    "grid": {
+        "font": "Exo2-Regular.ttf",
+        "grid1x4": 16,
+        "grid3x4": 24,
+        "color": "#495063",
+        "selectedcolor": "#DADDEA"
+    },
+    "list": {
+        "font": "Exo2-Regular.ttf",
+        "size": 22,
+        "color": "#DADDEA"
+    }
+}
