@@ -1,0 +1,43 @@
+{
+    "name": "win98",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "author": "kyhynngy_oyuur",
+    "frame": {
+        "border-left": 9,
+        "border-right": 9
+    },
+    "title": {
+        "font": "W95FA.otf",
+        "size": 30,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "W95FA.otf",
+        "size": 0,
+        "color": "#aaaaaa"
+    },
+    "currentpage": {
+        "color": "#aaaaaa"
+    },
+    "total": {
+        "color": "#aaaaaa"
+    },
+    "grid": {
+        "font": "W95FA.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#aaaaaa",
+        "selectedcolor": "#d9d9d9"
+    },
+    "list": {
+        "font": "W95FA.otf",
+        "size": 24,
+        "color": "#aaaaaa"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
