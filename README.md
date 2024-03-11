@@ -128,7 +128,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Cyberbellum</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-02-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Shallot by Cyberbellum">2024-02-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Cyberbellum%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Shallot%20by%20Cyberbellum/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Shallot%20by%20Cyberbellum,Shallot%20by%20Cyberbellum:themes/Shallot%20by%20Cyberbellum/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-02-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Shallot by Cyberbellum">2024-02-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Cyberbellum%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Shallot%20by%20Cyberbellum/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Shallot%20by%20Cyberbellum,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -2373,19 +2373,6 @@ To install an icon pack you can either:
 
 <td valign="top">
 
-#### Shallot by Cyberbellum
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Shallot%20by%20Cyberbellum/icons/fc.png" width="64px" title="fc"><img src="themes/Shallot%20by%20Cyberbellum/icons/gb.png" width="64px" title="gb"><img src="themes/Shallot%20by%20Cyberbellum/icons/gba.png" width="64px" title="gba"><img src="themes/Shallot%20by%20Cyberbellum/icons/gbc.png" width="64px" title="gbc"><img src="themes/Shallot%20by%20Cyberbellum/icons/md.png" width="64px" title="md"><img src="themes/Shallot%20by%20Cyberbellum/icons/ms.png" width="64px" title="ms"><img src="themes/Shallot%20by%20Cyberbellum/icons/ps.png" width="64px" title="ps"><img src="themes/Shallot%20by%20Cyberbellum/icons/sfc.png" width="64px" title="sfc">
-
-[Download Shallot by Cyberbellum (theme)](https://github.com/OnionUI/Themes/raw/main/release/Shallot%20by%20Cyberbellum.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/Shallot%20by%20Cyberbellum/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Shallot%20by%20Cyberbellum,Shallot%20by%20Cyberbellum:themes/Shallot%20by%20Cyberbellum/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-</td>
-
-</tr><tr>
-<td valign="top">
-
 #### Silky Remix SUPER GAME BOY by MLOPEZMAD
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/fc.png" width="64px" title="fc"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/gb.png" width="64px" title="gb"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/gba.png" width="64px" title="gba"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/gbc.png" width="64px" title="gbc"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/md.png" width="64px" title="md"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/ms.png" width="64px" title="ms"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/ps.png" width="64px" title="ps"><img src="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/sfc.png" width="64px" title="sfc">
@@ -2396,6 +2383,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Power Onions OS by LeonardoDaPinchy
@@ -2420,7 +2408,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Pokemon Mystery Dungeon by Sheezie
@@ -2433,6 +2420,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### StarOnion64 by LeonardoDaPinchy
@@ -2457,7 +2445,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Sonic Origins by Sheezie
@@ -2470,6 +2457,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### vintage_aesthe by uchebo_bro
@@ -2494,7 +2482,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### PIXELPUNK by anthr_alxndr
@@ -2507,6 +2494,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### M-NOIR by tenlevels
@@ -2531,7 +2519,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Neumorphism-Black by bantam
@@ -2544,6 +2531,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Neumorphism-White by bantam
@@ -2568,7 +2556,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NBA Onion by Tom Tower
@@ -2581,6 +2568,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### 2CleanMini by Sheezie
@@ -2605,7 +2593,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Blank Space Inverted by ElectRefurbish
@@ -2618,6 +2605,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Wasteland by Bernig
@@ -2642,7 +2630,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Notebook Kawaii by UnBurn
@@ -2655,6 +2642,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### OOSFC by ytdcpndsgn
@@ -2679,7 +2667,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### ONION PS Purple Grey by hanessh4
@@ -2692,6 +2679,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### TechDweeb by TechDweeb
@@ -2716,7 +2704,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### M by tenlevels
@@ -2729,6 +2716,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Onion Blocks Concurrent
@@ -2753,7 +2741,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NEON.ion by tenlevels
@@ -2766,6 +2753,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### minimO by AccomplishedSir
@@ -2790,7 +2778,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### PAC-MIYOO by tenlevels
@@ -2803,6 +2790,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Super Onion Entertainment System by TheDewd
@@ -2827,7 +2815,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion [Atomic] by Aemiii91
@@ -2840,6 +2827,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### CyberOnion by Aemiii91
@@ -2864,7 +2852,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Analogue by Aemiii91
@@ -2877,6 +2864,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Blueprint by Aemiii91
@@ -2901,7 +2889,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Super Onion Entertainment System Remix by TheDewd + Quack Walks
@@ -2914,6 +2901,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Modern Dark by Amdy + Cheetashock
