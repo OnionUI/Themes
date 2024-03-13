@@ -2945,7 +2945,7 @@ To install an icon pack you can either:
 
 [Download NanoSwitch Modern Dark by Amdy + Cheetashock (theme)](https://github.com/OnionUI/Themes/raw/main/release/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock.zip)
 
-<sub><sup>50/54 icons (93% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>51/54 icons (94% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
