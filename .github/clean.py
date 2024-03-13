@@ -64,7 +64,7 @@ def clean_unused_images(theme_dir, allow_system: bool = False):
             continue
 
         theme = os.path.basename(os.path.dirname(root))
-        trash_dir = os.path.join(root, ".trash")
+        trash_dir = ".trash"
         extra_dir = os.path.join(root, "extra")
 
         for file in files:
@@ -88,8 +88,12 @@ def clean_unused_images(theme_dir, allow_system: bool = False):
                     if not os.path.exists(extra_dir):
                         os.makedirs(extra_dir)
                     extra_count += 1
-                    shutil.move(file_path, extra_dir)
-                    print(f"extra: '{name}' ({theme})")
+                    try:
+                        shutil.move(file_path, extra_dir)
+                        print(f"extra: '{name}' ({theme})")
+                    except:
+                        os.remove(file_path)
+                        print(f"removed extra: '{name}' ({theme})")
                     continue
 
                 if not os.path.exists(trash_dir):

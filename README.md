@@ -88,13 +88,13 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </td>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://github.com/OnionUI/Themes/raw/main/release/AnalogPhosphor%20OG%20by%20trash.zip">
-<img title="Minimalist theme, inspired by Aemiii91's Analogue theme, Phosphor Icons" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20OG%20by%20trash/preview.png" /><br/>
-<b>AnalogPhosphor OG</b>
+<a href="https://github.com/OnionUI/Themes/raw/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
+<img title="AnalogPhosphor (3-pack) by trash" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
+<b>AnalogPhosphor (3-pack)</b>
 </a><br/>
 <sup><i>trash</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-03-11" href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor OG by trash">2024-03-11</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20OG%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20OG%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20OG%20by%20trash,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor (3-pack) by trash"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,AnalogPhosphor%20Alt%20by%20trash:themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons,AnalogPhosphorOG%20by%20trash:themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 <td align="center" valign="top">
@@ -2360,6 +2360,30 @@ To install an icon pack you can either:
 
 <td valign="top">
 
+#### AnalogPhosphor Alt by trash
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/fc.png" width="64px" title="fc"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/gb.png" width="64px" title="gb"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/gba.png" width="64px" title="gba"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/gbc.png" width="64px" title="gbc"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/md.png" width="64px" title="md"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/ms.png" width="64px" title="ms"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/ps.png" width="64px" title="ps"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons/sfc.png" width="64px" title="sfc">
+
+[Download AnalogPhosphor (3-pack) by trash (theme)](https://github.com/OnionUI/Themes/raw/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,AnalogPhosphor%20Alt%20by%20trash:themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
+#### AnalogPhosphorOG by trash
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/fc.png" width="64px" title="fc"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/gb.png" width="64px" title="gb"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/gba.png" width="64px" title="gba"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/gbc.png" width="64px" title="gbc"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/md.png" width="64px" title="md"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/ms.png" width="64px" title="ms"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/ps.png" width="64px" title="ps"><img src="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons/sfc.png" width="64px" title="sfc">
+
+[Download AnalogPhosphor (3-pack) by trash (theme)](https://github.com/OnionUI/Themes/raw/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip)
+
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,AnalogPhosphorOG%20by%20trash:themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphorOG%20by%20trash/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+
+</td>
+
+<td valign="top">
+
 #### Dark Onion by Alpatov Danila
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -2370,6 +2394,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Capcom SNK (Handheld Filter) by Sheezie
@@ -2394,7 +2419,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Power Onions OS by LeonardoDaPinchy
@@ -2407,6 +2431,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Mucha Miyoo by LamiaLazuli
@@ -2431,7 +2456,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### StarOnion64 by LeonardoDaPinchy
@@ -2444,6 +2468,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NES by MLOPEZMAD
@@ -2468,7 +2493,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### vintage_aesthe by uchebo_bro
@@ -2481,6 +2505,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### SUPER GAME BOY by MLOPEZMAD
@@ -2505,7 +2530,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### M-NOIR by tenlevels
@@ -2518,6 +2542,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Fake Pocket by Oclain
@@ -2542,7 +2567,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Neumorphism-White by bantam
@@ -2555,6 +2579,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Neumorphism-Yellow by bantam
@@ -2579,7 +2604,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### 2CleanMini by Sheezie
@@ -2592,6 +2616,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### RetroRama by TooGeekCreations
@@ -2616,7 +2641,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Wasteland by Bernig
@@ -2629,6 +2653,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Blank Space by ElectRefurbish
@@ -2653,7 +2678,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### OOSFC by ytdcpndsgn
@@ -2666,6 +2690,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Milk White by Segich
@@ -2690,7 +2715,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### TechDweeb by TechDweeb
@@ -2703,6 +2727,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Fake DMG Classic by Oclain
@@ -2727,7 +2752,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Onion Blocks Concurrent
@@ -2740,6 +2764,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### YoRHa by Deepslackerjazz
@@ -2764,7 +2789,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### minimO by AccomplishedSir
@@ -2777,6 +2801,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### TRON by tenlevels
@@ -2801,7 +2826,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Super Onion Entertainment System by TheDewd
@@ -2814,6 +2838,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### NanoSwitch by Amdy
@@ -2838,7 +2863,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### CyberOnion by Aemiii91
@@ -2851,6 +2875,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Onionboy HD by Jeltron
@@ -2875,7 +2900,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### Blueprint by Aemiii91
@@ -2888,6 +2912,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Wasteland Nevada by Bernig + LeonardoDaPinchy
@@ -2912,7 +2937,6 @@ To install an icon pack you can either:
 
 </td>
 
-</tr><tr>
 <td valign="top">
 
 #### NanoSwitch Modern Dark by Amdy + Cheetashock
@@ -2925,6 +2949,7 @@ To install an icon pack you can either:
 
 </td>
 
+</tr><tr>
 <td valign="top">
 
 #### Milk Black by Segich + Nemi

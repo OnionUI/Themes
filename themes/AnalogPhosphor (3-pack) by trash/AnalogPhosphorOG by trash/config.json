@@ -1,0 +1,38 @@
+{
+    "name": "AnalogPhosphor Tight",
+    "author": "trash",
+    "description": "Minimalist theme, inspired by Aemiii91's Analogue theme, Phosphor Icons",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "Inter-Regular.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Inter-Regular.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#8d8d92"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Inter-Regular.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#8d8d92",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "Inter-Regular.ttf",
+        "size": 20,
+        "color": "#FFFFFF"
+    }
+}
