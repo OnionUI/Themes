@@ -1,28 +1,41 @@
 {
-  "name": "Fairy-Type",
-  "hideIconTitle": false,
-  "batteryPercentage": { "visible": false, "onleft": true, "color": "#ffffff" },
-  "author": "UnBurn",
-  "description": "Super effective",
-  "title": { "size": 35, "color": "#ffffff" },
-  "hint": {
-    "size": 0,
-    "font": "Futura Condensed Extra Bold.otf",
-    "color": "#ffffff"
-  },
-  "currentpage": { "color": "#ffffff" },
-  "total": { "color": "#ffffff" },
-  "grid": {
-    "grid1x4": 30,
-    "grid3x4": 30,
-    "font": "Futura Condensed Extra Bold.otf",
-    "color": "#ffffff",
-    "selectedcolor": "#ffffff"
-  },
-  "list": {
-    "size": 25,
-    "font": "Futura Condensed Extra Bold.otf",
-    "color": "#ffffff"
-  },
-  "hideLabels": { "icons": false, "hints": false }
+    "name": "Fairy-Type",
+    "batteryPercentage": {
+        "visible": false,
+        "onleft": true,
+        "color": "#ffffff"
+    },
+    "author": "UnBurn",
+    "description": "Super effective",
+    "title": {
+        "size": 35,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "size": 0,
+        "font": "Futura Condensed Extra Bold.otf",
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "grid1x4": 30,
+        "grid3x4": 30,
+        "font": "Futura Condensed Extra Bold.otf",
+        "color": "#ffffff",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "size": 25,
+        "font": "Futura Condensed Extra Bold.otf",
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    }
 }
