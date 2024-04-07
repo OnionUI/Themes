@@ -3,7 +3,8 @@
     "author": "Jeltron + Smushi",
     "description": "Higher res variant of OnionBoy with some color too",
     "hideLabels": {
-        "icons": true
+        "icons": true,
+        "hints": true
     },
     "batteryPercentage": {
         "onleft": true,
