@@ -140,7 +140,7 @@ def generate_item(theme: str, index_icon_packs: bool) -> str:
         preview_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/themes/{urlencode(theme)}/preview.png"
     else:
         preview_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/{urlencode(theme_subdirs[0])}/preview.png"
-    release_url = f"https://github.com/OnionUI/Themes/raw/main/release/{urlencode(theme)}.zip"
+    release_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/release/{urlencode(theme)}.zip"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
     git_result = subprocess.run(
@@ -225,7 +225,7 @@ def generate_icon_pack_overview():
         icon_packs.append({
             "name": dir_name,
             "path": dir_path,
-            "release_url": f"{urlencode(release_url)}?raw=true",
+            "release_url": f"https://raw.githubusercontent.com/OnionUI/Themes/main/{urlencode(release_url)}",
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
