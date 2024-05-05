@@ -2357,7 +2357,7 @@ To install an icon pack you can either:
 
 [Download Dot-art by Yoshi-kun (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Dot-art%20by%20Yoshi-kun.zip)
 
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
 </td>
 
