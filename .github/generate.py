@@ -19,6 +19,8 @@ icons_blacklist = get_ordering(ICONS_BLACKLIST)
 themes_featured = []
 themes_icon_packs = []
 
+recently_updated = []
+
 
 def main():
     global themes_featured
@@ -88,10 +90,12 @@ def generate_index(counts: dict):
     
     for group_name, count in counts.items():
         text, link = HEADER_LINKS[group_name]
-        buffer += f"""
-### [{text} ({count})]({rel_path(link, ".")})
+        buffer += f"### [{text} ({count})]({rel_path(link, ".")})\n\n"
 
-"""
+    buffer += "\n\n<p>&nbsp;</p>\n\n## New or updated themes\n\n"
+    recently_updated.sort(key=lambda item: item["ts"], reverse=True)
+
+    buffer += apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(item["buffer"] for item in recently_updated[:MAX_RECENTS])})
 
     buffer += "<p>&nbsp;</p>\n\n---\n\n<p>&nbsp;</p>\n\n> *We've dialed down the front page, to lower the amount of consecutive image loads - this was causing severe throttling issues for non-users*"
     return buffer
@@ -211,8 +215,8 @@ def generate_item(theme: str) -> str:
     release_url = f"https://raw.githubusercontent.com/OnionUI/Themes/main/release/{urlencode(theme)}.zip"
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
-    last_updated = git_last_changed(dir_path)
-    last_updated = last_updated.strftime("%Y-%m-%d") if last_updated is not None else ""
+    last_changed_datetime = git_last_changed(dir_path)
+    last_updated = last_changed_datetime.strftime("%Y-%m-%d") if last_changed_datetime else ""
 
     bgm_path = from_src(f"../{theme_subdirs[0]}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
@@ -256,7 +260,12 @@ def generate_item(theme: str) -> str:
                     "preview_url": generate_icon_pack_url(theme, [subdir])
                 })
 
-    return apply_template(ITEM_TEMPLATE, item)
+    buffer = apply_template(ITEM_TEMPLATE, item)
+
+    if len(recently_updated) < MAX_RECENTS or any(last_changed_datetime > item["ts"] for item in recently_updated):
+        recently_updated.append({ "ts": last_changed_datetime, "buffer": buffer })
+
+    return buffer
 
 
 def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:

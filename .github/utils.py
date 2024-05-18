@@ -51,8 +51,6 @@ def git_last_changed(path: str) -> datetime:
     git_result = subprocess.run(["git", "log", "-1", "--pretty=%cI", path], stdout=subprocess.PIPE, check=True)
     datestr = git_result.stdout.decode('utf-8').strip()
     try:
-        if 'T' in datestr:
-            datestr = datestr.split("T")[0]
         return datetime.fromisoformat(datestr)
     except:
         return None

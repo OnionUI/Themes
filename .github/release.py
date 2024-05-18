@@ -111,13 +111,20 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
 
 
 def should_skip_build(src_path: str, zip_path: str) -> bool:
-    if os.path.exists(zip_path):
-        src_last_changed = git_last_changed(src_path)
-        zip_last_changed = git_last_changed(zip_path)
+    if not os.path.exists(zip_path):
+        return False
+    
+    src_last_changed = git_last_changed(src_path)
 
-        if src_last_changed is not None and zip_last_changed is not None and src_last_changed <= zip_last_changed:
-            return True
-    return False
+    if not src_last_changed:
+        return False
+
+    zip_last_changed = git_last_changed(zip_path)
+
+    if not zip_last_changed or src_last_changed.date() > zip_last_changed.date():
+        return False
+    
+    return True
 
 
 if __name__ == "__main__":
