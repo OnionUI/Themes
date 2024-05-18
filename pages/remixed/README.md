@@ -155,4 +155,4 @@
 
 <table align="center"><tr><td align="center" valign="top">
 
-**01**&nbsp;&nbsp;[02](README.p02.md)&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;🡆](README.p02.md)</td></tr></table>
+**01**&nbsp;&nbsp;[02](README.p02.md)&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶](README.p02.md)</td></tr></table>
