@@ -8,6 +8,7 @@ def rel_path(path: str, from_path: str) -> str:
 
 THEME_DIR = from_src("../themes")
 RELEASE_DIR = from_src("../release")
+RELEASE_ICONS_DIR = from_src("../release/icons")
 PAGES_DIR = from_src("../generated")
 TEMP_DIR = from_src("temp")
 

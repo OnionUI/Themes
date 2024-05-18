@@ -23,8 +23,8 @@ def main():
 
     themes = get_subdirs(THEME_DIR)
 
-    if not os.path.exists(RELEASE_DIR):
-        os.makedirs(RELEASE_DIR)
+    if not os.path.exists(RELEASE_ICONS_DIR):
+        os.makedirs(RELEASE_ICONS_DIR)
 
     featured = get_lines(FEATURED_ORDERING)
     remixed = get_lines(REMIXED_ORDERING)
@@ -67,7 +67,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
     if theme not in all_existing:
         custom.append(theme)
         
-    ensure_has_icon_preview(os.path.join(src_path, "icons"))
+    ensure_has_icon_preview(os.path.join(src_path, "icons"), force_mode=True)
 
     rel_index = len(src_path if has_subdirs else os.path.dirname(src_path)) + 1
 
@@ -88,7 +88,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
 
 def build_icon_pack(icon_pack, all_icons) -> bool:
     src_path = os.path.join("icons", icon_pack)
-    zip_path = os.path.join("release/icons", f"{icon_pack}.zip")
+    zip_path = os.path.join(RELEASE_ICONS_DIR, f"{icon_pack}.zip")
 
     if icon_pack not in all_icons:
         all_icons.append(icon_pack)
@@ -97,7 +97,7 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
         return False
 
     clean_unwanted_files(src_path)
-    ensure_has_icon_preview(src_path)
+    ensure_has_icon_preview(src_path, force_mode=True)
 
     rel_index = len(os.path.dirname(src_path)) + 1
 

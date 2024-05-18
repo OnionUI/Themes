@@ -113,18 +113,27 @@ def generate_preview_image(output_path: str, icon_paths: list[str], cols: int = 
     output.save(output_path)
 
 
-def ensure_has_icon_preview(icons_dir: str):
+def ensure_has_icon_preview(icons_dir: str, force_mode: bool = False):
     if not os.path.isdir(icons_dir):
         return
 
     preview_path = os.path.join(icons_dir, f"preview.png")
 
-    if not os.path.isfile(preview_path):
+    if not os.path.isfile(preview_path) or force_mode:
         print(f"Generating icon pack preview: {preview_path}")
-        icon_paths = [os.path.join(icons_dir, f"{icon}.png") for icon in PREVIEW_ICONS]
-        icon_paths_exist = [p for p in icon_paths if os.path.isfile(p)]
+        icon_paths = [find_icon(icons_dir, icon, try_selected=i == 2) for i, icon in enumerate(PREVIEW_ICONS)]
+        icon_paths_exist = [p for p in icon_paths if p]
 
         if len(icon_paths_exist) == 0:
             return
         
         generate_preview_image(preview_path, icon_paths_exist)
+
+
+def find_icon(icons_dir: str, icon: str, try_selected: bool):
+    if try_selected:
+        path = os.path.join(icons_dir, "sel", f"{icon}.png")
+        if os.path.isfile(path):
+            return path
+    path = os.path.join(icons_dir, f"{icon}.png")
+    return path if os.path.isfile(path) else None

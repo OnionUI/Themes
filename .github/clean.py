@@ -8,6 +8,7 @@ from numbers import Number
 
 from defs import THEME_DIR, from_src
 from schema import config_schema
+from generate_icons import ensure_has_icon_preview
 
 UNWANTED_FOLDERS = ["__MACOSX", "skin_640_480"]
 UNWANTED_FILES = ["Thumbs.db", ".DS_Store"]
@@ -154,6 +155,9 @@ def clean_configs(theme_dir):
 
         if not os.path.exists(config_path):
             continue
+
+        icons_path = os.path.join(os.path.dirname(root), "icons")
+        ensure_has_icon_preview(icons_path)
 
         with open(config_path, "r", encoding="utf-8") as fp:
             config = json.load(fp)
