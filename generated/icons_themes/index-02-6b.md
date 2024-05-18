@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 3 of 4 — 44 items available*
+*Page 4 of 5 — 53 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![ONION PS Purple Grey by hanessh4](../../themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#ONION%20PS%20Purple%20Grey%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons "Click to see the full icon pack preview page")
-
-**ONION PS Purple Grey by hanessh4**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip "ONION PS (4-pack) by hanessh4") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![TechDweeb by TechDweeb](../../themes/TechDweeb%20by%20TechDweeb/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons "Click to see the full icon pack preview page")
-
-**TechDweeb by TechDweeb**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/TechDweeb%20by%20TechDweeb.zip "TechDweeb by TechDweeb") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/TechDweeb%20by%20TechDweeb/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![Fake DMG Classic by Oclain](../../themes/Fake%20DMG%20Classic%20by%20Oclain/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Fake%20DMG%20Classic%20by%20Oclain,Fake%20DMG%20Classic%20by%20Oclain:themes/Fake%20DMG%20Classic%20by%20Oclain/icons "Click to see the full icon pack preview page")
-
-**Fake DMG Classic by Oclain**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20DMG%20Classic%20by%20Oclain.zip "Fake DMG Classic by Oclain") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -193,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -201,6 +168,39 @@
 **NanoSwitch by Amdy**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip "NanoSwitch (2-pack) by Amdy") <sub><sup>&nbsp;&nbsp; 83%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![CyberOnion [Atomic] by Aemiii91](../../themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%5BAtomic%5D%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**CyberOnion [Atomic] by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip "CyberOnion (2-pack) by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![CyberOnion by Aemiii91](../../themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#CyberOnion%20by%20Aemiii91,CyberOnion%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**CyberOnion by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip "CyberOnion (2-pack) by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![Onionboy HD by Jeltron](../../themes/Onionboy%20HD%20by%20Jeltron/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Onionboy%20HD%20by%20Jeltron,Onionboy%20HD%20by%20Jeltron:themes/Onionboy%20HD%20by%20Jeltron/icons "Click to see the full icon pack preview page")
+
+**Onionboy HD by Jeltron**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onionboy%20HD%20by%20Jeltron.zip "Onionboy HD by Jeltron") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 </td>
 
@@ -216,7 +216,7 @@
 
 </td><td align="center" valign="middle">
 
-[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-03-11.md) &nbsp;**3**&nbsp; [&nbsp;4&nbsp;](index-01-79.md)
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-04-d8.md) [&nbsp;3&nbsp;](index-03-11.md) &nbsp;**4**&nbsp; [&nbsp;5&nbsp;](index-01-79.md)
 
 </td><td>
 
