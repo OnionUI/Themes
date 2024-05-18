@@ -1,4 +1,10 @@
 import os
+from urllib.parse import quote as _quote
+import subprocess
+from datetime import datetime
+
+
+urlencode = lambda s: _quote(s, safe="/?&=_-")
 
 
 def get_subdirs(dir_path: str):
@@ -39,3 +45,8 @@ def set_ordering(file_path: str, ordering: list[str]):
 
 def dir_has_files(dir_path: str, files: list[str]):
     return all(os.path.exists(os.path.join(dir_path, file)) for file in files)
+
+def git_last_changed(path: str) -> datetime:
+    git_result = subprocess.run(["git", "log", "-1", "--pretty=%cI", path], stdout=subprocess.PIPE, check=True)
+    datestr = git_result.stdout.decode('utf-8').strip()
+    return datetime.fromisoformat(datestr).strftime("%Y-%m-%d") if datestr else None

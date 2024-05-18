@@ -4,18 +4,13 @@ import os
 import sys
 import zipfile
 
-from defs import (
-    THEME_DIR,
-    RELEASE_DIR,
-    FEATURED_ORDERING,
-    REMIXED_ORDERING,
-    CUSTOM_ORDERING,
-    ICONS_ORDERING)
+from defs import *
 
-from utils import get_subdirs, get_ordering, set_ordering
+from utils import get_subdirs, get_ordering, set_ordering, git_last_changed
 from validation import validate_theme
 from generate import main as generate_readme
 from clean import clean_all, clean_unwanted_files
+from generate_icons import ensure_has_icon_preview
 
 
 def main():
@@ -58,7 +53,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
     src_path = os.path.join(THEME_DIR, theme)
     zip_path = os.path.join(RELEASE_DIR, f"{theme}.zip")
 
-    if os.path.exists(zip_path):
+    if should_skip_build(src_path, zip_path):
         return False
 
     print(f"Building release: '{theme}'")
@@ -71,6 +66,8 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
 
     if theme not in all_existing:
         custom.append(theme)
+        
+    ensure_has_icon_preview(os.path.join(src_path, "icons"))
 
     rel_index = len(src_path if has_subdirs else os.path.dirname(src_path)) + 1
 
@@ -96,10 +93,11 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
     if icon_pack not in all_icons:
         all_icons.append(icon_pack)
 
-    if os.path.exists(zip_path):
+    if should_skip_build(src_path, zip_path):
         return False
 
     clean_unwanted_files(src_path)
+    ensure_has_icon_preview(src_path)
 
     rel_index = len(os.path.dirname(src_path)) + 1
 
@@ -110,6 +108,16 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
                 zf.write(file_path, file_path[rel_index:])
 
     return True
+
+
+def should_skip_build(src_path: str, zip_path: str) -> bool:
+    if os.path.exists(zip_path):
+        src_last_changed = git_last_changed(src_path)
+        zip_last_changed = git_last_changed(zip_path)
+
+        if src_last_changed <= zip_last_changed:
+            return True
+    return False
 
 
 if __name__ == "__main__":
