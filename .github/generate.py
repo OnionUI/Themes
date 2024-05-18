@@ -138,11 +138,13 @@ def generate_header_links(current_path: str, current_group: str = None):
 def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer = ""
 
-    buffer += """---\n\n<table align="center"><tr><td align="center" valign="top">\n\n"""
+    buffer += """---\n\n<table align="center"><tr>"""
 
     if current_page > 0:
-        buffer += f"[◀&nbsp;PREV&nbsp;PAGE]({format_page_filename(current_page - 1)})&nbsp;&nbsp;| &nbsp;"
+        buffer += f"""<td align="right">\n\n[◀&nbsp;PREV PAGE]({format_page_filename(current_page - 1)})\n\n</td>"""
 
+    buffer += """<td align="center">\n\n"""
+    
     for page in range(num_pages):        
         if page == current_page:
             buffer += f"**{page + 1:02}**"
@@ -151,10 +153,12 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
         if page < num_pages - 1:
             buffer += " &nbsp;"
 
+    buffer += "\n\n</td>"
+    
     if current_page < num_pages - 1:
-        buffer += f"&nbsp; |&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶]({format_page_filename(current_page + 1)})"
+        buffer += f"<td>\n\n[NEXT PAGE&nbsp;▶]({format_page_filename(current_page + 1)})\n\n</td>"
 
-    buffer += """</td></tr></table>"""
+    buffer += "</tr></table>"
 
     return buffer
 
