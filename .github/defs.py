@@ -53,18 +53,22 @@ _pages = {
 }
 
 HEADER_LINKS = {
+    "index": ["Index", README_PATH],
     **{name: [text.replace(" ", NB_SPACE), os.path.join(PAGES_DIR, name, "index.md")] for name, text in _pages.items()},
     "contributing": ["Contributing", from_src("../CONTRIBUTING.md")]
 }
 
 PAGE_SIZE = 12
 THEMES_COLS = 3
-ICONS_COLS = 3
+ICONS_COLS = 4
 
 MAX_RECENTS = 3
 
-COLUMN_WIDTH = 46
-COLUMN_SPANNER = NB_SPACE * COLUMN_WIDTH
+THEMES_COLUMN_WIDTH = 46
+ICONS_COLUMN_WIDTH = 64
+
+THEMES_COLUMN_SPANNER = NB_SPACE * THEMES_COLUMN_WIDTH
+ICONS_COLUMN_SPANNER = NB_SPACE * ICONS_COLUMN_WIDTH
 
 WARN_GENERATED_FILE = f"""<!--{'\n' * 20}
 =================================================================================

@@ -52,8 +52,8 @@ def main():
     write_pages(themes_custom, "custom", "Custom Themes", generate_table_grid)
     write_pages(themes_remixed, "remixed", "Remixed Themes", generate_table_grid)
     
-    write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table, page_size=9)
-    write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table, page_size=9)
+    write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table)
+    write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table)
 
     write_file(README_PATH, generate_index({
         "custom": len(themes_custom),
@@ -82,7 +82,7 @@ def format_page_filename(page: int) -> str:
 
 def generate_index(counts: dict):
     return apply_template(INDEX_TEMPLATE, {
-        "HEADER": apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".") }),
+        "HEADER": apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".", current_group="index") }),
         "INDEX": generate_index_list(counts),
         "THEMES_NEW": generate_recents_grid(recently_added),
         "THEMES_RECENTS": generate_recents_grid(recently_updated)
@@ -150,22 +150,23 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
 
 def generate_page_links(current_page: int, num_pages: int) -> str:
     if num_pages <= 9:
-        return LB_SPACER.join(generate_page_link(page, current_page) for page in range(num_pages))
+        return generate_page_link_range(range(num_pages), current_page)
     
     last_page = num_pages - 1
     cutoff = 5
     half_cut = math.floor(cutoff / 2)
+    ellipsis = "&hellip;"
 
     is_low = current_page < cutoff
     is_high = current_page > last_page - cutoff
     
     buffer = ""
-    buffer += generate_page_link(0, current_page) + LB_SPACER
-    buffer += generate_page_link_range(range(1, cutoff + 2), current_page) if is_low else "&hellip;"
-    buffer += LB_SPACER if is_low or is_high \
+    buffer += generate_page_link(0, current_page) + " "
+    buffer += generate_page_link_range(range(1, cutoff + 2), current_page) if is_low else ellipsis
+    buffer += " " if is_low or is_high \
         else LB_SPACER + generate_page_link_range(range(current_page - half_cut, current_page + half_cut + 1), current_page) + LB_SPACER
-    buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page) if is_high else "&hellip;"
-    buffer += LB_SPACER + generate_page_link(last_page, current_page)
+    buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page) if is_high else ellipsis
+    buffer += " " + generate_page_link(last_page, current_page)
     return buffer
 
 
@@ -259,7 +260,7 @@ def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
         "HISTORY_URL": history_url,
-        "COLUMN_SPANNER": COLUMN_SPANNER if index < THEMES_COLS else ""
+        "COLUMN_SPANNER": THEMES_COLUMN_SPANNER if index < THEMES_COLS else ""
     }
 
     if collect_data:

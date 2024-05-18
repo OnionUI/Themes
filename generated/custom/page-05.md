@@ -60,7 +60,7 @@
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; [Index](../../README.md) &nbsp;• &nbsp;**Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
@@ -228,7 +228,7 @@
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) &nbsp;[&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md) &nbsp;**5**&nbsp; [&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &nbsp;&hellip; &nbsp;[&nbsp;13&nbsp;](page-13.md)
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md) &nbsp;**5**&nbsp; [&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &hellip; [&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 

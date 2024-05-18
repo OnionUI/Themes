@@ -85,7 +85,7 @@ def generate_icon_pack_entry(current_path: str, name, path, release_url, preview
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
     output += f"<sub><sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete)</sup> &nbsp;&nbsp; {readme}<a href=\"{preview_url}\">{PREVIEW_ICON}</a></sub>"
 
-    output += f"\n\n{COLUMN_SPANNER if index < ICONS_COLS else ''}<br/></td>\n\n"
+    output += f"\n\n{ICONS_COLUMN_SPANNER if index < ICONS_COLS else ''}<br/></td>\n\n"
 
     return output
 
