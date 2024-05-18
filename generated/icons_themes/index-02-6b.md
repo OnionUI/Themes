@@ -212,14 +212,14 @@
 
 <table align="center"><tr><td align="right">
 
-[❮&nbsp;&nbsp;PREV](page-02.md)
+[❮&nbsp;&nbsp;PREV](index-03-11.md)
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](page-02.md) &nbsp;**3**&nbsp; [&nbsp;4&nbsp;](page-04.md)
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-03-11.md) &nbsp;**3**&nbsp; [&nbsp;4&nbsp;](index-01-79.md)
 
 </td><td>
 
-[NEXT&nbsp;&nbsp;❯](page-04.md)
+[NEXT&nbsp;&nbsp;❯](index-01-79.md)
 
 </td></tr></table>

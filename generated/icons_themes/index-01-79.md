@@ -156,10 +156,10 @@
 
 <table align="center"><tr><td align="right">
 
-[❮&nbsp;&nbsp;PREV](page-03.md)
+[❮&nbsp;&nbsp;PREV](index-02-6b.md)
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) &nbsp;**4**&nbsp;
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-03-11.md) [&nbsp;3&nbsp;](index-02-6b.md) &nbsp;**4**&nbsp;
 
 </td></tr></table>

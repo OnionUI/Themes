@@ -212,14 +212,14 @@
 
 <table align="center"><tr><td align="right">
 
-[❮&nbsp;&nbsp;PREV](page-03.md)
+[❮&nbsp;&nbsp;PREV](index-11-8c.md)
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) &nbsp;**4**&nbsp; [&nbsp;5&nbsp;](page-05.md) [&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &hellip;&nbsp;[&nbsp;13&nbsp;](page-13.md)
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-12-ca.md) [&nbsp;3&nbsp;](index-11-8c.md) &nbsp;**4**&nbsp; [&nbsp;5&nbsp;](index-09-9d.md) [&nbsp;6&nbsp;](index-08-bc.md) [&nbsp;7&nbsp;](index-07-fc.md) &hellip;&nbsp;[&nbsp;13&nbsp;](index-01-79.md)
 
 </td><td>
 
-[NEXT&nbsp;&nbsp;❯](page-05.md)
+[NEXT&nbsp;&nbsp;❯](index-09-9d.md)
 
 </td></tr></table>

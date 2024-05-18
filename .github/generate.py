@@ -3,6 +3,8 @@
 import os
 import json
 import math
+import hashlib
+import shutil
 from typing import Callable
 from tqdm import tqdm
 
@@ -28,6 +30,8 @@ def main():
     if not os.path.exists(RELEASE_DIR):
         print("No themes released")
         return
+    
+    shutil.rmtree(PAGES_DIR)
 
     print("Generating READMEs...")
 
@@ -75,8 +79,10 @@ def apply_template(path: str, data: dict) -> str:
     return template.substitute(data) + "\n"
 
 
-def format_page_filename(page: int) -> str:
-    return "index.md" if page == 0 else f"page-{page+1:02}.md"
+def format_page_filename(page: int, num_pages: int) -> str:
+    prefix = f"{num_pages - page:02}"
+    page_hash = hashlib.shake_128(prefix.encode("utf-8")).hexdigest(2)
+    return "index.md" if page == 0 else f"index-{prefix}-{page_hash[:2]}.md"
 
 
 def generate_index(counts: dict):
@@ -109,7 +115,7 @@ def write_pages(items: list, group_name: str, item_grid_generator: Callable[[lis
     num_pages = math.ceil(total / page_size)
 
     for page in tqdm(range(num_pages), desc=PAGE_TITLES[group_name]):
-        current_path = os.path.join(workdir, format_page_filename(page))
+        current_path = os.path.join(workdir, format_page_filename(page, num_pages))
 
         index = page * page_size
         batch = items[index  : index + page_size]
@@ -139,17 +145,17 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer = ""
     buffer += """---\n\n<table align="center"><tr>"""
     if current_page > 0:
-        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV]({format_page_filename(current_page - 1)})\n\n</td>"""
+        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV]({format_page_filename(current_page - 1, num_pages)})\n\n</td>"""
     buffer += f"""<td align="center">\n\n{generate_page_links(current_page, num_pages)}\n\n</td>"""
     if current_page < num_pages - 1:
-        buffer += f"<td>\n\n[NEXT{NB_SPACER}❯]({format_page_filename(current_page + 1)})\n\n</td>"
+        buffer += f"<td>\n\n[NEXT{NB_SPACER}❯]({format_page_filename(current_page + 1, num_pages)})\n\n</td>"
     buffer += "</tr></table>"
     return buffer
 
 
 def generate_page_links(current_page: int, num_pages: int) -> str:
     if num_pages <= 9:
-        return generate_page_link_range(range(num_pages), current_page)
+        return generate_page_link_range(range(num_pages), current_page, num_pages)
     
     last_page = num_pages - 1
     cutoff = 5
@@ -160,21 +166,21 @@ def generate_page_links(current_page: int, num_pages: int) -> str:
     is_high = current_page > last_page - cutoff
     
     buffer = ""
-    buffer += generate_page_link(0, current_page)
-    buffer += " " + generate_page_link_range(range(1, cutoff + 2), current_page) if is_low else NB_SPACE + ellipsis
+    buffer += generate_page_link(0, current_page, num_pages)
+    buffer += " " + generate_page_link_range(range(1, cutoff + 2), current_page, num_pages) if is_low else NB_SPACE + ellipsis
     buffer += " " if is_low or is_high \
-        else LB_SPACER + generate_page_link_range(range(current_page - half_cut, current_page + half_cut + 1), current_page) + " "
-    buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page) + " " if is_high else ellipsis + NB_SPACE
-    buffer += generate_page_link(last_page, current_page)
+        else LB_SPACER + generate_page_link_range(range(current_page - half_cut, current_page + half_cut + 1), current_page, num_pages) + " "
+    buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page, num_pages) + " " if is_high else ellipsis + NB_SPACE
+    buffer += generate_page_link(last_page, current_page, num_pages)
     return buffer
 
 
-def generate_page_link_range(rng: range, current_page: int) -> str:
-    return " ".join(generate_page_link(page, current_page) for page in rng)
+def generate_page_link_range(rng: range, current_page: int, num_pages: int) -> str:
+    return " ".join(generate_page_link(page, current_page, num_pages) for page in rng)
 
 
-def generate_page_link(page: int, current_page: int) -> str:
-    return f"{NB_SPACE}**{page + 1}**{NB_SPACE}" if page == current_page else f"[{NB_SPACE}{page + 1}{NB_SPACE}]({format_page_filename(page)})"
+def generate_page_link(page: int, current_page: int, num_pages: int) -> str:
+    return f"{NB_SPACE}**{page + 1}**{NB_SPACE}" if page == current_page else f"[{NB_SPACE}{page + 1}{NB_SPACE}]({format_page_filename(page, num_pages)})"
 
 
 def generate_table_grid(themes) -> str:

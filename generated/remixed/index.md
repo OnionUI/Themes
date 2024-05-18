@@ -212,10 +212,10 @@
 
 <table align="center"><tr><td align="center">
 
-&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](page-02.md)
+&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-01-79.md)
 
 </td><td>
 
-[NEXT&nbsp;&nbsp;❯](page-02.md)
+[NEXT&nbsp;&nbsp;❯](index-01-79.md)
 
 </td></tr></table>
