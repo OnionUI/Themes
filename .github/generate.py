@@ -163,18 +163,18 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     return buffer
 
 
-def generate_table_grid(themes, cols: int = THEMES_COLS) -> str:
+def generate_table_grid(themes) -> str:
     buffer = ""
 
     for i, theme in enumerate(themes):
-        if i > 0 and i % cols == 0:
+        if i > 0 and i % THEMES_COLS == 0:
             buffer += "</tr><tr>\n"
-        buffer += generate_item(theme)
+        buffer += generate_item(theme, i)
 
     return apply_template(GRID_TEMPLATE, {"GRID_ITEMS": buffer})
 
 
-def generate_item(theme: str) -> str:
+def generate_item(theme: str, index: int = 0) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
     is_valid, has_subdirs = validate_theme(dir_path)
 
@@ -243,7 +243,8 @@ def generate_item(theme: str) -> str:
         "UPDATED": last_updated,
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
-        "HISTORY_URL": history_url
+        "HISTORY_URL": history_url,
+        "COLUMN_SPANNER": COLUMN_SPANNER if index < THEMES_COLS else ""
     }
 
     if has_icon_pack:
