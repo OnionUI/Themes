@@ -1,0 +1,47 @@
+{
+    "name": "PocketFighterMini",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "PocketFighterMini.ttf",
+        "size": 16,
+        "color": "#f2d369",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "author": "nGlory",
+    "description": "PocketFighterMini",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "PocketFighterMini.ttf",
+        "size": 26,
+        "color": "#e66a5a"
+    },
+    "hint": {
+        "font": "PocketFighterMini.ttf",
+        "size": 16,
+        "color": "#89d2f3"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "PocketFighterMini.ttf",
+        "grid1x4": 16,
+        "grid3x4": 16,
+        "color": "#63aaad",
+        "selectedcolor": "#f2d355"
+    },
+    "list": {
+        "font": "PocketFighterMini.ttf",
+        "size": 16,
+        "color": "#f2d355"
+    }
+}
