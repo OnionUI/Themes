@@ -108,12 +108,12 @@
 
 ---
 
-<table align="center"><tr><td align="right" valign="middle">
+<table align="center"><tr><td align="right">
 
 [![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index.md)
 
-</td><td align="center" valign="middle"><sup>
+</td><td align="center" valign="middle">
 
 [&nbsp;1&nbsp;](index.md) &nbsp;**2**&nbsp;
 
-</sup></td></tr></table>
+</td></tr></table>

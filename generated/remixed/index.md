@@ -210,11 +210,11 @@
 
 ---
 
-<table align="center"><tr><td align="center" valign="middle"><sup>
+<table align="center"><tr><td align="center" valign="middle">
 
 &nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-01-79.md)
 
-</sup></td><td valign="middle">
+</td><td>
 
 [![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-01-79.md)
 

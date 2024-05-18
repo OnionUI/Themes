@@ -210,15 +210,15 @@
 
 ---
 
-<table align="center"><tr><td align="right" valign="middle">
+<table align="center"><tr><td align="right">
 
 [![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index-12-ca.md)
 
-</td><td align="center" valign="middle"><sup>
+</td><td align="center" valign="middle">
 
 [&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-12-ca.md) &nbsp;**3**&nbsp; [&nbsp;4&nbsp;](index-10-be.md) [&nbsp;5&nbsp;](index-09-9d.md) [&nbsp;6&nbsp;](index-08-bc.md) [&nbsp;7&nbsp;](index-07-fc.md) &hellip;&nbsp;[&nbsp;13&nbsp;](index-01-79.md)
 
-</sup></td><td valign="middle">
+</td><td>
 
 [![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-10-be.md)
 
