@@ -46,7 +46,10 @@ def set_ordering(file_path: str, ordering: list[str]):
 def dir_has_files(dir_path: str, files: list[str]):
     return all(os.path.exists(os.path.join(dir_path, file)) for file in files)
 
+
 def git_last_changed(path: str) -> datetime:
     git_result = subprocess.run(["git", "log", "-1", "--pretty=%cI", path], stdout=subprocess.PIPE, check=True)
     datestr = git_result.stdout.decode('utf-8').strip()
+    if 'T' in datestr:
+        datestr = datestr.split("T")[0]
     return datetime.fromisoformat(datestr).strftime("%Y-%m-%d") if datestr else None
