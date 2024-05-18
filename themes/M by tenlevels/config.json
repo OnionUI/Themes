@@ -6,7 +6,11 @@
         "visible": false,
         "color": "#848484",
         "font": "Gravity-Regular-CAPS.otf",
-        "size": 24
+        "size": 18,
+        "textAlign": "right",
+        "offsetX": -10,
+        "offsetY": 0,
+        "fixed": true
     },
     "title": {
         "font": "Gravity-Regular-CAPS.otf",

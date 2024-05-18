@@ -1,0 +1,43 @@
+{
+    "name": "Star Wars (Miyoo Be With You)",
+    "author": "tenlevels",
+    "description": "Star Wars inspired theme for May 4th",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#dadada",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 18,
+        "textAlign": "right",
+        "offsetX": 0,
+        "offsetY": 0,
+        "fixed": true
+    },
+    "title": {
+        "font": "Starjedi.ttf",
+        "size": 28,
+        "color": "#FFD600"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 20,
+        "color": "#dadada"
+    },
+    "currentpage": {
+        "color": "#b8b8b8"
+    },
+    "total": {
+        "color": "#b8b8b8"
+    },
+    "grid": {
+        "font": "Starjedi.ttf",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#646464",
+        "selectedcolor": "#dadada"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 20,
+        "color": "#dadada"
+    }
+}

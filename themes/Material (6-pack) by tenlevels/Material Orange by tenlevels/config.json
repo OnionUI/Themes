@@ -1,0 +1,39 @@
+{
+    "name": "Material Orange",
+    "author": "tenlevels",
+    "description": "Minimal theme that hides the icons and exposes them with circles.",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#848484",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 18
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#545454"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 19,
+        "color": "#dddddd"
+    },
+    "currentpage": {
+        "color": "#848484"
+    },
+    "total": {
+        "color": "#848484"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
+        "grid1x4": 19,
+        "grid3x4": 19,
+        "color": "#545454",
+        "selectedcolor": "#d0d0d0"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 19,
+        "color": "#d0d0d0"
+    }
+}

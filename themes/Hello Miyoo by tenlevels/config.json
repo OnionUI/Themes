@@ -1,0 +1,39 @@
+{
+    "name": "Hello Miyoo",
+    "author": "tenlevels",
+    "description": "Cute/Cozy Sanrio inspired theme",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#E5E5E5",
+        "font": "Boldins.ttf",
+        "size": 24
+    },
+    "title": {
+        "font": "Boldins.ttf",
+        "size": 32,
+        "color": "#E5E5E5"
+    },
+    "hint": {
+        "font": "Boldins.ttf",
+        "size": 24,
+        "color": "#E5E5E5"
+    },
+    "currentpage": {
+        "color": "#E5E5E5"
+    },
+    "total": {
+        "color": "#E5E5E5"
+    },
+    "grid": {
+        "font": "Boldins.ttf",
+        "grid1x4": 28,
+        "grid3x4": 28,
+        "color": "#815A64",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}
