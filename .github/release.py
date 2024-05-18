@@ -67,7 +67,7 @@ def build_release(theme: str, custom: list[str], all_existing: list[str]):
     if theme not in all_existing:
         custom.append(theme)
         
-    ensure_has_icon_preview(os.path.join(src_path, "icons"), force_mode=True)
+    ensure_has_icon_preview(os.path.join(src_path, "icons"))
 
     rel_index = len(src_path if has_subdirs else os.path.dirname(src_path)) + 1
 
@@ -97,7 +97,7 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
         return False
 
     clean_unwanted_files(src_path)
-    ensure_has_icon_preview(src_path, force_mode=True)
+    ensure_has_icon_preview(src_path)
 
     rel_index = len(os.path.dirname(src_path)) + 1
 
