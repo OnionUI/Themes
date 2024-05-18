@@ -71,7 +71,7 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (159)](generated/custom/index.md)
+### [Originals — Custom Made Themes (160)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
@@ -90,6 +90,19 @@
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PocketFighterMini%20by%20nGlory.zip">
+<img title="Name: PocketFighterMini&#013;Author: nGlory&#013;Last updated: 2024-05-19&#013;Description: PocketFighterMini&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PocketFighterMini%20by%20nGlory/preview.png" /><br/>
+<b>PocketFighterMini</b>
+</a><br/>
+<sup><i>nGlory</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/PocketFighterMini by nGlory">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22nGlory%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PocketFighterMini%20by%20nGlory/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/PocketFighterMini%20by%20nGlory/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#PocketFighterMini%20by%20nGlory,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
+
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SNES%20by%20Danilo%20Colasso.zip">
 <img title="Name: Def not SNES&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A SNES theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SNES%20by%20Danilo%20Colasso/preview.png" /><br/>
@@ -111,19 +124,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>Danilo Colasso</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso.zip">
-<img title="Name: Def not SFC - Dark&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A Dark SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png" /><br/>
-<b>Def not SFC - Dark</b>
-</a><br/>
-<sup><i>Danilo Colasso</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC - Dark by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
 
