@@ -112,8 +112,8 @@
 
 [![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index.md)
 
-</td><td align="center" valign="middle">
+</td><td align="center" valign="middle"><sup>
 
 [&nbsp;1&nbsp;](index.md) &nbsp;**2**&nbsp;
 
-</td></tr></table>
+</sup></td></tr></table>

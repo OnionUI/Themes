@@ -214,11 +214,11 @@
 
 [![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index.md)
 
-</td><td align="center" valign="middle">
+</td><td align="center" valign="middle"><sup>
 
 [&nbsp;1&nbsp;](index.md) &nbsp;**2**&nbsp; [&nbsp;3&nbsp;](index-02-6b.md) [&nbsp;4&nbsp;](index-01-79.md)
 
-</td><td valign="middle">
+</sup></td><td valign="middle">
 
 [![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-02-6b.md)
 

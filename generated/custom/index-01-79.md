@@ -214,8 +214,8 @@
 
 [![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index-02-6b.md)
 
-</td><td align="center" valign="middle">
+</td><td align="center" valign="middle"><sup>
 
 [&nbsp;1&nbsp;](index.md)&nbsp;&hellip; [&nbsp;7&nbsp;](index-07-fc.md) [&nbsp;8&nbsp;](index-06-21.md) [&nbsp;9&nbsp;](index-05-2a.md) [&nbsp;10&nbsp;](index-04-d8.md) [&nbsp;11&nbsp;](index-03-11.md) [&nbsp;12&nbsp;](index-02-6b.md) &nbsp;**13**&nbsp;
 
-</td></tr></table>
+</sup></td></tr></table>
