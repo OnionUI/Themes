@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 
-# <a href="/README.md"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px"></a>
+# <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
 *The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](../custom/README.md) &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/README.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/README.md) &nbsp;•&nbsp; **Standalone&nbsp;Icon&nbsp;Packs** &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
 
