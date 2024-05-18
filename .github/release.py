@@ -6,7 +6,7 @@ import zipfile
 
 from defs import *
 
-from utils import get_subdirs, get_ordering, set_ordering, git_last_changed
+from utils import get_subdirs, get_lines, set_ordering, git_last_changed
 from validation import validate_theme
 from generate import main as generate_readme
 from clean import clean_all, clean_unwanted_files
@@ -26,12 +26,12 @@ def main():
     if not os.path.exists(RELEASE_DIR):
         os.makedirs(RELEASE_DIR)
 
-    featured = get_ordering(FEATURED_ORDERING)
-    remixed = get_ordering(REMIXED_ORDERING)
-    custom = get_ordering(CUSTOM_ORDERING)
+    featured = get_lines(FEATURED_ORDERING)
+    remixed = get_lines(REMIXED_ORDERING)
+    custom = get_lines(CUSTOM_ORDERING)
     all_existing = featured + remixed + custom
 
-    all_icons = get_ordering(ICONS_ORDERING)
+    all_icons = get_lines(ICONS_ORDERING)
 
     clean_all()
 

@@ -49,7 +49,7 @@ _pages = {
 }
 
 HEADER_LINKS = {
-    **{name: [text.replace(" ", "&nbsp;"), os.path.join(PAGES_DIR, name, "README.md")] for name, text in _pages.items()},
+    **{name: [text.replace(" ", "&nbsp;"), os.path.join(PAGES_DIR, name, "index.md")] for name, text in _pages.items()},
     "contributing": ["Contributing", from_src("../CONTRIBUTING.md")]
 }
 
@@ -58,3 +58,6 @@ THEMES_COLS = 3
 ICONS_COLS = 3
 
 MAX_RECENTS = 3
+
+COLUMN_WIDTH = 46
+COLUMN_SPANNER = "&nbsp;" * COLUMN_WIDTH

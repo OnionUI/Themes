@@ -3,7 +3,7 @@ import math
 from PIL import Image
 
 from defs import *
-from utils import get_ordering, urlencode
+from utils import get_lines, urlencode
 
 
 PREVIEW_ICONS = ["fc", "gb", "gba", "gbc", "md", "ms", "ps", "sfc"]
@@ -28,7 +28,7 @@ def get_ordered_icons() -> list[dict]:
             "preview_url": f"https://onionui.github.io/iconpack_preview.html#{urlencode(dir_name)}"
         })
 
-    for icon_pack in get_ordering(ICONS_ORDERING):
+    for icon_pack in get_lines(ICONS_ORDERING):
         result = next((x for x in icon_packs if x['name'] == icon_pack), None)
         if result is None:
             continue
@@ -46,14 +46,14 @@ def generate_icon_pack_table(icon_packs: list[dict], cols: int = ICONS_COLS) -> 
     for i, icon_pack in enumerate(icon_packs):
         if i > 0 and i % cols == 0:
             output += "</tr><tr>\n"
-        output += generate_icon_pack_entry(current_path, **icon_pack)
+        output += generate_icon_pack_entry(current_path, **icon_pack, index=i)
 
     output += "</tr></table>\n\n"
 
     return output
 
 
-def generate_icon_pack_entry(current_path: str, name, path, release_url, preview_url, is_theme: bool = False, theme: str = ""):
+def generate_icon_pack_entry(current_path: str, name, path, release_url, preview_url, is_theme: bool = False, theme: str = "", index: int = 0):
     preview_path = from_src(os.path.join(path, f"preview.png"))
 
     ensure_has_icon_preview(path)
@@ -85,7 +85,7 @@ def generate_icon_pack_entry(current_path: str, name, path, release_url, preview
     icon_count = sum(os.path.isfile(f"{path}/{icon}.png") for icon in ALL_ICONS)
     output += f"<sub><sup>{icon_count}/{len(ALL_ICONS)} icons ({round(icon_count/len(ALL_ICONS)*100)}% complete)</sup> &nbsp;&nbsp; {readme}<a href=\"{preview_url}\">{PREVIEW_ICON}</a></sub>"
 
-    output += "\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>\n\n"
+    output += f"\n\n{COLUMN_SPANNER if index < ICONS_COLS else ''}<br/></td>\n\n"
 
     return output
 

@@ -10,15 +10,16 @@ from string import Template
 
 from defs import *
 
-from utils import get_files, get_ordering, get_subdirs, urlencode, git_last_changed
+from utils import get_files, get_lines, get_subdirs, urlencode, git_last_changed, git_commit_count, datetime
 from validation import validate_theme
 from generate_icons import generate_icon_pack_table, get_ordered_icons
 
 
-icons_blacklist = get_ordering(ICONS_BLACKLIST)
+icons_blacklist = get_lines(ICONS_BLACKLIST)
 themes_featured = []
 themes_icon_packs = []
 
+recently_added = []
 recently_updated = []
 
 
@@ -36,12 +37,12 @@ def main():
         for file in get_files(RELEASE_DIR, "zip")]
     is_released = lambda theme: theme in released_themes
 
-    themes_featured = list(filter(is_released, get_ordering(FEATURED_ORDERING)))
+    themes_featured = list(filter(is_released, get_lines(FEATURED_ORDERING)))
 
-    themes_custom = list(filter(is_released, get_ordering(CUSTOM_ORDERING)))
+    themes_custom = list(filter(is_released, get_lines(CUSTOM_ORDERING)))
     themes_custom.reverse()
 
-    themes_remixed = list(filter(is_released, get_ordering(REMIXED_ORDERING)))
+    themes_remixed = list(filter(is_released, get_lines(REMIXED_ORDERING)))
     themes_remixed.reverse()
 
     standalone_icon_packs = get_ordered_icons()
@@ -76,23 +77,29 @@ def apply_template(path: str, data: dict) -> str:
 
 
 def format_page_filename(page: int) -> str:
-    return "README.md" if page == 0 else f"README.p{page+1:02}.md"
+    return "index.md" if page == 0 else f"page-{page+1:02}.md"
 
 
 def generate_index(counts: dict):
-    buffer = ""
+    return apply_template(INDEX_TEMPLATE, {
+        "HEADER": apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".") }),
+        "INDEX": generate_index_list(counts),
+        "THEMES_NEW": generate_recents_grid(recently_added),
+        "THEMES_RECENTS": generate_recents_grid(recently_updated)
+    })
 
+
+def generate_index_list(counts: dict) -> str:
+    buffer = ""
     for group_name, count in counts.items():
         text, link = HEADER_LINKS[group_name]
         buffer += f"### [{text} ({count})]({rel_path(link, '.')})\n\n"
+    return buffer
 
-    recently_updated.sort(key=lambda item: item["ts"], reverse=True)
 
-    return apply_template(INDEX_TEMPLATE, {
-        "HEADER": apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".") }),
-        "INDEX": buffer,
-        "RECENTS": apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(item["buffer"] for item in recently_updated[:MAX_RECENTS])})
-    })
+def generate_recents_grid(items: list[dict]) -> str:
+    items.sort(key=lambda item: item["ts"], reverse=True)
+    return apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(generate_item(item["theme"]) for item in items[:MAX_RECENTS])})
 
 
 def write_pages(items: list, group_name: str, group_header: str, item_grid_generator: Callable[[list], str], page_size: int = 12, **opts):
@@ -163,18 +170,18 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     return buffer
 
 
-def generate_table_grid(themes, cols: int = THEMES_COLS) -> str:
+def generate_table_grid(themes) -> str:
     buffer = ""
 
     for i, theme in enumerate(themes):
-        if i > 0 and i % cols == 0:
+        if i > 0 and i % THEMES_COLS == 0:
             buffer += "</tr><tr>\n"
-        buffer += generate_item(theme)
+        buffer += generate_item(theme, index=i, collect_data=True)
 
     return apply_template(GRID_TEMPLATE, {"GRID_ITEMS": buffer})
 
 
-def generate_item(theme: str) -> str:
+def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
     is_valid, has_subdirs = validate_theme(dir_path)
 
@@ -215,6 +222,7 @@ def generate_item(theme: str) -> str:
 
     last_changed_datetime = git_last_changed(dir_path)
     last_updated = last_changed_datetime.strftime("%Y-%m-%d") if last_changed_datetime else ""
+    commit_count = git_commit_count(dir_path)
 
     bgm_path = from_src(f"../{theme_subdirs[0]}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)
@@ -240,30 +248,36 @@ def generate_item(theme: str) -> str:
         "HAS_ICONPACK": f"&nbsp; <a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
         "README": f"&nbsp;&nbsp;<a href=\"{urlencode(readme_path)}\">{README_ICON}</a>" if len(readme_path) != 0 else "",
         "AUTHOR_BTN": f"&nbsp;&nbsp;<a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
-        "UPDATED": last_updated,
+        "UPDATED": f"{last_updated} (v{commit_count})" if commit_count > 1 else last_updated,
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
-        "HISTORY_URL": history_url
+        "HISTORY_URL": history_url,
+        "COLUMN_SPANNER": COLUMN_SPANNER if index < THEMES_COLS else ""
     }
 
-    if has_icon_pack:
-        for subdir in theme_subdirs:
-            if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist:
-                themes_icon_packs.append({
-                    "name": os.path.basename(subdir),
-                    "path": from_src(os.path.join("..", subdir, "icons")),
-                    "is_theme": True,
-                    "theme": theme,
-                    "release_url": release_url,
-                    "preview_url": generate_icon_pack_url(theme, [subdir])
-                })
+    if collect_data:
+        if has_icon_pack:
+            for subdir in theme_subdirs:
+                if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist:
+                    themes_icon_packs.append({
+                        "name": os.path.basename(subdir),
+                        "path": from_src(os.path.join("..", subdir, "icons")),
+                        "is_theme": True,
+                        "theme": theme,
+                        "release_url": release_url,
+                        "preview_url": generate_icon_pack_url(theme, [subdir])
+                    })
+        if commit_count <= 1:
+            recents_maybe_append(recently_added, last_changed_datetime, theme)
+        else:
+            recents_maybe_append(recently_updated, last_changed_datetime, theme)
 
-    buffer = apply_template(ITEM_TEMPLATE, item)
+    return apply_template(ITEM_TEMPLATE, item)
 
-    if len(recently_updated) < MAX_RECENTS or any(last_changed_datetime > item["ts"] for item in recently_updated):
-        recently_updated.append({ "ts": last_changed_datetime, "buffer": buffer })
 
-    return buffer
+def recents_maybe_append(recents: list[dict], timestamp: datetime, theme: str):
+    if len(recents) < MAX_RECENTS or any(timestamp > item["ts"] for item in recents):
+        recents.append({"ts": timestamp, "theme": theme})
 
 
 def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:
