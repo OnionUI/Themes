@@ -120,13 +120,13 @@ def ensure_has_icon_preview(icons_dir: str, force_mode: bool = False):
     preview_path = os.path.join(icons_dir, f"preview.png")
 
     if not os.path.isfile(preview_path) or force_mode:
-        print(f"Generating icon pack preview: {preview_path}")
         icon_paths = [find_icon(icons_dir, icon, try_selected=i == 2) for i, icon in enumerate(PREVIEW_ICONS)]
         icon_paths_exist = [p for p in icon_paths if p]
 
         if len(icon_paths_exist) == 0:
             return
         
+        print(f"Generating icon pack preview: {preview_path}")
         generate_preview_image(preview_path, icon_paths_exist)
 
 

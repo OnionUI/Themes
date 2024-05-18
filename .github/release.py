@@ -3,6 +3,7 @@
 import os
 import sys
 import zipfile
+import datetime
 
 from defs import *
 
@@ -112,16 +113,26 @@ def build_icon_pack(icon_pack, all_icons) -> bool:
 
 def should_skip_build(src_path: str, zip_path: str) -> bool:
     if not os.path.exists(zip_path):
+        print("No release found for: " + os.path.dirname(src_path))
         return False
     
     src_last_changed = git_last_changed(src_path)
 
     if not src_last_changed:
+        print("No commit date found for: " + src_path)
         return False
 
     zip_last_changed = git_last_changed(zip_path)
 
-    if not zip_last_changed or src_last_changed.date() > zip_last_changed.date():
+    if not zip_last_changed:
+        print("No commit date found for: " + zip_path)
+        return False
+    
+    src_last_changed = src_last_changed.astimezone(datetime.UTC).date()
+    zip_last_changed = zip_last_changed.astimezone(datetime.UTC).date()
+    
+    if src_last_changed > zip_last_changed:
+        print(f"Commit dates are different: {src_last_changed} > {zip_last_changed}")
         return False
     
     return True
