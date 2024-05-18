@@ -1,7 +1,7 @@
 {
-    "name": "Milk Black",
-    "author": "Segich and Nemi",
-    "description": "Miyoo Mini Milk Black Theme",
+    "name": "Milk White",
+    "author": "Segich",
+    "description": "Miyoo Mini Milk White Theme",
     "batteryPercentage": {
         "visible": true,
         "font": "HEN.TTF",
@@ -19,7 +19,7 @@
     "hint": {
         "font": "HEN.TTF",
         "size": 16,
-        "color": "#E8E8DE"
+        "color": "#4B4B4B"
     },
     "currentpage": {
         "color": "#4B4B4B"
@@ -41,6 +41,6 @@
     },
     "hideLabels": {
         "icons": false,
-        "hints": true
+        "hints": false
     }
 }
