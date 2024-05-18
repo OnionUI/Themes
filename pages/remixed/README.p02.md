@@ -51,6 +51,12 @@
 
 ---
 
-<table align="center"><tr><td align="center" valign="top">
+<table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;| &nbsp;[01](README.md) &nbsp;**02**</td></tr></table>
+[◀&nbsp;PREV PAGE](README.md)
+
+</td><td align="center">
+
+[01](README.md) &nbsp;**02**
+
+</td></tr></table>

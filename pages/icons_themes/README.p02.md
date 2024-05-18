@@ -178,6 +178,16 @@
 
 ---
 
-<table align="center"><tr><td align="center" valign="top">
+<table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;| &nbsp;[01](README.md) &nbsp;**02** &nbsp;[03](README.p03.md) &nbsp;[04](README.p04.md)&nbsp; |&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶](README.p03.md)</td></tr></table>
+[◀&nbsp;PREV PAGE](README.md)
+
+</td><td align="center">
+
+[01](README.md) &nbsp;**02** &nbsp;[03](README.p03.md) &nbsp;[04](README.p04.md)
+
+</td><td>
+
+[NEXT PAGE&nbsp;▶](README.p03.md)
+
+</td></tr></table>

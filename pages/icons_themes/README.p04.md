@@ -112,6 +112,12 @@
 
 ---
 
-<table align="center"><tr><td align="center" valign="top">
+<table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV&nbsp;PAGE](README.p03.md)&nbsp;&nbsp;| &nbsp;[01](README.md) &nbsp;[02](README.p02.md) &nbsp;[03](README.p03.md) &nbsp;**04**</td></tr></table>
+[◀&nbsp;PREV PAGE](README.p03.md)
+
+</td><td align="center">
+
+[01](README.md) &nbsp;[02](README.p02.md) &nbsp;[03](README.p03.md) &nbsp;**04**
+
+</td></tr></table>

@@ -153,6 +153,16 @@
 
 ---
 
-<table align="center"><tr><td align="center" valign="top">
+<table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;| &nbsp;[01](README.md) &nbsp;**02** &nbsp;[03](README.p03.md) &nbsp;[04](README.p04.md) &nbsp;[05](README.p05.md) &nbsp;[06](README.p06.md) &nbsp;[07](README.p07.md) &nbsp;[08](README.p08.md) &nbsp;[09](README.p09.md) &nbsp;[10](README.p10.md) &nbsp;[11](README.p11.md) &nbsp;[12](README.p12.md) &nbsp;[13](README.p13.md)&nbsp; |&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶](README.p03.md)</td></tr></table>
+[◀&nbsp;PREV PAGE](README.md)
+
+</td><td align="center">
+
+[01](README.md) &nbsp;**02** &nbsp;[03](README.p03.md) &nbsp;[04](README.p04.md) &nbsp;[05](README.p05.md) &nbsp;[06](README.p06.md) &nbsp;[07](README.p07.md) &nbsp;[08](README.p08.md) &nbsp;[09](README.p09.md) &nbsp;[10](README.p10.md) &nbsp;[11](README.p11.md) &nbsp;[12](README.p12.md) &nbsp;[13](README.p13.md)
+
+</td><td>
+
+[NEXT PAGE&nbsp;▶](README.p03.md)
+
+</td></tr></table>
