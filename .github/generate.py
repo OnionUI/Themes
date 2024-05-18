@@ -212,6 +212,7 @@ def generate_item(theme: str) -> str:
     history_url = f"https://github.com/OnionUI/Themes/commits/main/themes/{theme}"
 
     last_updated = git_last_changed(dir_path)
+    last_updated = last_updated.strftime("%Y-%m-%d") if last_updated is not None else ""
 
     bgm_path = from_src(f"../{theme_subdirs[0]}/sound/bgm.mp3")
     has_bgm = os.path.isfile(bgm_path)

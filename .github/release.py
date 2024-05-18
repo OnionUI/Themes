@@ -115,7 +115,7 @@ def should_skip_build(src_path: str, zip_path: str) -> bool:
         src_last_changed = git_last_changed(src_path)
         zip_last_changed = git_last_changed(zip_path)
 
-        if src_last_changed <= zip_last_changed:
+        if src_last_changed is not None and zip_last_changed is not None and src_last_changed <= zip_last_changed:
             return True
     return False
 
