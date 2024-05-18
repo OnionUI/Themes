@@ -91,39 +91,39 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
-<img title="Name: Fairy-Type&#013;Author: UnBurn&#013;Last updated: 2024-03-18&#013;Description: Super effective&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
-<b>Fairy-Type</b>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SNES%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SNES&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A SNES theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SNES%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SNES</b>
 </a><br/>
-<sup><i>UnBurn</i></sup><br>
+<sup><i>Danilo Colasso</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-03-18" href="https://github.com/OnionUI/Themes/commits/main/themes/Fairy-Type by UnBurn">2024-03-18</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Fairy-Type%20by%20UnBurn"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SNES by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SNES%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SNES%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
 
 
 
 <td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
-<img title="Name: AnalogPhosphor (3-pack)&#013;Author: trash&#013;Last updated: 2024-03-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
-<b>AnalogPhosphor (3-pack)</b>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SFC&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SFC</b>
 </a><br/>
-<sup><i>trash</i></sup><br>
+<sup><i>Danilo Colasso</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-03-13" href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor (3-pack) by trash">2024-03-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
 
 
 
 <td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
-<img title="Name: Game Boy Scouts&#013;Author: UnBurn&#013;Last updated: 2024-03-12&#013;Description: For the Adventurer&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
-<b>Game Boy Scouts</b>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SFC - Dark&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A Dark SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SFC - Dark</b>
 </a><br/>
-<sup><i>UnBurn</i></sup><br>
+<sup><i>Danilo Colasso</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-03-12" href="https://github.com/OnionUI/Themes/commits/main/themes/Game Boy Scouts by UnBurn">2024-03-12</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Game%20Boy%20Scouts%20by%20UnBurn"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC - Dark by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
 </sub>
 </td>
 
