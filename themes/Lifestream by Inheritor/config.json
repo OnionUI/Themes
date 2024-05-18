@@ -1,0 +1,47 @@
+{
+    "name": "Lifestream",
+    "author": "Inheritor",
+    "description": "Sephiroth did nothing wrong",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "Final Fantasy VII.ttf",
+        "size": 11,
+        "color": "#6ddbc0",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "font": "Final Fantasy VII.ttf",
+        "size": 40,
+        "color": "#6ddbc0"
+    },
+    "hint": {
+        "font": "Final Fantasy VII.ttf",
+        "size": 45,
+        "color": "#6ddbc0"
+    },
+    "currentpage": {
+        "color": "#6ddbc0"
+    },
+    "total": {
+        "color": "#6ddbc0"
+    },
+    "grid": {
+        "font": "Final Fantasy VII.ttf",
+        "grid1x4": 30,
+        "grid3x4": 25,
+        "color": "rgba(237,105,39,0)",
+        "selectedcolor": "rgba(255,255,255,0)"
+    },
+    "list": {
+        "font": "Final Fantasy VII.ttf",
+        "size": 30,
+        "color": "#6ddbc0"
+    }
+}
