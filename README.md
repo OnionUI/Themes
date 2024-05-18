@@ -60,7 +60,7 @@
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Index** &nbsp;• &nbsp;[Custom&nbsp;Themes](generated/custom/index.md) &nbsp;• &nbsp;[Remixed&nbsp;Themes](generated/remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](generated/icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](generated/icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; **Start** &nbsp;• &nbsp;[Originals](generated/custom/index.md) &nbsp;• &nbsp;[Remixed](generated/remixed/index.md) &nbsp;• &nbsp;[Iconified](generated/icons_themes/index.md) &nbsp;• &nbsp;[Extra&nbsp;Icons](generated/icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
@@ -71,13 +71,13 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Custom&nbsp;Themes (156)](generated/custom/index.md)
+### [Originals — Custom Made Themes (156)](generated/custom/index.md)
 
-### [Remixed&nbsp;Themes (15)](generated/remixed/index.md)
+### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
-### [Theme&nbsp;Icon&nbsp;Packs (43)](generated/icons_themes/index.md)
+### [Iconified — Themes with Icon Packs (43)](generated/icons_themes/index.md)
 
-### [Standalone&nbsp;Icon&nbsp;Packs (7)](generated/icons_standalone/index.md)
+### [Extra Icons — Standalone Icon Packs (7)](generated/icons_standalone/index.md)
 
 
 

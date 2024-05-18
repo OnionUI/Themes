@@ -12,10 +12,9 @@ from defs import *
 
 from utils import get_files, get_lines, get_subdirs, urlencode, git_last_changed, git_commit_count, datetime
 from validation import validate_theme
-from generate_icons import generate_icon_pack_table, get_ordered_icons
+from generate_icons import generate_icon_pack_table, get_ordered_icons, IconPack, generate_icon_pack_url, icons_blacklist
 
 
-icons_blacklist = get_lines(ICONS_BLACKLIST)
 themes_featured = []
 themes_icon_packs = []
 
@@ -49,11 +48,11 @@ def main():
 
     os.makedirs(PAGES_DIR, exist_ok=True)
 
-    write_pages(themes_custom, "custom", "Custom Themes", generate_table_grid)
-    write_pages(themes_remixed, "remixed", "Remixed Themes", generate_table_grid)
+    write_pages(themes_custom, "custom", generate_table_grid)
+    write_pages(themes_remixed, "remixed", generate_table_grid)
     
-    write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table)
-    write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table)
+    write_pages(themes_icon_packs, "icons_themes", generate_icon_pack_table)
+    write_pages(standalone_icon_packs, "icons_standalone", generate_icon_pack_table)
 
     write_file(README_PATH, generate_index({
         "custom": len(themes_custom),
@@ -92,8 +91,8 @@ def generate_index(counts: dict):
 def generate_index_list(counts: dict) -> str:
     buffer = ""
     for group_name, count in counts.items():
-        text, link = HEADER_LINKS[group_name]
-        buffer += f"### [{text} ({count})]({rel_path(link, '.')})\n\n"
+        _, link = HEADER_LINKS[group_name]
+        buffer += f"### [{PAGE_TITLES[group_name]} ({count})]({rel_path(link, '.')})\n\n"
     return buffer
 
 
@@ -102,14 +101,14 @@ def generate_recents_grid(items: list[dict]) -> str:
     return apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(generate_item(item["theme"]) for item in items[:MAX_RECENTS])})
 
 
-def write_pages(items: list, group_name: str, group_header: str, item_grid_generator: Callable[[list], str], page_size: int = 12, **opts):
+def write_pages(items: list, group_name: str, item_grid_generator: Callable[[list], str], page_size: int = 12, **opts):
     workdir = os.path.join(PAGES_DIR, group_name)
     os.makedirs(workdir, exist_ok=True)
 
     total = len(items)
     num_pages = math.ceil(total / page_size)
 
-    for page in tqdm(range(num_pages), desc=group_header):
+    for page in tqdm(range(num_pages), desc=PAGE_TITLES[group_name]):
         current_path = os.path.join(workdir, format_page_filename(page))
 
         index = page * page_size
@@ -117,7 +116,7 @@ def write_pages(items: list, group_name: str, group_header: str, item_grid_gener
         
         buffer = ""
         buffer += apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(current_path, current_group=group_name) })
-        buffer += f"\n## {group_header}\n\n*Page {page + 1} of {num_pages} — {total} items available*\n"
+        buffer += f"\n## {PAGE_TITLES[group_name]}\n\n*Page {page + 1} of {num_pages} — {total} items available*\n"
         buffer += item_grid_generator(batch, **opts) + "\n\n"
 
         if num_pages > 1:
@@ -265,16 +264,14 @@ def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str
 
     if collect_data:
         if has_icon_pack:
-            for subdir in theme_subdirs:
-                if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist:
-                    themes_icon_packs.append({
-                        "name": os.path.basename(subdir),
-                        "path": from_src(os.path.join("..", subdir, "icons")),
-                        "is_theme": True,
-                        "theme": theme,
-                        "release_url": release_url,
-                        "preview_url": generate_icon_pack_url(theme, [subdir])
-                    })
+            valid_subdirs = [subdir for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist]
+            themes_icon_packs.extend(IconPack(
+                        dir_name=os.path.basename(subdir),
+                        dir_path=os.path.join(subdir, "icons"),
+                        theme=theme,
+                        release_url=release_url,
+                        theme_subdir=subdir)
+                        for subdir in valid_subdirs)
         if commit_count <= 1:
             recents_maybe_append(recently_added, last_changed_datetime, theme)
         else:
@@ -286,15 +283,6 @@ def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str
 def recents_maybe_append(recents: list[dict], timestamp: datetime, theme: str):
     if len(recents) < MAX_RECENTS or any(timestamp > item["ts"] for item in recents):
         recents.append({"ts": timestamp, "theme": theme})
-
-
-def generate_icon_pack_url(theme: str, theme_subdirs: list[str]) -> str:
-    icons_dirs = [f"{subdir}/icons" for subdir in theme_subdirs if os.path.isdir(f"{subdir}/icons") and os.path.basename(subdir) not in icons_blacklist]
-
-    url = f"https://onionui.github.io/iconpack_preview.html#{urlencode(theme)},"
-    url += ",".join(f"{urlencode(os.path.basename(os.path.dirname(icons_dir)))}:{urlencode(icons_dir)}" for icons_dir in icons_dirs)
-
-    return url
 
 
 if __name__ == "__main__":

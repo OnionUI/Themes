@@ -46,14 +46,21 @@ NB_SPACER = NB_SPACE * 2
 LB_SPACER = " " + NB_SPACE
 
 _pages = {
-    "custom": "Custom Themes",
-    "remixed": "Remixed Themes",
-    "icons_themes": "Theme Icon Packs",
-    "icons_standalone": "Standalone Icon Packs"
+    "custom": "Originals",
+    "remixed": "Remixed",
+    "icons_themes": "Iconified",
+    "icons_standalone": "Extra Icons"
+}
+
+PAGE_TITLES = {
+    "custom": "Originals — Custom Made Themes",
+    "remixed": "Remixed — Alternative Versions of Themes",
+    "icons_themes": "Iconified — Themes with Icon Packs",
+    "icons_standalone": "Extra Icons — Standalone Icon Packs"
 }
 
 HEADER_LINKS = {
-    "index": ["Index", README_PATH],
+    "index": ["Start", README_PATH],
     **{name: [text.replace(" ", NB_SPACE), os.path.join(PAGES_DIR, name, "index.md")] for name, text in _pages.items()},
     "contributing": ["Contributing", from_src("../CONTRIBUTING.md")]
 }

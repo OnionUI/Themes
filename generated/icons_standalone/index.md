@@ -60,12 +60,12 @@
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; [Index](../../README.md) &nbsp;• &nbsp;[Custom&nbsp;Themes](../custom/index.md) &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;**Standalone&nbsp;Icon&nbsp;Packs** &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; [Start](../../README.md) &nbsp;• &nbsp;[Originals](../custom/index.md) &nbsp;• &nbsp;[Remixed](../remixed/index.md) &nbsp;• &nbsp;[Iconified](../icons_themes/index.md) &nbsp;• &nbsp;**Extra&nbsp;Icons** &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
-## Standalone Icon Packs
+## Extra Icons — Standalone Icon Packs
 
 *Page 1 of 1 — 7 items available*
 <table align=center><tr>
@@ -73,52 +73,44 @@
 
 <td valign="top">
 
-#### Onion PS Text Icons by hanessh4
+[![Onion PS Text Icons by hanessh4](../../icons/Onion%20PS%20Text%20Icons%20by%20hanessh4/preview.png)](https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4 "Click to see the full icon pack preview page")
 
-![Onion PS Text Icons by hanessh4](../../icons/Onion%20PS%20Text%20Icons%20by%20hanessh4/preview.png)
+**Onion PS Text Icons by hanessh4**
 
-[Download Onion PS Text Icons by hanessh4 (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Onion%20PS%20Text%20Icons%20by%20hanessh4.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20PS%20Text%20Icons%20by%20hanessh4"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Onion%20PS%20Text%20Icons%20by%20hanessh4.zip "Onion PS Text Icons by hanessh4") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top">
 
-#### Pixel by Jeltron
+[![Pixel by Jeltron](../../icons/Pixel%20by%20Jeltron/preview.png)](https://onionui.github.io/iconpack_preview.html#Pixel%20by%20Jeltron "Click to see the full icon pack preview page")
 
-![Pixel by Jeltron](../../icons/Pixel%20by%20Jeltron/preview.png)
+**Pixel by Jeltron**
 
-[Download Pixel by Jeltron (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Pixel%20by%20Jeltron.zip)
-
-<sub><sup>48/54 icons (89% complete)</sup> &nbsp;&nbsp; <a href="/icons/Pixel%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Pixel%20by%20Jeltron"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Pixel%20by%20Jeltron.zip "Pixel by Jeltron") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Pixel%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top">
 
-#### NSO by Cheetashock
+[![NSO by Cheetashock](../../icons/NSO%20by%20Cheetashock/preview.png)](https://onionui.github.io/iconpack_preview.html#NSO%20by%20Cheetashock "Click to see the full icon pack preview page")
 
-![NSO by Cheetashock](../../icons/NSO%20by%20Cheetashock/preview.png)
+**NSO by Cheetashock**
 
-[Download NSO by Cheetashock (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/NSO%20by%20Cheetashock.zip)
-
-<sub><sup>19/54 icons (35% complete)</sup> &nbsp;&nbsp; <a href="/icons/NSO%20by%20Cheetashock/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NSO%20by%20Cheetashock"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/NSO%20by%20Cheetashock.zip "NSO by Cheetashock") <sub><sup>&nbsp;&nbsp; 35%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/NSO%20by%20Cheetashock/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top">
 
-#### Silhouette Black by Dreambrace
+[![Silhouette Black by Dreambrace](../../icons/Silhouette%20Black%20by%20Dreambrace/preview.png)](https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace "Click to see the full icon pack preview page")
 
-![Silhouette Black by Dreambrace](../../icons/Silhouette%20Black%20by%20Dreambrace/preview.png)
+**Silhouette Black by Dreambrace**
 
-[Download Silhouette Black by Dreambrace (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20Black%20by%20Dreambrace.zip)
-
-<sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20Black%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20Black%20by%20Dreambrace.zip "Silhouette Black by Dreambrace") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
@@ -126,39 +118,33 @@
 
 <td valign="top">
 
-#### Silhouette White by Dreambrace
+[![Silhouette White by Dreambrace](../../icons/Silhouette%20White%20by%20Dreambrace/preview.png)](https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace "Click to see the full icon pack preview page")
 
-![Silhouette White by Dreambrace](../../icons/Silhouette%20White%20by%20Dreambrace/preview.png)
+**Silhouette White by Dreambrace**
 
-[Download Silhouette White by Dreambrace (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20White%20by%20Dreambrace.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silhouette%20White%20by%20Dreambrace"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20White%20by%20Dreambrace.zip "Silhouette White by Dreambrace") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
 
 <td valign="top">
 
-#### Hakchi Pixel Art by faustbear
+[![Hakchi Pixel Art by faustbear](../../icons/Hakchi%20Pixel%20Art%20by%20faustbear/preview.png)](https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear "Click to see the full icon pack preview page")
 
-![Hakchi Pixel Art by faustbear](../../icons/Hakchi%20Pixel%20Art%20by%20faustbear/preview.png)
+**Hakchi Pixel Art by faustbear**
 
-[Download Hakchi Pixel Art by faustbear (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip)
-
-<sub><sup>48/54 icons (89% complete)</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Hakchi%20Pixel%20Art%20by%20faustbear"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip "Hakchi Pixel Art by faustbear") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
 
 <td valign="top">
 
-#### Dot-art by Yoshi-kun
+[![Dot-art by Yoshi-kun](../../icons/Dot-art%20by%20Yoshi-kun/preview.png)](https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun "Click to see the full icon pack preview page")
 
-![Dot-art by Yoshi-kun](../../icons/Dot-art%20by%20Yoshi-kun/preview.png)
+**Dot-art by Yoshi-kun**
 
-[Download Dot-art by Yoshi-kun (icon pack)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Dot-art%20by%20Yoshi-kun.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Dot-art%20by%20Yoshi-kun"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Dot-art%20by%20Yoshi-kun.zip "Dot-art by Yoshi-kun") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
