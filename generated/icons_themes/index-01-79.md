@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 5 of 5 — 50 items available*
+*Page 5 of 5 — 51 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![Wasteland Nevada by Bernig + LeonardoDaPinchy](../../themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy,Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy:themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/icons "Click to see the full icon pack preview page")
+
+**Wasteland Nevada by Bernig + LeonardoDaPinchy**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy.zip "Wasteland Nevada by Bernig + LeonardoDaPinchy") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
 
 
 <td valign="top" width="25.00%">

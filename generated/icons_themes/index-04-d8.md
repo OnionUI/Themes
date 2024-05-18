@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 2 of 5 — 50 items available*
+*Page 2 of 5 — 51 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![NES by MLOPEZMAD](../../themes/NES%20by%20MLOPEZMAD/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NES%20by%20MLOPEZMAD,NES%20by%20MLOPEZMAD:themes/NES%20by%20MLOPEZMAD/icons "Click to see the full icon pack preview page")
+
+**NES by MLOPEZMAD**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NES%20by%20MLOPEZMAD.zip "NES by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 91%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/NES%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -114,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **2CleanMini by Sheezie**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip "2CleanMini by Sheezie") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![RetroRama by TooGeekCreations](../../themes/RetroRama%20by%20TooGeekCreations/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#RetroRama%20by%20TooGeekCreations,RetroRama%20by%20TooGeekCreations:themes/RetroRama%20by%20TooGeekCreations/icons "Click to see the full icon pack preview page")
-
-**RetroRama by TooGeekCreations**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip "RetroRama by TooGeekCreations") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/RetroRama%20by%20TooGeekCreations/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 </td>
 

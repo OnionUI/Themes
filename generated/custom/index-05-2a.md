@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 10 of 14 — 165 items available*
+*Page 10 of 14 — 166 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DNTSHP%20by%20Deepslackerjazz.zip">
+<img title="Name: DNTSHP&#013;Author: Deepslackerjazz&#013;Last updated: 2022-10-09&#013;Description: Old school donut shop in pixel form&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DNTSHP%20by%20Deepslackerjazz/preview.png" /><br/>
+<b>DNTSHP</b>
+</a><br/>
+<sup><i>Deepslackerjazz</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-10-09" href="https://github.com/OnionUI/Themes/commits/main/themes/DNTSHP by Deepslackerjazz">2022-10-09</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Deepslackerjazz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DNTSHP%20by%20Deepslackerjazz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=DNTSHP%20by%20Deepslackerjazz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Tema%20by%20Alex%20Connor.zip">
 <img title="Name: Tema&#013;Author: Alex Connor&#013;Last updated: 2022-10-02&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Tema%20by%20Alex%20Connor/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip">
 <img title="Name: Onion Boy&#013;Author: PixelShift + Jeltron&#013;Last updated: 2022-10-03&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MiNook%20Mini%20by%20Deepslackerjazz.zip">
 <img title="Name: MiNook&#013;Author: Deepslackerjazz&#013;Last updated: 2022-09-19&#013;Description: Nook phone type theme with a crafty vibe&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RPO%20by%20TheDewd.zip">
 <img title="Name: Role Playing Onion&#013;Author: TheDewd&#013;Last updated: 2022-10-05&#013;Description: Pixel Art Fantasy Theme&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RPO%20by%20TheDewd/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BRCKD%20by%20Deepslackerjazz.zip">
 <img title="Name: BRCKD&#013;Author: Deepslackerjazz&#013;Last updated: 2022-09-11&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BRCKD%20by%20Deepslackerjazz/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/End%20of%20Ages%20by%20apg313.zip">
 <img title="Name: End of Ages&#013;Author: apg313&#013;Last updated: 2022-08-16&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/End%20of%20Ages%20by%20apg313/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/System%209%20by%20injekim.zip">
 <img title="Name: System 9&#013;Author: injekim&#013;Last updated: 2022-10-05&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/System%209%20by%20injekim/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>iamatrap</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2022-09-09 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/gry64 by iamatrap">2022-09-09 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22iamatrap%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/gry64%20by%20iamatrap/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Shadaloo%20%28SFA3%29%20by%20XCVNCE.zip">
-<img title="Name: Shadaloo (SFA3)&#013;Author: XCVNCE&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png" /><br/>
-<b>Shadaloo (SFA3)</b>
-</a><br/>
-<sup><i>XCVNCE</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-09-09 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Shadaloo (SFA3) by XCVNCE">2022-09-09 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22XCVNCE%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Shadaloo%20%28SFA3%29%20by%20XCVNCE"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 

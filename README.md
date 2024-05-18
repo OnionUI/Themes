@@ -71,11 +71,11 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (165)](generated/custom/index.md)
+### [Originals — Custom Made Themes (166)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
-### [Iconified — Themes with Icon Packs (50)](generated/icons_themes/index.md)
+### [Iconified — Themes with Icon Packs (51)](generated/icons_themes/index.md)
 
 ### [Extra Icons — Standalone Icon Packs (7)](generated/icons_standalone/index.md)
 
@@ -90,6 +90,19 @@
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MiyooCarPlay%20by%20RobyRosa.zip">
+<img title="Name: MiyooCarPlay&#013;Author: RobyRosa&#013;Last updated: 2024-05-19&#013;Description: Apple Car Style&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiyooCarPlay%20by%20RobyRosa/preview.png" /><br/>
+<b>MiyooCarPlay</b>
+</a><br/>
+<sup><i>RobyRosa</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/MiyooCarPlay by RobyRosa">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22RobyRosa%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiyooCarPlay%20by%20RobyRosa/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#MiyooCarPlay%20by%20RobyRosa,MiyooCarPlay%20by%20RobyRosa:themes/MiyooCarPlay%20by%20RobyRosa/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
+
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels.zip">
 <img title="Name: Star Wars (Miyoo Be With You)&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: Star Wars inspired theme for May 4th&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/preview.png" /><br/>
@@ -111,19 +124,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>tenlevels</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/sONIONc by tenlevels">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/sONIONc%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#sONIONc%20by%20tenlevels,sONIONc%20by%20tenlevels:themes/sONIONc%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hello%20Miyoo%20by%20tenlevels.zip">
-<img title="Name: Hello Miyoo&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: Cute/Cozy Sanrio inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hello%20Miyoo%20by%20tenlevels/preview.png" /><br/>
-<b>Hello Miyoo</b>
-</a><br/>
-<sup><i>tenlevels</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Hello Miyoo by tenlevels">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hello%20Miyoo%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Hello%20Miyoo%20by%20tenlevels,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

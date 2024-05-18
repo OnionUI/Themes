@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 3 of 5 — 50 items available*
+*Page 3 of 5 — 51 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![RetroRama by TooGeekCreations](../../themes/RetroRama%20by%20TooGeekCreations/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#RetroRama%20by%20TooGeekCreations,RetroRama%20by%20TooGeekCreations:themes/RetroRama%20by%20TooGeekCreations/icons "Click to see the full icon pack preview page")
+
+**RetroRama by TooGeekCreations**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip "RetroRama by TooGeekCreations") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/RetroRama%20by%20TooGeekCreations/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -114,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **Onion Blocks Concurrent**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip "Onion Blocks (2-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![YoRHa by Deepslackerjazz](../../themes/YoRHa%20by%20Deepslackerjazz/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons "Click to see the full icon pack preview page")
-
-**YoRHa by Deepslackerjazz**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/YoRHa%20by%20Deepslackerjazz.zip "YoRHa by Deepslackerjazz") <sub><sup>&nbsp;&nbsp; 50%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 </td>
 

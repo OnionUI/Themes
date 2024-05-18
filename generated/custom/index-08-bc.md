@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 7 of 14 — 165 items available*
+*Page 7 of 14 — 166 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip">
+<img title="Name: M&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: Black/White/Grey minimal theme inspired by Miyoo logo&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png" /><br/>
+<b>M ★</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19 (v7)" href="https://github.com/OnionUI/Themes/commits/main/themes/M by tenlevels">2024-05-19 (v7)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/mini.os%20by%20nationalsoup.zip">
 <img title="Name: mini.os&#013;Author: nationalsoup&#013;Last updated: 2023-02-23&#013;Description: Minimal Dark Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/mini.os%20by%20nationalsoup/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip">
 <img title="Name: Onion Blocks (2-pack)&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TMNT%20by%20RealDan.zip">
 <img title="Name: TMNT&#013;Author: RealDan&#013;Last updated: 2023-01-31&#013;Description: TMNT theme inspired by art from Hyperstone Heist.&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TMNT%20by%20RealDan/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/THPS2%20by%20tenlevels.zip">
 <img title="Name: THPS2&#013;Author: tenlevels&#013;Last updated: 2023-01-27&#013;Description: Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/THPS2%20by%20tenlevels/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEON.ion%20by%20tenlevels.zip">
 <img title="Name: NEON.ion&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: NEON OnionOS theme inspired by Essenger&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEON.ion%20by%20tenlevels/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Concise%20%283-pack%29%20by%20mtaras.zip">
 <img title="Name: Concise (3-pack)&#013;Author: mtaras&#013;Last updated: 2023-01-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Concise%20%283-pack%29%20by%20mtaras/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/minimO%20by%20AccomplishedSir.zip">
 <img title="Name: minimO&#013;Author: AccomplishedSir&#013;Last updated: 2024-05-18&#013;Description: minimalist theme with neomorphic elements&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/minimO%20by%20AccomplishedSir/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>Deepslackerjazz</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-01-11" href="https://github.com/OnionUI/Themes/commits/main/themes/PPLP by Deepslackerjazz">2023-01-11</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Deepslackerjazz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=PPLP%20by%20Deepslackerjazz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Simple%20Pixels%20%282-pack%29%20by%20Cuprite.zip">
-<img title="Name: Simple Pixels (2-pack)&#013;Author: Cuprite&#013;Last updated: 2023-01-04&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
-<b>Simple Pixels (2-pack)</b>
-</a><br/>
-<sup><i>Cuprite</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2023-01-04" href="https://github.com/OnionUI/Themes/commits/main/themes/Simple Pixels (2-pack) by Cuprite">2023-01-04</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Cuprite%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 
