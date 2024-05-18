@@ -180,4 +180,4 @@
 
 <table align="center"><tr><td align="center" valign="top">
 
-[◀&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;|&nbsp;&nbsp;[01](README.md)&nbsp;&nbsp;**02**&nbsp;&nbsp;[03](README.p03.md)&nbsp;&nbsp;[04](README.p04.md)&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶](README.p03.md)</td></tr></table>
+[◀&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;| &nbsp;[01](README.md) &nbsp;**02** &nbsp;[03](README.p03.md) &nbsp;[04](README.p04.md)&nbsp; |&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶](README.p03.md)</td></tr></table>
