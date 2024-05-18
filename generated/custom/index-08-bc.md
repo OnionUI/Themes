@@ -210,16 +210,16 @@
 
 ---
 
-<table align="center"><tr><td align="right">
+<table align="center"><tr><td align="right" valign="middle">
 
-[❮&nbsp;&nbsp;PREV](index-09-9d.md)
+[![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index-09-9d.md)
 
-</td><td align="center">
+</td><td align="center" valign="middle">
 
 [&nbsp;1&nbsp;](index.md)&nbsp;&hellip; &nbsp;[&nbsp;4&nbsp;](index-10-be.md) [&nbsp;5&nbsp;](index-09-9d.md) &nbsp;**6**&nbsp; [&nbsp;7&nbsp;](index-07-fc.md) [&nbsp;8&nbsp;](index-06-21.md) &hellip;&nbsp;[&nbsp;13&nbsp;](index-01-79.md)
 
-</td><td>
+</td><td valign="middle">
 
-[NEXT&nbsp;&nbsp;❯](index-07-fc.md)
+[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-07-fc.md)
 
 </td></tr></table>

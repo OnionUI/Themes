@@ -145,10 +145,10 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer = ""
     buffer += """---\n\n<table align="center"><tr>"""
     if current_page > 0:
-        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV]({format_page_filename(current_page - 1, num_pages)})\n\n</td>"""
-    buffer += f"""<td align="center">\n\n{generate_page_links(current_page, num_pages)}\n\n</td>"""
+        buffer += f"""<td align="right" valign="middle">\n\n[![Previous page]({PREV_PAGE_ICON_URL})]({format_page_filename(current_page - 1, num_pages)})\n\n</td>"""
+    buffer += f"""<td align="center" valign="middle">\n\n{generate_page_links(current_page, num_pages)}\n\n</td>"""
     if current_page < num_pages - 1:
-        buffer += f"<td>\n\n[NEXT{NB_SPACER}❯]({format_page_filename(current_page + 1, num_pages)})\n\n</td>"
+        buffer += f"""<td valign="middle">\n\n[![Next page]({NEXT_PAGE_ICON_URL})]({format_page_filename(current_page + 1, num_pages)})\n\n</td>"""
     buffer += "</tr></table>"
     return buffer
 

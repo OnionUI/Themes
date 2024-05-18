@@ -154,11 +154,11 @@
 
 ---
 
-<table align="center"><tr><td align="right">
+<table align="center"><tr><td align="right" valign="middle">
 
-[❮&nbsp;&nbsp;PREV](index-02-6b.md)
+[![Previous page](https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd)](index-02-6b.md)
 
-</td><td align="center">
+</td><td align="center" valign="middle">
 
 [&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](index-03-11.md) [&nbsp;3&nbsp;](index-02-6b.md) &nbsp;**4**&nbsp;
 

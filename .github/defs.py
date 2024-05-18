@@ -41,6 +41,9 @@ README_ICON = f"<img src=\"{README_ICON_URL}\" height=\"16\" title=\"README\">"
 
 PREVIEW_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\"Show full preview\">"
 
+PREV_PAGE_ICON_URL = "https://github.com/OnionUI/Themes/assets/44569252/fb1e949d-00a9-47d2-ad8b-cf273dbcf1bd"
+NEXT_PAGE_ICON_URL = "https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b"
+
 NB_SPACE = "&nbsp;"
 NB_SPACER = NB_SPACE * 2
 LB_SPACER = " " + NB_SPACE

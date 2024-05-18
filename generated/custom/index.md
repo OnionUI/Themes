@@ -210,12 +210,12 @@
 
 ---
 
-<table align="center"><tr><td align="center">
+<table align="center"><tr><td align="center" valign="middle">
 
 &nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-12-ca.md) [&nbsp;3&nbsp;](index-11-8c.md) [&nbsp;4&nbsp;](index-10-be.md) [&nbsp;5&nbsp;](index-09-9d.md) [&nbsp;6&nbsp;](index-08-bc.md) [&nbsp;7&nbsp;](index-07-fc.md) &hellip;&nbsp;[&nbsp;13&nbsp;](index-01-79.md)
 
-</td><td>
+</td><td valign="middle">
 
-[NEXT&nbsp;&nbsp;❯](index-12-ca.md)
+[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-12-ca.md)
 
 </td></tr></table>

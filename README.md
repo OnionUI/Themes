@@ -133,6 +133,14 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <p>&nbsp;</p>
 
+<table align="center"><td>
+
+[SHOW ALL THEMES](generated/custom/index.md)
+
+</td></table>
+
+<p>&nbsp;</p>
+
 
 ## Recently Updated Themes
 
@@ -177,6 +185,14 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 </tr></table>
 
+
+<p>&nbsp;</p>
+
+<table align="center"><td>
+
+[SHOW ALL THEMES](generated/custom/index.md)
+
+</td></table>
 
 <p>&nbsp;</p>
 

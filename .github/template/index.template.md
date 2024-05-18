@@ -19,10 +19,26 @@ $THEMES_NEW
 
 <p>&nbsp;</p>
 
+<table align="center"><td>
+
+[SHOW ALL THEMES](generated/custom/index.md)
+
+</td></table>
+
+<p>&nbsp;</p>
+
 
 ## Recently Updated Themes
 
 $THEMES_RECENTS
+
+<p>&nbsp;</p>
+
+<table align="center"><td>
+
+[SHOW ALL THEMES](generated/custom/index.md)
+
+</td></table>
 
 <p>&nbsp;</p>
 
