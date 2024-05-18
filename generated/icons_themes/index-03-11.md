@@ -189,7 +189,7 @@
 
 **Milk White by Segich**
 
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip "Milk White by Segich") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip "Milk White by Segich") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 </td>
 
