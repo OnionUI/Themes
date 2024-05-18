@@ -146,6 +146,19 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip">
+<img title="Name: Material (6-pack)&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Material%20%286-pack%29%20by%20tenlevels/preview.png" /><br/>
+<b>Material (6-pack)</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Material (6-pack) by tenlevels">2024-05-19 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Material%20%286-pack%29%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Blue%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Material%20%286-pack%29%20by%20tenlevels,Material%20Blue%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Blue%20by%20tenlevels/icons,Material%20Green%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Green%20by%20tenlevels/icons,Material%20Orange%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Orange%20by%20tenlevels/icons,Material%20Pink%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Pink%20by%20tenlevels/icons,Material%20Purple%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Purple%20by%20tenlevels/icons,Material%20White%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
+
+
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
 <img title="Name: AnalogPhosphor (3-pack)&#013;Author: trash&#013;Last updated: 2024-05-19&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
 <b>AnalogPhosphor (3-pack)</b>
@@ -166,19 +179,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>Sheezie</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-19 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Capcom SNK (Handheld Filter) by Sheezie">2024-05-19 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Sheezie%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie,Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie:themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Shallot%20by%20Cyberbellum.zip">
-<img title="Name: Shallot&#013;Author: Cyberbellum&#013;Last updated: 2024-05-19&#013;Description: Minimalist theme, inspired by Aemiii91's Analogue theme.&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png" /><br/>
-<b>Shallot</b>
-</a><br/>
-<sup><i>Cyberbellum</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-19 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Shallot by Cyberbellum">2024-05-19 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Cyberbellum%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Shallot%20by%20Cyberbellum/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Shallot%20by%20Cyberbellum,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
