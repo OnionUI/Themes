@@ -88,7 +88,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
   - The **Themes** app will automatically unpack these once you apply them.
 
 
-### Standalone Icon Packs
+### Standalone icon packs
 
 - Make sure you're on at least Onion v4.1+.
 - Extract the downloaded icon pack to the `Icons` folder on your SD card.
