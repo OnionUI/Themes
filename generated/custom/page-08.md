@@ -1,16 +1,73 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Custom Themes
 
-**Page 8 of 13**  
-*Showing 85–96 of 156 items*
+*Page 8 of 13 — 156 items available*
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -118,7 +175,7 @@
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v9)" href="https://github.com/OnionUI/Themes/commits/main/themes/PAC-MIYOO by tenlevels">2024-05-18 (v9)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PAC-MIYOO%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=PAC-MIYOO%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#PAC-MIYOO%20by%20tenlevels,PAC-MIYOO%20by%20tenlevels:themes/PAC-MIYOO%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v9)" href="https://github.com/OnionUI/Themes/commits/main/themes/PAC-MIYOO by tenlevels">2024-05-18 (v9)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PAC-MIYOO%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/PAC-MIYOO%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=PAC-MIYOO%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#PAC-MIYOO%20by%20tenlevels,PAC-MIYOO%20by%20tenlevels:themes/PAC-MIYOO%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -131,7 +188,7 @@
 </a><br/>
 <sup><i>TheDewd</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v9)" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2024-05-18 (v9)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Super%20Onion%20Entertainment%20System%20by%20TheDewd"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v9)" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Onion Entertainment System by TheDewd">2024-05-18 (v9)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TheDewd%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Super%20Onion%20Entertainment%20System%20by%20TheDewd"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -143,7 +200,7 @@
 </a><br/>
 <sup><i>Amdy</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2024-05-18 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch (2-pack) by Amdy">2024-05-18 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20%282-pack%29%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -167,14 +224,14 @@
 
 <table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV PAGE](page-07.md)
+[❮&nbsp;&nbsp;PREV PAGE](page-07.md)
 
 </td><td align="center">
 
-[01](index.md) &nbsp;[02](page-02.md) &nbsp;[03](page-03.md) &nbsp;[04](page-04.md) &nbsp;[05](page-05.md) &nbsp;[06](page-06.md) &nbsp;[07](page-07.md) &nbsp;**08** &nbsp;[09](page-09.md) &nbsp;[10](page-10.md) &nbsp;[11](page-11.md) &nbsp;[12](page-12.md) &nbsp;[13](page-13.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;&hellip; &nbsp;[&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &nbsp;**8**&nbsp; [&nbsp;9&nbsp;](page-09.md) [&nbsp;10&nbsp;](page-10.md) &nbsp;&hellip; &nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;▶](page-09.md)
+[NEXT PAGE&nbsp;&nbsp;❯](page-09.md)
 
 </td></tr></table>

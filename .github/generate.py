@@ -52,8 +52,8 @@ def main():
     write_pages(themes_custom, "custom", "Custom Themes", generate_table_grid)
     write_pages(themes_remixed, "remixed", "Remixed Themes", generate_table_grid)
     
-    write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table)
-    write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table)
+    write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table, page_size=9)
+    write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table, page_size=9)
 
     write_file(README_PATH, generate_index({
         "custom": len(themes_custom),
@@ -67,7 +67,7 @@ def main():
 
 def write_file(path: str, buffer: str):
     with open(path, "w+", encoding="utf-8") as outfile:
-        outfile.write(buffer)
+        outfile.write(WARN_GENERATED_FILE + buffer)
 
 
 def apply_template(path: str, data: dict) -> str:
@@ -114,16 +114,10 @@ def write_pages(items: list, group_name: str, group_header: str, item_grid_gener
 
         index = page * page_size
         batch = items[index  : index + page_size]
-        last_item = min(index + page_size, total)
         
         buffer = ""
         buffer += apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(current_path, current_group=group_name) })
-        buffer += f"""
-## {group_header}
-
-**Page {page + 1} of {num_pages}**  
-*Showing {index + 1}–{last_item} of {total} items*
-"""
+        buffer += f"\n## {group_header}\n\n*Page {page + 1} of {num_pages} — {total} items available*\n"
         buffer += item_grid_generator(batch, **opts) + "\n\n"
 
         if num_pages > 1:
@@ -139,35 +133,48 @@ def generate_header_links(current_path: str, current_group: str = None):
             links.append(f"**{text}**")
         else:
             links.append(f"[{text}]({rel_path(link, current_path)})")
-    return " &nbsp;•&nbsp; ".join(links)
+    return f"{LB_SPACER}•{LB_SPACER}".join(links)
 
 
 def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer = ""
-
     buffer += """---\n\n<table align="center"><tr>"""
-
     if current_page > 0:
-        buffer += f"""<td align="right">\n\n[◀&nbsp;PREV PAGE]({format_page_filename(current_page - 1)})\n\n</td>"""
-
-    buffer += """<td align="center">\n\n"""
-    
-    for page in range(num_pages):        
-        if page == current_page:
-            buffer += f"**{page + 1:02}**"
-        else:
-            buffer += f"[{page + 1:02}]({format_page_filename(page)})"
-        if page < num_pages - 1:
-            buffer += " &nbsp;"
-
-    buffer += "\n\n</td>"
-    
+        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV PAGE]({format_page_filename(current_page - 1)})\n\n</td>"""
+    buffer += f"""<td align="center">\n\n{generate_page_links(current_page, num_pages)}\n\n</td>"""
     if current_page < num_pages - 1:
-        buffer += f"<td>\n\n[NEXT PAGE&nbsp;▶]({format_page_filename(current_page + 1)})\n\n</td>"
-
+        buffer += f"<td>\n\n[NEXT PAGE{NB_SPACER}❯]({format_page_filename(current_page + 1)})\n\n</td>"
     buffer += "</tr></table>"
-
     return buffer
+
+
+def generate_page_links(current_page: int, num_pages: int) -> str:
+    if num_pages <= 9:
+        return LB_SPACER.join(generate_page_link(page, current_page) for page in range(num_pages))
+    
+    last_page = num_pages - 1
+    cutoff = 5
+    half_cut = math.floor(cutoff / 2)
+
+    is_low = current_page < cutoff
+    is_high = current_page > last_page - cutoff
+    
+    buffer = ""
+    buffer += generate_page_link(0, current_page) + LB_SPACER
+    buffer += generate_page_link_range(range(1, cutoff + 2), current_page) if is_low else "&hellip;"
+    buffer += LB_SPACER if is_low or is_high \
+        else LB_SPACER + generate_page_link_range(range(current_page - half_cut, current_page + half_cut + 1), current_page) + LB_SPACER
+    buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page) if is_high else "&hellip;"
+    buffer += LB_SPACER + generate_page_link(last_page, current_page)
+    return buffer
+
+
+def generate_page_link_range(rng: range, current_page: int) -> str:
+    return " ".join(generate_page_link(page, current_page) for page in rng)
+
+
+def generate_page_link(page: int, current_page: int) -> str:
+    return f"{NB_SPACE}**{page + 1}**{NB_SPACE}" if page == current_page else f"[{NB_SPACE}{page + 1}{NB_SPACE}]({format_page_filename(page)})"
 
 
 def generate_table_grid(themes) -> str:
@@ -244,10 +251,10 @@ def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str
         "NAME": name + " ★" if is_featured else name,
         "AUTHOR": author or "&nbsp;",
         "TITLE": title,
-        "HAS_BGM": f"&nbsp;&nbsp;<a href=\"https://onionui.github.io/bgm_preview.html?theme={urlencode(theme_subdirs[0][7:])}\">{BGM_ICON}</a>" if has_bgm else "",
-        "HAS_ICONPACK": f"&nbsp; <a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
-        "README": f"&nbsp;&nbsp;<a href=\"{urlencode(readme_path)}\">{README_ICON}</a>" if len(readme_path) != 0 else "",
-        "AUTHOR_BTN": f"&nbsp;&nbsp;<a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
+        "HAS_BGM": f"{NB_SPACER}<a href=\"https://onionui.github.io/bgm_preview.html?theme={urlencode(theme_subdirs[0][7:])}\">{BGM_ICON}</a>" if has_bgm else "",
+        "HAS_ICONPACK": f"{LB_SPACER}<a href=\"{generate_icon_pack_url(theme, theme_subdirs)}\">{HAS_ICONPACK_ICON}</a>" if has_icon_pack else "",
+        "README": f"{NB_SPACER}<a href=\"{urlencode(readme_path)}\">{README_ICON}</a>" if len(readme_path) != 0 else "",
+        "AUTHOR_BTN": f"{NB_SPACER}<a href=\"https://github.com/search?l=ZIP&q=filename%3A%22{urlencode(author)}%22+repo%3AOnionUI%2FThemes\">{AUTHOR_ICON}</a>" if author else "",
         "UPDATED": f"{last_updated} (v{commit_count})" if commit_count > 1 else last_updated,
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,

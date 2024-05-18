@@ -1,16 +1,73 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Custom Themes
 
-**Page 6 of 13**  
-*Showing 61–72 of 156 items*
+*Page 6 of 13 — 156 items available*
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -20,7 +77,7 @@
 </a><br/>
 <sup><i>TechDweeb</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v6)" href="https://github.com/OnionUI/Themes/commits/main/themes/TechDweeb by TechDweeb">2024-05-18 (v6)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TechDweeb%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TechDweeb%20by%20TechDweeb/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/TechDweeb%20by%20TechDweeb/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v6)" href="https://github.com/OnionUI/Themes/commits/main/themes/TechDweeb by TechDweeb">2024-05-18 (v6)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TechDweeb%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TechDweeb%20by%20TechDweeb/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/TechDweeb%20by%20TechDweeb/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -32,7 +89,7 @@
 </a><br/>
 <sup><i>Oclain</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Fake DMG Classic by Oclain">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Oclain%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20DMG%20Classic%20by%20Oclain/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Fake%20DMG%20Classic%20by%20Oclain"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Fake%20DMG%20Classic%20by%20Oclain,Fake%20DMG%20Classic%20by%20Oclain:themes/Fake%20DMG%20Classic%20by%20Oclain/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Fake DMG Classic by Oclain">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Oclain%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20DMG%20Classic%20by%20Oclain/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Fake%20DMG%20Classic%20by%20Oclain"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Fake%20DMG%20Classic%20by%20Oclain,Fake%20DMG%20Classic%20by%20Oclain:themes/Fake%20DMG%20Classic%20by%20Oclain/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -44,7 +101,7 @@
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v6)" href="https://github.com/OnionUI/Themes/commits/main/themes/M by tenlevels">2024-05-18 (v6)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v6)" href="https://github.com/OnionUI/Themes/commits/main/themes/M by tenlevels">2024-05-18 (v6)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -81,7 +138,7 @@
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks (2-pack) by tenlevels">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Blocks (2-pack) by tenlevels">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -106,7 +163,7 @@
 </a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/YoRHa by Deepslackerjazz">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Deepslackerjazz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=YoRHa%20by%20Deepslackerjazz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/YoRHa by Deepslackerjazz">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Deepslackerjazz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=YoRHa%20by%20Deepslackerjazz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -131,7 +188,7 @@
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/NEON.ion by tenlevels">2024-05-18 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEON.ion%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/NEON.ion%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=NEON.ion%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/NEON.ion by tenlevels">2024-05-18 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEON.ion%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/NEON.ion%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=NEON.ion%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -167,14 +224,14 @@
 
 <table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV PAGE](page-05.md)
+[❮&nbsp;&nbsp;PREV PAGE](page-05.md)
 
 </td><td align="center">
 
-[01](index.md) &nbsp;[02](page-02.md) &nbsp;[03](page-03.md) &nbsp;[04](page-04.md) &nbsp;[05](page-05.md) &nbsp;**06** &nbsp;[07](page-07.md) &nbsp;[08](page-08.md) &nbsp;[09](page-09.md) &nbsp;[10](page-10.md) &nbsp;[11](page-11.md) &nbsp;[12](page-12.md) &nbsp;[13](page-13.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;&hellip; &nbsp;[&nbsp;4&nbsp;](page-04.md) [&nbsp;5&nbsp;](page-05.md) &nbsp;**6**&nbsp; [&nbsp;7&nbsp;](page-07.md) [&nbsp;8&nbsp;](page-08.md) &nbsp;&hellip; &nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;▶](page-07.md)
+[NEXT PAGE&nbsp;&nbsp;❯](page-07.md)
 
 </td></tr></table>

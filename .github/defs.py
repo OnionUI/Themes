@@ -8,6 +8,7 @@ def rel_path(path: str, from_path: str) -> str:
 
 THEME_DIR = from_src("../themes")
 RELEASE_DIR = from_src("../release")
+PAGES_DIR = from_src("../generated")
 TEMP_DIR = from_src("temp")
 
 FEATURED_ORDERING = from_src("data/featured.txt")
@@ -19,7 +20,6 @@ ICONS_BLACKLIST = from_src("data/icons_blacklist.txt")
 README_TEST = ["readme.md", "README.md", "readme.txt", "README.txt"]
 REL_PATH = os.path.abspath(os.path.join(SRC_DIR, ".."))
 
-PAGES_DIR = from_src("../pages")
 PAGES_ICONS_DIR = os.path.join(PAGES_DIR, "icons")
 README_PATH = from_src("../README.md")
 INDEX_TEMPLATE = from_src("template/index.template.md")
@@ -41,6 +41,10 @@ README_ICON = f"<img src=\"{README_ICON_URL}\" height=\"16\" title=\"README\">"
 
 PREVIEW_ICON = f"<img src=\"{HAS_ICONPACK_ICON_URL}\" height=\"16\" title=\"Show full preview\">"
 
+NB_SPACE = "&nbsp;"
+NB_SPACER = NB_SPACE * 2
+LB_SPACER = " " + NB_SPACE
+
 _pages = {
     "custom": "Custom Themes",
     "remixed": "Remixed Themes",
@@ -49,7 +53,7 @@ _pages = {
 }
 
 HEADER_LINKS = {
-    **{name: [text.replace(" ", "&nbsp;"), os.path.join(PAGES_DIR, name, "index.md")] for name, text in _pages.items()},
+    **{name: [text.replace(" ", NB_SPACE), os.path.join(PAGES_DIR, name, "index.md")] for name, text in _pages.items()},
     "contributing": ["Contributing", from_src("../CONTRIBUTING.md")]
 }
 
@@ -60,4 +64,24 @@ ICONS_COLS = 3
 MAX_RECENTS = 3
 
 COLUMN_WIDTH = 46
-COLUMN_SPANNER = "&nbsp;" * COLUMN_WIDTH
+COLUMN_SPANNER = NB_SPACE * COLUMN_WIDTH
+
+WARN_GENERATED_FILE = f"""<!--{'\n' * 20}
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+{'\n' * 20}-->
+"""

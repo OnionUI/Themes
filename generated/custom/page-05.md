@@ -1,16 +1,73 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Custom Themes
 
-**Page 5 of 13**  
-*Showing 49–60 of 156 items*
+*Page 5 of 13 — 156 items available*
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -69,7 +126,7 @@
 </a><br/>
 <sup><i>ytdcpndsgn</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/OOSFC by ytdcpndsgn">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ytdcpndsgn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OOSFC%20by%20ytdcpndsgn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/OOSFC by ytdcpndsgn">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ytdcpndsgn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OOSFC%20by%20ytdcpndsgn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -131,7 +188,7 @@
 </a><br/>
 <sup><i>Segich</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Milk White by Segich">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Segich%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20White%20by%20Segich/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Milk White by Segich">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Segich%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20White%20by%20Segich/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -143,7 +200,7 @@
 </a><br/>
 <sup><i>Dreambrace</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2023-03-20" href="https://github.com/OnionUI/Themes/commits/main/themes/HAZARD by Dreambrace">2023-03-20</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Dreambrace%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/HAZARD%20by%20Dreambrace/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/HAZARD%20by%20Dreambrace/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#HAZARD%20by%20Dreambrace,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2023-03-20" href="https://github.com/OnionUI/Themes/commits/main/themes/HAZARD by Dreambrace">2023-03-20</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Dreambrace%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/HAZARD%20by%20Dreambrace/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/HAZARD%20by%20Dreambrace/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#HAZARD%20by%20Dreambrace,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -155,7 +212,7 @@
 </a><br/>
 <sup><i>hanessh4</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v5)" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2024-05-18 (v5)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v5)" href="https://github.com/OnionUI/Themes/commits/main/themes/ONION PS (4-pack) by hanessh4">2024-05-18 (v5)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22hanessh4%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Blue%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#ONION%20PS%20%284-pack%29%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -167,14 +224,14 @@
 
 <table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV PAGE](page-04.md)
+[❮&nbsp;&nbsp;PREV PAGE](page-04.md)
 
 </td><td align="center">
 
-[01](index.md) &nbsp;[02](page-02.md) &nbsp;[03](page-03.md) &nbsp;[04](page-04.md) &nbsp;**05** &nbsp;[06](page-06.md) &nbsp;[07](page-07.md) &nbsp;[08](page-08.md) &nbsp;[09](page-09.md) &nbsp;[10](page-10.md) &nbsp;[11](page-11.md) &nbsp;[12](page-12.md) &nbsp;[13](page-13.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;[&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md) &nbsp;**5**&nbsp; [&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &nbsp;&hellip; &nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;▶](page-06.md)
+[NEXT PAGE&nbsp;&nbsp;❯](page-06.md)
 
 </td></tr></table>

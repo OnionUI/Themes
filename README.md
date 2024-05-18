@@ -1,8 +1,66 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](pages/custom/index.md) &nbsp;•&nbsp; [Remixed&nbsp;Themes](pages/remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](pages/icons_themes/index.md) &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](pages/icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](generated/custom/index.md) &nbsp;• &nbsp;[Remixed&nbsp;Themes](generated/remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](generated/icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](generated/icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
@@ -13,13 +71,13 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Custom&nbsp;Themes (156)](pages/custom/index.md)
+### [Custom&nbsp;Themes (156)](generated/custom/index.md)
 
-### [Remixed&nbsp;Themes (15)](pages/remixed/index.md)
+### [Remixed&nbsp;Themes (15)](generated/remixed/index.md)
 
-### [Theme&nbsp;Icon&nbsp;Packs (43)](pages/icons_themes/index.md)
+### [Theme&nbsp;Icon&nbsp;Packs (43)](generated/icons_themes/index.md)
 
-### [Standalone&nbsp;Icon&nbsp;Packs (7)](pages/icons_standalone/index.md)
+### [Standalone&nbsp;Icon&nbsp;Packs (7)](generated/icons_standalone/index.md)
 
 
 
@@ -54,7 +112,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>trash</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-03-13" href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor (3-pack) by trash">2024-03-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-03-13" href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor (3-pack) by trash">2024-03-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -90,7 +148,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>Sheezie</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Capcom SNK (Handheld Filter) by Sheezie">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Sheezie%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie,Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie:themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Capcom SNK (Handheld Filter) by Sheezie">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Sheezie%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie,Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie:themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -104,7 +162,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>MLOPEZMAD</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky Remix SUPER GAME BOY by MLOPEZMAD">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MLOPEZMAD%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD,Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD:themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky Remix SUPER GAME BOY by MLOPEZMAD">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MLOPEZMAD%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD,Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD:themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
@@ -118,7 +176,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 </a><br/>
 <sup><i>LamiaLazuli</i></sup><br>
 <sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Mucha Miyoo by LamiaLazuli">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22LamiaLazuli%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Mucha%20Miyoo%20by%20LamiaLazuli"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Mucha Miyoo by LamiaLazuli">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22LamiaLazuli%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Mucha%20Miyoo%20by%20LamiaLazuli"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

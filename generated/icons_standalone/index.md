@@ -1,16 +1,73 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](../custom/index.md) &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;•&nbsp; **Standalone&nbsp;Icon&nbsp;Packs** &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](../custom/index.md) &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;**Standalone&nbsp;Icon&nbsp;Packs** &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Standalone Icon Packs
 
-**Page 1 of 1**  
-*Showing 1–7 of 7 items*
+*Page 1 of 1 — 7 items available*
 <table align=center><tr>
 
 

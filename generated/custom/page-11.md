@@ -1,16 +1,73 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; [Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; **Custom&nbsp;Themes** &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;[Theme&nbsp;Icon&nbsp;Packs](../icons_themes/index.md) &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Custom Themes
 
-**Page 11 of 13**  
-*Showing 121–132 of 156 items*
+*Page 11 of 13 — 156 items available*
 <table align="center"><tr>
 <td align="center" valign="top">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -167,14 +224,14 @@
 
 <table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV PAGE](page-10.md)
+[❮&nbsp;&nbsp;PREV PAGE](page-10.md)
 
 </td><td align="center">
 
-[01](index.md) &nbsp;[02](page-02.md) &nbsp;[03](page-03.md) &nbsp;[04](page-04.md) &nbsp;[05](page-05.md) &nbsp;[06](page-06.md) &nbsp;[07](page-07.md) &nbsp;[08](page-08.md) &nbsp;[09](page-09.md) &nbsp;[10](page-10.md) &nbsp;**11** &nbsp;[12](page-12.md) &nbsp;[13](page-13.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;&hellip; &nbsp;[&nbsp;7&nbsp;](page-07.md) [&nbsp;8&nbsp;](page-08.md) [&nbsp;9&nbsp;](page-09.md) [&nbsp;10&nbsp;](page-10.md) &nbsp;**11**&nbsp; [&nbsp;12&nbsp;](page-12.md) &nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;▶](page-12.md)
+[NEXT PAGE&nbsp;&nbsp;❯](page-12.md)
 
 </td></tr></table>

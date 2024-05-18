@@ -1,58 +1,75 @@
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================================================
+---------------------------------------------------------------------------------
+
+██████╗  ██████╗     ███╗   ██╗ ██████╗ ████████╗    ███████╗██████╗ ██╗████████╗
+██╔══██╗██╔═══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║╚══██╔══╝
+██║  ██║██║   ██║    ██╔██╗ ██║██║   ██║   ██║       █████╗  ██║  ██║██║   ██║   
+██║  ██║██║   ██║    ██║╚██╗██║██║   ██║   ██║       ██╔══╝  ██║  ██║██║   ██║   
+██████╔╝╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║       ███████╗██████╔╝██║   ██║   
+╚═════╝  ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝       ╚══════╝╚═════╝ ╚═╝   ╚═╝   
+
+---------------------------------------------------------------------------------
+=================================================================================
+
+                  Note: This file was automatically generated.
+
+            Run `python .github/generate.py` to regenerate the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
 <p>&nbsp;</p>
 
 # <img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506709-0db2a8f5-3074-477c-81c4-719f281ddccc.png#gh-dark-mode-only" width="464px"><img alt="Onion Themes" src="https://user-images.githubusercontent.com/44569252/179506712-d5a1a916-7270-4902-aa55-5d93f7ee0f6e.png#gh-light-mode-only" width="464px">
 
-*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](../custom/index.md) &nbsp;•&nbsp; [Remixed&nbsp;Themes](../remixed/index.md) &nbsp;•&nbsp; **Theme&nbsp;Icon&nbsp;Packs** &nbsp;•&nbsp; [Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;•&nbsp; [Contributing](../../CONTRIBUTING.md)
+*The Onion Theme Repository* &nbsp;•&nbsp; [Custom&nbsp;Themes](../custom/index.md) &nbsp;• &nbsp;[Remixed&nbsp;Themes](../remixed/index.md) &nbsp;• &nbsp;**Theme&nbsp;Icon&nbsp;Packs** &nbsp;• &nbsp;[Standalone&nbsp;Icon&nbsp;Packs](../icons_standalone/index.md) &nbsp;• &nbsp;[Contributing](../../CONTRIBUTING.md)
 
 <p>&nbsp;</p>
 
 
 ## Theme Icon Packs
 
-**Page 3 of 4**  
-*Showing 25–36 of 43 items*
+*Page 4 of 5 — 43 items available*
 <table align=center><tr>
 
-
-<td valign="top">
-
-#### TechDweeb by TechDweeb
-
-![TechDweeb by TechDweeb](../../themes/TechDweeb%20by%20TechDweeb/icons/preview.png)
-
-[Download TechDweeb by TechDweeb (theme)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/TechDweeb%20by%20TechDweeb.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/TechDweeb%20by%20TechDweeb/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#TechDweeb%20by%20TechDweeb,TechDweeb%20by%20TechDweeb:themes/TechDweeb%20by%20TechDweeb/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top">
-
-#### Fake DMG Classic by Oclain
-
-![Fake DMG Classic by Oclain](../../themes/Fake%20DMG%20Classic%20by%20Oclain/icons/preview.png)
-
-[Download Fake DMG Classic by Oclain (theme)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20DMG%20Classic%20by%20Oclain.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Fake%20DMG%20Classic%20by%20Oclain,Fake%20DMG%20Classic%20by%20Oclain:themes/Fake%20DMG%20Classic%20by%20Oclain/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top">
-
-#### M by tenlevels
-
-![M by tenlevels](../../themes/M%20by%20tenlevels/icons/preview.png)
-
-[Download M by tenlevels (theme)](https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip)
-
-<sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-</tr><tr>
 
 <td valign="top">
 
@@ -64,7 +81,7 @@
 
 <sub><sup>53/54 icons (98% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20%282-pack%29%20by%20tenlevels,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top">
@@ -77,7 +94,7 @@
 
 <sub><sup>27/54 icons (50% complete)</sup> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top">
@@ -90,7 +107,7 @@
 
 <sub><sup>54/54 icons (100% complete)</sup> &nbsp;&nbsp; <a href="/themes/NEON.ion%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; <a href="https://onionui.github.io/iconpack_preview.html#NEON.ion%20by%20tenlevels,NEON.ion%20by%20tenlevels:themes/NEON.ion%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="Show full preview"></a></sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 </tr><tr>
 
@@ -180,14 +197,14 @@
 
 <table align="center"><tr><td align="right">
 
-[◀&nbsp;PREV PAGE](page-02.md)
+[❮&nbsp;&nbsp;PREV PAGE](page-03.md)
 
 </td><td align="center">
 
-[01](index.md) &nbsp;[02](page-02.md) &nbsp;**03** &nbsp;[04](page-04.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;[&nbsp;2&nbsp;](page-02.md) &nbsp;[&nbsp;3&nbsp;](page-03.md) &nbsp;&nbsp;**4**&nbsp; &nbsp;[&nbsp;5&nbsp;](page-05.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;▶](page-04.md)
+[NEXT PAGE&nbsp;&nbsp;❯](page-05.md)
 
 </td></tr></table>
