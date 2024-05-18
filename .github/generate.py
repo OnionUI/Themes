@@ -171,7 +171,7 @@ def generate_page_links(current_page: int, num_pages: int) -> str:
 
 
 def generate_page_link_range(rng: range, current_page: int) -> str:
-    return NB_SPACE.join(generate_page_link(page, current_page) for page in rng)
+    return " ".join(generate_page_link(page, current_page) for page in rng)
 
 
 def generate_page_link(page: int, current_page: int) -> str:

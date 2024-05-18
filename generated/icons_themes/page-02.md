@@ -240,7 +240,7 @@
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md)&nbsp;&nbsp;**2**&nbsp;&nbsp;[&nbsp;3&nbsp;](page-03.md)&nbsp;[&nbsp;4&nbsp;](page-04.md)
+[&nbsp;1&nbsp;](index.md) &nbsp;**2**&nbsp; [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md)
 
 </td><td>
 

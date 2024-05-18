@@ -224,7 +224,7 @@
 
 <table align="center"><tr><td align="center">
 
-&nbsp;**1**&nbsp;&nbsp;[&nbsp;2&nbsp;](page-02.md)
+&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](page-02.md)
 
 </td><td>
 

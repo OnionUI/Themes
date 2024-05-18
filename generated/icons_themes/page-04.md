@@ -174,6 +174,6 @@
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md)&nbsp;[&nbsp;2&nbsp;](page-02.md)&nbsp;[&nbsp;3&nbsp;](page-03.md)&nbsp;&nbsp;**4**&nbsp;
+[&nbsp;1&nbsp;](index.md) [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) &nbsp;**4**&nbsp;
 
 </td></tr></table>
