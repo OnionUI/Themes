@@ -90,7 +90,7 @@ def generate_index(counts: dict):
     
     for group_name, count in counts.items():
         text, link = HEADER_LINKS[group_name]
-        buffer += f"### [{text} ({count})]({rel_path(link, ".")})\n\n"
+        buffer += f"### [{text} ({count})]({rel_path(link, '.')})\n\n"
 
     buffer += "\n\n<p>&nbsp;</p>\n\n## New or updated themes\n\n"
     recently_updated.sort(key=lambda item: item["ts"], reverse=True)
