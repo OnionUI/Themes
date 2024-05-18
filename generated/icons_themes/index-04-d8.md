@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 2 of 5 — 53 items available*
+*Page 2 of 5 — 50 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![Mucha Miyoo by LamiaLazuli](../../themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons "Click to see the full icon pack preview page")
-
-**Mucha Miyoo by LamiaLazuli**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip "Mucha Miyoo by LamiaLazuli") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![StarOnion64 by LeonardoDaPinchy](../../themes/StarOnion64%20by%20LeonardoDaPinchy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#StarOnion64%20by%20LeonardoDaPinchy,StarOnion64%20by%20LeonardoDaPinchy:themes/StarOnion64%20by%20LeonardoDaPinchy/icons "Click to see the full icon pack preview page")
-
-**StarOnion64 by LeonardoDaPinchy**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/StarOnion64%20by%20LeonardoDaPinchy.zip "StarOnion64 by LeonardoDaPinchy") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/StarOnion64%20by%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![NES by MLOPEZMAD](../../themes/NES%20by%20MLOPEZMAD/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NES%20by%20MLOPEZMAD,NES%20by%20MLOPEZMAD:themes/NES%20by%20MLOPEZMAD/icons "Click to see the full icon pack preview page")
-
-**NES by MLOPEZMAD**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NES%20by%20MLOPEZMAD.zip "NES by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 91%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/NES%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -193,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -201,6 +168,39 @@
 **Neumorphism-Yellow by bantam**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![NBA Onion by Tom Tower](../../themes/NBA%20Onion%20by%20Tom%20Tower/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NBA%20Onion%20by%20Tom%20Tower,NBA%20Onion%20by%20Tom%20Tower:themes/NBA%20Onion%20by%20Tom%20Tower/icons "Click to see the full icon pack preview page")
+
+**NBA Onion by Tom Tower**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip "NBA Onion by Tom Tower") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![2CleanMini by Sheezie](../../themes/2CleanMini%20by%20Sheezie/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#2CleanMini%20by%20Sheezie,2CleanMini%20by%20Sheezie:themes/2CleanMini%20by%20Sheezie/icons "Click to see the full icon pack preview page")
+
+**2CleanMini by Sheezie**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip "2CleanMini by Sheezie") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![RetroRama by TooGeekCreations](../../themes/RetroRama%20by%20TooGeekCreations/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#RetroRama%20by%20TooGeekCreations,RetroRama%20by%20TooGeekCreations:themes/RetroRama%20by%20TooGeekCreations/icons "Click to see the full icon pack preview page")
+
+**RetroRama by TooGeekCreations**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip "RetroRama by TooGeekCreations") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/RetroRama%20by%20TooGeekCreations/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 </td>
 

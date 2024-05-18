@@ -67,7 +67,7 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 1 of 5 — 53 items available*
+*Page 1 of 5 — 50 items available*
 <table align=center><tr>
 
 
@@ -163,28 +163,6 @@
 
 <td valign="top" width="25.00%">
 
-[![Hello Miyoo by tenlevels](../../themes/Hello%20Miyoo%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Hello%20Miyoo%20by%20tenlevels,Hello%20Miyoo%20by%20tenlevels:themes/Hello%20Miyoo%20by%20tenlevels/icons "Click to see the full icon pack preview page")
-
-**Hello Miyoo by tenlevels**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hello%20Miyoo%20by%20tenlevels.zip "Hello Miyoo by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![Lifestream by Inheritor](../../themes/Lifestream%20by%20Inheritor/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Lifestream%20by%20Inheritor,Lifestream%20by%20Inheritor:themes/Lifestream%20by%20Inheritor/icons "Click to see the full icon pack preview page")
-
-**Lifestream by Inheritor**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lifestream%20by%20Inheritor.zip "Lifestream by Inheritor") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
 [![Capcom SNK (Handheld Filter) by Sheezie](../../themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie,Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie:themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons "Click to see the full icon pack preview page")
 
 **Capcom SNK (Handheld Filter) by Sheezie**
@@ -196,11 +174,33 @@
 
 <td valign="top" width="25.00%">
 
-[![Silky Remix SUPER GAME BOY by MLOPEZMAD](../../themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD,Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD:themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons "Click to see the full icon pack preview page")
+[![Mucha Miyoo by LamiaLazuli](../../themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons "Click to see the full icon pack preview page")
 
-**Silky Remix SUPER GAME BOY by MLOPEZMAD**
+**Mucha Miyoo by LamiaLazuli**
 
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip "Silky Remix SUPER GAME BOY by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip "Mucha Miyoo by LamiaLazuli") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![StarOnion64 by LeonardoDaPinchy](../../themes/StarOnion64%20by%20LeonardoDaPinchy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#StarOnion64%20by%20LeonardoDaPinchy,StarOnion64%20by%20LeonardoDaPinchy:themes/StarOnion64%20by%20LeonardoDaPinchy/icons "Click to see the full icon pack preview page")
+
+**StarOnion64 by LeonardoDaPinchy**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/StarOnion64%20by%20LeonardoDaPinchy.zip "StarOnion64 by LeonardoDaPinchy") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/StarOnion64%20by%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![NES by MLOPEZMAD](../../themes/NES%20by%20MLOPEZMAD/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NES%20by%20MLOPEZMAD,NES%20by%20MLOPEZMAD:themes/NES%20by%20MLOPEZMAD/icons "Click to see the full icon pack preview page")
+
+**NES by MLOPEZMAD**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NES%20by%20MLOPEZMAD.zip "NES by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 91%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/NES%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 </td>
 

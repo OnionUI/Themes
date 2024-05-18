@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 4 of 5 — 53 items available*
+*Page 4 of 5 — 50 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![M by tenlevels](../../themes/M%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#M%20by%20tenlevels,M%20by%20tenlevels:themes/M%20by%20tenlevels/icons "Click to see the full icon pack preview page")
-
-**M by tenlevels**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip "M by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![Onion Blocks Concurrent](../../themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Onion%20Blocks%20Concurrent,Onion%20Blocks%20Concurrent:themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/Onion%20Blocks%20Concurrent/icons "Click to see the full icon pack preview page")
-
-**Onion Blocks Concurrent**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip "Onion Blocks (2-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![YoRHa by Deepslackerjazz](../../themes/YoRHa%20by%20Deepslackerjazz/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons "Click to see the full icon pack preview page")
-
-**YoRHa by Deepslackerjazz**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/YoRHa%20by%20Deepslackerjazz.zip "YoRHa by Deepslackerjazz") <sub><sup>&nbsp;&nbsp; 50%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -193,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -201,6 +168,39 @@
 **Onionboy HD by Jeltron**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onionboy%20HD%20by%20Jeltron.zip "Onionboy HD by Jeltron") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![Analogue by Aemiii91](../../themes/Analogue%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Analogue%20by%20Aemiii91,Analogue%20by%20Aemiii91:themes/Analogue%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**Analogue by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Analogue%20by%20Aemiii91.zip "Analogue by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![Blueprint by Aemiii91](../../themes/Blueprint%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Blueprint%20by%20Aemiii91,Blueprint%20by%20Aemiii91:themes/Blueprint%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**Blueprint by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20by%20Aemiii91.zip "Blueprint by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
+
+
+<td valign="top" width="25.00%">
+
+[![Wasteland Nevada by Bernig + LeonardoDaPinchy](../../themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy,Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy:themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/icons "Click to see the full icon pack preview page")
+
+**Wasteland Nevada by Bernig + LeonardoDaPinchy**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy.zip "Wasteland Nevada by Bernig + LeonardoDaPinchy") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 </td>
 
