@@ -286,10 +286,11 @@ def generate_item(theme: str, collect_data: bool = False) -> str:
                         release_url=release_url,
                         theme_subdir=subdir)
                         for subdir in valid_subdirs)
-        if commit_count <= 1:
-            recents_maybe_append(recently_added, last_changed_datetime, theme)
-        else:
-            recents_maybe_append(recently_updated, last_changed_datetime, theme)
+        if last_changed_datetime:
+            if commit_count <= 1:
+                recents_maybe_append(recently_added, last_changed_datetime, theme)
+            else:
+                recents_maybe_append(recently_updated, last_changed_datetime, theme)
 
     return apply_template(ITEM_TEMPLATE, item)
 
