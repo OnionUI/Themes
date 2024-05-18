@@ -224,10 +224,10 @@
 
 <table align="center"><tr><td align="center">
 
-&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md) [&nbsp;5&nbsp;](page-05.md) [&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &hellip; [&nbsp;13&nbsp;](page-13.md)
+&nbsp;**1**&nbsp;&nbsp;[&nbsp;2&nbsp;](page-02.md)&nbsp;[&nbsp;3&nbsp;](page-03.md)&nbsp;[&nbsp;4&nbsp;](page-04.md)&nbsp;[&nbsp;5&nbsp;](page-05.md)&nbsp;[&nbsp;6&nbsp;](page-06.md)&nbsp;[&nbsp;7&nbsp;](page-07.md) &hellip;&nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;&nbsp;❯](page-02.md)
+[NEXT&nbsp;&nbsp;❯](page-02.md)
 
 </td></tr></table>

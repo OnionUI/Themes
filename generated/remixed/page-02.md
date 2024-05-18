@@ -113,10 +113,10 @@
 
 <table align="center"><tr><td align="right">
 
-[❮&nbsp;&nbsp;PREV PAGE](index.md)
+[❮&nbsp;&nbsp;PREV](index.md)
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) &nbsp;**2**&nbsp;
+[&nbsp;1&nbsp;](index.md)&nbsp;&nbsp;**2**&nbsp;
 
 </td></tr></table>

@@ -236,10 +236,10 @@
 
 <table align="center"><tr><td align="center">
 
-&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](page-02.md) [&nbsp;3&nbsp;](page-03.md) [&nbsp;4&nbsp;](page-04.md)
+&nbsp;**1**&nbsp;&nbsp;[&nbsp;2&nbsp;](page-02.md)&nbsp;[&nbsp;3&nbsp;](page-03.md)&nbsp;[&nbsp;4&nbsp;](page-04.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;&nbsp;❯](page-02.md)
+[NEXT&nbsp;&nbsp;❯](page-02.md)
 
 </td></tr></table>

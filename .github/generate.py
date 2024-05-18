@@ -140,10 +140,10 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer = ""
     buffer += """---\n\n<table align="center"><tr>"""
     if current_page > 0:
-        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV PAGE]({format_page_filename(current_page - 1)})\n\n</td>"""
+        buffer += f"""<td align="right">\n\n[❮{NB_SPACER}PREV]({format_page_filename(current_page - 1)})\n\n</td>"""
     buffer += f"""<td align="center">\n\n{generate_page_links(current_page, num_pages)}\n\n</td>"""
     if current_page < num_pages - 1:
-        buffer += f"<td>\n\n[NEXT PAGE{NB_SPACER}❯]({format_page_filename(current_page + 1)})\n\n</td>"
+        buffer += f"<td>\n\n[NEXT{NB_SPACER}❯]({format_page_filename(current_page + 1)})\n\n</td>"
     buffer += "</tr></table>"
     return buffer
 
@@ -161,17 +161,17 @@ def generate_page_links(current_page: int, num_pages: int) -> str:
     is_high = current_page > last_page - cutoff
     
     buffer = ""
-    buffer += generate_page_link(0, current_page) + " "
+    buffer += generate_page_link(0, current_page) + NB_SPACE
     buffer += generate_page_link_range(range(1, cutoff + 2), current_page) if is_low else ellipsis
     buffer += " " if is_low or is_high \
         else LB_SPACER + generate_page_link_range(range(current_page - half_cut, current_page + half_cut + 1), current_page) + LB_SPACER
     buffer += generate_page_link_range(range(last_page - cutoff - 1, last_page), current_page) if is_high else ellipsis
-    buffer += " " + generate_page_link(last_page, current_page)
+    buffer += NB_SPACE + generate_page_link(last_page, current_page)
     return buffer
 
 
 def generate_page_link_range(rng: range, current_page: int) -> str:
-    return " ".join(generate_page_link(page, current_page) for page in rng)
+    return NB_SPACE.join(generate_page_link(page, current_page) for page in rng)
 
 
 def generate_page_link(page: int, current_page: int) -> str:

@@ -224,14 +224,14 @@
 
 <table align="center"><tr><td align="right">
 
-[❮&nbsp;&nbsp;PREV PAGE](page-07.md)
+[❮&nbsp;&nbsp;PREV](page-07.md)
 
 </td><td align="center">
 
-[&nbsp;1&nbsp;](index.md) &hellip; &nbsp;[&nbsp;6&nbsp;](page-06.md) [&nbsp;7&nbsp;](page-07.md) &nbsp;**8**&nbsp; [&nbsp;9&nbsp;](page-09.md) [&nbsp;10&nbsp;](page-10.md) &nbsp;&hellip; [&nbsp;13&nbsp;](page-13.md)
+[&nbsp;1&nbsp;](index.md)&nbsp;&hellip; &nbsp;[&nbsp;6&nbsp;](page-06.md)&nbsp;[&nbsp;7&nbsp;](page-07.md)&nbsp;&nbsp;**8**&nbsp;&nbsp;[&nbsp;9&nbsp;](page-09.md)&nbsp;[&nbsp;10&nbsp;](page-10.md) &nbsp;&hellip;&nbsp;[&nbsp;13&nbsp;](page-13.md)
 
 </td><td>
 
-[NEXT PAGE&nbsp;&nbsp;❯](page-09.md)
+[NEXT&nbsp;&nbsp;❯](page-09.md)
 
 </td></tr></table>
