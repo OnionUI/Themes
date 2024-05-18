@@ -141,7 +141,7 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
     buffer += """---\n\n<table align="center"><tr><td align="center" valign="top">\n\n"""
 
     if current_page > 0:
-        buffer += f"[🡄&nbsp;PREV&nbsp;PAGE]({format_page_filename(current_page - 1)})&nbsp;&nbsp;|&nbsp;&nbsp;"
+        buffer += f"[◀&nbsp;PREV&nbsp;PAGE]({format_page_filename(current_page - 1)})&nbsp;&nbsp;|&nbsp;&nbsp;"
 
     for page in range(num_pages):        
         if page == current_page:
@@ -152,7 +152,7 @@ def generate_pagination(current_page: int, num_pages: int) -> str:
             buffer += "&nbsp;&nbsp;"
 
     if current_page < num_pages - 1:
-        buffer += f"&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;🡆]({format_page_filename(current_page + 1)})"
+        buffer += f"&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;▶]({format_page_filename(current_page + 1)})"
 
     buffer += """</td></tr></table>"""
 
