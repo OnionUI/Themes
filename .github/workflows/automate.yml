@@ -7,7 +7,7 @@ jobs:
   automate:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - uses: actions/setup-python@v4
@@ -24,8 +24,9 @@ jobs:
     - name: Update README
       run: python3 .github/generate.py
     - name: Commit and push changes
-      uses: actions-js/push@v1.3
+      uses: actions-js/push@v1.5
       with:
         author_name: 'OnionBot'
         message: 'Theme release automation'
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
