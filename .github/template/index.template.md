@@ -11,11 +11,18 @@ $INDEX
 <p>&nbsp;</p>
 
 
-## New or Updated Themes
+## Recently Added Themes
 
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
-$RECENTS
+$THEMES_NEW
+
+<p>&nbsp;</p>
+
+
+## Recently Updated Themes
+
+$THEMES_RECENTS
 
 <p>&nbsp;</p>
 

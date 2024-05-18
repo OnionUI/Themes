@@ -29,7 +29,15 @@ def has_extension(name: str, required_ext: str) -> bool:
     return ext[1:].lower() == required_ext
 
 
-def get_ordering(file_path: str) -> list[str]:
+def get_lines(file_path: str) -> list[str]:
+    """Reads a file and returns a list of lines (trailing whitespace removed)
+
+    Args:
+        file_path (str): The path to the text file
+
+    Returns:
+        list[str]: List of lines from the file
+    """
     if not os.path.exists(file_path):
         return []
     with open(file_path, "r", encoding="utf-8") as file:
@@ -48,9 +56,30 @@ def dir_has_files(dir_path: str, files: list[str]):
 
 
 def git_last_changed(path: str) -> datetime:
+    """Retrieves the timestamp of the last commit
+
+    Args:
+        path (str): The path to lookup in the git log
+
+    Returns:
+        datetime: Timestamp of the last commit
+    """
     git_result = subprocess.run(["git", "log", "-1", "--pretty=%cI", path], stdout=subprocess.PIPE, check=True)
-    datestr = git_result.stdout.decode('utf-8').strip()
+    datestr = git_result.stdout.decode("utf-8").strip()
     try:
         return datetime.fromisoformat(datestr)
     except:
         return None
+
+def git_commit_count(path: str) -> int:
+    """Count the number of unique commit dates
+
+    Args:
+        path (str): The path to lookup in the git log
+
+    Returns:
+        int: Number of unique commit dates
+    """
+    git_result = subprocess.run(["git", "log", "--pretty=%cI", path], stdout=subprocess.PIPE, check=True)
+    commit_dates = set(datestr.strip().split("T")[0] for datestr in git_result.stdout.decode("utf-8").split("\n") if datestr)
+    return len(commit_dates)
