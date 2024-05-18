@@ -92,7 +92,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
-<img title="Super effective" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Fairy-Type&#013;Author: UnBurn&#013;Last updated: 2024-03-18&#013;Description: Super effective&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
 <b>Fairy-Type</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -105,7 +105,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
-<img title="AnalogPhosphor (3-pack) by trash" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
+<img title="Name: AnalogPhosphor (3-pack)&#013;Author: trash&#013;Last updated: 2024-03-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
 <b>AnalogPhosphor (3-pack)</b>
 </a><br/>
 <sup><i>trash</i></sup><br>
@@ -118,7 +118,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
-<img title="For the Adventurer" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Game Boy Scouts&#013;Author: UnBurn&#013;Last updated: 2024-03-12&#013;Description: For the Adventurer&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
 <b>Game Boy Scouts</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -147,7 +147,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie.zip">
-<img title="Capcom & SNK theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
+<img title="Name: Capcom SNK (Handheld Filter)&#013;Author: Sheezie&#013;Last updated: 2024-05-18&#013;Description: Capcom & SNK theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
 <b>Capcom SNK (Handheld Filter)</b>
 </a><br/>
 <sup><i>Sheezie</i></sup><br>
@@ -160,7 +160,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
-<img title="Silky Remix SUPER GAME BOY by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
+<img title="Name: Silky Remix SUPER GAME BOY&#013;Author: MLOPEZMAD&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>Silky Remix SUPER GAME BOY</b>
 </a><br/>
 <sup><i>MLOPEZMAD</i></sup><br>
@@ -173,7 +173,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
-<img title="Mucha Miyoo by LamiaLazuli" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
+<img title="Name: Mucha Miyoo&#013;Author: LamiaLazuli&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
 <b>Mucha Miyoo</b>
 </a><br/>
 <sup><i>LamiaLazuli</i></sup><br>

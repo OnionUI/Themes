@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/System%209%20by%20injekim.zip">
-<img title="System 9 by injekim [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/System%209%20by%20injekim/preview.png" /><br/>
+<img title="Name: System 9&#013;Author: injekim&#013;Last updated: 2022-10-05&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/System%209%20by%20injekim/preview.png" /><br/>
 <b>System 9 ★</b>
 </a><br/>
 <sup><i>injekim</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/gry64%20by%20iamatrap.zip">
-<img title="GRY64 by iamatrap" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/gry64%20by%20iamatrap/preview.png" /><br/>
+<img title="Name: GRY64&#013;Author: iamatrap&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/gry64%20by%20iamatrap/preview.png" /><br/>
 <b>GRY64</b>
 </a><br/>
 <sup><i>iamatrap</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Shadaloo%20%28SFA3%29%20by%20XCVNCE.zip">
-<img title="Shadaloo (SFA3) by XCVNCE" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png" /><br/>
+<img title="Name: Shadaloo (SFA3)&#013;Author: XCVNCE&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shadaloo%20%28SFA3%29%20by%20XCVNCE/preview.png" /><br/>
 <b>Shadaloo (SFA3)</b>
 </a><br/>
 <sup><i>XCVNCE</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BMO%20by%20OjninJo.zip">
-<img title="Who wants to play videogames!?" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BMO%20by%20OjninJo/preview.png" /><br/>
+<img title="Name: BMO&#013;Author: OjninJo&#013;Last updated: 2022-09-09&#013;Description: Who wants to play videogames!?&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BMO%20by%20OjninJo/preview.png" /><br/>
 <b>BMO</b>
 </a><br/>
 <sup><i>OjninJo</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MasterHacker%20by%20Squ1d0ne.zip">
-<img title="MasterHacker by Squ1d0ne" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MasterHacker%20by%20Squ1d0ne/preview.png" /><br/>
+<img title="Name: MasterHacker&#013;Author: Squ1d0ne&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MasterHacker%20by%20Squ1d0ne/preview.png" /><br/>
 <b>MasterHacker</b>
 </a><br/>
 <sup><i>Squ1d0ne</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Analogue%20by%20Aemiii91.zip">
-<img title="Minimalist theme inspired by Analogue OS [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Analogue%20by%20Aemiii91/preview.png" /><br/>
+<img title="Name: Analogue&#013;Author: Aemiii91&#013;Last updated: 2024-05-18&#013;Description: Minimalist theme inspired by Analogue OS&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Analogue%20by%20Aemiii91/preview.png" /><br/>
 <b>Analogue ★</b>
 </a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TrimUI%20by%20Aemiii91.zip">
-<img title="TrimUI theme port" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TrimUI%20by%20Aemiii91/preview.png" /><br/>
+<img title="Name: TrimUI&#013;Author: Aemiii91&#013;Last updated: 2022-09-09&#013;Description: TrimUI theme port&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TrimUI%20by%20Aemiii91/preview.png" /><br/>
 <b>TrimUI</b>
 </a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20by%20Aemiii91.zip">
-<img title="Theme layout with 10x10 grid" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20by%20Aemiii91/preview.png" /><br/>
+<img title="Name: Blueprint&#013;Author: Aemiii91&#013;Last updated: 2024-05-18&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20by%20Aemiii91/preview.png" /><br/>
 <b>Blueprint</b>
 </a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/3DS%20mini%20by%20MarsTaco.zip">
-<img title="3DS inspired theme for Miyoo Mini [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/3DS%20mini%20by%20MarsTaco/preview.png" /><br/>
+<img title="Name: 3DS mini&#013;Author: MarsTaco&#013;Last updated: 2022-10-05&#013;Description: 3DS inspired theme for Miyoo Mini&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/3DS%20mini%20by%20MarsTaco/preview.png" /><br/>
 <b>3DS mini ★</b>
 </a><br/>
 <sup><i>MarsTaco</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MajoraMi%20by%20apg313.zip">
-<img title="MajoraMi by apg313" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MajoraMi%20by%20apg313/preview.png" /><br/>
+<img title="Name: MajoraMi&#013;Author: apg313&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MajoraMi%20by%20apg313/preview.png" /><br/>
 <b>MajoraMi</b>
 </a><br/>
 <sup><i>apg313</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBC%20Pokedex%20by%20Nxt.stop.please.zip">
-<img title="GBC Pokedex by Nxt.stop.please" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBC%20Pokedex%20by%20Nxt.stop.please/preview.png" /><br/>
+<img title="Name: GBC Pokedex&#013;Author: Nxt.stop.please&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBC%20Pokedex%20by%20Nxt.stop.please/preview.png" /><br/>
 <b>GBC Pokedex</b>
 </a><br/>
 <sup><i>Nxt.stop.please</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zenburn%20by%20duckbeets.zip">
-<img title="Zenburn by duckbeets" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zenburn%20by%20duckbeets/preview.png" /><br/>
+<img title="Name: Zenburn&#013;Author: duckbeets&#013;Last updated: 2022-10-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zenburn%20by%20duckbeets/preview.png" /><br/>
 <b>Zenburn</b>
 </a><br/>
 <sup><i>duckbeets</i></sup><br>

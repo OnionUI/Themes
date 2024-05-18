@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
-<img title="Super effective" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Fairy-Type&#013;Author: UnBurn&#013;Last updated: 2024-03-18&#013;Description: Super effective&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
 <b>Fairy-Type</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
-<img title="For the Adventurer" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Game Boy Scouts&#013;Author: UnBurn&#013;Last updated: 2024-03-12&#013;Description: For the Adventurer&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
 <b>Game Boy Scouts</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
-<img title="AnalogPhosphor (3-pack) by trash" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
+<img title="Name: AnalogPhosphor (3-pack)&#013;Author: trash&#013;Last updated: 2024-03-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
 <b>AnalogPhosphor (3-pack)</b>
 </a><br/>
 <sup><i>trash</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dark%20Onion%20by%20Alpatov%20Danila.zip">
-<img title="Unlike the Light Onion, that one is dark" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dark%20Onion%20by%20Alpatov%20Danila/preview.png" /><br/>
+<img title="Name: Dark Onion&#013;Author: Alpatov Danila&#013;Last updated: 2024-03-11&#013;Description: Unlike the Light Onion, that one is dark&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dark%20Onion%20by%20Alpatov%20Danila/preview.png" /><br/>
 <b>Dark Onion</b>
 </a><br/>
 <sup><i>Alpatov Danila</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/win98%20by%20kyhynngy_oyuur.zip">
-<img title="win98 by kyhynngy_oyuur" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/win98%20by%20kyhynngy_oyuur/preview.png" /><br/>
+<img title="Name: win98&#013;Author: kyhynngy_oyuur&#013;Last updated: 2024-03-11&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/win98%20by%20kyhynngy_oyuur/preview.png" /><br/>
 <b>win98</b>
 </a><br/>
 <sup><i>kyhynngy_oyuur</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie.zip">
-<img title="Capcom & SNK theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
+<img title="Name: Capcom SNK (Handheld Filter)&#013;Author: Sheezie&#013;Last updated: 2024-05-18&#013;Description: Capcom & SNK theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
 <b>Capcom SNK (Handheld Filter)</b>
 </a><br/>
 <sup><i>Sheezie</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Shallot%20by%20Cyberbellum.zip">
-<img title="Minimalist theme, inspired by Aemiii91's Analogue theme." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png" /><br/>
+<img title="Name: Shallot&#013;Author: Cyberbellum&#013;Last updated: 2024-02-16&#013;Description: Minimalist theme, inspired by Aemiii91's Analogue theme.&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png" /><br/>
 <b>Shallot</b>
 </a><br/>
 <sup><i>Cyberbellum</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
-<img title="Silky Remix SUPER GAME BOY by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
+<img title="Name: Silky Remix SUPER GAME BOY&#013;Author: MLOPEZMAD&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>Silky Remix SUPER GAME BOY</b>
 </a><br/>
 <sup><i>MLOPEZMAD</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CleanOnionGB%20by%20KulhyCZ.zip">
-<img title="Clean" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CleanOnionGB%20by%20KulhyCZ/preview.png" /><br/>
+<img title="Name: CleanOnionGB&#013;Author: KulhyCZ&#013;Last updated: 2024-02-12&#013;Description: Clean&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CleanOnionGB%20by%20KulhyCZ/preview.png" /><br/>
 <b>CleanOnionGB</b>
 </a><br/>
 <sup><i>KulhyCZ</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Power%20Onions%20OS%20by%20LeonardoDaPinchy.zip">
-<img title="A Mighty Morphing Power Rangers Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/preview.png" /><br/>
+<img title="Name: Power Onions OS&#013;Author: LeonardoDaPinchy&#013;Last updated: 2024-02-12&#013;Description: A Mighty Morphing Power Rangers Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/preview.png" /><br/>
 <b>Power Onions OS</b>
 </a><br/>
 <sup><i>LeonardoDaPinchy</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
-<img title="Mucha Miyoo by LamiaLazuli" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
+<img title="Name: Mucha Miyoo&#013;Author: LamiaLazuli&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
 <b>Mucha Miyoo</b>
 </a><br/>
 <sup><i>LamiaLazuli</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C.zip">
-<img title="A lovely pink theme for Rilakkuma lovers" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png" /><br/>
+<img title="Name: Miyoo X Rilakkuma Pink!&#013;Author: Jasminum C&#013;Last updated: 2024-01-30&#013;Description: A lovely pink theme for Rilakkuma lovers&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png" /><br/>
 <b>Miyoo X Rilakkuma Pink!</b>
 </a><br/>
 <sup><i>Jasminum C</i></sup><br>

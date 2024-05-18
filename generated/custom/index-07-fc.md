@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/minimO%20by%20AccomplishedSir.zip">
-<img title="minimalist theme with neomorphic elements" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/minimO%20by%20AccomplishedSir/preview.png" /><br/>
+<img title="Name: minimO&#013;Author: AccomplishedSir&#013;Last updated: 2024-05-18&#013;Description: minimalist theme with neomorphic elements&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/minimO%20by%20AccomplishedSir/preview.png" /><br/>
 <b>minimO</b>
 </a><br/>
 <sup><i>AccomplishedSir</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PPLP%20by%20Deepslackerjazz.zip">
-<img title="Piplup theme with TGC vibes" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png" /><br/>
+<img title="Name: PPLP&#013;Author: Deepslackerjazz&#013;Last updated: 2023-01-11&#013;Description: Piplup theme with TGC vibes&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>PPLP</b>
 </a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Simple%20Pixels%20%282-pack%29%20by%20Cuprite.zip">
-<img title="Simple Pixels (2-pack) by Cuprite" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
+<img title="Name: Simple Pixels (2-pack)&#013;Author: Cuprite&#013;Last updated: 2023-01-04&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
 <b>Simple Pixels (2-pack)</b>
 </a><br/>
 <sup><i>Cuprite</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PICO-8%20%283-pack%29%20by%20tenlevels.zip">
-<img title="PICO-8 (3-pack) by tenlevels" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PICO-8%20%283-pack%29%20by%20tenlevels/preview.png" /><br/>
+<img title="Name: PICO-8 (3-pack)&#013;Author: tenlevels&#013;Last updated: 2023-03-06&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PICO-8%20%283-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>PICO-8 (3-pack)</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Bayonetta%20by%20Kryobear.zip">
-<img title="Theme based off Bayonetta 1!" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Bayonetta%20by%20Kryobear/preview.png" /><br/>
+<img title="Name: Bayonetta&#013;Author: Kryobear&#013;Last updated: 2022-12-16&#013;Description: Theme based off Bayonetta 1!&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Bayonetta%20by%20Kryobear/preview.png" /><br/>
 <b>Bayonetta</b>
 </a><br/>
 <sup><i>Kryobear</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite.zip">
-<img title="Zigzag-iyoo-n Mini (2-pack) by Cuprite" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
+<img title="Name: Zigzag-iyoo-n Mini (2-pack)&#013;Author: Cuprite&#013;Last updated: 2022-12-14&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
 <b>Zigzag-iyoo-n Mini (2-pack)</b>
 </a><br/>
 <sup><i>Cuprite</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity.zip">
-<img title="Miyoo Valley (2-pack) by dragon-fruity" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/preview.png" /><br/>
+<img title="Name: Miyoo Valley (2-pack)&#013;Author: dragon-fruity&#013;Last updated: 2022-12-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/preview.png" /><br/>
 <b>Miyoo Valley (2-pack)</b>
 </a><br/>
 <sup><i>dragon-fruity</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Rick%20and%20Morty%20Mini%20by%20Zooloo631.zip">
-<img title="Rick and Morty Mini by Zooloo631" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png" /><br/>
+<img title="Name: Rick and Morty Mini&#013;Author: Zooloo631&#013;Last updated: 2022-12-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png" /><br/>
 <b>Rick and Morty Mini</b>
 </a><br/>
 <sup><i>Zooloo631</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEO%20GEO%20by%20tenlevels.zip">
-<img title="NEO GEO MVS inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEO%20GEO%20by%20tenlevels/preview.png" /><br/>
+<img title="Name: NEO GEO&#013;Author: tenlevels&#013;Last updated: 2022-12-12&#013;Description: NEO GEO MVS inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEO%20GEO%20by%20tenlevels/preview.png" /><br/>
 <b>NEO GEO</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TTYD%20by%20Kryobear.zip">
-<img title="Theme layout with 10x10 grid" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TTYD%20by%20Kryobear/preview.png" /><br/>
+<img title="Name: TTYD&#013;Author: Kryobear&#013;Last updated: 2022-12-16&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TTYD%20by%20Kryobear/preview.png" /><br/>
 <b>TTYD</b>
 </a><br/>
 <sup><i>Kryobear</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TRON%20by%20tenlevels.zip">
-<img title="Tron Legacy inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TRON%20by%20tenlevels/preview.png" /><br/>
+<img title="Name: TRON&#013;Author: tenlevels&#013;Last updated: 2024-05-18&#013;Description: Tron Legacy inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TRON%20by%20tenlevels/preview.png" /><br/>
 <b>TRON</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20%282-pack%29%20by%20tenlevels.zip">
-<img title="Sonic (2-pack) by tenlevels" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
+<img title="Name: Sonic (2-pack)&#013;Author: tenlevels&#013;Last updated: 2023-03-06&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>Sonic (2-pack)</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>

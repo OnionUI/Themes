@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Nokiyoo%20by%20UnBurn.zip">
-<img title="Games on your phone" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Nokiyoo%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Nokiyoo&#013;Author: UnBurn&#013;Last updated: 2023-08-07&#013;Description: Games on your phone&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Nokiyoo%20by%20UnBurn/preview.png" /><br/>
 <b>Nokiyoo</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip">
-<img title="Phill's Doodles Comics [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RetroRama%20by%20TooGeekCreations/preview.png" /><br/>
+<img title="Name: RetroRama&#013;Author: TooGeekCreations&#013;Last updated: 2024-05-18&#013;Description: Phill's Doodles Comics&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RetroRama%20by%20TooGeekCreations/preview.png" /><br/>
 <b>RetroRama ★</b>
 </a><br/>
 <sup><i>TooGeekCreations</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20Inverted%20by%20ElectRefurbish.zip">
-<img title="Casual Theme..." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/preview.png" /><br/>
+<img title="Name: Blank Space Inverted&#013;Author: ElectRefurbish&#013;Last updated: 2024-05-18&#013;Description: Casual Theme...&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Blank Space Inverted</b>
 </a><br/>
 <sup><i>ElectRefurbish</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20by%20Bernig.zip">
-<img title="A Fallout inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png" /><br/>
+<img title="Name: Wasteland&#013;Author: Bernig&#013;Last updated: 2024-05-18&#013;Description: A Fallout inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png" /><br/>
 <b>Wasteland</b>
 </a><br/>
 <sup><i>Bernig</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20by%20ElectRefurbish.zip">
-<img title="Casual Theme..." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20by%20ElectRefurbish/preview.png" /><br/>
+<img title="Name: Blank Space&#013;Author: ElectRefurbish&#013;Last updated: 2024-05-18&#013;Description: Casual Theme...&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Blank Space</b>
 </a><br/>
 <sup><i>ElectRefurbish</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/999-in-1%20by%20UnBurn.zip">
-<img title="If Brick Game was still cool" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/999-in-1%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: 999-in-1&#013;Author: UnBurn&#013;Last updated: 2023-07-04&#013;Description: If Brick Game was still cool&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/999-in-1%20by%20UnBurn/preview.png" /><br/>
 <b>999-in-1</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zelda%20Oracle%20by%20Slak211.zip">
-<img title="A theme based on Oracle of Ages and Seasons" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zelda%20Oracle%20by%20Slak211/preview.png" /><br/>
+<img title="Name: Zelda Oracle&#013;Author: Slak211&#013;Last updated: 2023-07-04&#013;Description: A theme based on Oracle of Ages and Seasons&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zelda%20Oracle%20by%20Slak211/preview.png" /><br/>
 <b>Zelda Oracle</b>
 </a><br/>
 <sup><i>Slak211</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Beneath%20The%20Mask%20by%20UnBurn.zip">
-<img title="Persona 5 in Miyoo form" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Beneath The Mask&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: Persona 5 in Miyoo form&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png" /><br/>
 <b>Beneath The Mask</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pocket%20Gank%20by%20UnBurn.zip">
-<img title="League of Legends theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pocket%20Gank%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Pocket Gank&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: League of Legends theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pocket%20Gank%20by%20UnBurn/preview.png" /><br/>
 <b>Pocket Gank</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Spider-Miyoo%20by%20ElectRefurbish.zip">
-<img title="Spider-man theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Spider-Miyoo%20by%20ElectRefurbish/preview.png" /><br/>
+<img title="Name: Spider-Miyoo&#013;Author: ElectRefurbish&#013;Last updated: 2023-06-19&#013;Description: Spider-man theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Spider-Miyoo%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Spider-Miyoo</b>
 </a><br/>
 <sup><i>ElectRefurbish</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Notebook%20Kawaii%20by%20UnBurn.zip">
-<img title="Kawaii theme in a notebook" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Notebook%20Kawaii%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Notebook Kawaii&#013;Author: UnBurn&#013;Last updated: 2024-05-18&#013;Description: Kawaii theme in a notebook&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Notebook%20Kawaii%20by%20UnBurn/preview.png" /><br/>
 <b>Notebook Kawaii</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dragon%20Ball%20Mini%20by%20UnBurn.zip">
-<img title="Dragon Ball Z inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dragon%20Ball%20Mini%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: Dragon Ball Mini&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: Dragon Ball Z inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dragon%20Ball%20Mini%20by%20UnBurn/preview.png" /><br/>
 <b>Dragon Ball Mini</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>

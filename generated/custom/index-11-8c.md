@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle.zip">
-<img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/preview.png" /><br/>
+<img title="Name: Sprite Buddies LucasArts&#013;Author: ShrimpFandangle&#013;Last updated: 2024-01-01&#013;Description: Sprites from your childhood on your Miyoo Mini&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/preview.png" /><br/>
 <b>Sprite Buddies LucasArts</b>
 </a><br/>
 <sup><i>ShrimpFandangle</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DS%20XS%20by%20UnBurn.zip">
-<img title="A single screen DS experience" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DS%20XS%20by%20UnBurn/preview.png" /><br/>
+<img title="Name: DS XS&#013;Author: UnBurn&#013;Last updated: 2023-11-28&#013;Description: A single screen DS experience&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DS%20XS%20by%20UnBurn/preview.png" /><br/>
 <b>DS XS</b>
 </a><br/>
 <sup><i>UnBurn</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PIXELPUNK%20by%20anthr_alxndr.zip">
-<img title="Inspired by CYBERPUNK 2077" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PIXELPUNK%20by%20anthr_alxndr/preview.png" /><br/>
+<img title="Name: PIXELPUNK&#013;Author: anthr_alxndr&#013;Last updated: 2024-05-18&#013;Description: Inspired by CYBERPUNK 2077&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PIXELPUNK%20by%20anthr_alxndr/preview.png" /><br/>
 <b>PIXELPUNK</b>
 </a><br/>
 <sup><i>anthr_alxndr</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M-NOIR%20by%20tenlevels.zip">
-<img title="NOIR theme for OnionOS inspired by EPICNOIR on ArkOS" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M-NOIR%20by%20tenlevels/preview.png" /><br/>
+<img title="Name: M-NOIR&#013;Author: tenlevels&#013;Last updated: 2024-05-18&#013;Description: NOIR theme for OnionOS inspired by EPICNOIR on ArkOS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M-NOIR%20by%20tenlevels/preview.png" /><br/>
 <b>M-NOIR</b>
 </a><br/>
 <sup><i>tenlevels</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pad%20%284-pack%29%20by%20toski.zip">
-<img title="Pad (4-pack) by toski" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png" /><br/>
+<img title="Name: Pad (4-pack)&#013;Author: toski&#013;Last updated: 2023-11-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png" /><br/>
 <b>Pad (4-pack)</b>
 </a><br/>
 <sup><i>toski</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20Pocket%20by%20Oclain.zip">
-<img title="Theme that mimics the original Gameboy Pocket screen" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20Pocket%20by%20Oclain/preview.png" /><br/>
+<img title="Name: Fake Pocket&#013;Author: Oclain&#013;Last updated: 2024-05-18&#013;Description: Theme that mimics the original Gameboy Pocket screen&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20Pocket%20by%20Oclain/preview.png" /><br/>
 <b>Fake Pocket</b>
 </a><br/>
 <sup><i>Oclain</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Valorant%20by%20Skimpertushi.zip">
-<img title="Theme layout with 10x10 grid" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png" /><br/>
+<img title="Name: Valorant&#013;Author: Skimpertushi&#013;Last updated: 2023-10-03&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png" /><br/>
 <b>Valorant</b>
 </a><br/>
 <sup><i>Skimpertushi</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip">
-<img title="Neumorphism (3-pack) by bantam" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png" /><br/>
+<img title="Name: Neumorphism (3-pack)&#013;Author: bantam&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png" /><br/>
 <b>Neumorphism (3-pack)</b>
 </a><br/>
 <sup><i>bantam</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip">
-<img title="NBA Onion by Tom Tower" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NBA%20Onion%20by%20Tom%20Tower/preview.png" /><br/>
+<img title="Name: NBA Onion&#013;Author: Tom Tower&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NBA%20Onion%20by%20Tom%20Tower/preview.png" /><br/>
 <b>NBA Onion</b>
 </a><br/>
 <sup><i>Tom Tower</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip">
-<img title="Too clean, knawmsayin?" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2CleanMini%20by%20Sheezie/preview.png" /><br/>
+<img title="Name: 2CleanMini&#013;Author: Sheezie&#013;Last updated: 2024-05-18&#013;Description: Too clean, knawmsayin?&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2CleanMini%20by%20Sheezie/preview.png" /><br/>
 <b>2CleanMini</b>
 </a><br/>
 <sup><i>Sheezie</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20Simpson%20by%20Polpetta.zip">
-<img title="Simpson inspired Onion theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20Simpson%20by%20Polpetta/preview.png" /><br/>
+<img title="Name: ONION Simpson&#013;Author: Polpetta&#013;Last updated: 2023-09-07&#013;Description: Simpson inspired Onion theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20Simpson%20by%20Polpetta/preview.png" /><br/>
 <b>ONION Simpson</b>
 </a><br/>
 <sup><i>Polpetta</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Ultralight%20by%20parkinglotmusic.zip">
-<img title="Ultralight by parkinglotmusic" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png" /><br/>
+<img title="Name: Ultralight&#013;Author: parkinglotmusic&#013;Last updated: 2023-08-08&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png" /><br/>
 <b>Ultralight</b>
 </a><br/>
 <sup><i>parkinglotmusic</i></sup><br>

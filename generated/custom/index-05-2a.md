@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Kingdom%20Onions%20by%20PixelShift.zip">
-<img title="Kingdom Onions by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Kingdom%20Onions%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Kingdom Onions&#013;Author: PixelShift&#013;Last updated: 2022-10-26&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Kingdom%20Onions%20by%20PixelShift/preview.png" /><br/>
 <b>Kingdom Onions</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip">
-<img title="CyberOnion (2-pack) by Aemiii91 [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png" /><br/>
+<img title="Name: CyberOnion (2-pack)&#013;Author: Aemiii91&#013;Last updated: 2024-05-18&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png" /><br/>
 <b>CyberOnion (2-pack) ★</b>
 </a><br/>
 <sup><i>Aemiii91</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DNTSHP%20by%20Deepslackerjazz.zip">
-<img title="Old school donut shop in pixel form" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DNTSHP%20by%20Deepslackerjazz/preview.png" /><br/>
+<img title="Name: DNTSHP&#013;Author: Deepslackerjazz&#013;Last updated: 2022-10-09&#013;Description: Old school donut shop in pixel form&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DNTSHP%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>DNTSHP</b>
 </a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Tema%20by%20Alex%20Connor.zip">
-<img title="Tema by Alex Connor" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Tema%20by%20Alex%20Connor/preview.png" /><br/>
+<img title="Name: Tema&#013;Author: Alex Connor&#013;Last updated: 2022-10-02&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Tema%20by%20Alex%20Connor/preview.png" /><br/>
 <b>Tema</b>
 </a><br/>
 <sup><i>Alex Connor</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20DX%20by%20PixelShift.zip">
-<img title="Onion Boy DX by PixelShift [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Onion Boy DX&#013;Author: PixelShift&#013;Last updated: 2022-10-03&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png" /><br/>
 <b>Onion Boy DX ★</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip">
-<img title="Onion Boy by PixelShift + Jeltron [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png" /><br/>
+<img title="Name: Onion Boy&#013;Author: PixelShift + Jeltron&#013;Last updated: 2022-10-03&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png" /><br/>
 <b>Onion Boy ★</b>
 </a><br/>
 <sup><i>PixelShift + Jeltron</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MiNook%20Mini%20by%20Deepslackerjazz.zip">
-<img title="Nook phone type theme with a crafty vibe" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png" /><br/>
+<img title="Name: MiNook&#013;Author: Deepslackerjazz&#013;Last updated: 2022-09-19&#013;Description: Nook phone type theme with a crafty vibe&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>MiNook</b>
 </a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/less%20by%20junk.zip">
-<img title="Another minimalist theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/less%20by%20junk/preview.png" /><br/>
+<img title="Name: less&#013;Author: junk&#013;Last updated: 2022-09-17&#013;Description: Another minimalist theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/less%20by%20junk/preview.png" /><br/>
 <b>less</b>
 </a><br/>
 <sup><i>junk</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RPO%20by%20TheDewd.zip">
-<img title="Pixel Art Fantasy Theme [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RPO%20by%20TheDewd/preview.png" /><br/>
+<img title="Name: Role Playing Onion&#013;Author: TheDewd&#013;Last updated: 2022-10-05&#013;Description: Pixel Art Fantasy Theme&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RPO%20by%20TheDewd/preview.png" /><br/>
 <b>Role Playing Onion ★</b>
 </a><br/>
 <sup><i>TheDewd</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BRCKD%20by%20Deepslackerjazz.zip">
-<img title="BRCKD by Deepslackerjazz" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BRCKD%20by%20Deepslackerjazz/preview.png" /><br/>
+<img title="Name: BRCKD&#013;Author: Deepslackerjazz&#013;Last updated: 2022-09-11&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BRCKD%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>BRCKD</b>
 </a><br/>
 <sup><i>Deepslackerjazz</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onionboy%20HD%20by%20Jeltron.zip">
-<img title="Higher res variant of OnionBoy [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onionboy%20HD%20by%20Jeltron/preview.png" /><br/>
+<img title="Name: Onionboy HD&#013;Author: Jeltron&#013;Last updated: 2024-05-18&#013;Description: Higher res variant of OnionBoy&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onionboy%20HD%20by%20Jeltron/preview.png" /><br/>
 <b>Onionboy HD ★</b>
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/End%20of%20Ages%20by%20apg313.zip">
-<img title="End of Ages by apg313" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/End%20of%20Ages%20by%20apg313/preview.png" /><br/>
+<img title="Name: End of Ages&#013;Author: apg313&#013;Last updated: 2022-08-16&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/End%20of%20Ages%20by%20apg313/preview.png" /><br/>
 <b>End of Ages</b>
 </a><br/>
 <sup><i>apg313</i></sup><br>

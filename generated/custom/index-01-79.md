@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lilla%20by%20evolve.zip">
-<img title="Lilla by evolve" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Lilla%20by%20evolve/preview.png" /><br/>
+<img title="Name: Lilla&#013;Author: evolve&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Lilla%20by%20evolve/preview.png" /><br/>
 <b>Lilla</b>
 </a><br/>
 <sup><i>evolve</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Oransje%20by%20evolve.zip">
-<img title="Oransje by evolve [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Oransje%20by%20evolve/preview.png" /><br/>
+<img title="Name: Oransje&#013;Author: evolve&#013;Last updated: 2022-09-09&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Oransje%20by%20evolve/preview.png" /><br/>
 <b>Oransje ★</b>
 </a><br/>
 <sup><i>evolve</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onichan%20by%20PixelShift.zip">
-<img title="Onichan by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onichan%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Onichan&#013;Author: PixelShift&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onichan%20by%20PixelShift/preview.png" /><br/>
 <b>Onichan</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Mini%20by%20Jeltron.zip">
-<img title="Onion Mini by Jeltron" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Mini%20by%20Jeltron/preview.png" /><br/>
+<img title="Name: Onion Mini&#013;Author: Jeltron&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Mini%20by%20Jeltron/preview.png" /><br/>
 <b>Onion Mini</b>
 </a><br/>
 <sup><i>Jeltron</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onyan%20by%20PixelShift.zip">
-<img title="Onyan by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onyan%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Onyan&#013;Author: PixelShift&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onyan%20by%20PixelShift/preview.png" /><br/>
 <b>Onyan</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Poketch%20by%20Lucario.zip">
-<img title="Pokétch by Lucario" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Poketch%20by%20Lucario/preview.png" /><br/>
+<img title="Name: Pokétch&#013;Author: Lucario&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Poketch%20by%20Lucario/preview.png" /><br/>
 <b>Pokétch</b>
 </a><br/>
 <sup><i>Lucario</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/2022%20Stock%20by%20Miyoo.zip">
-<img title="2022 Stock by Miyoo" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2022%20Stock%20by%20Miyoo/preview.png" /><br/>
+<img title="Name: 2022 Stock&#013;Author: Miyoo&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2022%20Stock%20by%20Miyoo/preview.png" /><br/>
 <b>2022 Stock</b>
 </a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/2021%20Stock%20by%20Miyoo.zip">
-<img title="2021 Stock by Miyoo" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2021%20Stock%20by%20Miyoo/preview.png" /><br/>
+<img title="Name: 2021 Stock&#013;Author: Miyoo&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2021%20Stock%20by%20Miyoo/preview.png" /><br/>
 <b>2021 Stock</b>
 </a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Switch%20by%20PixelShift.zip">
-<img title="Switch by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Switch%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Switch&#013;Author: PixelShift&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Switch%20by%20PixelShift/preview.png" /><br/>
 <b>Switch</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Synthwave%20by%20Ritual.zip">
-<img title="Synthwave by Ritual" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Synthwave%20by%20Ritual/preview.png" /><br/>
+<img title="Name: Synthwave&#013;Author: Ritual&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Synthwave%20by%20Ritual/preview.png" /><br/>
 <b>Synthwave</b>
 </a><br/>
 <sup><i>Ritual</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wavedash%20by%20historymaker118.zip">
-<img title="Wavedash by historymaker118" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wavedash%20by%20historymaker118/preview.png" /><br/>
+<img title="Name: Wavedash&#013;Author: historymaker118&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wavedash%20by%20historymaker118/preview.png" /><br/>
 <b>Wavedash</b>
 </a><br/>
 <sup><i>historymaker118</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BirdShot%20by%20historymaker118.zip">
-<img title="BirdShot by historymaker118" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BirdShot%20by%20historymaker118/preview.png" /><br/>
+<img title="Name: BirdShot&#013;Author: historymaker118&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BirdShot%20by%20historymaker118/preview.png" /><br/>
 <b>BirdShot</b>
 </a><br/>
 <sup><i>historymaker118</i></sup><br>

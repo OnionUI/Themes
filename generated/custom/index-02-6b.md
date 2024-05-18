@@ -71,7 +71,7 @@
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/National%20Pokedex%20by%20Vanta_black.zip">
-<img title="National Pokedex by Vanta_black" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/National%20Pokedex%20by%20Vanta_black/preview.png" /><br/>
+<img title="Name: National Pokedex&#013;Author: Vanta_black&#013;Last updated: 2022-08-07&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/National%20Pokedex%20by%20Vanta_black/preview.png" /><br/>
 <b>National Pokedex</b>
 </a><br/>
 <sup><i>Vanta_black</i></sup><br>
@@ -82,7 +82,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GameMaster.zip">
-<img title="GameMaster" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GameMaster/preview.png" /><br/>
+<img title="Name: GameMaster&#013;Last updated: 2022-10-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GameMaster/preview.png" /><br/>
 <b>GameMaster</b>
 </a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -93,7 +93,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20blues.zip">
-<img title="Miyoo blues" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20blues/preview.png" /><br/>
+<img title="Name: Miyoo blues&#013;Last updated: 2022-10-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20blues/preview.png" /><br/>
 <b>Miyoo blues</b>
 </a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -105,7 +105,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20jazz.zip">
-<img title="Miyoo jazz" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20jazz/preview.png" /><br/>
+<img title="Name: Miyoo jazz&#013;Last updated: 2022-10-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20jazz/preview.png" /><br/>
 <b>Miyoo jazz</b>
 </a><br/>
 <sup><i>&nbsp;</i></sup><br>
@@ -116,7 +116,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Monster%20Hunter%20by%20Miyoo.zip">
-<img title="Monster Hunter by Miyoo" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Monster%20Hunter%20by%20Miyoo/preview.png" /><br/>
+<img title="Name: Monster Hunter&#013;Author: Miyoo&#013;Last updated: 2022-08-07&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Monster%20Hunter%20by%20Miyoo/preview.png" /><br/>
 <b>Monster Hunter</b>
 </a><br/>
 <sup><i>Miyoo</i></sup><br>
@@ -127,7 +127,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Aubergine%20by%20blueasis.zip">
-<img title="Aubergine by blueasis" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Aubergine%20by%20blueasis/preview.png" /><br/>
+<img title="Name: Aubergine&#013;Author: blueasis&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Aubergine%20by%20blueasis/preview.png" /><br/>
 <b>Aubergine</b>
 </a><br/>
 <sup><i>blueasis</i></sup><br>
@@ -139,7 +139,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Codec%20by%20ScarGutz.zip">
-<img title="Codec by ScarGutz" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Codec%20by%20ScarGutz/preview.png" /><br/>
+<img title="Name: Codec&#013;Author: ScarGutz&#013;Last updated: 2022-08-07&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Codec%20by%20ScarGutz/preview.png" /><br/>
 <b>Codec</b>
 </a><br/>
 <sup><i>ScarGutz</i></sup><br>
@@ -150,7 +150,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Black%20Cotton%20Candy%20by%20PixelShift.zip">
-<img title="Black Cotton Candy by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Black%20Cotton%20Candy%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Black Cotton Candy&#013;Author: PixelShift&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Black%20Cotton%20Candy%20by%20PixelShift/preview.png" /><br/>
 <b>Black Cotton Candy</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -161,7 +161,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Business%20by%20Jim%20Gray.zip">
-<img title="Business by Jim Gray" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Business%20by%20Jim%20Gray/preview.png" /><br/>
+<img title="Name: Business&#013;Author: Jim Gray&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Business%20by%20Jim%20Gray/preview.png" /><br/>
 <b>Business</b>
 </a><br/>
 <sup><i>Jim Gray</i></sup><br>
@@ -173,7 +173,7 @@
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fuzzy%20Pickles%21%20by%20Updog.zip">
-<img title="Fuzzy Pickles! by Updog" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fuzzy%20Pickles%21%20by%20Updog/preview.png" /><br/>
+<img title="Name: Fuzzy Pickles!&#013;Author: Updog&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fuzzy%20Pickles%21%20by%20Updog/preview.png" /><br/>
 <b>Fuzzy Pickles!</b>
 </a><br/>
 <sup><i>Updog</i></sup><br>
@@ -184,7 +184,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Galaxy%20by%20PixelShift.zip">
-<img title="Galaxy by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Galaxy%20by%20PixelShift/preview.png" /><br/>
+<img title="Name: Galaxy&#013;Author: PixelShift&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Galaxy%20by%20PixelShift/preview.png" /><br/>
 <b>Galaxy</b>
 </a><br/>
 <sup><i>PixelShift</i></sup><br>
@@ -195,7 +195,7 @@
 
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Quest%20by%20y_oshid_a.zip">
-<img title="Miyoo Quest by y_oshid_a" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Quest%20by%20y_oshid_a/preview.png" /><br/>
+<img title="Name: Miyoo Quest&#013;Author: y_oshid_a&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Quest%20by%20y_oshid_a/preview.png" /><br/>
 <b>Miyoo Quest</b>
 </a><br/>
 <sup><i>y_oshid_a</i></sup><br>

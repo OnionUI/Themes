@@ -202,10 +202,10 @@ def generate_item(theme: str, collect_data: bool = False) -> str:
         print(f"  invalid theme: {theme}")
         return ""
 
-    title = ""
     name_split = theme.split(" by ", maxsplit=1)
     name = name_split[0]
     author = name_split[1] if len(name_split) > 1 else ""
+    description = ""
 
     is_featured = theme in themes_featured
 
@@ -217,12 +217,7 @@ def generate_item(theme: str, collect_data: bool = False) -> str:
         if "author" in config:
             author = config["author"]
         if "description" in config:
-            title = config["description"]
-
-    if not title:
-        title = f"{name} by {author}" if author else name
-    if is_featured:
-        title += " [featured theme]"
+            description = config["description"]
 
     theme_subdirs = [f"themes/{theme}/{subdir}" for subdir in get_subdirs(dir_path)] if has_subdirs else [f"themes/{theme}"]
 
@@ -252,6 +247,19 @@ def generate_item(theme: str, collect_data: bool = False) -> str:
             readme_path = ""
         if readme_path != "":
             break
+
+    title = ""
+    if name:
+        title += f"Name: {name}&#013;"
+    if author:
+        title += f"Author: {author}&#013;"
+    if last_updated:
+        title += f"Last updated: {last_updated}&#013;"
+    if description:
+        title += f"Description: {description}&#013;"
+    if is_featured:
+        title += "Tags: [featured theme]&#013;"
+    title += "(Click to download)"
 
     item = {
         "NAME": name + " ★" if is_featured else name,
