@@ -53,4 +53,4 @@
 
 <table align="center"><tr><td align="center" valign="top">
 
-[🡄&nbsp;PREV&nbsp;PAGE](README.md) &nbsp;&nbsp;|&nbsp;&nbsp;[01](README.md)&nbsp;&nbsp;**02**&nbsp;&nbsp;|&nbsp;&nbsp;~~NEXT&nbsp;PAGE&nbsp;🡆~~</td></tr></table>
+[🡄&nbsp;PREV&nbsp;PAGE](README.md)&nbsp;&nbsp;|&nbsp;&nbsp;[01](README.md)&nbsp;&nbsp;**02**</td></tr></table>

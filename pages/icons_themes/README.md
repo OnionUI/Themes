@@ -179,4 +179,4 @@
 
 <table align="center"><tr><td align="center" valign="top">
 
-~~🡄&nbsp;PREV&nbsp;PAGE~~&nbsp;&nbsp;|&nbsp;&nbsp;**01**&nbsp;&nbsp;[02](README.p02.md)&nbsp;&nbsp;[03](README.p03.md)&nbsp;&nbsp;[04](README.p04.md)&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;🡆](README.p02.md) </td></tr></table>
+**01**&nbsp;&nbsp;[02](README.p02.md)&nbsp;&nbsp;[03](README.p03.md)&nbsp;&nbsp;[04](README.p04.md)&nbsp;&nbsp;|&nbsp;&nbsp;[NEXT&nbsp;PAGE&nbsp;🡆](README.p02.md)</td></tr></table>
