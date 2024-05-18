@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 7 of 14 — 160 items available*
+*Page 7 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/YoRHa%20by%20Deepslackerjazz.zip">
+<img title="Name: YoRHa&#013;Author: Deepslackerjazz&#013;Last updated: 2024-05-18&#013;Description: Nier Automata inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png" /><br/>
+<b>YoRHa</b>
+</a><br/>
+<sup><i>Deepslackerjazz</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/YoRHa by Deepslackerjazz">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Deepslackerjazz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=YoRHa%20by%20Deepslackerjazz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#YoRHa%20by%20Deepslackerjazz,YoRHa%20by%20Deepslackerjazz:themes/YoRHa%20by%20Deepslackerjazz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/THPS2%20by%20tenlevels.zip">
 <img title="Name: THPS2&#013;Author: tenlevels&#013;Last updated: 2023-01-27&#013;Description: Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/THPS2%20by%20tenlevels/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/FireMiyoo%20by%20Isocron.zip">
 <img title="Name: FireMiyoo&#013;Author: Isocron&#013;Last updated: 2023-01-27&#013;Description: Firewatch parallax theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/FireMiyoo%20by%20Isocron/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Concise%20%283-pack%29%20by%20mtaras.zip">
 <img title="Name: Concise (3-pack)&#013;Author: mtaras&#013;Last updated: 2023-01-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Concise%20%283-pack%29%20by%20mtaras/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PPLP%20by%20Deepslackerjazz.zip">
 <img title="Name: PPLP&#013;Author: Deepslackerjazz&#013;Last updated: 2023-01-11&#013;Description: Piplup theme with TGC vibes&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Simple%20Pixels%20%282-pack%29%20by%20Cuprite.zip">
 <img title="Name: Simple Pixels (2-pack)&#013;Author: Cuprite&#013;Last updated: 2023-01-04&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Bayonetta%20by%20Kryobear.zip">
 <img title="Name: Bayonetta&#013;Author: Kryobear&#013;Last updated: 2022-12-16&#013;Description: Theme based off Bayonetta 1!&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Bayonetta%20by%20Kryobear/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite.zip">
 <img title="Name: Zigzag-iyoo-n Mini (2-pack)&#013;Author: Cuprite&#013;Last updated: 2022-12-14&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>dragon-fruity</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2022-12-13" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo Valley (2-pack) by dragon-fruity">2022-12-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22dragon-fruity%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/Miyoo%20Valley%20Xmas%20by%20dragon-fruity"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Rick%20and%20Morty%20Mini%20by%20Zooloo631.zip">
-<img title="Name: Rick and Morty Mini&#013;Author: Zooloo631&#013;Last updated: 2022-12-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png" /><br/>
-<b>Rick and Morty Mini</b>
-</a><br/>
-<sup><i>Zooloo631</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-12-13" href="https://github.com/OnionUI/Themes/commits/main/themes/Rick and Morty Mini by Zooloo631">2022-12-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Zooloo631%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 

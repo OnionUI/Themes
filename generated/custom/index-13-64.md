@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 2 of 14 — 160 items available*
+*Page 2 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
+<img title="Name: Silky Remix SUPER GAME BOY&#013;Author: MLOPEZMAD&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
+<b>Silky Remix SUPER GAME BOY</b>
+</a><br/>
+<sup><i>MLOPEZMAD</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Silky Remix SUPER GAME BOY by MLOPEZMAD">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MLOPEZMAD%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD,Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD:themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CleanOnionGB%20by%20KulhyCZ.zip">
 <img title="Name: CleanOnionGB&#013;Author: KulhyCZ&#013;Last updated: 2024-02-12&#013;Description: Clean&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CleanOnionGB%20by%20KulhyCZ/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
 <img title="Name: Mucha Miyoo&#013;Author: LamiaLazuli&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C.zip">
 <img title="Name: Miyoo X Rilakkuma Pink!&#013;Author: Jasminum C&#013;Last updated: 2024-01-30&#013;Description: A lovely pink theme for Rilakkuma lovers&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/StarOnion64%20by%20LeonardoDaPinchy.zip">
 <img title="Name: StarOnion64&#013;Author: LeonardoDaPinchy&#013;Last updated: 2024-05-18&#013;Description: A StarFox64 Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/StarOnion64%20by%20LeonardoDaPinchy/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RETRONION%20by%20MLOPEZMAD.zip">
 <img title="Name: RETRONION&#013;Author: MLOPEZMAD&#013;Last updated: 2024-01-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RETRONION%20by%20MLOPEZMAD/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hallownest%20by%20Myth%20%2B%20Solsta.zip">
 <img title="Name: Hallownest&#013;Author: Myth + Solsta&#013;Last updated: 2024-01-29&#013;Description: Inspired by Hollow Night (Team Cherry)&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hallownest%20by%20Myth%20%2B%20Solsta/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wiiyoo%20by%20UnBurn.zip">
 <img title="Name: Wiiyoo&#013;Author: UnBurn&#013;Last updated: 2024-01-17&#013;Description: Wii would like to play with Miyoo&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wiiyoo%20by%20UnBurn/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>MLOPEZMAD</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/NES by MLOPEZMAD">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22MLOPEZMAD%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NES%20by%20MLOPEZMAD/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/NES%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=NES%20by%20MLOPEZMAD"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#NES%20by%20MLOPEZMAD,NES%20by%20MLOPEZMAD:themes/NES%20by%20MLOPEZMAD/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20Origins%20by%20Sheezie.zip">
-<img title="Name: Sonic Origins&#013;Author: Sheezie&#013;Last updated: 2024-05-18&#013;Description: Sonic the Hedgehog theme based on Sonic Origins&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20Origins%20by%20Sheezie/preview.png" /><br/>
-<b>Sonic Origins</b>
-</a><br/>
-<sup><i>Sheezie</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Sonic Origins by Sheezie">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Sheezie%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20Origins%20by%20Sheezie/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Sonic%20Origins%20by%20Sheezie,Sonic%20Origins%20by%20Sheezie:themes/Sonic%20Origins%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

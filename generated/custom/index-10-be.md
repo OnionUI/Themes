@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 5 of 14 — 160 items available*
+*Page 5 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Beneath%20The%20Mask%20by%20UnBurn.zip">
+<img title="Name: Beneath The Mask&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: Persona 5 in Miyoo form&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png" /><br/>
+<b>Beneath The Mask</b>
+</a><br/>
+<sup><i>UnBurn</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2023-07-03 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Beneath The Mask by UnBurn">2023-07-03 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Beneath%20The%20Mask%20by%20UnBurn"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pocket%20Gank%20by%20UnBurn.zip">
 <img title="Name: Pocket Gank&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: League of Legends theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pocket%20Gank%20by%20UnBurn/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Notebook%20Kawaii%20by%20UnBurn.zip">
 <img title="Name: Notebook Kawaii&#013;Author: UnBurn&#013;Last updated: 2024-05-18&#013;Description: Kawaii theme in a notebook&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Notebook%20Kawaii%20by%20UnBurn/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dragon%20Ball%20Mini%20by%20UnBurn.zip">
 <img title="Name: Dragon Ball Mini&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: Dragon Ball Z inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dragon%20Ball%20Mini%20by%20UnBurn/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/sharp%20by%20m_axic.zip">
 <img title="Name: sharp&#013;Author: m_axic&#013;Last updated: 2023-06-06&#013;Description: A sharp theme.&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/sharp%20by%20m_axic/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Original%20by%20SandsByte.zip">
 <img title="Name: Original&#013;Author: SandsByte&#013;Last updated: 2023-06-04&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Original%20by%20SandsByte/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OOSFC%20by%20ytdcpndsgn.zip">
 <img title="Name: OOSFC&#013;Author: ytdcpndsgn&#013;Last updated: 2024-05-18&#013;Description: With respect for SFC&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OOSFC%20by%20ytdcpndsgn/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TOTK%20by%20NaraMakesGames.zip">
 <img title="Name: TOTK&#013;Author: NaraMakesGames&#013;Last updated: 2023-05-27&#013;Description: Minimal Tears of the Kingdom&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TOTK%20by%20NaraMakesGames/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>m_axic</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-06-05 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/klar (8-pack) by m_axic">2023-06-05 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22m_axic%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/klar%20%288-pack%29%20by%20m_axic/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/klar%20%288-pack%29%20by%20m_axic/klar%20aqua%20by%20m_axic/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MegaManX%20by%20NoLetterhead485.zip">
-<img title="Name: MegaManX&#013;Author: NoLetterhead485&#013;Last updated: 2023-04-30&#013;Description: MegaManX Based Miyoo Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MegaManX%20by%20NoLetterhead485/preview.png" /><br/>
-<b>MegaManX</b>
-</a><br/>
-<sup><i>NoLetterhead485</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2023-04-30" href="https://github.com/OnionUI/Themes/commits/main/themes/MegaManX by NoLetterhead485">2023-04-30</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22NoLetterhead485%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MegaManX%20by%20NoLetterhead485/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=MegaManX%20by%20NoLetterhead485"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 

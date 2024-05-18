@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 3 of 14 — 160 items available*
+*Page 3 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20Origins%20by%20Sheezie.zip">
+<img title="Name: Sonic Origins&#013;Author: Sheezie&#013;Last updated: 2024-05-18&#013;Description: Sonic the Hedgehog theme based on Sonic Origins&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20Origins%20by%20Sheezie/preview.png" /><br/>
+<b>Sonic Origins</b>
+</a><br/>
+<sup><i>Sheezie</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Sonic Origins by Sheezie">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Sheezie%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20Origins%20by%20Sheezie/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Sonic%20Origins%20by%20Sheezie,Sonic%20Origins%20by%20Sheezie:themes/Sonic%20Origins%20by%20Sheezie/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/vintage_aesthe%20by%20uchebo_bro.zip">
 <img title="Name: vintage_aesthe&#013;Author: uchebo_bro&#013;Last updated: 2024-05-18&#013;Description: inspired retro window and vaporwave&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/vintage_aesthe%20by%20uchebo_bro/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle.zip">
 <img title="Name: Sprite Buddies SNES&#013;Author: ShrimpFandangle&#013;Last updated: 2024-01-01&#013;Description: Sprites from your childhood on your Miyoo Mini&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20NES%20by%20ShrimpFandangle.zip">
 <img title="Name: Sprite Buddies NES&#013;Author: ShrimpFandangle&#013;Last updated: 2024-01-01&#013;Description: Sprites from your childhood on your Miyoo Mini&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DS%20XS%20by%20UnBurn.zip">
 <img title="Name: DS XS&#013;Author: UnBurn&#013;Last updated: 2023-11-28&#013;Description: A single screen DS experience&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DS%20XS%20by%20UnBurn/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PIXELPUNK%20by%20anthr_alxndr.zip">
 <img title="Name: PIXELPUNK&#013;Author: anthr_alxndr&#013;Last updated: 2024-05-18&#013;Description: Inspired by CYBERPUNK 2077&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PIXELPUNK%20by%20anthr_alxndr/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pad%20%284-pack%29%20by%20toski.zip">
 <img title="Name: Pad (4-pack)&#013;Author: toski&#013;Last updated: 2023-11-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20Pocket%20by%20Oclain.zip">
 <img title="Name: Fake Pocket&#013;Author: Oclain&#013;Last updated: 2024-05-18&#013;Description: Theme that mimics the original Gameboy Pocket screen&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20Pocket%20by%20Oclain/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>Skimpertushi</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-10-03" href="https://github.com/OnionUI/Themes/commits/main/themes/Valorant by Skimpertushi">2023-10-03</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Skimpertushi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Valorant%20by%20Skimpertushi,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip">
-<img title="Name: Neumorphism (3-pack)&#013;Author: bantam&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png" /><br/>
-<b>Neumorphism (3-pack)</b>
-</a><br/>
-<sup><i>bantam</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Neumorphism (3-pack) by bantam">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22bantam%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons,Neumorphism-White%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons,Neumorphism-Yellow%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 8 of 14 — 160 items available*
+*Page 8 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Rick%20and%20Morty%20Mini%20by%20Zooloo631.zip">
+<img title="Name: Rick and Morty Mini&#013;Author: Zooloo631&#013;Last updated: 2022-12-13&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png" /><br/>
+<b>Rick and Morty Mini</b>
+</a><br/>
+<sup><i>Zooloo631</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-12-13" href="https://github.com/OnionUI/Themes/commits/main/themes/Rick and Morty Mini by Zooloo631">2022-12-13</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Zooloo631%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEO%20GEO%20by%20tenlevels.zip">
 <img title="Name: NEO GEO&#013;Author: tenlevels&#013;Last updated: 2022-12-12&#013;Description: NEO GEO MVS inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEO%20GEO%20by%20tenlevels/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TRON%20by%20tenlevels.zip">
 <img title="Name: TRON&#013;Author: tenlevels&#013;Last updated: 2024-05-18&#013;Description: Tron Legacy inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TRON%20by%20tenlevels/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20%282-pack%29%20by%20tenlevels.zip">
 <img title="Name: Sonic (2-pack)&#013;Author: tenlevels&#013;Last updated: 2023-03-06&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/VII%20by%20Moowgly.zip">
 <img title="Name: VII&#013;Author: Moowgly&#013;Last updated: 2022-12-02&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/VII%20by%20Moowgly/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PSX%20Theme%20by%20Oclain.zip">
 <img title="Name: PSX Theme&#013;Author: Oclain&#013;Last updated: 2022-11-30&#013;Description: PSX Classic Menu Style&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PSX%20Theme%20by%20Oclain/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OSRS%20Theme%20by%20Mahan.zip">
 <img title="Name: OSRS Theme&#013;Author: Mahan&#013;Last updated: 2022-11-25&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OSRS%20Theme%20by%20Mahan/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Slug%20by%20tenlevels.zip">
 <img title="Name: Miyoo Slug&#013;Author: tenlevels&#013;Last updated: 2022-12-08&#013;Description: Metal Slug inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Slug%20by%20tenlevels/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>tenlevels</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2022-12-05 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Super Mariyoo by tenlevels">2022-12-05 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Mariyoo%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Super%20Mariyoo%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Contra%20Miyoo%20by%20tenlevels.zip">
-<img title="Name: Contra Miyoo&#013;Author: tenlevels&#013;Last updated: 2022-11-18&#013;Description: Contra NES inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Contra%20Miyoo%20by%20tenlevels/preview.png" /><br/>
-<b>Contra Miyoo</b>
-</a><br/>
-<sup><i>tenlevels</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-11-18" href="https://github.com/OnionUI/Themes/commits/main/themes/Contra Miyoo by tenlevels">2022-11-18</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Contra%20Miyoo%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Contra%20Miyoo%20by%20tenlevels"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 

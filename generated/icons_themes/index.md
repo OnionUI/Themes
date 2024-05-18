@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 1 of 4 — 43 items available*
+*Page 1 of 4 — 44 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![Lifestream by Inheritor](../../themes/Lifestream%20by%20Inheritor/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Lifestream%20by%20Inheritor,Lifestream%20by%20Inheritor:themes/Lifestream%20by%20Inheritor/icons "Click to see the full icon pack preview page")
+
+**Lifestream by Inheritor**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lifestream%20by%20Inheritor.zip "Lifestream by Inheritor") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+</td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -114,7 +126,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 </td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 </td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **Fake Pocket by Oclain**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20Pocket%20by%20Oclain.zip "Fake Pocket by Oclain") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-</td>
-
-
-<td valign="top" width="25.00%">
-
-[![Neumorphism-Black by bantam](../../themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Neumorphism-Black%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons "Click to see the full icon pack preview page")
-
-**Neumorphism-Black by bantam**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 </td>
 

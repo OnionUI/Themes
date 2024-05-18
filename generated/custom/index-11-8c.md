@@ -67,8 +67,19 @@
 
 ## Originals — Custom Made Themes
 
-*Page 4 of 14 — 160 items available*
+*Page 4 of 14 — 161 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip">
+<img title="Name: Neumorphism (3-pack)&#013;Author: bantam&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png" /><br/>
+<b>Neumorphism (3-pack)</b>
+</a><br/>
+<sup><i>bantam</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Neumorphism (3-pack) by bantam">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22bantam%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Neumorphism%20%283-pack%29%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons,Neumorphism-White%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons,Neumorphism-Yellow%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip">
 <img title="Name: NBA Onion&#013;Author: Tom Tower&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NBA%20Onion%20by%20Tom%20Tower/preview.png" /><br/>
@@ -91,6 +102,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20Simpson%20by%20Polpetta.zip">
 <img title="Name: ONION Simpson&#013;Author: Polpetta&#013;Last updated: 2023-09-07&#013;Description: Simpson inspired Onion theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20Simpson%20by%20Polpetta/preview.png" /><br/>
@@ -102,7 +114,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Ultralight%20by%20parkinglotmusic.zip">
 <img title="Name: Ultralight&#013;Author: parkinglotmusic&#013;Last updated: 2023-08-08&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png" /><br/>
@@ -125,6 +136,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip">
 <img title="Name: RetroRama&#013;Author: TooGeekCreations&#013;Last updated: 2024-05-18&#013;Description: Phill's Doodles Comics&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RetroRama%20by%20TooGeekCreations/preview.png" /><br/>
@@ -136,7 +148,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20Inverted%20by%20ElectRefurbish.zip">
 <img title="Name: Blank Space Inverted&#013;Author: ElectRefurbish&#013;Last updated: 2024-05-18&#013;Description: Casual Theme...&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/preview.png" /><br/>
@@ -159,6 +170,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20by%20ElectRefurbish.zip">
 <img title="Name: Blank Space&#013;Author: ElectRefurbish&#013;Last updated: 2024-05-18&#013;Description: Casual Theme...&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20by%20ElectRefurbish/preview.png" /><br/>
@@ -170,7 +182,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/999-in-1%20by%20UnBurn.zip">
 <img title="Name: 999-in-1&#013;Author: UnBurn&#013;Last updated: 2023-07-04&#013;Description: If Brick Game was still cool&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/999-in-1%20by%20UnBurn/preview.png" /><br/>
@@ -190,17 +201,6 @@
 <sup><i>Slak211</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-07-04" href="https://github.com/OnionUI/Themes/commits/main/themes/Zelda Oracle by Slak211">2023-07-04</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Slak211%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zelda%20Oracle%20by%20Slak211/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Zelda%20Oracle%20by%20Slak211"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Beneath%20The%20Mask%20by%20UnBurn.zip">
-<img title="Name: Beneath The Mask&#013;Author: UnBurn&#013;Last updated: 2023-07-03&#013;Description: Persona 5 in Miyoo form&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png" /><br/>
-<b>Beneath The Mask</b>
-</a><br/>
-<sup><i>UnBurn</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2023-07-03 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Beneath The Mask by UnBurn">2023-07-03 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22UnBurn%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Beneath%20The%20Mask%20by%20UnBurn"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 
