@@ -69,8 +69,7 @@
 
 *Page 11 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ChronoMi%20by%20apg313.zip">
 <img title="ChronoMi by apg313" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ChronoMi%20by%20apg313/preview.png" /><br/>
 <b>ChronoMi</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBMini%20by%20Kitsuvi.zip">
 <img title="GBMini by Kitsuvi [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBMini%20by%20Kitsuvi/preview.png" /><br/>
 <b>GBMini ★</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBOnion%20by%20Kitsuvi.zip">
 <img title="GBOnion by Kitsuvi" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20by%20Kitsuvi/preview.png" /><br/>
 <b>GBOnion</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hyrule%20Dark%20by%20ruidacosta.zip">
 <img title="Hyrule Dark by ruidacosta" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hyrule%20Dark%20by%20ruidacosta/preview.png" /><br/>
 <b>Hyrule Dark</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/EVA%20by%20laumser7%20%2B%20trere.zip">
 <img title="EVA by laumser7 + trere" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/EVA%20by%20laumser7%20%2B%20trere/preview.png" /><br/>
 <b>EVA</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Animiyoo%20by%20laumser7.zip">
 <img title="Animiyoo by laumser7" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Animiyoo%20by%20laumser7/preview.png" /><br/>
 <b>Animiyoo</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PSPmini%20Blue%20by%20MarsTaco.zip">
 <img title="PSPmini Blue by MarsTaco" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PSPmini%20Blue%20by%20MarsTaco/PSPmini%20Blue%20%28Clean%20View%29%20by%20MarsTaco/preview.png" /><br/>
 <b>PSPmini Blue</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PSPmini%20by%20MarsTaco.zip">
 <img title="PSPmini by MarsTaco" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PSPmini%20by%20MarsTaco/PSPmini%20%28Clean%20View%29%20by%20MarsTaco/preview.png" /><br/>
 <b>PSPmini</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hippo%20Stock.zip">
 <img title="Hippo Stock [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hippo%20Stock/preview.png" /><br/>
 <b>Hippo Stock ★</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MakoVII%20by%20Gloomy_Background755.zip">
 <img title="MakoVII by Gloomy_Background755" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MakoVII%20by%20Gloomy_Background755/preview.png" /><br/>
 <b>MakoVII</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Plastic%20Leaf%20%28NA%29%20by%20leafflat.zip">
 <img title="Plastic Leaf (NA) by leafflat" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Plastic%20Leaf%20%28NA%29%20by%20leafflat/preview.png" /><br/>
 <b>Plastic Leaf (NA)</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Plastic%20Leaf%20%28EU%29%20by%20leafflat.zip">
 <img title="Plastic Leaf (EU) by leafflat" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Plastic%20Leaf%20%28EU%29%20by%20leafflat/preview.png" /><br/>
 <b>Plastic Leaf (EU)</b>

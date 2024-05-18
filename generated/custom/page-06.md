@@ -69,8 +69,7 @@
 
 *Page 6 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TechDweeb%20by%20TechDweeb.zip">
 <img title="Retro games are for dweebs [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TechDweeb%20by%20TechDweeb/preview.png" /><br/>
 <b>TechDweeb Orange Stuff ★</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20DMG%20Classic%20by%20Oclain.zip">
 <img title="Theme that mimics the original Gameboy dot matrix screen" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20DMG%20Classic%20by%20Oclain/preview.png" /><br/>
 <b>Fake DMG Classic</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip">
 <img title="Black/White/Grey minimal theme inspired by Miyoo logo [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png" /><br/>
 <b>M ★</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/mini.os%20by%20nationalsoup.zip">
 <img title="Minimal Dark Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/mini.os%20by%20nationalsoup/preview.png" /><br/>
 <b>mini.os</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cave%2B%20by%20apg313.zip">
 <img title="Cave+ by apg313" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cave%2B%20by%20apg313/preview.png" /><br/>
 <b>Cave+</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip">
 <img title="Onion Blocks (2-pack) by tenlevels" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>Onion Blocks (2-pack)</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TMNT%20by%20RealDan.zip">
 <img title="TMNT theme inspired by art from Hyperstone Heist." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TMNT%20by%20RealDan/preview.png" /><br/>
 <b>TMNT</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/YoRHa%20by%20Deepslackerjazz.zip">
 <img title="Nier Automata inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>YoRHa</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/THPS2%20by%20tenlevels.zip">
 <img title="Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/THPS2%20by%20tenlevels/preview.png" /><br/>
 <b>THPS2</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEON.ion%20by%20tenlevels.zip">
 <img title="NEON OnionOS theme inspired by Essenger" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEON.ion%20by%20tenlevels/preview.png" /><br/>
 <b>NEON.ion</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/FireMiyoo%20by%20Isocron.zip">
 <img title="Firewatch parallax theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/FireMiyoo%20by%20Isocron/preview.png" /><br/>
 <b>FireMiyoo</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Concise%20%283-pack%29%20by%20mtaras.zip">
 <img title="Concise (3-pack) by mtaras" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Concise%20%283-pack%29%20by%20mtaras/preview.png" /><br/>
 <b>Concise (3-pack)</b>

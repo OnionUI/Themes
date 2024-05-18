@@ -69,8 +69,7 @@
 
 *Page 9 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Kingdom%20Onions%20by%20PixelShift.zip">
 <img title="Kingdom Onions by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Kingdom%20Onions%20by%20PixelShift/preview.png" /><br/>
 <b>Kingdom Onions</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip">
 <img title="CyberOnion (2-pack) by Aemiii91 [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png" /><br/>
 <b>CyberOnion (2-pack) ★</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DNTSHP%20by%20Deepslackerjazz.zip">
 <img title="Old school donut shop in pixel form" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DNTSHP%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>DNTSHP</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Tema%20by%20Alex%20Connor.zip">
 <img title="Tema by Alex Connor" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Tema%20by%20Alex%20Connor/preview.png" /><br/>
 <b>Tema</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20DX%20by%20PixelShift.zip">
 <img title="Onion Boy DX by PixelShift [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20DX%20by%20PixelShift/preview.png" /><br/>
 <b>Onion Boy DX ★</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron.zip">
 <img title="Onion Boy by PixelShift + Jeltron [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20by%20PixelShift%20%2B%20Jeltron/preview.png" /><br/>
 <b>Onion Boy ★</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MiNook%20Mini%20by%20Deepslackerjazz.zip">
 <img title="Nook phone type theme with a crafty vibe" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiNook%20Mini%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>MiNook</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/less%20by%20junk.zip">
 <img title="Another minimalist theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/less%20by%20junk/preview.png" /><br/>
 <b>less</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RPO%20by%20TheDewd.zip">
 <img title="Pixel Art Fantasy Theme [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RPO%20by%20TheDewd/preview.png" /><br/>
 <b>Role Playing Onion ★</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BRCKD%20by%20Deepslackerjazz.zip">
 <img title="BRCKD by Deepslackerjazz" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BRCKD%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>BRCKD</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onionboy%20HD%20by%20Jeltron.zip">
 <img title="Higher res variant of OnionBoy [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onionboy%20HD%20by%20Jeltron/preview.png" /><br/>
 <b>Onionboy HD ★</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/End%20of%20Ages%20by%20apg313.zip">
 <img title="End of Ages by apg313" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/End%20of%20Ages%20by%20apg313/preview.png" /><br/>
 <b>End of Ages</b>

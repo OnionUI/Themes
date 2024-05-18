@@ -69,8 +69,7 @@
 
 *Page 8 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Truxton%20by%20tenlevels.zip">
 <img title="Truxton inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Truxton%20by%20tenlevels/preview.png" /><br/>
 <b>Miyoo Truxton</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/VII%20by%20Moowgly.zip">
 <img title="VII by Moowgly" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/VII%20by%20Moowgly/preview.png" /><br/>
 <b>VII</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PSX%20Theme%20by%20Oclain.zip">
 <img title="PSX Classic Menu Style" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PSX%20Theme%20by%20Oclain/preview.png" /><br/>
 <b>PSX Theme</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cyberpunk%20by%20Dreams897.zip">
 <img title="[Cyberpunk 2077 inspired theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cyberpunk%20by%20Dreams897/preview.png" /><br/>
 <b>Cyberpunk</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OSRS%20Theme%20by%20Mahan.zip">
 <img title="OSRS Theme by Mahan" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OSRS%20Theme%20by%20Mahan/preview.png" /><br/>
 <b>OSRS Theme</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Slug%20by%20tenlevels.zip">
 <img title="Metal Slug inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Slug%20by%20tenlevels/preview.png" /><br/>
 <b>Miyoo Slug</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Mariyoo%20by%20tenlevels.zip">
 <img title="Super Mario NES inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Mariyoo%20by%20tenlevels/preview.png" /><br/>
 <b>Super Mariyoo</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Contra%20Miyoo%20by%20tenlevels.zip">
 <img title="Contra NES inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Contra%20Miyoo%20by%20tenlevels/preview.png" /><br/>
 <b>Contra Miyoo</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PAC-MIYOO%20by%20tenlevels.zip">
 <img title="PAC-MIYOO by tenlevels [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PAC-MIYOO%20by%20tenlevels/preview.png" /><br/>
 <b>PAC-MIYOO ★</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip">
 <img title="SNES Classic inspired theme for Onion [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png" /><br/>
 <b>Super Onion Entertainment System ★</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip">
 <img title="NanoSwitch (2-pack) by Amdy [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png" /><br/>
 <b>NanoSwitch (2-pack) ★</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cards%20by%20PixelShift.zip">
 <img title="Cards by PixelShift" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cards%20by%20PixelShift/preview.png" /><br/>
 <b>Cards</b>

@@ -69,8 +69,7 @@
 
 *Page 5 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lylat%20System%20by%20UnBurn.zip">
 <img title="A Star Fox inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Lylat%20System%20by%20UnBurn/preview.png" /><br/>
 <b>Lylat System</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/sharp%20by%20m_axic.zip">
 <img title="A sharp theme." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/sharp%20by%20m_axic/preview.png" /><br/>
 <b>sharp</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Original%20by%20SandsByte.zip">
 <img title="Original by SandsByte" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Original%20by%20SandsByte/preview.png" /><br/>
 <b>Original</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/A%20Link%20to%20the%20Past%20by%20tendo209.zip">
 <img title="A theme based on A Link to the Past for SNES" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/A%20Link%20to%20the%20Past%20by%20tendo209/preview.png" /><br/>
 <b>A Link to the Past</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OOSFC%20by%20ytdcpndsgn.zip">
 <img title="With respect for SFC" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OOSFC%20by%20ytdcpndsgn/preview.png" /><br/>
 <b>OOSFC</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TOTK%20by%20NaraMakesGames.zip">
 <img title="Minimal Tears of the Kingdom" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TOTK%20by%20NaraMakesGames/preview.png" /><br/>
 <b>TOTK</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/klar%20%288-pack%29%20by%20m_axic.zip">
 <img title="klar (8-pack) by m_axic" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/klar%20%288-pack%29%20by%20m_axic/preview.png" /><br/>
 <b>klar (8-pack)</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MegaManX%20by%20NoLetterhead485.zip">
 <img title="MegaManX Based Miyoo Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MegaManX%20by%20NoLetterhead485/preview.png" /><br/>
 <b>MegaManX</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CastlevaniaSOTN%20by%20RoeTaKa.zip">
 <img title="CastlevaniaSOTN by RoeTaKa" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CastlevaniaSOTN%20by%20RoeTaKa/preview.png" /><br/>
 <b>CastlevaniaSOTN</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip">
 <img title="Miyoo Mini Milk White Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20White%20by%20Segich/preview.png" /><br/>
 <b>Milk White</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/HAZARD%20by%20Dreambrace.zip">
 <img title="Theme in the style of hazard signs" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/HAZARD%20by%20Dreambrace/preview.png" /><br/>
 <b>HAZARD</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip">
 <img title="ONION PS (4-pack) by hanessh4 [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png" /><br/>
 <b>ONION PS (4-pack) ★</b>

@@ -69,8 +69,7 @@
 
 *Page 1 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
 <img title="Super effective" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
 <b>Fairy-Type</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
 <img title="For the Adventurer" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
 <b>Game Boy Scouts</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
 <img title="AnalogPhosphor (3-pack) by trash" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
 <b>AnalogPhosphor (3-pack)</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dark%20Onion%20by%20Alpatov%20Danila.zip">
 <img title="Unlike the Light Onion, that one is dark" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dark%20Onion%20by%20Alpatov%20Danila/preview.png" /><br/>
 <b>Dark Onion</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/win98%20by%20kyhynngy_oyuur.zip">
 <img title="win98 by kyhynngy_oyuur" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/win98%20by%20kyhynngy_oyuur/preview.png" /><br/>
 <b>win98</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie.zip">
 <img title="Capcom & SNK theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
 <b>Capcom SNK (Handheld Filter)</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Shallot%20by%20Cyberbellum.zip">
 <img title="Minimalist theme, inspired by Aemiii91's Analogue theme." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Shallot%20by%20Cyberbellum/preview.png" /><br/>
 <b>Shallot</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
 <img title="Silky Remix SUPER GAME BOY by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>Silky Remix SUPER GAME BOY</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CleanOnionGB%20by%20KulhyCZ.zip">
 <img title="Clean" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CleanOnionGB%20by%20KulhyCZ/preview.png" /><br/>
 <b>CleanOnionGB</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Power%20Onions%20OS%20by%20LeonardoDaPinchy.zip">
 <img title="A Mighty Morphing Power Rangers Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/preview.png" /><br/>
 <b>Power Onions OS</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
 <img title="Mucha Miyoo by LamiaLazuli" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
 <b>Mucha Miyoo</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C.zip">
 <img title="A lovely pink theme for Rilakkuma lovers" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png" /><br/>
 <b>Miyoo X Rilakkuma Pink!</b>

@@ -69,8 +69,7 @@
 
 *Page 2 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pokemon%20Mystery%20Dungeon%20by%20Sheezie.zip">
 <img title="Pokemon theme based on Pokemon Mystery Dungeon DX" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pokemon%20Mystery%20Dungeon%20by%20Sheezie/preview.png" /><br/>
 <b>Pokemon Mystery Dungeon</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/StarOnion64%20by%20LeonardoDaPinchy.zip">
 <img title="A StarFox64 Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/StarOnion64%20by%20LeonardoDaPinchy/preview.png" /><br/>
 <b>StarOnion64</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RETRONION%20by%20MLOPEZMAD.zip">
 <img title="RETRONION by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RETRONION%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>RETRONION</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Classic%20TV%20by%20RetroReef.zip">
 <img title="Classic Television inspired theme for Onion" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Classic%20TV%20by%20RetroReef/preview.png" /><br/>
 <b>Classic TV</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hallownest%20by%20Myth%20%2B%20Solsta.zip">
 <img title="Inspired by Hollow Night (Team Cherry)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hallownest%20by%20Myth%20%2B%20Solsta/preview.png" /><br/>
 <b>Hallownest</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wiiyoo%20by%20UnBurn.zip">
 <img title="Wii would like to play with Miyoo" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wiiyoo%20by%20UnBurn/preview.png" /><br/>
 <b>Wiiyoo</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NES%20by%20MLOPEZMAD.zip">
 <img title="NES by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NES%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>NES</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20Origins%20by%20Sheezie.zip">
 <img title="Sonic the Hedgehog theme based on Sonic Origins" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20Origins%20by%20Sheezie/preview.png" /><br/>
 <b>Sonic Origins</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/vintage_aesthe%20by%20uchebo_bro.zip">
 <img title="inspired retro window and vaporwave" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/vintage_aesthe%20by%20uchebo_bro/preview.png" /><br/>
 <b>vintage_aesthe</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
 <img title="SUPER GAME BOY by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>SUPER GAME BOY</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle.zip">
 <img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20SNES%20by%20ShrimpFandangle/preview.png" /><br/>
 <b>Sprite Buddies SNES</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20NES%20by%20ShrimpFandangle.zip">
 <img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20NES%20by%20ShrimpFandangle/preview.png" /><br/>
 <b>Sprite Buddies NES</b>

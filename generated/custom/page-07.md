@@ -69,8 +69,7 @@
 
 *Page 7 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/minimO%20by%20AccomplishedSir.zip">
 <img title="minimalist theme with neomorphic elements" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/minimO%20by%20AccomplishedSir/preview.png" /><br/>
 <b>minimO</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PPLP%20by%20Deepslackerjazz.zip">
 <img title="Piplup theme with TGC vibes" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>PPLP</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Simple%20Pixels%20%282-pack%29%20by%20Cuprite.zip">
 <img title="Simple Pixels (2-pack) by Cuprite" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Simple%20Pixels%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
 <b>Simple Pixels (2-pack)</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PICO-8%20%283-pack%29%20by%20tenlevels.zip">
 <img title="PICO-8 (3-pack) by tenlevels" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PICO-8%20%283-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>PICO-8 (3-pack)</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Bayonetta%20by%20Kryobear.zip">
 <img title="Theme based off Bayonetta 1!" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Bayonetta%20by%20Kryobear/preview.png" /><br/>
 <b>Bayonetta</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite.zip">
 <img title="Zigzag-iyoo-n Mini (2-pack) by Cuprite" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zigzag-iyoo-n%20Mini%20%282-pack%29%20by%20Cuprite/preview.png" /><br/>
 <b>Zigzag-iyoo-n Mini (2-pack)</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity.zip">
 <img title="Miyoo Valley (2-pack) by dragon-fruity" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Valley%20%282-pack%29%20by%20dragon-fruity/preview.png" /><br/>
 <b>Miyoo Valley (2-pack)</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Rick%20and%20Morty%20Mini%20by%20Zooloo631.zip">
 <img title="Rick and Morty Mini by Zooloo631" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Rick%20and%20Morty%20Mini%20by%20Zooloo631/preview.png" /><br/>
 <b>Rick and Morty Mini</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEO%20GEO%20by%20tenlevels.zip">
 <img title="NEO GEO MVS inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEO%20GEO%20by%20tenlevels/preview.png" /><br/>
 <b>NEO GEO</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TTYD%20by%20Kryobear.zip">
 <img title="Theme layout with 10x10 grid" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TTYD%20by%20Kryobear/preview.png" /><br/>
 <b>TTYD</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TRON%20by%20tenlevels.zip">
 <img title="Tron Legacy inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TRON%20by%20tenlevels/preview.png" /><br/>
 <b>TRON</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20%282-pack%29%20by%20tenlevels.zip">
 <img title="Sonic (2-pack) by tenlevels" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sonic%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>Sonic (2-pack)</b>

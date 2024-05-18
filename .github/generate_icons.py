@@ -52,12 +52,12 @@ def get_ordered_icons() -> list[dict]:
     return ordered_icons
 
 
-def generate_icon_pack_table(icon_packs: list[IconPack], cols: int = ICONS_COLS) -> str:
+def generate_icon_pack_table(icon_packs: list[IconPack]) -> str:
     current_path = os.path.join(PAGES_ICONS_DIR, ".")
     output = "<table align=center><tr>\n\n"
     
     for i, icon_pack in enumerate(icon_packs):
-        if i > 0 and i % cols == 0:
+        if i > 0 and i % ICONS_COLS == 0:
             output += "</tr><tr>\n"
         output += generate_icon_pack_entry(current_path, icon_pack, index=i)
 
@@ -71,7 +71,7 @@ def generate_icon_pack_entry(current_path: str, icon_pack: IconPack, index: int 
 
     ensure_has_icon_preview(icon_pack.path)
 
-    output = f"""\n<td valign="top">\n\n[![{icon_pack.name}]({urlencode(rel_path(preview_path, current_path))})]({icon_pack.preview_url} "Click to see the full icon pack preview page")\n\n**{icon_pack.name}**\n\n"""
+    output = f"""\n<td valign="top" width="{100 / ICONS_COLS:.2f}%">\n\n[![{icon_pack.name}]({urlencode(rel_path(preview_path, current_path))})]({icon_pack.preview_url} "Click to see the full icon pack preview page")\n\n**{icon_pack.name}**\n\n"""
 
     dn_text = f"Download theme" if icon_pack.is_theme else f"Download icon pack"
     dn_link = f"[{dn_text}]({icon_pack.release_url} \"{icon_pack.theme if icon_pack.is_theme else icon_pack.name}\")"
@@ -90,7 +90,7 @@ def generate_icon_pack_entry(current_path: str, icon_pack: IconPack, index: int 
     icon_count = sum(os.path.isfile(f"{icon_pack.path}/{icon}.png") for icon in ALL_ICONS)
     output += f"{dn_link} <sub><sup>{NB_SPACER} {icon_count / len(ALL_ICONS) * 100:.0f}%{NB_SPACE}complete</sup> {NB_SPACER} {readme}</sub>"
 
-    output += f"\n\n{ICONS_COLUMN_SPANNER if index < ICONS_COLS else ''}<br/></td>\n\n"
+    output += f"\n\n</td>\n\n"
 
     return output
 

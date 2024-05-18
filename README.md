@@ -90,8 +90,7 @@
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
 <img title="Super effective" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
 <b>Fairy-Type</b>
@@ -104,8 +103,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AnalogPhosphor%20%283-pack%29%20by%20trash.zip">
 <img title="AnalogPhosphor (3-pack) by trash" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png" /><br/>
 <b>AnalogPhosphor (3-pack)</b>
@@ -118,8 +116,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
 <img title="For the Adventurer" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Game%20Boy%20Scouts%20by%20UnBurn/preview.png" /><br/>
 <b>Game Boy Scouts</b>
@@ -140,8 +137,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 ## Recently Updated Themes
 
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie.zip">
 <img title="Capcom & SNK theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/preview.png" /><br/>
 <b>Capcom SNK (Handheld Filter)</b>
@@ -154,8 +150,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip">
 <img title="Silky Remix SUPER GAME BOY by MLOPEZMAD" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Silky%20Remix%20SUPER%20GAME%20BOY%20by%20MLOPEZMAD/preview.png" /><br/>
 <b>Silky Remix SUPER GAME BOY</b>
@@ -168,8 +163,7 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 
 
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
 <img title="Mucha Miyoo by LamiaLazuli" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
 <b>Mucha Miyoo</b>

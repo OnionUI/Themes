@@ -69,8 +69,7 @@
 
 *Page 4 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Nokiyoo%20by%20UnBurn.zip">
 <img title="Games on your phone" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Nokiyoo%20by%20UnBurn/preview.png" /><br/>
 <b>Nokiyoo</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip">
 <img title="Phill's Doodles Comics [featured theme]" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RetroRama%20by%20TooGeekCreations/preview.png" /><br/>
 <b>RetroRama ★</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20Inverted%20by%20ElectRefurbish.zip">
 <img title="Casual Theme..." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Blank Space Inverted</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20by%20Bernig.zip">
 <img title="A Fallout inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png" /><br/>
 <b>Wasteland</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20by%20ElectRefurbish.zip">
 <img title="Casual Theme..." width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Blank Space</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/999-in-1%20by%20UnBurn.zip">
 <img title="If Brick Game was still cool" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/999-in-1%20by%20UnBurn/preview.png" /><br/>
 <b>999-in-1</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zelda%20Oracle%20by%20Slak211.zip">
 <img title="A theme based on Oracle of Ages and Seasons" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zelda%20Oracle%20by%20Slak211/preview.png" /><br/>
 <b>Zelda Oracle</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Beneath%20The%20Mask%20by%20UnBurn.zip">
 <img title="Persona 5 in Miyoo form" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Beneath%20The%20Mask%20by%20UnBurn/preview.png" /><br/>
 <b>Beneath The Mask</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pocket%20Gank%20by%20UnBurn.zip">
 <img title="League of Legends theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pocket%20Gank%20by%20UnBurn/preview.png" /><br/>
 <b>Pocket Gank</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Spider-Miyoo%20by%20ElectRefurbish.zip">
 <img title="Spider-man theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Spider-Miyoo%20by%20ElectRefurbish/preview.png" /><br/>
 <b>Spider-Miyoo</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Notebook%20Kawaii%20by%20UnBurn.zip">
 <img title="Kawaii theme in a notebook" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Notebook%20Kawaii%20by%20UnBurn/preview.png" /><br/>
 <b>Notebook Kawaii</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dragon%20Ball%20Mini%20by%20UnBurn.zip">
 <img title="Dragon Ball Z inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dragon%20Ball%20Mini%20by%20UnBurn/preview.png" /><br/>
 <b>Dragon Ball Mini</b>

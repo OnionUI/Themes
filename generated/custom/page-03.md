@@ -69,8 +69,7 @@
 
 *Page 3 of 13 — 156 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle.zip">
 <img title="Sprites from your childhood on your Miyoo Mini" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Sprite%20Buddies%20LucasArts%20by%20ShrimpFandangle/preview.png" /><br/>
 <b>Sprite Buddies LucasArts</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/DS%20XS%20by%20UnBurn.zip">
 <img title="A single screen DS experience" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/DS%20XS%20by%20UnBurn/preview.png" /><br/>
 <b>DS XS</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PIXELPUNK%20by%20anthr_alxndr.zip">
 <img title="Inspired by CYBERPUNK 2077" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PIXELPUNK%20by%20anthr_alxndr/preview.png" /><br/>
 <b>PIXELPUNK</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M-NOIR%20by%20tenlevels.zip">
 <img title="NOIR theme for OnionOS inspired by EPICNOIR on ArkOS" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M-NOIR%20by%20tenlevels/preview.png" /><br/>
 <b>M-NOIR</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pad%20%284-pack%29%20by%20toski.zip">
 <img title="Pad (4-pack) by toski" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Pad%20%284-pack%29%20by%20toski/preview.png" /><br/>
 <b>Pad (4-pack)</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20Pocket%20by%20Oclain.zip">
 <img title="Theme that mimics the original Gameboy Pocket screen" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20Pocket%20by%20Oclain/preview.png" /><br/>
 <b>Fake Pocket</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Valorant%20by%20Skimpertushi.zip">
 <img title="Theme layout with 10x10 grid" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png" /><br/>
 <b>Valorant</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip">
 <img title="Neumorphism (3-pack) by bantam" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Neumorphism%20%283-pack%29%20by%20bantam/preview.png" /><br/>
 <b>Neumorphism (3-pack)</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip">
 <img title="NBA Onion by Tom Tower" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NBA%20Onion%20by%20Tom%20Tower/preview.png" /><br/>
 <b>NBA Onion</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip">
 <img title="Too clean, knawmsayin?" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/2CleanMini%20by%20Sheezie/preview.png" /><br/>
 <b>2CleanMini</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20Simpson%20by%20Polpetta.zip">
 <img title="Simpson inspired Onion theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20Simpson%20by%20Polpetta/preview.png" /><br/>
 <b>ONION Simpson</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Ultralight%20by%20parkinglotmusic.zip">
 <img title="Ultralight by parkinglotmusic" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Ultralight%20by%20parkinglotmusic/preview.png" /><br/>
 <b>Ultralight</b>

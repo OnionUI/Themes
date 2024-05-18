@@ -69,8 +69,7 @@
 
 *Page 1 of 2 — 15 items available*
 <table align="center"><tr>
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy.zip">
 <img title="A Fallout inspired theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/preview.png" /><br/>
 <b>Wasteland Nevada</b>
@@ -81,8 +80,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AmalgaM%20by%20ZaxxonQ.zip">
 <img title="A simple amalgam of previous themes" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AmalgaM%20by%20ZaxxonQ/preview.png" /><br/>
 <b>AmalgaM</b>
@@ -93,8 +91,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks.zip">
 <img title="SNES Classic inspired theme for Onion (Remix)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/preview.png" /><br/>
 <b>Super Onion Entertainment System Remix</b>
@@ -106,8 +103,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock.zip">
 <img title="Minimalist theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/preview.png" /><br/>
 <b>NanoSwitch Modern Dark</b>
@@ -118,8 +114,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20Black%20by%20Segich%20%2B%20Nemi.zip">
 <img title="Miyoo Mini Milk Black Theme" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/preview.png" /><br/>
 <b>Milk Black</b>
@@ -130,8 +125,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20Variations%20by%20Aemiii91%20%2B%20r3b0rn.zip">
 <img title="Blueprint Variations by Aemiii91 + r3b0rn" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20Variations%20by%20Aemiii91%20%2B%20r3b0rn/preview.png" /><br/>
 <b>Blueprint Variations</b>
@@ -143,8 +137,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far.zip">
 <img title="Blueprint Ghosts by Aemiii91 + ax2far" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far/preview.png" /><br/>
 <b>Blueprint Ghosts</b>
@@ -155,8 +148,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi.zip">
 <img title="Higher res variant of OnionBoy with some color too" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi/preview.png" /><br/>
 <b>Onion Boy HD SP by Jeltron + Smushi</b>
@@ -167,8 +159,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace.zip">
 <img title="GBOnion Gruvbox by Kitsuvi + Dreambrace" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png" /><br/>
 <b>GBOnion Gruvbox</b>
@@ -180,8 +171,7 @@
 </td>
 
 </tr><tr>
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz.zip">
 <img title="Zenburn 1.5 by duckbeets + Catz" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png" /><br/>
 <b>Zenburn 1.5</b>
@@ -192,8 +182,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip">
 <img title="Recolor by andresandiah" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png" /><br/>
 <b>GBOnion Dark</b>
@@ -204,8 +193,7 @@
 </sub>
 </td>
 
-<td align="center" valign="top">
-<br/>
+<td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc.zip">
 <img title="Recolor by Moontorc" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png" /><br/>
 <b>Red Onion</b>
