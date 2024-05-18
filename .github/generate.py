@@ -54,7 +54,7 @@ def main():
     write_pages(themes_icon_packs, "icons_themes", "Theme Icon Packs", generate_icon_pack_table)
     write_pages(standalone_icon_packs, "icons_standalone", "Standalone Icon Packs", generate_icon_pack_table)
 
-    write_file(from_src("../README.md"), generate_index({
+    write_file(README_PATH, generate_index({
         "custom": len(themes_custom),
         "remixed": len(themes_remixed),
         "icons_themes": len(themes_icon_packs),
@@ -81,24 +81,18 @@ def format_page_filename(page: int) -> str:
 
 def generate_index(counts: dict):
     buffer = ""
-    buffer += apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".") })
-    buffer += """## Welcome to the Onion Theme Repository!
 
-*Click on a section below to browse themes and icon packs*
-    
-"""
-    
     for group_name, count in counts.items():
         text, link = HEADER_LINKS[group_name]
         buffer += f"### [{text} ({count})]({rel_path(link, '.')})\n\n"
 
-    buffer += "\n\n<p>&nbsp;</p>\n\n## New or updated themes\n\n"
     recently_updated.sort(key=lambda item: item["ts"], reverse=True)
 
-    buffer += apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(item["buffer"] for item in recently_updated[:MAX_RECENTS])})
-
-    buffer += "<p>&nbsp;</p>\n\n---\n\n<p>&nbsp;</p>\n\n> *We've dialed down the front page, to lower the amount of consecutive image loads - this was causing severe throttling issues for non-users*"
-    return buffer
+    return apply_template(INDEX_TEMPLATE, {
+        "HEADER": apply_template(HEADER_TEMPLATE, { "LINKS": generate_header_links(".") }),
+        "INDEX": buffer,
+        "RECENTS": apply_template(GRID_TEMPLATE, {"GRID_ITEMS": "\n\n".join(item["buffer"] for item in recently_updated[:MAX_RECENTS])})
+    })
 
 
 def write_pages(items: list, group_name: str, group_header: str, item_grid_generator: Callable[[list], str], page_size: int = 12, **opts):
