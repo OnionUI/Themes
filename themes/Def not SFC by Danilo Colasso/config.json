@@ -1,0 +1,42 @@
+{
+    "name": "Def not SFC",
+    "author": "Danilo Colasso",
+    "description": "A SFC theme for Onion OS",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 24,
+        "color": "white",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#5A5A5A"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 18,
+        "color": "#5A5A5A"
+    },
+    "currentpage": {
+        "color": "#5A5A5A"
+    },
+    "total": {
+        "color": "#5A5A5A"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#9E9E9E",
+        "selectedcolor": "#9E9E9E"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#5A5A5A"
+    }
+}

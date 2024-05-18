@@ -67,8 +67,42 @@
 
 ## Originals — Custom Made Themes
 
-*Page 1 of 13 — 156 items available*
+*Page 1 of 14 — 159 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SNES%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SNES&#013;Author: Danilo Colasso&#013;Description: A SNES theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SNES%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SNES</b>
+</a><br/>
+<sup><i>Danilo Colasso</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SNES by Danilo Colasso"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SNES%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SNES%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
+</sub>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SFC&#013;Author: Danilo Colasso&#013;Description: A SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SFC</b>
+</a><br/>
+<sup><i>Danilo Colasso</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC by Danilo Colasso"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
+</sub>
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso.zip">
+<img title="Name: Def not SFC - Dark&#013;Author: Danilo Colasso&#013;Description: A Dark SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png" /><br/>
+<b>Def not SFC - Dark</b>
+</a><br/>
+<sup><i>Danilo Colasso</i></sup><br>
+<sub>
+<sup><a title="Last updated: " href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC - Dark by Danilo Colasso"></a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
+</sub>
+</td>
+
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
 <img title="Name: Fairy-Type&#013;Author: UnBurn&#013;Last updated: 2024-03-18&#013;Description: Super effective&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fairy-Type%20by%20UnBurn/preview.png" /><br/>
@@ -170,40 +204,6 @@
 </sub>
 </td>
 
-</tr><tr>
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Power%20Onions%20OS%20by%20LeonardoDaPinchy.zip">
-<img title="Name: Power Onions OS&#013;Author: LeonardoDaPinchy&#013;Last updated: 2024-02-12&#013;Description: A Mighty Morphing Power Rangers Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/preview.png" /><br/>
-<b>Power Onions OS</b>
-</a><br/>
-<sup><i>LeonardoDaPinchy</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-02-12" href="https://github.com/OnionUI/Themes/commits/main/themes/Power Onions OS by LeonardoDaPinchy">2024-02-12</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22LeonardoDaPinchy%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Power%20Onions%20OS%20by%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Power%20Onions%20OS%20by%20LeonardoDaPinchy"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Power%20Onions%20OS%20by%20LeonardoDaPinchy,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip">
-<img title="Name: Mucha Miyoo&#013;Author: LamiaLazuli&#013;Last updated: 2024-05-18&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png" /><br/>
-<b>Mucha Miyoo</b>
-</a><br/>
-<sup><i>LamiaLazuli</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-18 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Mucha Miyoo by LamiaLazuli">2024-05-18 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22LamiaLazuli%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Mucha%20Miyoo%20by%20LamiaLazuli/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Mucha%20Miyoo%20by%20LamiaLazuli"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C.zip">
-<img title="Name: Miyoo X Rilakkuma Pink!&#013;Author: Jasminum C&#013;Last updated: 2024-01-30&#013;Description: A lovely pink theme for Rilakkuma lovers&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png" /><br/>
-<b>Miyoo X Rilakkuma Pink!</b>
-</a><br/>
-<sup><i>Jasminum C</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-01-30" href="https://github.com/OnionUI/Themes/commits/main/themes/Miyoo x Rilakkuma Pink! by Jasminum C">2024-01-30</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Jasminum%20C%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Miyoo%20x%20Rilakkuma%20Pink%21%20by%20Jasminum%20C,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
 
 </tr></table>
 
@@ -212,10 +212,10 @@
 
 <table align="center"><tr><td align="center" valign="middle">
 
-&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-12-ca.md) [&nbsp;3&nbsp;](index-11-8c.md) [&nbsp;4&nbsp;](index-10-be.md) [&nbsp;5&nbsp;](index-09-9d.md) [&nbsp;6&nbsp;](index-08-bc.md) [&nbsp;7&nbsp;](index-07-fc.md) &hellip;&nbsp;[&nbsp;13&nbsp;](index-01-79.md)
+&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-13-64.md) [&nbsp;3&nbsp;](index-12-ca.md) [&nbsp;4&nbsp;](index-11-8c.md) [&nbsp;5&nbsp;](index-10-be.md) [&nbsp;6&nbsp;](index-09-9d.md) [&nbsp;7&nbsp;](index-08-bc.md) &hellip;&nbsp;[&nbsp;14&nbsp;](index-01-79.md)
 
 </td><td>
 
-[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-12-ca.md)
+[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-13-64.md)
 
 </td></tr></table>

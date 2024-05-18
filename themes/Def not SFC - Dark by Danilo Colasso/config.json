@@ -1,0 +1,42 @@
+{
+    "name": "Def not SFC - Dark",
+    "author": "Danilo Colasso",
+    "description": "A Dark SFC theme for Onion OS",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 24,
+        "color": "white",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#F5F5F5"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 18,
+        "color": "#F5F5F5"
+    },
+    "currentpage": {
+        "color": "#404855"
+    },
+    "total": {
+        "color": "#404855"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#404855",
+        "selectedcolor": "#F5F5F5"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#F5F5F5"
+    }
+}

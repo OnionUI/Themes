@@ -1,0 +1,42 @@
+{
+    "name": "Def not SNES",
+    "author": "Danilo Colasso",
+    "description": "A SNES theme for Onion OS",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 24,
+        "color": "white",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#6C5490"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 18,
+        "color": "#5A5A5A"
+    },
+    "currentpage": {
+        "color": "#A294A8"
+    },
+    "total": {
+        "color": "#A294A8"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#A294A8",
+        "selectedcolor": "#6C5490"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/BPreplayBold.otf",
+        "size": 22,
+        "color": "#6C5490"
+    }
+}
