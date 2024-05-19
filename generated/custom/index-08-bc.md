@@ -70,6 +70,7 @@
 *Page 7 of 14 — 166 items available*
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip">
 <img title="Name: M&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: Black/White/Grey minimal theme inspired by Miyoo logo&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M%20by%20tenlevels/preview.png" /><br/>
 <b>M ★</b>
@@ -81,6 +82,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/mini.os%20by%20nationalsoup.zip">
 <img title="Name: mini.os&#013;Author: nationalsoup&#013;Last updated: 2023-02-23&#013;Description: Minimal Dark Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/mini.os%20by%20nationalsoup/preview.png" /><br/>
 <b>mini.os</b>
@@ -92,6 +94,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cave%2B%20by%20apg313.zip">
 <img title="Name: Cave+&#013;Author: apg313&#013;Last updated: 2023-02-17&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cave%2B%20by%20apg313/preview.png" /><br/>
 <b>Cave+</b>
@@ -104,6 +107,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip">
 <img title="Name: Onion Blocks (2-pack)&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Blocks%20%282-pack%29%20by%20tenlevels/preview.png" /><br/>
 <b>Onion Blocks (2-pack)</b>
@@ -115,6 +119,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TMNT%20by%20RealDan.zip">
 <img title="Name: TMNT&#013;Author: RealDan&#013;Last updated: 2023-01-31&#013;Description: TMNT theme inspired by art from Hyperstone Heist.&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TMNT%20by%20RealDan/preview.png" /><br/>
 <b>TMNT</b>
@@ -126,6 +131,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/YoRHa%20by%20Deepslackerjazz.zip">
 <img title="Name: YoRHa&#013;Author: Deepslackerjazz&#013;Last updated: 2024-05-18&#013;Description: Nier Automata inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/YoRHa%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>YoRHa</b>
@@ -138,6 +144,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/THPS2%20by%20tenlevels.zip">
 <img title="Name: THPS2&#013;Author: tenlevels&#013;Last updated: 2023-01-27&#013;Description: Miyoo's Mini 2 theme inspired by Tony Hawk's Pro Skater 2&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/THPS2%20by%20tenlevels/preview.png" /><br/>
 <b>THPS2</b>
@@ -149,6 +156,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NEON.ion%20by%20tenlevels.zip">
 <img title="Name: NEON.ion&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: NEON OnionOS theme inspired by Essenger&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NEON.ion%20by%20tenlevels/preview.png" /><br/>
 <b>NEON.ion</b>
@@ -160,6 +168,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/FireMiyoo%20by%20Isocron.zip">
 <img title="Name: FireMiyoo&#013;Author: Isocron&#013;Last updated: 2023-01-27&#013;Description: Firewatch parallax theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/FireMiyoo%20by%20Isocron/preview.png" /><br/>
 <b>FireMiyoo</b>
@@ -172,6 +181,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Concise%20%283-pack%29%20by%20mtaras.zip">
 <img title="Name: Concise (3-pack)&#013;Author: mtaras&#013;Last updated: 2023-01-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Concise%20%283-pack%29%20by%20mtaras/preview.png" /><br/>
 <b>Concise (3-pack)</b>
@@ -183,6 +193,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/minimO%20by%20AccomplishedSir.zip">
 <img title="Name: minimO&#013;Author: AccomplishedSir&#013;Last updated: 2024-05-18&#013;Description: minimalist theme with neomorphic elements&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/minimO%20by%20AccomplishedSir/preview.png" /><br/>
 <b>minimO</b>
@@ -194,6 +205,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PPLP%20by%20Deepslackerjazz.zip">
 <img title="Name: PPLP&#013;Author: Deepslackerjazz&#013;Last updated: 2023-01-11&#013;Description: Piplup theme with TGC vibes&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PPLP%20by%20Deepslackerjazz/preview.png" /><br/>
 <b>PPLP</b>

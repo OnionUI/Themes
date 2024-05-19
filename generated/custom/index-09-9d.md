@@ -70,6 +70,7 @@
 *Page 6 of 14 — 166 items available*
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Original%20by%20SandsByte.zip">
 <img title="Name: Original&#013;Author: SandsByte&#013;Last updated: 2023-06-04&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Original%20by%20SandsByte/preview.png" /><br/>
 <b>Original</b>
@@ -81,6 +82,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/A%20Link%20to%20the%20Past%20by%20tendo209.zip">
 <img title="Name: A Link to the Past&#013;Author: tendo209&#013;Last updated: 2023-06-01&#013;Description: A theme based on A Link to the Past for SNES&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/A%20Link%20to%20the%20Past%20by%20tendo209/preview.png" /><br/>
 <b>A Link to the Past</b>
@@ -92,6 +94,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OOSFC%20by%20ytdcpndsgn.zip">
 <img title="Name: OOSFC&#013;Author: ytdcpndsgn&#013;Last updated: 2024-05-18&#013;Description: With respect for SFC&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OOSFC%20by%20ytdcpndsgn/preview.png" /><br/>
 <b>OOSFC</b>
@@ -104,6 +107,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TOTK%20by%20NaraMakesGames.zip">
 <img title="Name: TOTK&#013;Author: NaraMakesGames&#013;Last updated: 2023-05-27&#013;Description: Minimal Tears of the Kingdom&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TOTK%20by%20NaraMakesGames/preview.png" /><br/>
 <b>TOTK</b>
@@ -115,6 +119,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/klar%20%288-pack%29%20by%20m_axic.zip">
 <img title="Name: klar (8-pack)&#013;Author: m_axic&#013;Last updated: 2023-06-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/klar%20%288-pack%29%20by%20m_axic/preview.png" /><br/>
 <b>klar (8-pack)</b>
@@ -126,6 +131,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MegaManX%20by%20NoLetterhead485.zip">
 <img title="Name: MegaManX&#013;Author: NoLetterhead485&#013;Last updated: 2023-04-30&#013;Description: MegaManX Based Miyoo Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MegaManX%20by%20NoLetterhead485/preview.png" /><br/>
 <b>MegaManX</b>
@@ -138,6 +144,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CastlevaniaSOTN%20by%20RoeTaKa.zip">
 <img title="Name: CastlevaniaSOTN&#013;Author: RoeTaKa&#013;Last updated: 2023-03-31&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CastlevaniaSOTN%20by%20RoeTaKa/preview.png" /><br/>
 <b>CastlevaniaSOTN</b>
@@ -149,6 +156,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip">
 <img title="Name: Milk White&#013;Author: Segich&#013;Last updated: 2024-05-19&#013;Description: Miyoo Mini Milk White Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20White%20by%20Segich/preview.png" /><br/>
 <b>Milk White</b>
@@ -160,6 +168,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/HAZARD%20by%20Dreambrace.zip">
 <img title="Name: HAZARD&#013;Author: Dreambrace&#013;Last updated: 2024-05-19&#013;Description: Theme in the style of hazard signs&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/HAZARD%20by%20Dreambrace/preview.png" /><br/>
 <b>HAZARD</b>
@@ -172,6 +181,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip">
 <img title="Name: ONION PS (4-pack)&#013;Author: hanessh4&#013;Last updated: 2024-05-19&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/preview.png" /><br/>
 <b>ONION PS (4-pack) ★</b>
@@ -183,6 +193,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TechDweeb%20by%20TechDweeb.zip">
 <img title="Name: TechDweeb Orange Stuff&#013;Author: TechDweeb&#013;Last updated: 2024-05-18&#013;Description: Retro games are for dweebs&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TechDweeb%20by%20TechDweeb/preview.png" /><br/>
 <b>TechDweeb Orange Stuff ★</b>
@@ -194,6 +205,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20DMG%20Classic%20by%20Oclain.zip">
 <img title="Name: Fake DMG Classic&#013;Author: Oclain&#013;Last updated: 2024-05-19&#013;Description: Theme that mimics the original Gameboy dot matrix screen&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Fake%20DMG%20Classic%20by%20Oclain/preview.png" /><br/>
 <b>Fake DMG Classic</b>

@@ -70,6 +70,7 @@
 *Page 1 of 2 — 15 items available*
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy.zip">
 <img title="Name: Wasteland Nevada&#013;Author: Bernig + LeonardoDaPinchy&#013;Last updated: 2024-05-18&#013;Description: A Fallout inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20Nevada%20by%20Bernig%20%2B%20LeonardoDaPinchy/preview.png" /><br/>
 <b>Wasteland Nevada</b>
@@ -81,6 +82,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/AmalgaM%20by%20ZaxxonQ.zip">
 <img title="Name: AmalgaM&#013;Author: ZaxxonQ&#013;Last updated: 2024-05-19&#013;Description: A simple amalgam of previous themes&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AmalgaM%20by%20ZaxxonQ/preview.png" /><br/>
 <b>AmalgaM</b>
@@ -92,6 +94,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks.zip">
 <img title="Name: Super Onion Entertainment System Remix&#013;Author: TheDewd + Quack Walks&#013;Last updated: 2024-05-18&#013;Description: SNES Classic inspired theme for Onion (Remix)&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20Remix%20by%20TheDewd%20%2B%20Quack%20Walks/preview.png" /><br/>
 <b>Super Onion Entertainment System Remix</b>
@@ -104,6 +107,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock.zip">
 <img title="Name: NanoSwitch Modern Dark&#013;Author: Amdy + Cheetashock&#013;Last updated: 2024-05-18&#013;Description: Minimalist theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/preview.png" /><br/>
 <b>NanoSwitch Modern Dark</b>
@@ -115,6 +119,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20Black%20by%20Segich%20%2B%20Nemi.zip">
 <img title="Name: Milk Black&#013;Author: Segich + Nemi&#013;Last updated: 2024-05-19&#013;Description: Miyoo Mini Milk Black Theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Milk%20Black%20by%20Segich%20%2B%20Nemi/preview.png" /><br/>
 <b>Milk Black</b>
@@ -126,6 +131,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20Variations%20by%20Aemiii91%20%2B%20r3b0rn.zip">
 <img title="Name: Blueprint Variations&#013;Author: Aemiii91 + r3b0rn&#013;Last updated: 2023-05-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20Variations%20by%20Aemiii91%20%2B%20r3b0rn/preview.png" /><br/>
 <b>Blueprint Variations</b>
@@ -138,6 +144,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far.zip">
 <img title="Name: Blueprint Ghosts&#013;Author: Aemiii91 + ax2far&#013;Last updated: 2023-05-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blueprint%20Ghosts%20by%20Aemiii91%20%2B%20ax2far/preview.png" /><br/>
 <b>Blueprint Ghosts</b>
@@ -149,6 +156,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi.zip">
 <img title="Name: Onion Boy HD SP by Jeltron + Smushi&#013;Author: Jeltron + Smushi&#013;Last updated: 2024-04-07&#013;Description: Higher res variant of OnionBoy with some color too&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Boy%20HD%20SP%20by%20Jeltron%20%2B%20Smushi/preview.png" /><br/>
 <b>Onion Boy HD SP by Jeltron + Smushi</b>
@@ -160,6 +168,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace.zip">
 <img title="Name: GBOnion Gruvbox&#013;Author: Kitsuvi + Dreambrace&#013;Last updated: 2023-01-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20Gruvbox%20by%20Kitsuvi%20%2B%20Dreambrace/preview.png" /><br/>
 <b>GBOnion Gruvbox</b>
@@ -172,6 +181,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz.zip">
 <img title="Name: Zenburn 1.5&#013;Author: duckbeets + Catz&#013;Last updated: 2022-10-05&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zenburn%201.5%20by%20duckbeets%20%2B%20Catz/preview.png" /><br/>
 <b>Zenburn 1.5</b>
@@ -183,6 +193,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah.zip">
 <img title="Name: GBOnion Dark&#013;Author: Kitsuvi + andresandiah&#013;Last updated: 2022-09-09&#013;Description: Recolor by andresandiah&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20Dark%20by%20Kitsuvi%20%2B%20andresandiah/preview.png" /><br/>
 <b>GBOnion Dark</b>
@@ -194,6 +205,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc.zip">
 <img title="Name: Red Onion&#013;Author: PixelShift + Jeltron + Moontorc&#013;Last updated: 2022-09-09&#013;Description: Recolor by Moontorc&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Red%20Onion%20by%20PixelShift%20%2B%20Jeltron%20%2B%20Moontorc/preview.png" /><br/>
 <b>Red Onion</b>

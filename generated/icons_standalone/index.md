@@ -79,7 +79,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Onion%20PS%20Text%20Icons%20by%20hanessh4.zip "Onion PS Text Icons by hanessh4") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -90,7 +90,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Pixel%20by%20Jeltron.zip "Pixel by Jeltron") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Pixel%20by%20Jeltron/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -101,7 +101,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/NSO%20by%20Cheetashock.zip "NSO by Cheetashock") <sub><sup>&nbsp;&nbsp; 35%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/NSO%20by%20Cheetashock/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -112,7 +112,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20Black%20by%20Dreambrace.zip "Silhouette Black by Dreambrace") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 </tr><tr>
 
@@ -124,7 +124,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Silhouette%20White%20by%20Dreambrace.zip "Silhouette White by Dreambrace") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-</td>
+<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -135,7 +135,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Hakchi%20Pixel%20Art%20by%20faustbear.zip "Hakchi Pixel Art by faustbear") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Hakchi%20Pixel%20Art%20by%20faustbear/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-</td>
+<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -146,7 +146,7 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Dot-art%20by%20Yoshi-kun.zip "Dot-art by Yoshi-kun") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/Dot-art%20by%20Yoshi-kun/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-</td>
+<br/></td>
 
 </tr></table>
 

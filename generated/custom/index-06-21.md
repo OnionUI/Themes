@@ -70,6 +70,7 @@
 *Page 9 of 14 — 166 items available*
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PSX%20Theme%20by%20Oclain.zip">
 <img title="Name: PSX Theme&#013;Author: Oclain&#013;Last updated: 2022-11-30&#013;Description: PSX Classic Menu Style&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PSX%20Theme%20by%20Oclain/preview.png" /><br/>
 <b>PSX Theme</b>
@@ -81,6 +82,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cyberpunk%20by%20Dreams897.zip">
 <img title="Name: Cyberpunk&#013;Author: dreams897&#013;Last updated: 2022-11-30&#013;Description: [Cyberpunk 2077 inspired theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cyberpunk%20by%20Dreams897/preview.png" /><br/>
 <b>Cyberpunk</b>
@@ -92,6 +94,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/OSRS%20Theme%20by%20Mahan.zip">
 <img title="Name: OSRS Theme&#013;Author: Mahan&#013;Last updated: 2022-11-25&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/OSRS%20Theme%20by%20Mahan/preview.png" /><br/>
 <b>OSRS Theme</b>
@@ -104,6 +107,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Miyoo%20Slug%20by%20tenlevels.zip">
 <img title="Name: Miyoo Slug&#013;Author: tenlevels&#013;Last updated: 2022-12-08&#013;Description: Metal Slug inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Miyoo%20Slug%20by%20tenlevels/preview.png" /><br/>
 <b>Miyoo Slug</b>
@@ -115,6 +119,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Mariyoo%20by%20tenlevels.zip">
 <img title="Name: Super Mariyoo&#013;Author: tenlevels&#013;Last updated: 2022-12-05&#013;Description: Super Mario NES inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Mariyoo%20by%20tenlevels/preview.png" /><br/>
 <b>Super Mariyoo</b>
@@ -126,6 +131,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Contra%20Miyoo%20by%20tenlevels.zip">
 <img title="Name: Contra Miyoo&#013;Author: tenlevels&#013;Last updated: 2022-11-18&#013;Description: Contra NES inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Contra%20Miyoo%20by%20tenlevels/preview.png" /><br/>
 <b>Contra Miyoo</b>
@@ -138,6 +144,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PAC-MIYOO%20by%20tenlevels.zip">
 <img title="Name: PAC-MIYOO&#013;Author: tenlevels&#013;Last updated: 2024-05-18&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/PAC-MIYOO%20by%20tenlevels/preview.png" /><br/>
 <b>PAC-MIYOO ★</b>
@@ -149,6 +156,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip">
 <img title="Name: Super Onion Entertainment System&#013;Author: TheDewd&#013;Last updated: 2024-05-18&#013;Description: SNES Classic inspired theme for Onion&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/preview.png" /><br/>
 <b>Super Onion Entertainment System ★</b>
@@ -160,6 +168,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip">
 <img title="Name: NanoSwitch (2-pack)&#013;Author: Amdy&#013;Last updated: 2024-05-19&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20%282-pack%29%20by%20Amdy/preview.png" /><br/>
 <b>NanoSwitch (2-pack) ★</b>
@@ -172,6 +181,7 @@
 
 </tr><tr>
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cards%20by%20PixelShift.zip">
 <img title="Name: Cards&#013;Author: PixelShift&#013;Last updated: 2022-10-28&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cards%20by%20PixelShift/preview.png" /><br/>
 <b>Cards</b>
@@ -183,6 +193,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Kingdom%20Onions%20by%20PixelShift.zip">
 <img title="Name: Kingdom Onions&#013;Author: PixelShift&#013;Last updated: 2022-10-26&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Kingdom%20Onions%20by%20PixelShift/preview.png" /><br/>
 <b>Kingdom Onions</b>
@@ -194,6 +205,7 @@
 </td>
 
 <td align="center" valign="top" width="33.33%">
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip">
 <img title="Name: CyberOnion (2-pack)&#013;Author: Aemiii91&#013;Last updated: 2024-05-19&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/preview.png" /><br/>
 <b>CyberOnion (2-pack) ★</b>
