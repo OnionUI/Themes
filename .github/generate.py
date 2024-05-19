@@ -189,12 +189,12 @@ def generate_table_grid(themes) -> str:
     for i, theme in enumerate(themes):
         if i > 0 and i % THEMES_COLS == 0:
             buffer += "</tr><tr>\n"
-        buffer += generate_item(theme, collect_data=True)
+        buffer += generate_item(theme, index=i, collect_data=True)
 
     return apply_template(GRID_TEMPLATE, {"GRID_ITEMS": buffer})
 
 
-def generate_item(theme: str, collect_data: bool = False) -> str:
+def generate_item(theme: str, index: int = 0, collect_data: bool = False) -> str:
     dir_path = os.path.join(THEME_DIR, theme)
     is_valid, has_subdirs = validate_theme(dir_path)
 
@@ -273,6 +273,7 @@ def generate_item(theme: str, collect_data: bool = False) -> str:
         "PREVIEW_URL": preview_url,
         "RELEASE_URL": release_url,
         "HISTORY_URL": history_url,
+        "COLUMN_SPANNER": THEMES_COLUMN_SPANNER if index < THEMES_COLS else "",
         "COLUMN_WIDTH": f"{100 / THEMES_COLS:.2f}%"
     }
 
