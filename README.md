@@ -77,7 +77,7 @@
 
 ### [Iconified — Themes with Icon Packs (51)](generated/icons_themes/index.md)
 
-### [Extra Icons — Standalone Icon Packs (7)](generated/icons_standalone/index.md)
+### [Extra Icons — Standalone Icon Packs (8)](generated/icons_standalone/index.md)
 
 
 
