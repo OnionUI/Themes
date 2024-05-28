@@ -2,12 +2,16 @@
 
 *Minimalist theme inspired by Analogue OS*
 
-Custom made icons by me:  
+**Custom icons** by <u>Aemiii91</u>:  
 `cps3`, `gw`, `pico`, `poke`, `ports`, `satella`, `scummvm`, `search`, `sufami`, and `tic`.
 
 ## Credits
 
-**Custom NDS icon:** Equinox from the RGH discord
+**Custom `nds` icon:**  
+by <u>Equinox</u> (RGH discord)
+
+**Background removal:**  
+[u/kiefeater](https://www.reddit.com/r/MiyooMini/comments/1czvnqz/true_png_images_of_analogue_icons_by/) removed the black background from all console icons, making them compatible with other themes!
 
 **Font:** Analogue OS font by AbFarid  
 https://github.com/AbFarid/analogue-os-font
