@@ -8,12 +8,12 @@
         "offsetY": 2
     },
     "title": {
-        "font": "AnalogueOS-Regular.otf",
+        "font": "GamePocket-Regular.ttf",
         "size": 26,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "AnalogueOS-Regular.otf",
+        "font": "GamePocket-Regular.ttf",
         "size": 18,
         "color": "#FFFFFF"
     },
@@ -24,14 +24,14 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "AnalogueOS-Regular.otf",
+        "font": "GamePocket-Regular.ttf",
         "grid1x4": 26,
         "grid3x4": 26,
         "color": "#333333",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "GamePocket-Regular.ttf",
         "size": 24,
         "color": "#FFFFFF"
     }

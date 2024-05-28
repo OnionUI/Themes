@@ -1,0 +1,38 @@
+{
+    "name": "Analogue Blanche",
+    "author": "Aemiii91",
+    "description": "Minimalist theme inspired by Analogue OS",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#000000",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "GamePocket-Regular.ttf",
+        "size": 26,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "GamePocket-Regular.ttf",
+        "size": 18,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#cccccc"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "GamePocket-Regular.ttf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#cccccc",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "GamePocket-Regular.ttf",
+        "size": 24,
+        "color": "#000000"
+    }
+}
