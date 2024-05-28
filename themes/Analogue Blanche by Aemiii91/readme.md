@@ -1,4 +1,4 @@
-# `Analogue` *by* `Aemiii91`
+# `Analogue Blanche` *by* `Aemiii91`
 
 *Minimalist theme inspired by Analogue OS*
 
