@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 2 of 5 — 51 items available*
+*Page 2 of 5 — 52 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![StarOnion64 by LeonardoDaPinchy](../../themes/StarOnion64%20by%20LeonardoDaPinchy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#StarOnion64%20by%20LeonardoDaPinchy,StarOnion64%20by%20LeonardoDaPinchy:themes/StarOnion64%20by%20LeonardoDaPinchy/icons "Click to see the full icon pack preview page")
+
+**StarOnion64 by LeonardoDaPinchy**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/StarOnion64%20by%20LeonardoDaPinchy.zip "StarOnion64 by LeonardoDaPinchy") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/StarOnion64%20by%20LeonardoDaPinchy/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -112,9 +124,8 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/SUPER%20GAME%20BOY%20by%20MLOPEZMAD.zip "SUPER GAME BOY by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/SUPER%20GAME%20BOY%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **NBA Onion by Tom Tower**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip "NBA Onion by Tom Tower") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![2CleanMini by Sheezie](../../themes/2CleanMini%20by%20Sheezie/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#2CleanMini%20by%20Sheezie,2CleanMini%20by%20Sheezie:themes/2CleanMini%20by%20Sheezie/icons "Click to see the full icon pack preview page")
-
-**2CleanMini by Sheezie**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip "2CleanMini by Sheezie") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 <br/></td>
 

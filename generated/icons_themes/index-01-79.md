@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 5 of 5 — 51 items available*
+*Page 5 of 5 — 52 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![Blueprint by Aemiii91](../../themes/Blueprint%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Blueprint%20by%20Aemiii91,Blueprint%20by%20Aemiii91:themes/Blueprint%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**Blueprint by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20by%20Aemiii91.zip "Blueprint by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">

@@ -67,8 +67,20 @@
 
 ## Originals — Custom Made Themes
 
-*Page 1 of 14 — 168 items available*
+*Page 1 of 15 — 169 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Impact%20by%20edvardeishen.zip">
+<img title="Name: Impact&#013;Author: edvardeishen&#013;Last updated: 2024-07-01&#013;Description: Not Genshin, but my favorite font&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Impact%20by%20edvardeishen/preview.png" /><br/>
+<b>Impact</b>
+</a><br/>
+<sup><i>edvardeishen</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-07-01" href="https://github.com/OnionUI/Themes/commits/main/themes/Impact by edvardeishen">2024-07-01</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22edvardeishen%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Impact%20by%20edvardeishen/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Impact%20by%20edvardeishen,Impact%20by%20edvardeishen:themes/Impact%20by%20edvardeishen/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Analogue%20Blanche%20by%20Aemiii91.zip">
@@ -93,8 +105,9 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MiyooCarPlay%20by%20RobyRosa.zip">
 <img title="Name: MiyooCarPlay&#013;Author: RobyRosa&#013;Last updated: 2024-05-19&#013;Description: Apple Car Style&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/MiyooCarPlay%20by%20RobyRosa/preview.png" /><br/>
 <b>MiyooCarPlay</b>
@@ -105,7 +118,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip">
@@ -130,6 +142,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/sONIONc%20by%20tenlevels.zip">
@@ -142,7 +155,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hello%20Miyoo%20by%20tenlevels.zip">
@@ -167,6 +179,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/PocketFighterMini%20by%20nGlory.zip">
@@ -179,7 +192,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SNES%20by%20Danilo%20Colasso.zip">
@@ -204,18 +216,6 @@
 </sub>
 </td>
 
-<td align="center" valign="top" width="33.33%">
-<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso.zip">
-<img title="Name: Def not SFC - Dark&#013;Author: Danilo Colasso&#013;Last updated: 2024-05-19&#013;Description: A Dark SFC theme for Onion OS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png" /><br/>
-<b>Def not SFC - Dark</b>
-</a><br/>
-<sup><i>Danilo Colasso</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-19" href="https://github.com/OnionUI/Themes/commits/main/themes/Def not SFC - Dark by Danilo Colasso">2024-05-19</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Danilo%20Colasso%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
-</sub>
-</td>
-
 
 </tr></table>
 
@@ -224,10 +224,10 @@
 
 <table align="center"><tr><td align="center" valign="middle">
 
-&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-13-64.md) [&nbsp;3&nbsp;](index-12-ca.md) [&nbsp;4&nbsp;](index-11-8c.md) [&nbsp;5&nbsp;](index-10-be.md) [&nbsp;6&nbsp;](index-09-9d.md) [&nbsp;7&nbsp;](index-08-bc.md) &hellip;&nbsp;[&nbsp;14&nbsp;](index-01-79.md)
+&nbsp;**1**&nbsp; [&nbsp;2&nbsp;](index-14-38.md) [&nbsp;3&nbsp;](index-13-64.md) [&nbsp;4&nbsp;](index-12-ca.md) [&nbsp;5&nbsp;](index-11-8c.md) [&nbsp;6&nbsp;](index-10-be.md) [&nbsp;7&nbsp;](index-09-9d.md) &hellip;&nbsp;[&nbsp;15&nbsp;](index-01-79.md)
 
 </td><td>
 
-[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-13-64.md)
+[![Next page](https://github.com/OnionUI/Themes/assets/44569252/a0717376-2b5b-4534-9eba-4d2d3961f06b)](index-14-38.md)
 
 </td></tr></table>

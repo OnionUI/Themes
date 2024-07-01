@@ -5,8 +5,8 @@
     "batteryPercentage": {
         "visible": true,
         "color": "#FFFFFF",
-		"font": "/mnt/SDCARD/miyoo/app/Helvetica-Neue-2.ttf",
-		"size": 18
+        "font": "/mnt/SDCARD/miyoo/app/Helvetica-Neue-2.ttf",
+        "size": 18
     },
     "title": {
         "font": "impact.ttf",
@@ -36,7 +36,7 @@
         "size": 24,
         "color": "#FFFFFF"
     },
-	"hideLabels": {
+    "hideLabels": {
         "icons": true,
         "hints": true
     }
