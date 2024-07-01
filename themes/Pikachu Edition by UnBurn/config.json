@@ -1,0 +1,42 @@
+{
+    "name": "Pikachu Edition",
+    "author": "UnBurn",
+    "description": "I choose you!",
+    "batteryPercentage": {
+        "visible": false,
+        "onleft": true,
+        "color": "#000000"
+    },
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "title": {
+        "size": 12,
+        "font": "PKMN RBYGSC.ttf",
+        "color": "#000000"
+    },
+    "hint": {
+        "size": 12,
+        "font": "PKMN RBYGSC.ttf",
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "grid1x4": 12,
+        "grid3x4": 20,
+        "font": "PKMN RBYGSC.ttf",
+        "color": "#000000",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "size": 15,
+        "font": "PKMN RBYGSC.ttf",
+        "color": "#000000"
+    }
+}
