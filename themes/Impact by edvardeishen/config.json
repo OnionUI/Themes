@@ -1,0 +1,43 @@
+{
+    "name": "Impact",
+    "author": "edvardeishen",
+    "description": "Not Genshin, but my favorite font",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF",
+		"font": "/mnt/SDCARD/miyoo/app/Helvetica-Neue-2.ttf",
+		"size": 18
+    },
+    "title": {
+        "font": "impact.ttf",
+        "size": 26,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "impact.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#8d8d92"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "impact.ttf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#8d8d92",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "impact.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+	"hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
