@@ -1,0 +1,6 @@
+[submodule "KantOS"]
+	path = KantOS
+	url = https://github.com/antonlabz/KantOS
+[submodule "themes/KantOS"]
+	path = themes/KantOS
+	url = https://github.com/antonlabz/KantOS
