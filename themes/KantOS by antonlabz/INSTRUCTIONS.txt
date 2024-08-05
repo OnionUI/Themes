@@ -1,0 +1,6 @@
+Installing this theme on it's own will install the default appearance.
+
+To get the alt version of the theme with the overworld icons (as seen in alt-preview.gif):
+- copy the images inside the 'alt-skin' folder
+- paste them into the 'skin' folder, replacing the existing ones
+- install the theme as normal
