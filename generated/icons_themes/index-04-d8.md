@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 2 of 5 — 52 items available*
+*Page 2 of 5 — 53 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![Mucha Miyoo by LamiaLazuli](../../themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Mucha%20Miyoo%20by%20LamiaLazuli,Mucha%20Miyoo%20by%20LamiaLazuli:themes/Mucha%20Miyoo%20by%20LamiaLazuli/icons "Click to see the full icon pack preview page")
+
+**Mucha Miyoo by LamiaLazuli**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Mucha%20Miyoo%20by%20LamiaLazuli.zip "Mucha Miyoo by LamiaLazuli") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Mucha%20Miyoo%20by%20LamiaLazuli/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -112,9 +124,8 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/vintage_aesthe%20by%20uchebo_bro.zip "vintage_aesthe by uchebo_bro") <sub><sup>&nbsp;&nbsp; 56%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/vintage_aesthe%20by%20uchebo_bro/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **Neumorphism-Yellow by bantam**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![NBA Onion by Tom Tower](../../themes/NBA%20Onion%20by%20Tom%20Tower/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NBA%20Onion%20by%20Tom%20Tower,NBA%20Onion%20by%20Tom%20Tower:themes/NBA%20Onion%20by%20Tom%20Tower/icons "Click to see the full icon pack preview page")
-
-**NBA Onion by Tom Tower**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip "NBA Onion by Tom Tower") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
