@@ -1,0 +1,46 @@
+{
+    "name": "BMO",
+    "author": "forevertuesday",
+    "description": "BMO inspired theme",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": false,
+        "font": "bmo.ttf",
+        "size": 20,
+        "color": "#000000",
+        "offsetX": 0,
+        "offsetY": 4,
+        "onleft": true
+    },
+    "title": {
+        "font": "bmo.ttf",
+        "size": 20,
+        "color": "#000000"
+    },
+    "hint": {
+        "font": "bmo.ttf",
+        "size": 35,
+        "color": "#000000"
+    },
+    "currentpage": {
+        "color": "#000000"
+    },
+    "total": {
+        "color": "#000000"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
+        "grid1x4": 20,
+        "grid3x4": 20,
+        "color": "#000000",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "bmo.ttf",
+        "size": 20,
+        "color": "#000000"
+    }
+}

@@ -71,11 +71,11 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (172)](generated/custom/index.md)
+### [Originals — Custom Made Themes (174)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
-### [Iconified — Themes with Icon Packs (53)](generated/icons_themes/index.md)
+### [Iconified — Themes with Icon Packs (55)](generated/icons_themes/index.md)
 
 ### [Extra Icons — Standalone Icon Packs (8)](generated/icons_standalone/index.md)
 

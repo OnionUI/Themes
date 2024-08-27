@@ -67,8 +67,30 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 2 of 5 — 53 items available*
+*Page 2 of 5 — 55 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![sONIONc by tenlevels](../../themes/sONIONc%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#sONIONc%20by%20tenlevels,sONIONc%20by%20tenlevels:themes/sONIONc%20by%20tenlevels/icons "Click to see the full icon pack preview page")
+
+**sONIONc by tenlevels**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/sONIONc%20by%20tenlevels.zip "sONIONc by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Capcom SNK (Handheld Filter) by Sheezie](../../themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie,Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie:themes/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie/icons "Click to see the full icon pack preview page")
+
+**Capcom SNK (Handheld Filter) by Sheezie**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Capcom%20SNK%20%28Handheld%20Filter%29%20by%20Sheezie.zip "Capcom SNK (Handheld Filter) by Sheezie") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -92,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -101,7 +124,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NES%20by%20MLOPEZMAD.zip "NES by MLOPEZMAD") <sub><sup>&nbsp;&nbsp; 91%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/NES%20by%20MLOPEZMAD/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -112,9 +135,8 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Sonic%20Origins%20by%20Sheezie.zip "Sonic Origins by Sheezie") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -137,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +182,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -177,28 +199,6 @@
 [![Neumorphism-Black by bantam](../../themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Neumorphism-Black%20by%20bantam,Neumorphism-Black%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Black%20by%20bantam/icons "Click to see the full icon pack preview page")
 
 **Neumorphism-Black by bantam**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Neumorphism-White by bantam](../../themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Neumorphism-White%20by%20bantam,Neumorphism-White%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-White%20by%20bantam/icons "Click to see the full icon pack preview page")
-
-**Neumorphism-White by bantam**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Neumorphism-Yellow by bantam](../../themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Neumorphism-Yellow%20by%20bantam,Neumorphism-Yellow%20by%20bantam:themes/Neumorphism%20%283-pack%29%20by%20bantam/Neumorphism-Yellow%20by%20bantam/icons "Click to see the full icon pack preview page")
-
-**Neumorphism-Yellow by bantam**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
