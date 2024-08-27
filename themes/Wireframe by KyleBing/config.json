@@ -2,7 +2,7 @@
     "name": "Wireframe",
     "batteryPercentage": {
         "visible": false,
-        "font": "Galvji.ttc",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 10,
         "color": "#FFFFFF",
         "textAlign": "center",
@@ -13,7 +13,7 @@
     "author": "KyleBing",
     "description": "Wireframe, frames",
     "hideLabels": {
-        "icons": true,
+        "icons": false,
         "hints": false
     },
     "frame": {
@@ -21,12 +21,12 @@
         "border-right": 0
     },
     "title": {
-        "font": "Galvji.ttc",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 30,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "Galvji.ttc",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "size": 24,
         "color": "#BBBBBB"
     },
@@ -37,7 +37,7 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "Galvji.ttc",
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#AAAAAA",
