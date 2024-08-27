@@ -1,0 +1,52 @@
+{
+  "name": "Cosy",
+  "hideIconTitle": true,
+  "batteryPercentage": {
+    "visible": false,
+    "font": "Galvji.ttc",
+    "size": 10,
+    "color": "#FFFFFF",
+    "textAlign": "center",
+    "fixed": true,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "author": "KyleBing",
+  "description": "Cosy",
+  "hideLabels": {
+    "icons": true,
+    "hints": false
+  },
+  "frame": {
+    "border-left": 0,
+    "border-right": 0
+  },
+  "title": {
+    "font": "Galvji.ttc",
+    "size": 30,
+    "color": "#FFFFFF"
+  },
+  "hint": {
+    "font": "Galvji.ttc",
+    "size": 24,
+    "color": "#BBBBBB"
+  },
+  "currentpage": {
+    "color": "#FFFFFF"
+  },
+  "total": {
+    "color": "#FFFFFF"
+  },
+  "grid": {
+    "font": "Galvji.ttc",
+    "grid1x4": 25,
+    "grid3x4": 18,
+    "color": "#AAAAAA",
+    "selectedcolor": "#FFFFFF"
+  },
+  "list": {
+    "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+    "size": 26,
+    "color": "#FFFFFF"
+  }
+}
