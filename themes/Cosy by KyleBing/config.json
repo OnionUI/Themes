@@ -1,8 +1,9 @@
 {
     "name": "Cosy",
+    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "nunwen.ttf",
         "size": 10,
         "color": "#FFFFFF",
         "textAlign": "center",
@@ -21,12 +22,12 @@
         "border-right": 0
     },
     "title": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "nunwen.ttf",
         "size": 30,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "nunwen.ttf",
         "size": 24,
         "color": "#BBBBBB"
     },
@@ -37,14 +38,14 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "nunwen.ttf",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#AAAAAA",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "font": "nunwen.ttf",
         "size": 26,
         "color": "#FFFFFF"
     }
