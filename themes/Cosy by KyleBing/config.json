@@ -1,6 +1,5 @@
 {
     "name": "Cosy",
-    "hideIconTitle": false,
     "batteryPercentage": {
         "visible": false,
         "font": "nunwen.ttf",
