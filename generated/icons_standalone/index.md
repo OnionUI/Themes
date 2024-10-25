@@ -67,8 +67,19 @@
 
 ## Extra Icons — Standalone Icon Packs
 
-*Page 1 of 1 — 8 items available*
+*Page 1 of 1 — 9 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![Cosy by KyleBing](../../icons/Cosy%20by%20KyleBing/preview.png)](https://onionui.github.io/iconpack_preview.html#Cosy%20by%20KyleBing "Click to see the full icon pack preview page")
+
+**Cosy by KyleBing**
+
+[Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/Cosy%20by%20KyleBing.zip "Cosy by KyleBing") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -112,9 +124,8 @@
 
 [Download icon pack](https://raw.githubusercontent.com/OnionUI/Themes/main/release/icons/NSO%20by%20Cheetashock.zip "NSO by Cheetashock") <sub><sup>&nbsp;&nbsp; 35%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/icons/NSO%20by%20Cheetashock/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
