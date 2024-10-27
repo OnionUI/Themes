@@ -122,7 +122,7 @@
 
 **Cosy by KyleBing**
 
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip "Cosy by KyleBing") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip "Cosy by KyleBing") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Cosy%20by%20KyleBing/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
