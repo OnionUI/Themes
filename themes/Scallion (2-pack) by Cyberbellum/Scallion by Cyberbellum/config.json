@@ -1,40 +1,39 @@
 {
-  "name": "Scallion",
-  "author": "Cyberbellum",
-  "description": "An alternate version of my original Shallot theme",
-  "batteryPercentage": {
-    "font": "Inter-Regular.ttf",
-    "visible": true,
-    "color": "#FEFFDC",
-    "offsetY": 2
-  },
-  "title": {
-    "font": "Inter-Regular.ttf",
-    "size": 26,
-    "color": "#FEFFDC"
-  },
-  "hint": {
-    "font": "Inter-Regular.ttf",
-    "size": 18,
-    "color": "#FEFFDC"
-  },
-  "currentpage": {
-    "font": "Inter-Regular.ttf",
-    "color": "#D4DAB3"
-  },
-  "total": {
-    "color": "#FEFFDC"
-  },
-  "grid": {
-    "font": "Inter-Regular.ttf",
-    "grid1x4": 26,
-    "grid3x4": 26,
-    "color": "#D4DAB3",
-    "selectedcolor": "#FEFFDC"
-  },
-  "list": {
-    "font": "Inter-Regular.ttf",
-    "size": 24,
-    "color": "#FEFFDC"
-  }
+    "name": "Scallion",
+    "author": "Cyberbellum",
+    "description": "An alternate version of my original Shallot theme",
+    "batteryPercentage": {
+        "font": "Inter-Regular.ttf",
+        "visible": true,
+        "color": "#FEFFDC",
+        "offsetY": 2
+    },
+    "title": {
+        "font": "Inter-Regular.ttf",
+        "size": 26,
+        "color": "#FEFFDC"
+    },
+    "hint": {
+        "font": "Inter-Regular.ttf",
+        "size": 18,
+        "color": "#FEFFDC"
+    },
+    "currentpage": {
+        "color": "#D4DAB3"
+    },
+    "total": {
+        "color": "#FEFFDC"
+    },
+    "grid": {
+        "font": "Inter-Regular.ttf",
+        "grid1x4": 26,
+        "grid3x4": 26,
+        "color": "#D4DAB3",
+        "selectedcolor": "#FEFFDC"
+    },
+    "list": {
+        "font": "Inter-Regular.ttf",
+        "size": 24,
+        "color": "#FEFFDC"
+    }
 }

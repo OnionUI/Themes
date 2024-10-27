@@ -71,11 +71,11 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (174)](generated/custom/index.md)
+### [Originals — Custom Made Themes (175)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
-### [Iconified — Themes with Icon Packs (56)](generated/icons_themes/index.md)
+### [Iconified — Themes with Icon Packs (58)](generated/icons_themes/index.md)
 
 ### [Extra Icons — Standalone Icon Packs (9)](generated/icons_standalone/index.md)
 
@@ -150,6 +150,20 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Scallion%20%282-pack%29%20by%20Cyberbellum.zip">
+<img title="Name: Scallion (2-pack)&#013;Author: Cyberbellum&#013;Last updated: 2024-10-27&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Scallion%20%282-pack%29%20by%20Cyberbellum/Scallion%20-%20Noir%20by%20Cyberbellum/preview.png" /><br/>
+<b>Scallion (2-pack)</b>
+</a><br/>
+<sup><i>Cyberbellum</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-10-27 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Scallion (2-pack) by Cyberbellum">2024-10-27 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Cyberbellum%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Scallion%20%282-pack%29%20by%20Cyberbellum/Scallion%20-%20Noir%20by%20Cyberbellum/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Scallion%20%282-pack%29%20by%20Cyberbellum/Scallion%20-%20Noir%20by%20Cyberbellum/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Scallion%20%282-pack%29%20by%20Cyberbellum,Scallion%20-%20Noir%20by%20Cyberbellum:themes/Scallion%20%282-pack%29%20by%20Cyberbellum/Scallion%20-%20Noir%20by%20Cyberbellum/icons,Scallion%20by%20Cyberbellum:themes/Scallion%20%282-pack%29%20by%20Cyberbellum/Scallion%20by%20Cyberbellum/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
+
+
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip">
 <img title="Name: Cosy&#013;Author: KyleBing&#013;Last updated: 2024-10-26&#013;Description: Cosy&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cosy%20by%20KyleBing/preview.png" /><br/>
 <b>Cosy</b>
@@ -171,20 +185,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>KyleBing</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-08-27 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Wireframe by KyleBing">2024-08-27 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22KyleBing%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wireframe%20by%20KyleBing/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/KantOS%20by%20antonlabz.zip">
-<img title="Name: KantOS&#013;Author: antonlabz&#013;Last updated: 2024-08-11&#013;Description: A KantOS port heavily tweaked for OnionOS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/KantOS%20by%20antonlabz/preview.png" /><br/>
-<b>KantOS</b>
-</a><br/>
-<sup><i>antonlabz</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-08-11 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/KantOS by antonlabz">2024-08-11 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22antonlabz%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/KantOS%20by%20antonlabz/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/KantOS%20by%20antonlabz/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=KantOS%20by%20antonlabz"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#KantOS%20by%20antonlabz,KantOS%20by%20antonlabz:themes/KantOS%20by%20antonlabz/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
