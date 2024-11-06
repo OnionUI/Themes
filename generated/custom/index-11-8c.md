@@ -67,8 +67,20 @@
 
 ## Originals — Custom Made Themes
 
-*Page 5 of 15 — 176 items available*
+*Page 5 of 15 — 177 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/M-NOIR%20by%20tenlevels.zip">
+<img title="Name: M-NOIR&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: NOIR theme for OnionOS inspired by EPICNOIR on ArkOS&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M-NOIR%20by%20tenlevels/preview.png" /><br/>
+<b>M-NOIR</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/M-NOIR by tenlevels">2024-05-19 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/M-NOIR%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/M-NOIR%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#M-NOIR%20by%20tenlevels,M-NOIR%20by%20tenlevels:themes/M-NOIR%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Pad%20%284-pack%29%20by%20toski.zip">
@@ -93,8 +105,9 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Valorant%20by%20Skimpertushi.zip">
 <img title="Name: Valorant&#013;Author: Skimpertushi&#013;Last updated: 2024-05-19&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Valorant%20by%20Skimpertushi/preview.png" /><br/>
 <b>Valorant</b>
@@ -105,7 +118,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip">
@@ -130,6 +142,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/2CleanMini%20by%20Sheezie.zip">
@@ -142,7 +155,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20Simpson%20by%20Polpetta.zip">
@@ -167,6 +179,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Nokiyoo%20by%20UnBurn.zip">
@@ -179,7 +192,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RetroRama%20by%20TooGeekCreations.zip">
@@ -201,18 +213,6 @@
 <sup><i>ElectRefurbish</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-19 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Blank Space Inverted by ElectRefurbish">2024-05-19 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ElectRefurbish%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Blank%20Space%20Inverted%20by%20ElectRefurbish,Blank%20Space%20Inverted%20by%20ElectRefurbish:themes/Blank%20Space%20Inverted%20by%20ElectRefurbish/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20by%20Bernig.zip">
-<img title="Name: Wasteland&#013;Author: Bernig&#013;Last updated: 2024-05-18&#013;Description: A Fallout inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png" /><br/>
-<b>Wasteland</b>
-</a><br/>
-<sup><i>Bernig</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Wasteland by Bernig">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Bernig%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Wasteland%20by%20Bernig/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Wasteland%20by%20Bernig,Wasteland%20by%20Bernig:themes/Wasteland%20by%20Bernig/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

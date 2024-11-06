@@ -67,8 +67,20 @@
 
 ## Originals — Custom Made Themes
 
-*Page 2 of 15 — 176 items available*
+*Page 2 of 15 — 177 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip">
+<img title="Name: Material (6-pack)&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Material%20%286-pack%29%20by%20tenlevels/preview.png" /><br/>
+<b>Material (6-pack)</b>
+</a><br/>
+<sup><i>tenlevels</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-19 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/Material (6-pack) by tenlevels">2024-05-19 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tenlevels%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Material%20%286-pack%29%20by%20tenlevels/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Blue%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Material%20%286-pack%29%20by%20tenlevels,Material%20Blue%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Blue%20by%20tenlevels/icons,Material%20Green%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Green%20by%20tenlevels/icons,Material%20Orange%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Orange%20by%20tenlevels/icons,Material%20Pink%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Pink%20by%20tenlevels/icons,Material%20Purple%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Purple%20by%20tenlevels/icons,Material%20White%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels.zip">
@@ -93,8 +105,9 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hello%20Miyoo%20by%20tenlevels.zip">
 <img title="Name: Hello Miyoo&#013;Author: tenlevels&#013;Last updated: 2024-05-19&#013;Description: Cute/Cozy Sanrio inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hello%20Miyoo%20by%20tenlevels/preview.png" /><br/>
 <b>Hello Miyoo</b>
@@ -105,7 +118,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lifestream%20by%20Inheritor.zip">
@@ -130,6 +142,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SNES%20by%20Danilo%20Colasso.zip">
@@ -142,7 +155,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Def%20not%20SFC%20by%20Danilo%20Colasso.zip">
@@ -167,6 +179,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fairy-Type%20by%20UnBurn.zip">
@@ -179,7 +192,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Game%20Boy%20Scouts%20by%20UnBurn.zip">
@@ -201,18 +213,6 @@
 <sup><i>trash</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-05-19 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/AnalogPhosphor (3-pack) by trash">2024-05-19 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22trash%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/AnalogPhosphor%20%283-pack%29%20by%20trash/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/AnalogPhosphor%20%283-pack%29%20by%20trash/AnalogPhosphor%20Alt%20by%20trash/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#AnalogPhosphor%20%283-pack%29%20by%20trash,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Dark%20Onion%20by%20Alpatov%20Danila.zip">
-<img title="Name: Dark Onion&#013;Author: Alpatov Danila&#013;Last updated: 2024-03-11&#013;Description: Unlike the Light Onion, that one is dark&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dark%20Onion%20by%20Alpatov%20Danila/preview.png" /><br/>
-<b>Dark Onion</b>
-</a><br/>
-<sup><i>Alpatov Danila</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-03-11" href="https://github.com/OnionUI/Themes/commits/main/themes/Dark Onion by Alpatov Danila">2024-03-11</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Alpatov%20Danila%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Dark%20Onion%20by%20Alpatov%20Danila/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Dark%20Onion%20by%20Alpatov%20Danila/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Dark%20Onion%20by%20Alpatov%20Danila,"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 

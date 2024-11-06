@@ -67,8 +67,20 @@
 
 ## Originals — Custom Made Themes
 
-*Page 6 of 15 — 176 items available*
+*Page 6 of 15 — 177 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Wasteland%20by%20Bernig.zip">
+<img title="Name: Wasteland&#013;Author: Bernig&#013;Last updated: 2024-05-18&#013;Description: A Fallout inspired theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png" /><br/>
+<b>Wasteland</b>
+</a><br/>
+<sup><i>Bernig</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2024-05-18 (v3)" href="https://github.com/OnionUI/Themes/commits/main/themes/Wasteland by Bernig">2024-05-18 (v3)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Bernig%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Wasteland%20by%20Bernig/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Wasteland%20by%20Bernig/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Wasteland%20by%20Bernig,Wasteland%20by%20Bernig:themes/Wasteland%20by%20Bernig/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20by%20ElectRefurbish.zip">
@@ -93,8 +105,9 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Zelda%20Oracle%20by%20Slak211.zip">
 <img title="Name: Zelda Oracle&#013;Author: Slak211&#013;Last updated: 2023-07-04&#013;Description: A theme based on Oracle of Ages and Seasons&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Zelda%20Oracle%20by%20Slak211/preview.png" /><br/>
 <b>Zelda Oracle</b>
@@ -105,7 +118,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Beneath%20The%20Mask%20by%20UnBurn.zip">
@@ -130,6 +142,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Spider-Miyoo%20by%20ElectRefurbish.zip">
@@ -142,7 +155,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Notebook%20Kawaii%20by%20UnBurn.zip">
@@ -167,6 +179,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Lylat%20System%20by%20UnBurn.zip">
@@ -179,7 +192,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/sharp%20by%20m_axic.zip">
@@ -201,18 +213,6 @@
 <sup><i>SandsByte</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2023-06-04" href="https://github.com/OnionUI/Themes/commits/main/themes/Original by SandsByte">2023-06-04</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22SandsByte%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Original%20by%20SandsByte/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Original%20by%20SandsByte/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/A%20Link%20to%20the%20Past%20by%20tendo209.zip">
-<img title="Name: A Link to the Past&#013;Author: tendo209&#013;Last updated: 2023-06-01&#013;Description: A theme based on A Link to the Past for SNES&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/A%20Link%20to%20the%20Past%20by%20tendo209/preview.png" /><br/>
-<b>A Link to the Past</b>
-</a><br/>
-<sup><i>tendo209</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2023-06-01" href="https://github.com/OnionUI/Themes/commits/main/themes/A Link to the Past by tendo209">2023-06-01</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22tendo209%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/A%20Link%20to%20the%20Past%20by%20tendo209/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=A%20Link%20to%20the%20Past%20by%20tendo209"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 

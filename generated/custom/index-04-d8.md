@@ -67,8 +67,20 @@
 
 ## Originals — Custom Made Themes
 
-*Page 12 of 15 — 176 items available*
+*Page 12 of 15 — 177 items available*
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/BMO%20by%20OjninJo.zip">
+<img title="Name: BMO&#013;Author: OjninJo&#013;Last updated: 2022-09-09&#013;Description: Who wants to play videogames!?&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BMO%20by%20OjninJo/preview.png" /><br/>
+<b>BMO</b>
+</a><br/>
+<sup><i>OjninJo</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2022-09-09 (v2)" href="https://github.com/OnionUI/Themes/commits/main/themes/BMO by OjninJo">2022-09-09 (v2)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22OjninJo%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/BMO%20by%20OjninJo/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=BMO%20by%20OjninJo"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MasterHacker%20by%20Squ1d0ne.zip">
@@ -93,8 +105,9 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/TrimUI%20by%20Aemiii91.zip">
 <img title="Name: TrimUI&#013;Author: Aemiii91&#013;Last updated: 2022-09-09&#013;Description: TrimUI theme port&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/TrimUI%20by%20Aemiii91/preview.png" /><br/>
 <b>TrimUI</b>
@@ -105,7 +118,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20by%20Aemiii91.zip">
@@ -130,6 +142,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/MajoraMi%20by%20apg313.zip">
@@ -142,7 +155,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBC%20Pokedex%20by%20Nxt.stop.please.zip">
@@ -167,6 +179,7 @@
 </sub>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/ChronoMi%20by%20apg313.zip">
@@ -179,7 +192,6 @@
 </sub>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="33.33%">
 <br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/GBMini%20by%20Kitsuvi.zip">
@@ -201,18 +213,6 @@
 <sup><i>Kitsuvi</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2022-09-09 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/GBOnion by Kitsuvi">2022-09-09 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Kitsuvi%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/GBOnion%20by%20Kitsuvi/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
-</sub>
-</td>
-
-<td align="center" valign="top" width="33.33%">
-<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Hyrule%20Dark%20by%20ruidacosta.zip">
-<img title="Name: Hyrule Dark&#013;Author: ruidacosta&#013;Last updated: 2022-09-09&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hyrule%20Dark%20by%20ruidacosta/preview.png" /><br/>
-<b>Hyrule Dark</b>
-</a><br/>
-<sup><i>ruidacosta</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2022-09-09 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/Hyrule Dark by ruidacosta">2022-09-09 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ruidacosta%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Hyrule%20Dark%20by%20ruidacosta/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
 </sub>
 </td>
 

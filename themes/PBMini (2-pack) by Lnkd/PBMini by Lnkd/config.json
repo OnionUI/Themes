@@ -1,0 +1,47 @@
+{
+    "name": "PBMini",
+    "author": "Lnkd",
+    "description": "A simple theme based on the Pizza Boy Emulators",
+    "hideLabels": {
+        "icons": false,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Manrope-ExtraBold.ttf",
+        "size": 18,
+        "color": "#fafafa",
+        "textAlign": "right",
+        "fixed": false,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "Manrope-ExtraBold.ttf",
+        "size": 24,
+        "color": "#fafafa"
+    },
+    "hint": {
+        "font": "Manrope-ExtraBold.ttf",
+        "size": 32,
+        "color": "#fafafa"
+    },
+    "currentpage": {
+        "color": "#fafafa"
+    },
+    "total": {
+        "color": "#fafafa"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 16,
+        "grid3x4": 15,
+        "color": "#fafafa",
+        "selectedcolor": "#fafafa"
+    },
+    "list": {
+        "font": "Manrope-Regular.ttf",
+        "size": 20,
+        "color": "#fafafa"
+    }
+}
