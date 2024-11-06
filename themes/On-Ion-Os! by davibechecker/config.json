@@ -1,0 +1,43 @@
+{
+    "name": "On-Ion-Os!",
+    "author": "davibechecker",
+    "description": "Yu-Gi-Oh! based theme. Based off the yugioh duel monsters anime and card game.",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "ygo.ttf",
+        "size": 18,
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "ygo.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "ygo.ttf",
+        "size": 35,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "ygo.ttf",
+        "grid1x4": 24,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#e6d400"
+    },
+    "list": {
+        "font": "ygo.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
