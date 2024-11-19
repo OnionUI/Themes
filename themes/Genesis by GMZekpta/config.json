@@ -1,0 +1,47 @@
+{
+    "name": "Genesis",
+    "author": "GMZekpta",
+    "description": "Theme based on the Sega Genesis",
+    "batteryPercentage": {
+        "visible": false,
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 11,
+        "color": "#FFFFFF",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "title": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 42,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 40,
+        "color": "#13579e"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "AdobeBlank.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "OpenSansCondensed-Bold.ttf",
+        "size": 25,
+        "color": "#FFFFFF"
+    }
+}
