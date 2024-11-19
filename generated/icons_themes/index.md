@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 1 of 5 — 58 items available*
+*Page 1 of 5 — 55 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![Genesis by GMZekpta](../../themes/Genesis%20by%20GMZekpta/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Genesis%20by%20GMZekpta,Genesis%20by%20GMZekpta:themes/Genesis%20by%20GMZekpta/icons "Click to see the full icon pack preview page")
-
-**Genesis by GMZekpta**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Genesis%20by%20GMZekpta.zip "Genesis by GMZekpta") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Little Picture Mode Lite by Lnkd](../../themes/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd/Little%20Picture%20Mode%20Lite%20by%20Lnkd/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Little%20Picture%20Mode%20Lite%20by%20Lnkd,Little%20Picture%20Mode%20Lite%20by%20Lnkd:themes/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd/Little%20Picture%20Mode%20Lite%20by%20Lnkd/icons "Click to see the full icon pack preview page")
-
-**Little Picture Mode Lite by Lnkd**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd.zip "Little Picture Mode (2-pack) by Lnkd") <sub><sup>&nbsp;&nbsp; 0%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Little Picture Mode by Lnkd](../../themes/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd/Little%20Picture%20Mode%20by%20Lnkd/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Little%20Picture%20Mode%20by%20Lnkd,Little%20Picture%20Mode%20by%20Lnkd:themes/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd/Little%20Picture%20Mode%20by%20Lnkd/icons "Click to see the full icon pack preview page")
-
-**Little Picture Mode by Lnkd**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Little%20Picture%20Mode%20%282-pack%29%20by%20Lnkd.zip "Little Picture Mode (2-pack) by Lnkd") <sub><sup>&nbsp;&nbsp; 0%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -124,7 +90,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/On-Ion-Os%21%20by%20davibechecker.zip "On-Ion-Os! by davibechecker") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -135,7 +101,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/BMO%20by%20forevertuesday.zip "BMO by forevertuesday") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/BMO%20by%20forevertuesday/readme.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -146,8 +112,9 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip "Cosy by KyleBing") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Cosy%20by%20KyleBing/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -193,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -201,6 +168,39 @@
 **Material Pink by tenlevels**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip "Material (6-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Pink%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Material Purple by tenlevels](../../themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Purple%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Material%20Purple%20by%20tenlevels,Material%20Purple%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Purple%20by%20tenlevels/icons "Click to see the full icon pack preview page")
+
+**Material Purple by tenlevels**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip "Material (6-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Material%20%286-pack%29%20by%20tenlevels/Material%20Purple%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Material White by tenlevels](../../themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Material%20White%20by%20tenlevels,Material%20White%20by%20tenlevels:themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/icons "Click to see the full icon pack preview page")
+
+**Material White by tenlevels**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip "Material (6-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Star Wars (Miyoo Be With You) by tenlevels](../../themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels,Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels:themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/icons "Click to see the full icon pack preview page")
+
+**Star Wars (Miyoo Be With You) by tenlevels**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels.zip "Star Wars (Miyoo Be With You) by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 

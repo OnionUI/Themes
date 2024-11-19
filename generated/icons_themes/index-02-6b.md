@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 4 of 5 — 58 items available*
+*Page 4 of 5 — 55 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![OOSFC by ytdcpndsgn](../../themes/OOSFC%20by%20ytdcpndsgn/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons "Click to see the full icon pack preview page")
-
-**OOSFC by ytdcpndsgn**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/OOSFC%20by%20ytdcpndsgn.zip "OOSFC by ytdcpndsgn") <sub><sup>&nbsp;&nbsp; 87%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Milk White by Segich](../../themes/Milk%20White%20by%20Segich/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons "Click to see the full icon pack preview page")
-
-**Milk White by Segich**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip "Milk White by Segich") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![ONION PS Purple Grey by hanessh4](../../themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#ONION%20PS%20Purple%20Grey%20by%20hanessh4,ONION%20PS%20Purple%20Grey%20by%20hanessh4:themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/icons "Click to see the full icon pack preview page")
-
-**ONION PS Purple Grey by hanessh4**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/ONION%20PS%20%284-pack%29%20by%20hanessh4.zip "ONION PS (4-pack) by hanessh4") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/ONION%20PS%20%284-pack%29%20by%20hanessh4/ONION%20PS%20Purple%20Grey%20by%20hanessh4/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -124,7 +90,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20DMG%20Classic%20by%20Oclain.zip "Fake DMG Classic by Oclain") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -135,7 +101,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/M%20by%20tenlevels.zip "M by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/M%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -146,8 +112,9 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Blocks%20%282-pack%29%20by%20tenlevels.zip "Onion Blocks (2-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -193,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -201,6 +168,39 @@
 **PAC-MIYOO by tenlevels**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/PAC-MIYOO%20by%20tenlevels.zip "PAC-MIYOO by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/PAC-MIYOO%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Super Onion Entertainment System by TheDewd](../../themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons "Click to see the full icon pack preview page")
+
+**Super Onion Entertainment System by TheDewd**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip "Super Onion Entertainment System by TheDewd") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![NanoSwitch by Amdy](../../themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons "Click to see the full icon pack preview page")
+
+**NanoSwitch by Amdy**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip "NanoSwitch (2-pack) by Amdy") <sub><sup>&nbsp;&nbsp; 83%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![CyberOnion [Atomic] by Aemiii91](../../themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%5BAtomic%5D%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
+
+**CyberOnion [Atomic] by Aemiii91**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip "CyberOnion (2-pack) by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 

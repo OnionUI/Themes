@@ -67,41 +67,8 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 5 of 5 — 58 items available*
+*Page 5 of 5 — 55 items available*
 <table align=center><tr>
-
-
-<td valign="top" width="25.00%">
-
-[![Super Onion Entertainment System by TheDewd](../../themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Super%20Onion%20Entertainment%20System%20by%20TheDewd,Super%20Onion%20Entertainment%20System%20by%20TheDewd:themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons "Click to see the full icon pack preview page")
-
-**Super Onion Entertainment System by TheDewd**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Super%20Onion%20Entertainment%20System%20by%20TheDewd.zip "Super Onion Entertainment System by TheDewd") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Super%20Onion%20Entertainment%20System%20by%20TheDewd/icons/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![NanoSwitch by Amdy](../../themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#NanoSwitch%20by%20Amdy,NanoSwitch%20by%20Amdy:themes/NanoSwitch%20%282-pack%29%20by%20Amdy/NanoSwitch%20by%20Amdy/icons "Click to see the full icon pack preview page")
-
-**NanoSwitch by Amdy**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NanoSwitch%20%282-pack%29%20by%20Amdy.zip "NanoSwitch (2-pack) by Amdy") <sub><sup>&nbsp;&nbsp; 83%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![CyberOnion [Atomic] by Aemiii91](../../themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#CyberOnion%20%5BAtomic%5D%20by%20Aemiii91,CyberOnion%20%5BAtomic%5D%20by%20Aemiii91:themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/icons "Click to see the full icon pack preview page")
-
-**CyberOnion [Atomic] by Aemiii91**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/CyberOnion%20%282-pack%29%20by%20Aemiii91.zip "CyberOnion (2-pack) by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/CyberOnion%20%282-pack%29%20by%20Aemiii91/CyberOnion%20%5BAtomic%5D%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -114,7 +81,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -124,7 +90,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onionboy%20HD%20by%20Jeltron.zip "Onionboy HD by Jeltron") <sub><sup>&nbsp;&nbsp; 89%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -135,7 +101,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Analogue%20by%20Aemiii91.zip "Analogue by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Analogue%20by%20Aemiii91/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -146,8 +112,9 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blueprint%20by%20Aemiii91.zip "Blueprint by Aemiii91") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-<br/></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +126,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
