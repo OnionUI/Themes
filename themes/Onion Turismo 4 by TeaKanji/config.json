@@ -1,0 +1,44 @@
+{
+    "name": "Onion Turismo 4",
+    "author": "TeaKanji",
+    "description": "Gran Turismo 4-style theme",
+    "batteryPercentage": {
+        "visible": true,
+        "size": 21,
+        "color": "#CCCCCC",
+        "textAlign": "left",
+        "font": "LT Amber Ext Bold.otf"
+    },
+    "hideLabels": {
+        "hints": true,
+        "icons": true
+    },
+    "title": {
+        "font": "OPTIwtcGoudy-Medium.otf",
+        "size": 35,
+        "color": "#CCCCCC"
+    },
+    "hint": {
+        "font": "LT Amber Ext Bold.otf",
+        "size": 20,
+        "color": "#333333"
+    },
+    "currentpage": {
+        "color": "#CCCCCC"
+    },
+    "total": {
+        "color": "#CCCCCC"
+    },
+    "grid": {
+        "font": "LT Amber Ext Bold.otf",
+        "grid1x4": 23,
+        "grid3x4": 15,
+        "color": "#333333",
+        "selectedcolor": "#E48400"
+    },
+    "list": {
+        "font": "LT Amber Ext Bold.otf",
+        "size": 20,
+        "color": "#333333;"
+    }
+}
