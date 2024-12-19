@@ -26,7 +26,7 @@
         "color": "#424242"
     },
     "grid": {
-        "font": "AdobeBlank.ttc",
+        "font": "/mnt/SDCARD/miyoo/app/AdobeBlank.ttc",
         "grid1x4": 20,
         "grid3x4": 18,
         "color": "#FFFFFF",
