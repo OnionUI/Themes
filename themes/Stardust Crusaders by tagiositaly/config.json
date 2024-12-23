@@ -1,0 +1,46 @@
+{
+    "name": "Stardust Crusaders",
+    "author": "tagiositaly",
+    "description": "Theme layout with 10x10 grid",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "Jojo.ttf",
+        "size": 25,
+        "color": "#FFFFFF",
+        "offsetX": 0,
+        "offsetY": 0,
+        "onleft": false
+    },
+    "title": {
+        "font": "Jojo.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "Jojo.ttf",
+        "size": 34,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#FFFFFF"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "Jojo.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#FFFFFF",
+        "selectedcolor": "#D4AA5E"
+    },
+    "list": {
+        "font": "Jojo.ttf",
+        "size": 26,
+        "color": "#D4AA5E"
+    }
+}

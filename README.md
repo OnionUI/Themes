@@ -71,7 +71,7 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (181)](generated/custom/index.md)
+### [Originals — Custom Made Themes (182)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
