@@ -92,6 +92,20 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Turismo%203%20by%20TeaKanji.zip">
+<img title="Name: Onion Turismo 3&#013;Author: TeaKanji&#013;Last updated: 2025-01-06&#013;Description: Gran Turismo 3-style theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%203%20by%20TeaKanji/preview.png" /><br/>
+<b>Onion Turismo 3</b>
+</a><br/>
+<sup><i>TeaKanji</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2025-01-06" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 3 by TeaKanji">2025-01-06</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%203%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%203%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
+</sub>
+</td>
+
+
+
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Stardust%20Crusaders%20by%20tagiositaly.zip">
 <img title="Name: Stardust Crusaders&#013;Author: tagiositaly&#013;Last updated: 2024-12-23&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Stardust%20Crusaders%20by%20tagiositaly/preview.png" /><br/>
 <b>Stardust Crusaders</b>
@@ -113,20 +127,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>TeaKanji</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-12-21" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 2 by TeaKanji">2024-12-21</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%202%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%202%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Turismo%204%20by%20TeaKanji.zip">
-<img title="Name: Onion Turismo 4&#013;Author: TeaKanji&#013;Last updated: 2024-12-16&#013;Description: Gran Turismo 4-style theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%204%20by%20TeaKanji/preview.png" /><br/>
-<b>Onion Turismo 4</b>
-</a><br/>
-<sup><i>TeaKanji</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-12-16" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 4 by TeaKanji">2024-12-16</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%204%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%204%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 
