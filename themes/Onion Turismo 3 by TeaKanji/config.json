@@ -1,0 +1,44 @@
+{
+    "name": "Onion Turismo 3",
+    "author": "TeaKanji",
+    "description": "Gran Turismo 3-style theme",
+    "batteryPercentage": {
+        "visible": true,
+        "size": 21,
+        "color": "#DDDDDD",
+        "textAlign": "left",
+        "font": "LT Amber Ext Bold.otf"
+    },
+    "hideLabels": {
+        "hints": true,
+        "icons": true
+    },
+    "title": {
+        "font": "Billboard-College.ttf",
+        "size": 35,
+        "color": "#DDDDDD"
+    },
+    "hint": {
+        "font": "LT Amber Ext Bold.otf",
+        "size": 20,
+        "color": "#DDDDDD"
+    },
+    "currentpage": {
+        "color": "#DDDDDD"
+    },
+    "total": {
+        "color": "#DDDDDD"
+    },
+    "grid": {
+        "font": "LT Amber Ext Bold.otf",
+        "grid1x4": 23,
+        "grid3x4": 15,
+        "color": "#DDDDDD",
+        "selectedcolor": "#FA8D03"
+    },
+    "list": {
+        "font": "LT Amber Ext Bold.otf",
+        "size": 20,
+        "color": "#DDDDDD;"
+    }
+}
