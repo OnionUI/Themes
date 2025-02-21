@@ -67,8 +67,19 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 1 of 5 — 55 items available*
+*Page 1 of 5 — 56 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![cherry os by pico cherry](../../themes/cherry%20os%20by%20pico%20cherry/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#cherry%20os%20by%20pico%20cherry,cherry%20os%20by%20pico%20cherry:themes/cherry%20os%20by%20pico%20cherry/icons "Click to see the full icon pack preview page")
+
+**cherry os by pico cherry**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/cherry%20os%20by%20pico%20cherry.zip "cherry os by pico cherry") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/cherry%20os%20by%20pico%20cherry/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -103,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -112,9 +124,8 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip "Cosy by KyleBing") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Cosy%20by%20KyleBing/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -148,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +171,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -190,17 +201,6 @@
 **Material White by tenlevels**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Material%20%286-pack%29%20by%20tenlevels.zip "Material (6-pack) by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Material%20%286-pack%29%20by%20tenlevels/Material%20White%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Star Wars (Miyoo Be With You) by tenlevels](../../themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels,Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels:themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/icons "Click to see the full icon pack preview page")
-
-**Star Wars (Miyoo Be With You) by tenlevels**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels.zip "Star Wars (Miyoo Be With You) by tenlevels") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Star%20Wars%20%28Miyoo%20Be%20With%20You%29%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
