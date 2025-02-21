@@ -1,0 +1,56 @@
+{
+  "name": "cherry os",
+  "author": "pico-cherry",
+  "version": "0.0.1",
+  "description": "onion os with a cherry on top",
+  "hideIconTitle": true,
+  "hideLabels": {
+    "icons": true,
+    "hints": false
+  },
+  "batteryPercentage": {
+    "visible": false,
+    "font": "Doto.ttf",
+    "size": 10,
+    "color": "#EDFBFF",
+    "textAlign": "center",
+    "fixed": true,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "hint": {
+    "font": "Doto.ttf",
+    "size": 20,
+    "color": "#EDFBFF"
+  },
+  "currentpage": {
+    "color": "#EDFBFF"
+  },
+  "total": {
+    "color": "#194E5F"
+  },
+  "title": {
+    "font": "Doto.ttf",
+    "size": 24,
+    "color": "#FC6063"
+  },
+  "grid": {
+    "font": "Doto.ttf",
+    "grid1x4": 20,
+    "grid3x4": 18,
+    "color": "#194E5F",
+    "selectedcolor": "#EDFBFF",
+    "offsetY": 20,
+    "offsetX": 0
+  },
+  "loadingText": {
+    "font": "Doto.ttf",
+    "size": 20,
+    "color": "#EDFBFF"
+  },
+  "list": {
+    "font": "Doto.ttf",
+    "size": 20,
+    "color": "#EDFBFF"
+  }
+}
