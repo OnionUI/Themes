@@ -6,7 +6,7 @@
         "icons": false,
         "hints": false
     },
-     "batteryPercentage": {
+    "batteryPercentage": {
         "visible": true,
         "font": "Inter-Medium.ttf",
         "size": 16,

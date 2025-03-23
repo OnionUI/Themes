@@ -71,7 +71,7 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (184)](generated/custom/index.md)
+### [Originals — Custom Made Themes (185)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
@@ -90,6 +90,20 @@
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Counter%20Strike%201.6%20by%200x3.zip">
+<img title="Name: Counter Strike 1.6&#013;Author: 0x3&#013;Last updated: 2025-03-23&#013;Description: Counter Strike 1.6 based theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Counter%20Strike%201.6%20by%200x3/preview.png" /><br/>
+<b>Counter Strike 1.6</b>
+</a><br/>
+<sup><i>0x3</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2025-03-23" href="https://github.com/OnionUI/Themes/commits/main/themes/Counter Strike 1.6 by 0x3">2025-03-23</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%220x3%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Counter%20Strike%201.6%20by%200x3/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Counter%20Strike%201.6%20by%200x3/README.txt"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a>
+</sub>
+</td>
+
+
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/cherry%20os%20by%20pico%20cherry.zip">
@@ -113,20 +127,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>TeaKanji</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2025-01-06" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 3 by TeaKanji">2025-01-06</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%203%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%203%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Turismo%202%20by%20TeaKanji.zip">
-<img title="Name: Onion Turismo 2&#013;Author: TeaKanji&#013;Last updated: 2024-12-21&#013;Description: Gran Turismo 2-style theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%202%20by%20TeaKanji/preview.png" /><br/>
-<b>Onion Turismo 2</b>
-</a><br/>
-<sup><i>TeaKanji</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-12-21" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 2 by TeaKanji">2024-12-21</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%202%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%202%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 
