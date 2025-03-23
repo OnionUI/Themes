@@ -150,6 +150,20 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <table align="center"><tr>
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/System%209%20by%20injekim.zip">
+<img title="Name: System 9&#013;Author: injekim&#013;Last updated: 2025-03-23&#013;Tags: [featured theme]&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/System%209%20by%20injekim/preview.png" /><br/>
+<b>System 9 ★</b>
+</a><br/>
+<sup><i>injekim</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2025-03-23 (v6)" href="https://github.com/OnionUI/Themes/commits/main/themes/System 9 by injekim">2025-03-23 (v6)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22injekim%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/System%209%20by%20injekim/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>
+</sub>
+</td>
+
+
+
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Stardust%20Crusaders%20by%20tagiositaly.zip">
 <img title="Name: Stardust Crusaders&#013;Author: tagiositaly&#013;Last updated: 2025-01-06&#013;Description: Theme layout with 10x10 grid&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Stardust%20Crusaders%20by%20tagiositaly/preview.png" /><br/>
 <b>Stardust Crusaders</b>
@@ -171,20 +185,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>Amdy + Cheetashock</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2024-12-19 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/NanoSwitch Modern Dark by Amdy + Cheetashock">2024-12-19 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22Amdy%20%2B%20Cheetashock%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock,NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock:themes/NanoSwitch%20Modern%20Dark%20by%20Amdy%20%2B%20Cheetashock/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Cosy%20by%20KyleBing.zip">
-<img title="Name: Cosy&#013;Author: KyleBing&#013;Last updated: 2024-10-27&#013;Description: Cosy&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cosy%20by%20KyleBing/preview.png" /><br/>
-<b>Cosy</b>
-</a><br/>
-<sup><i>KyleBing</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2024-10-27 (v4)" href="https://github.com/OnionUI/Themes/commits/main/themes/Cosy by KyleBing">2024-10-27 (v4)</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22KyleBing%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Cosy%20by%20KyleBing/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/Cosy%20by%20KyleBing/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#Cosy%20by%20KyleBing,Cosy%20by%20KyleBing:themes/Cosy%20by%20KyleBing/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
 </sub>
 </td>
 
