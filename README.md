@@ -71,11 +71,11 @@
 
 *Click on a section below to browse themes and icon packs*
 
-### [Originals — Custom Made Themes (185)](generated/custom/index.md)
+### [Originals — Custom Made Themes (186)](generated/custom/index.md)
 
 ### [Remixed — Alternative Versions of Themes (15)](generated/remixed/index.md)
 
-### [Iconified — Themes with Icon Packs (56)](generated/icons_themes/index.md)
+### [Iconified — Themes with Icon Packs (59)](generated/icons_themes/index.md)
 
 ### [Extra Icons — Standalone Icon Packs (9)](generated/icons_standalone/index.md)
 
@@ -90,6 +90,20 @@
 Do you want to share your own custom themes with the community? <sup><sub>❤️</sub></sup> [Click here !](CONTRIBUTING.md)
 
 <table align="center"><tr>
+<td align="center" valign="top" width="33.33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96.zip">
+<img title="Name: RupeeCore (3-pack)&#013;Author: ShaolinSnake96&#013;Last updated: 2025-03-23&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/preview.png" /><br/>
+<b>RupeeCore (3-pack)</b>
+</a><br/>
+<sup><i>ShaolinSnake96</i></sup><br>
+<sub>
+<sup><a title="Last updated: 2025-03-23" href="https://github.com/OnionUI/Themes/commits/main/themes/RupeeCore (3-pack) by ShaolinSnake96">2025-03-23</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22ShaolinSnake96%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/RupeeCore%20-%20Amethyst%20by%20ShaolinSnake96"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#RupeeCore%20%283-pack%29%20by%20ShaolinSnake96,RupeeCore%20-%20Amethyst%20by%20ShaolinSnake96:themes/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/RupeeCore%20-%20Amethyst%20by%20ShaolinSnake96/icons,RupeeCore%20-%20Sea%20by%20ShaolinSnake96:themes/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/RupeeCore%20-%20Sea%20by%20ShaolinSnake96/icons,RupeeCore%20by%20ShaolinSnake96:themes/RupeeCore%20%283-pack%29%20by%20ShaolinSnake96/RupeeCore%20by%20ShaolinSnake96/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
+</sub>
+</td>
+
+
+
 <td align="center" valign="top" width="33.33%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Counter%20Strike%201.6%20by%200x3.zip">
@@ -113,20 +127,6 @@ Do you want to share your own custom themes with the community? <sup><sub>❤️
 <sup><i>pico-cherry</i></sup><br>
 <sub>
 <sup><a title="Last updated: 2025-02-21" href="https://github.com/OnionUI/Themes/commits/main/themes/cherry os by pico cherry">2025-02-21</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22pico-cherry%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/cherry%20os%20by%20pico%20cherry/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="themes/cherry%20os%20by%20pico%20cherry/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;<a href="https://onionui.github.io/iconpack_preview.html#cherry%20os%20by%20pico%20cherry,cherry%20os%20by%20pico%20cherry:themes/cherry%20os%20by%20pico%20cherry/icons"><img src="https://user-images.githubusercontent.com/44569252/215106002-fbcf1815-8080-447c-94c2-61f161efb503.png" height="16" title="This theme contains an icon pack"></a>
-</sub>
-</td>
-
-
-
-<td align="center" valign="top" width="33.33%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/release/Onion%20Turismo%203%20by%20TeaKanji.zip">
-<img title="Name: Onion Turismo 3&#013;Author: TeaKanji&#013;Last updated: 2025-01-06&#013;Description: Gran Turismo 3-style theme&#013;(Click to download)" width="480px" src="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%203%20by%20TeaKanji/preview.png" /><br/>
-<b>Onion Turismo 3</b>
-</a><br/>
-<sup><i>TeaKanji</i></sup><br>
-<sub>
-<sup><a title="Last updated: 2025-01-06" href="https://github.com/OnionUI/Themes/commits/main/themes/Onion Turismo 3 by TeaKanji">2025-01-06</a></sup> &nbsp;&nbsp;<a href="https://github.com/search?l=ZIP&q=filename%3A%22TeaKanji%22+repo%3AOnionUI%2FThemes"><img src="https://user-images.githubusercontent.com/44569252/194037581-698a5004-8b75-4da6-a63d-b41d541ebde2.png" width="16" title="Search themes by this author (Requires GitHub account)"></a>&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/OnionUI/Themes/main/themes/Onion%20Turismo%203%20by%20TeaKanji/preview.png"><img title="View full-size preview" src="https://user-images.githubusercontent.com/44569252/194037184-ae453506-2536-4c6f-8a19-4a6c1de6ce32.png" width="16"></a>&nbsp;&nbsp;<a href="https://onionui.github.io/bgm_preview.html?theme=Onion%20Turismo%203%20by%20TeaKanji"><img src="https://user-images.githubusercontent.com/44569252/194010780-d3659ecd-7348-4e44-a81d-06708a4e9734.png" width="16" title="Custom background music included (Click to download MP3 file)"></a>
 </sub>
 </td>
 

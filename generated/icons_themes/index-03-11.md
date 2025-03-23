@@ -67,8 +67,41 @@
 
 ## Iconified — Themes with Icon Packs
 
-*Page 3 of 5 — 56 items available*
+*Page 3 of 5 — 59 items available*
 <table align=center><tr>
+
+
+<td valign="top" width="25.00%">
+
+[![PIXELPUNK by anthr_alxndr](../../themes/PIXELPUNK%20by%20anthr_alxndr/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#PIXELPUNK%20by%20anthr_alxndr,PIXELPUNK%20by%20anthr_alxndr:themes/PIXELPUNK%20by%20anthr_alxndr/icons "Click to see the full icon pack preview page")
+
+**PIXELPUNK by anthr_alxndr**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/PIXELPUNK%20by%20anthr_alxndr.zip "PIXELPUNK by anthr_alxndr") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/PIXELPUNK%20by%20anthr_alxndr/readme.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![M-NOIR by tenlevels](../../themes/M-NOIR%20by%20tenlevels/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#M-NOIR%20by%20tenlevels,M-NOIR%20by%20tenlevels:themes/M-NOIR%20by%20tenlevels/icons "Click to see the full icon pack preview page")
+
+**M-NOIR by tenlevels**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/M-NOIR%20by%20tenlevels.zip "M-NOIR by tenlevels") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/M-NOIR%20by%20tenlevels/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+
+
+<td valign="top" width="25.00%">
+
+[![Fake Pocket by Oclain](../../themes/Fake%20Pocket%20by%20Oclain/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Fake%20Pocket%20by%20Oclain,Fake%20Pocket%20by%20Oclain:themes/Fake%20Pocket%20by%20Oclain/icons "Click to see the full icon pack preview page")
+
+**Fake Pocket by Oclain**
+
+[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Fake%20Pocket%20by%20Oclain.zip "Fake Pocket by Oclain") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -81,6 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -90,7 +124,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -101,7 +135,7 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Neumorphism%20%283-pack%29%20by%20bantam.zip "Neumorphism (3-pack) by bantam") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
 
 <td valign="top" width="25.00%">
@@ -112,9 +146,8 @@
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/NBA%20Onion%20by%20Tom%20Tower.zip "NBA Onion by Tom Tower") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/></td>
+<br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -126,6 +159,7 @@
 
 <br/></td>
 
+</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -159,7 +193,6 @@
 
 <br/></td>
 
-</tr><tr>
 
 <td valign="top" width="25.00%">
 
@@ -168,39 +201,6 @@
 **Blank Space by ElectRefurbish**
 
 [Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Blank%20Space%20by%20ElectRefurbish.zip "Blank Space by ElectRefurbish") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Notebook Kawaii by UnBurn](../../themes/Notebook%20Kawaii%20by%20UnBurn/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Notebook%20Kawaii%20by%20UnBurn,Notebook%20Kawaii%20by%20UnBurn:themes/Notebook%20Kawaii%20by%20UnBurn/icons "Click to see the full icon pack preview page")
-
-**Notebook Kawaii by UnBurn**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Notebook%20Kawaii%20by%20UnBurn.zip "Notebook Kawaii by UnBurn") <sub><sup>&nbsp;&nbsp; 98%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![OOSFC by ytdcpndsgn](../../themes/OOSFC%20by%20ytdcpndsgn/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#OOSFC%20by%20ytdcpndsgn,OOSFC%20by%20ytdcpndsgn:themes/OOSFC%20by%20ytdcpndsgn/icons "Click to see the full icon pack preview page")
-
-**OOSFC by ytdcpndsgn**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/OOSFC%20by%20ytdcpndsgn.zip "OOSFC by ytdcpndsgn") <sub><sup>&nbsp;&nbsp; 87%&nbsp;complete</sup> &nbsp;&nbsp; </sub>
-
-<br/></td>
-
-
-<td valign="top" width="25.00%">
-
-[![Milk White by Segich](../../themes/Milk%20White%20by%20Segich/icons/preview.png)](https://onionui.github.io/iconpack_preview.html#Milk%20White%20by%20Segich,Milk%20White%20by%20Segich:themes/Milk%20White%20by%20Segich/icons "Click to see the full icon pack preview page")
-
-**Milk White by Segich**
-
-[Download theme](https://raw.githubusercontent.com/OnionUI/Themes/main/release/Milk%20White%20by%20Segich.zip "Milk White by Segich") <sub><sup>&nbsp;&nbsp; 100%&nbsp;complete</sup> &nbsp;&nbsp; <a href="/themes/Milk%20White%20by%20Segich/README.md"><img src="https://user-images.githubusercontent.com/44569252/215358455-b6a1348b-8161-40d6-9cc1-cc31720377c4.png" height="16" title="README"></a> &nbsp;&nbsp; </sub>
 
 <br/></td>
 
