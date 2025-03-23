@@ -29,7 +29,7 @@
         "grid1x4": 24,
         "grid3x4": 24,
         "color": "#000000",
-        "selectedcolor": "#000000"
+        "selectedcolor": "#ffffff"
     },
     "list": {
         "font": "Galmuri7_edit.ttf",
