@@ -1,6 +1,15 @@
 Installing this theme on it's own will install the default appearance.
 
-To get the alt version of the theme with the overworld icons (as seen in alt-preview.gif):
-- copy the images inside the 'alt-skin' folder
-- paste them into the 'skin' folder, replacing the existing ones
+BGM:
+- The default BGM is the Pallet Town OST
+- There is an alternate BGM provided based on the Virbank City OST
+- To switch, rename 'bgm.mp3' to something else and then rename the virbank OST to 'bgm.mp3'
+
+You can also add your own BGM as long as it's placed in the 'sound' folder and named 'bgm.mp3'. It must ALSO be set to 48kHz sample rate (use an online converter).
+
+To use the minimal version of the theme:
+- copy the images inside the 'minimal-alt' folder
+- paste them into the 'skin' folder and replace the existing ones
 - install the theme as normal
+
+For all updates, visit the repo here: https://github.com/antonlabz/KantOS
