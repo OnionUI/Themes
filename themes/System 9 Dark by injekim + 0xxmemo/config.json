@@ -1,0 +1,43 @@
+{
+    "name": "System 9 Dark",
+    "author": "injekim + 0xxmemo",
+    "batteryPercentage": {
+        "visible": false
+    },
+    "frame": {
+        "border-left": 9,
+        "border-right": 9
+    },
+    "title": {
+        "font": "Galmuri9_edit.ttf",
+        "size": 30,
+        "color": "#DCDCDC"
+    },
+    "hint": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 0,
+        "color": "#A0A0A0"
+    },
+    "currentpage": {
+        "color": "#DCDCDC"
+    },
+    "total": {
+        "color": "#DCDCDC"
+    },
+    "grid": {
+        "font": "Galmuri7_edit.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#DCDCDC",
+        "selectedcolor": "#000000"
+    },
+    "list": {
+        "font": "Galmuri7_edit.ttf",
+        "size": 24,
+        "color": "#DCDCDC"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
