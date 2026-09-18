@@ -1,0 +1,13 @@
+System 9 Dark for Onion
+Original System 9 by Inje Kim (injekim)
+Dark adaptation by 0xxmemo
+
+Black backgrounds, light foreground details, and deep-purple list highlights.
+
+Sound effect
+https://freesound.org/people/Christopherderp/sounds/342200/
+
+Fonts
+Galmuri 7, Galmuri 9
+https://github.com/quiple/galmuri
+Edited under OFL-1.1 license
