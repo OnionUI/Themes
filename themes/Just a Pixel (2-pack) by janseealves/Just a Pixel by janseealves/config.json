@@ -1,0 +1,46 @@
+{
+    "name": "Just a Pixel",
+    "author": "janseealves",
+    "description": "Retro pixel windows in beige and ink",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "font.ttf",
+        "size": 16,
+        "color": "#E6E1D1",
+        "textAlign": "right",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#E6E1D1"
+    },
+    "hint": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#E6E1D1"
+    },
+    "currentpage": {
+        "color": "#E6E1D1"
+    },
+    "total": {
+        "color": "#948D7E"
+    },
+    "grid": {
+        "font": "font.ttf",
+        "grid1x4": 16,
+        "grid3x4": 16,
+        "color": "#1A1A1A",
+        "selectedcolor": "#1A1A1A"
+    },
+    "list": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#1A1A1A"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Just a Pixel - White",
+    "author": "janseealves",
+    "description": "Retro pixel windows in white and ink",
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    },
+    "batteryPercentage": {
+        "visible": true,
+        "font": "font.ttf",
+        "size": 16,
+        "color": "#F4F4F1",
+        "textAlign": "right",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "title": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#F4F4F1"
+    },
+    "hint": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#F4F4F1"
+    },
+    "currentpage": {
+        "color": "#F4F4F1"
+    },
+    "total": {
+        "color": "#8C8C8C"
+    },
+    "grid": {
+        "font": "font.ttf",
+        "grid1x4": 16,
+        "grid3x4": 16,
+        "color": "#1A1A1A",
+        "selectedcolor": "#1A1A1A"
+    },
+    "list": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#1A1A1A"
+    }
+}
