@@ -1,0 +1,40 @@
+{
+    "name": "Landform Paper",
+    "author": "antonio-mendes",
+    "description": "Dithered terrain on paper",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#2b2924",
+        "size": 18,
+        "offsetX": 26,
+        "fixed": true
+    },
+    "title": {
+        "font": "Caladea-Bold.ttf",
+        "size": 27,
+        "color": "#2b2924"
+    },
+    "hint": {
+        "font": "Caladea-Italic.ttf",
+        "size": 24,
+        "color": "#2b2924"
+    },
+    "currentpage": {
+        "color": "#2b2924"
+    },
+    "total": {
+        "color": "#56704c"
+    },
+    "grid": {
+        "font": "Caladea-Italic.ttf",
+        "grid1x4": 25,
+        "grid3x4": 20,
+        "color": "#2b2924",
+        "selectedcolor": "#f3efe3"
+    },
+    "list": {
+        "font": "Caladea-Regular.ttf",
+        "size": 25,
+        "color": "#2b2924"
+    }
+}

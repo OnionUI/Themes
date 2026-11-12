@@ -1,0 +1,40 @@
+{
+    "name": "Landform Night",
+    "author": "antonio-mendes",
+    "description": "Dithered terrain after dark",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#efe9d8",
+        "size": 18,
+        "offsetX": 26,
+        "fixed": true
+    },
+    "title": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "size": 24,
+        "color": "#efe9d8"
+    },
+    "hint": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "size": 20,
+        "color": "#efe9d8"
+    },
+    "currentpage": {
+        "color": "#efe9d8"
+    },
+    "total": {
+        "color": "#8aa07e"
+    },
+    "grid": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "grid1x4": 19,
+        "grid3x4": 16,
+        "color": "#efe9d8",
+        "selectedcolor": "#161a14"
+    },
+    "list": {
+        "font": "JetBrainsMono-Regular.ttf",
+        "size": 22,
+        "color": "#efe9d8"
+    }
+}
