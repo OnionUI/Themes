@@ -1,0 +1,40 @@
+{
+    "name": "Keep Ember",
+    "author": "antonio-mendes",
+    "description": "Isometric block terrain coloured by elevation",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffe9a8",
+        "size": 18,
+        "offsetX": 26,
+        "fixed": true
+    },
+    "title": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "size": 24,
+        "color": "#ffe9a8"
+    },
+    "hint": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "size": 20,
+        "color": "#ffe9a8"
+    },
+    "currentpage": {
+        "color": "#ffe9a8"
+    },
+    "total": {
+        "color": "#a3308a"
+    },
+    "grid": {
+        "font": "JetBrainsMono-SemiBold.ttf",
+        "grid1x4": 19,
+        "grid3x4": 16,
+        "color": "#ffe9a8",
+        "selectedcolor": "#0b0812"
+    },
+    "list": {
+        "font": "JetBrainsMono-Regular.ttf",
+        "size": 22,
+        "color": "#ffe9a8"
+    }
+}

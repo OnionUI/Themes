@@ -1,0 +1,40 @@
+{
+    "name": "Keep Sandstone",
+    "author": "antonio-mendes",
+    "description": "Isometric block terrain in sand and teal",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#f2dcb0",
+        "size": 18,
+        "offsetX": 26,
+        "fixed": true
+    },
+    "title": {
+        "font": "DejaVuSans-Bold.ttf",
+        "size": 24,
+        "color": "#f2dcb0"
+    },
+    "hint": {
+        "font": "DejaVuSans-Bold.ttf",
+        "size": 20,
+        "color": "#f2dcb0"
+    },
+    "currentpage": {
+        "color": "#f2dcb0"
+    },
+    "total": {
+        "color": "#c98f5a"
+    },
+    "grid": {
+        "font": "DejaVuSans-Bold.ttf",
+        "grid1x4": 19,
+        "grid3x4": 16,
+        "color": "#f2dcb0",
+        "selectedcolor": "#17130f"
+    },
+    "list": {
+        "font": "DejaVuSans.ttf",
+        "size": 22,
+        "color": "#f2dcb0"
+    }
+}
